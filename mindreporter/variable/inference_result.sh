@@ -1,0 +1,12 @@
+set -x
+TABLE=$1
+COLUMN=$2
+OUTPUT_DIR=$3
+
+psql -d $DBNAME -c "COPY (
+  SELECT * 
+  FROM ${TABLE}_${COLUMN}_inference
+  WHERE expectation > 0.9
+  ORDER BY RANDOM() 
+  LIMIT $NUM_SAMPLED_RESULT
+) TO STDOUT HEADER CSV;" > $OUTPUT_DIR/$TABLE.csv
