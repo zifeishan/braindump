@@ -1,10 +1,13 @@
 #! /bin/bash
 
 set -eu
-set -x # DEBUG MODE
+# set -x # DEBUG MODE
 
 # Import the configuration file
-. "$(dirname $0)/mindreporter.conf"
+# . "$(dirname $0)/mindreporter.conf"
+
+# conf file is in current directory
+. `pwd`/mindreporter.conf
 
 mkdir -p $REPORT_DIR
 
@@ -22,7 +25,7 @@ for ((verNumber=1; ;verNumber+=1)); do
     cd $REPORT_DIR/$versionName/
 
     echo "Saving mapping with DeepDive output directory..."
-    ln -s $DD_OUT_DIR ./dd-out
+    ln -s $DD_THIS_OUTPUT_DIR ./dd-out
     echo $DD_TIMESTAMP > ./dd-timestamp
 
     echo "Saving code..."
@@ -37,7 +40,7 @@ for ((verNumber=1; ;verNumber+=1)); do
     fi
 
     echo "Saving calibration..."
-    cp -r $DD_OUT_DIR/calibration ./
+    cp -r $DD_THIS_OUTPUT_DIR/calibration ./
 
     echo "Saving features..."
     mkdir -p features
@@ -75,9 +78,8 @@ for ((verNumber=1; ;verNumber+=1)); do
       sh $UTIL_DIR/variable/inference_result.sh $table $column inference/
     done
 
-    # ASSUME YOU CAN DO "GIT PUSH" WITHOUT PASSWORD.
-    echo "Pushing into remote git repository. Make sure you are in SSH mode for git."
-    sh $UTIL_DIR/send-results.sh $REPORT_DIR/$versionName/ $versionName
+    ## echo "Pushing into remote git repository. Make sure you are in SSH mode for git."
+    # sh $UTIL_DIR/send-results.sh $REPORT_DIR/$versionName/ $versionName
 
     break
   fi
