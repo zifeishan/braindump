@@ -1,4 +1,5 @@
-set -x
+# set -x
+
 TABLE=$1
 COLUMN=$2
 OUTPUT_DIR=$3

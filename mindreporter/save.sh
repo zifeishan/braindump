@@ -4,9 +4,12 @@
 
 set -eu
 
+set -x # DEBUG
+
 BASE_DIR=$1
 OUTPUT_DIR=$2
-CODE_CONFIG=$3
+# TODO if defined "CODE_CONFIG (array), use that. Otherwise use default"
+CODE_CONFIG=${CODE_CONFIG:-"$UTIL_DIR/code_default.conf"}
 
 while read p; do
   cp -r $BASE_DIR/$p $OUTPUT_DIR/

@@ -30,13 +30,13 @@ for ((verNumber=1; ;verNumber+=1)); do
 
     echo "Saving code..."
     mkdir -p code
-    sh $UTIL_DIR/save.sh $APP_HOME ./code/ $UTIL_DIR/code_default.conf
+    sh $UTIL_DIR/save.sh $APP_HOME ./code/
 
     echo "Diffing against last version..."
     if [ $verNumber -gt 1 ]; then
       mkdir -p changes
       lastVersionName=v`printf "%05d" $(expr $verNumber - 1)`
-      sh $UTIL_DIR/diff.sh ../$lastVersionName/code/ ./code/ > changes/code.diff      
+      sh $UTIL_DIR/diff.sh ../$lastVersionName/code/ ./code/ changes/code.diff
     fi
 
     echo "Saving calibration..."
@@ -86,3 +86,4 @@ for ((verNumber=1; ;verNumber+=1)); do
   
 done
 
+echo "[suceess] Report is written into $REPORT_DIR/$versionName/"
