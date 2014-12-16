@@ -70,3 +70,32 @@ deepdive -c $APP_HOME/application.conf
 cd $APP_HOME  
 ./mindreporter.sh
 ```
+
+
+TODOs
+====
+
+Report items to add:
+
+- # documents (if document table&column is present)
+- # sentences (same above)
+
+- Allow a home-brewed script to do the rest
+
+- For each variable type:
+
+  - extractions
+  - (extractions by category: can use home-brewed script)
+
+  - distinct documents with extractions
+  - (same above)
+
+  - Entity linking:
+  - # distinct extractions
+    - entity linking table
+    - OR trivial no-linking (self-mapping)
+
+  - most common mention / entity
+  
+  - mention / entity histograms
+
