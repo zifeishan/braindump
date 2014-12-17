@@ -13,19 +13,50 @@ WORDS=$4
 DOCID=$5
 
 set -u
-# -n: non-zero
+
+touch $OUTPUT_DIR/$TABLE.txt
+
+# Number of mentions
 psql $DBNAME -c "
-  SELECT COUNT(*) AS number_of_mentions
+  SELECT COUNT(*) as mention_candidates
+  FROM ${TABLE}
+  " >> $OUTPUT_DIR/$TABLE.txt
+
+# Number of mentions
+psql $DBNAME -c "
+  SELECT ${VAR_COLUMN}, COUNT(*)
+  FROM ${TABLE}
+  GROUP BY $VAR_COLUMN
+  " >> $OUTPUT_DIR/$TABLE.txt
+
+# Positive examples
+psql $DBNAME -c "
+  SELECT COUNT(*) AS positive_examples
+  FROM ${TABLE}
+  WHERE ${VAR_COLUMN} = true;
+" >> $OUTPUT_DIR/$TABLE.txt
+
+# Negative examples
+psql $DBNAME -c "
+  SELECT COUNT(*) AS negative_examples
+  FROM ${TABLE}
+  WHERE ${VAR_COLUMN} = false;
+" >> $OUTPUT_DIR/$TABLE.txt
+
+# Number of mentions
+psql $DBNAME -c "
+  SELECT COUNT(*) AS extracted_mentions
   FROM ${TABLE}_${VAR_COLUMN}_inference
   WHERE expectation > 0.9;
-  " > $OUTPUT_DIR/$TABLE.txt
+  " >> $OUTPUT_DIR/$TABLE.txt
+
 
 # Number of distinct entities extracted
 if [[ -n "$WORDS" ]]; then
   echo "Doing naive entity linking using exact match on column $WORDS...";
 
   psql $DBNAME -c "
-    SELECT COUNT(distinct $WORDS) AS number_of_entities
+    SELECT COUNT(distinct $WORDS) AS extracted_entities
     FROM ${TABLE}_${VAR_COLUMN}_inference
     WHERE expectation > 0.9;
     " >> $OUTPUT_DIR/$TABLE.txt;
