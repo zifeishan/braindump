@@ -22,26 +22,14 @@ psql $DBNAME -c "
   FROM ${TABLE}
   " >> $OUTPUT_DIR/$TABLE.txt
 
-# Number of mentions
+# Positive / negative examples
+echo "Supervision statistics:" >> $OUTPUT_DIR/$TABLE.txt
+
 psql $DBNAME -c "
   SELECT ${VAR_COLUMN}, COUNT(*)
   FROM ${TABLE}
   GROUP BY $VAR_COLUMN
   " >> $OUTPUT_DIR/$TABLE.txt
-
-# Positive examples
-psql $DBNAME -c "
-  SELECT COUNT(*) AS positive_examples
-  FROM ${TABLE}
-  WHERE ${VAR_COLUMN} = true;
-" >> $OUTPUT_DIR/$TABLE.txt
-
-# Negative examples
-psql $DBNAME -c "
-  SELECT COUNT(*) AS negative_examples
-  FROM ${TABLE}
-  WHERE ${VAR_COLUMN} = false;
-" >> $OUTPUT_DIR/$TABLE.txt
 
 # Number of mentions
 psql $DBNAME -c "
