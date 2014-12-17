@@ -105,6 +105,10 @@ for ((verNumber=1; ;verNumber+=1)); do
       bash $INFERENCE_SAMPLE_SCRIPT
     fi
 
+    echo "Generating README.md..."
+    cd ../../
+    bash $UTIL_DIR/generate_readme.sh $REPORT_DIR/$versionName/
+
     if [[ "$SEND_RESULT_WITH_GIT" = "true" ]]; then
       # echo "Pushing into remote git repository. Make sure you are in SSH mode for git."
       bash $UTIL_DIR/send-results-git.sh $REPORT_DIR/$versionName/ $versionName
