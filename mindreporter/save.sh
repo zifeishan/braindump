@@ -4,7 +4,7 @@
 
 set -eu
 
-set -x # DEBUG
+# set -x # DEBUG
 
 BASE_DIR=$1
 OUTPUT_DIR=$2

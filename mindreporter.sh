@@ -1,7 +1,7 @@
 #! /bin/bash
 
 set -e
-set -x # DEBUG MODE
+# set -x # DEBUG MODE
 
 # Import the configuration file
 # . "$(dirname $0)/mindreporter.conf"
@@ -32,38 +32,19 @@ for ((verNumber=1; ;verNumber+=1)); do
     mkdir -p code
     bash $UTIL_DIR/save.sh $APP_HOME ./code/
 
+    echo "Saving calibration..."
+    cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+
+    echo "Saving statistics..."  
+    bash $UTIL_DIR/stats.sh $VARIABLE_TABLES $VARIABLE_COLUMNS $VARIABLE_WORDS_COLUMNS 
+
     echo "Diffing against last version..."
     if [ $verNumber -gt 1 ]; then
       mkdir -p changes
       lastVersionName=v`printf "%05d" $(expr $verNumber - 1)`
       bash $UTIL_DIR/diff.sh ../$lastVersionName/code/ ./code/ changes/code.diff
+      bash $UTIL_DIR/diff.sh ../$lastVersionName/stats/ ./stats/ changes/stats.diff
     fi
-
-    echo "Saving calibration..."
-    cp -r $DD_THIS_OUTPUT_DIR/calibration ./
-
-    # TODO stats:
-    # # documents (if document table&column is present)
-    # # sentences (same above)
-
-    # Allow a home-brewed script to do the rest
-
-    # For each variable type:
-
-    #   extractions
-    #   (extractions by category: can use home-brewed script)
-
-    #   distinct documents with extractions
-    #   (same above)
-
-    #   Entity linking:
-    #   # distinct extractions
-    #     - entity linking table
-    #     - OR trivial no-linking (self-mapping)
-
-    #   most common mention / entity
-      
-    #   mention / entity histograms
 
     echo "Saving features..."
     mkdir -p features
@@ -137,5 +118,9 @@ for ((verNumber=1; ;verNumber+=1)); do
   fi
   
 done
+
+# Create a symbolic link
+rm -f $REPORT_DIR/latest
+ln -s $REPORT_DIR/$versionName/ $REPORT_DIR/latest
 
 echo "[suceess] Report is written into $REPORT_DIR/$versionName/"

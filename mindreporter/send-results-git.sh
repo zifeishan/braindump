@@ -16,7 +16,10 @@ git pull origin $BRANCH_NAME
 
 git add $VERSION_DIR
 git commit -m "Experiment report $VERSION_NAME"
-git push origin $BRANCH_NAME
+
+if [ "$SEND_RESULT_WITH_GIT_PUSH" = "true" ];
+	git push origin $BRANCH_NAME
+fi
 
 # Get back to the last branch
 git checkout @{-1}

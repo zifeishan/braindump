@@ -3,7 +3,7 @@
 # Usage: save.sh BASE OUTPUT CONFIG
 
 set -eu
-set -x
+# set -x
 OLD_DIR=$1
 NEW_DIR=$2
 OUTPUT_FILE=$3
