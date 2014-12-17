@@ -23,7 +23,7 @@ COPY (
               , ARRAY_AGG(feature ORDER BY abs(weight) DESC) AS features
               , ARRAY_AGG(weight  ORDER BY abs(weight) DESC) AS weights
            FROM has_spouse_features f
-              , dd_inference_result_weights_mapping wm
+              , dd_inference_result_variables_mapped_weights wm
           WHERE wm.description = ('f_has_spouse_features-' || f.feature)
           GROUP BY relation_id
         ) f
