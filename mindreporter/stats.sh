@@ -25,7 +25,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
       words=${VARIABLE_WORDS_COLUMNS[$i]}
     fi
     if [[ -n "$VARIABLE_DOCID_COLUMNS" ]]; then
-      words=${VARIABLE_DOCID_COLUMNS[$i]}
+      docid=${VARIABLE_DOCID_COLUMNS[$i]}
     fi
 
     bash $UTIL_DIR/stats/single_variable.sh $OUTPUT_DIR $table $column $words $docid
