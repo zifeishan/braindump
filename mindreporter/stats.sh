@@ -4,7 +4,7 @@ set -e
 . $WORKING_DIR/mindreporter.conf
 
 
-OUTPUT_DIR=$APP_HOME/stats
+OUTPUT_DIR=./stats
 mkdir -p $OUTPUT_DIR
 
 if [[ -z "$STATS_SCRIPT" ]]; then
