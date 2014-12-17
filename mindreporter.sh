@@ -6,8 +6,9 @@ set -e
 # Import the configuration file
 # . "$(dirname $0)/mindreporter.conf"
 
+export WORKING_DIR=`pwd`
 # conf file is in current directory
-. `pwd`/mindreporter.conf
+. $WORKING_DIR/mindreporter.conf
 
 mkdir -p $REPORT_DIR
 
@@ -106,7 +107,6 @@ for ((verNumber=1; ;verNumber+=1)); do
     fi
 
     echo "Generating README.md..."
-    cd ../../
     bash $UTIL_DIR/generate_readme.sh $REPORT_DIR/$versionName/
 
     if [[ "$SEND_RESULT_WITH_GIT" = "true" ]]; then

@@ -1,7 +1,7 @@
 set -e
 # set -x # DEBUG
 
-. $APP_HOME/mindreporter.conf
+. $WORKING_DIR/mindreporter.conf
 
 
 OUTPUT_DIR=$APP_HOME/stats

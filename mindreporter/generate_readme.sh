@@ -5,7 +5,7 @@
 # Do not stop on errors
 set -x
 
-. $APP_HOME/mindreporter.conf
+. $WORKING_DIR/mindreporter.conf
 
 REPORT_DIR=$1
 README="$REPORT_DIR/README.md"
