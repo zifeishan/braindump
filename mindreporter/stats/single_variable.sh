@@ -39,11 +39,11 @@ if [[ -n "$WORDS" ]]; then
 	  		FROM ${TABLE}_${VAR_COLUMN}_inference
 	  		WHERE expectation > 0.9
 	  		GROUP BY ${WORDS}
-	  		ORDER BY count, ${WORDS} DESC;";
+	  		ORDER BY count DESC, ${WORDS};";
 
 	psql $DBNAME -c " COPY(
 		SELECT * FROM __${TABLE}_${VAR_COLUMN}_histogram 
-		ORDER BY count, ${WORDS} DESC
+		ORDER BY count DESC, ${WORDS}
 		LIMIT $NUM_TOP_ENTITIES
 		) TO STDOUT
 		" > $OUTPUT_DIR/${TABLE}_top_entities.tsv;
