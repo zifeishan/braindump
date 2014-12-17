@@ -3,7 +3,7 @@
 # Usage: stats.sh BASE OUTPUT CONFIG
 
 set -e
-set -x # DEBUG
+# set -x # DEBUG
 
 OUTPUT_DIR=$1
 TABLE=$2
@@ -79,7 +79,7 @@ if [[ -n "$WORDS" ]]; then
 		) TO STDOUT
 		" > $OUTPUT_DIR/${TABLE}_top_entities.tsv;
 	echo "Saved into $OUTPUT_DIR/${TABLE}_top_entities.tsv"
-	cat $OUTPUT_DIR/${TABLE}_top_entities.tsv
+	# cat $OUTPUT_DIR/${TABLE}_top_entities.tsv
 
   # Most common entity
   psql $DBNAME -c "

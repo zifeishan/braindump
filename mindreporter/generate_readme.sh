@@ -3,7 +3,7 @@
 # Usage: save.sh BASE OUTPUT CONFIG
 
 # Do not stop on errors
-set -x
+# set -x # DEBUG
 
 . $WORKING_DIR/mindreporter.conf
 
