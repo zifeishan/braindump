@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import sys
@@ -18,7 +18,7 @@ import click
               help='the base directory of the DeepDive application')
 @click.option('--dd_output_dir', 
               prompt='Specify DD_OUTPUT_DIR, the output folder of DeepDive',
-              default='"$WORKING_DIR/../../../out"',
+              default='"$WORKING_DIR/../../out"',
               help='the output folder of DeepDive')
 @click.option('--dbname', 
               prompt='Specify DBNAME, the name of your working database',
