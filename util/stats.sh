@@ -1,7 +1,7 @@
 set -e
 # set -x # DEBUG
 
-. $WORKING_DIR/mindreporter.conf
+. $WORKING_DIR/braindump.conf
 
 
 OUTPUT_DIR=./stats

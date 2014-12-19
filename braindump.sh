@@ -3,12 +3,11 @@
 set -e
 # set -x # DEBUG MODE
 
-# Import the configuration file
-# . "$(dirname $0)/mindreporter.conf"
-
 export WORKING_DIR=`pwd`
+
+# Import the configuration file
 # conf file is in current directory
-. $WORKING_DIR/mindreporter.conf
+. $WORKING_DIR/braindump.conf
 
 mkdir -p $REPORT_DIR
 

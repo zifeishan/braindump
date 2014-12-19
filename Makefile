@@ -1,16 +1,17 @@
-# Makefile for MindReporter
+# Makefile for BrainDump
 
 .PHONY: build
 build:
-	@echo "=== Creating symbolic links into ${HOME}/local/bin/mindreporter... ==="
-	rm -f ${HOME}/local/bin/mindreporter
-	rm -rf ${HOME}/local/mindreporter
-	ln -s `pwd`/mindreporter.sh ${HOME}/local/bin/mindreporter
-	ln -s `pwd`/mindreporter ${HOME}/local/mindreporter
+	@echo "=== Creating symbolic links into ${HOME}/local/bin/braindump... ==="
+	rm -f ${HOME}/local/bin/braindump
+	rm -rf ${HOME}/local/braindump
+	ln -s `pwd`/braindump.sh ${HOME}/local/bin/braindump
+	ln -s `pwd`/util ${HOME}/local/braindump
 
 	@echo "\n=== Verifying installation... ==="
-	@if [ -f ${HOME}/local/bin/mindreporter ]; then \
-		echo "SUCCESS! Mindreporter binary has been put into ${HOME}/local/bin."; \
+	@if [ -f "${HOME}/local/bin/braindump" ]; then \
+		echo "SUCCESS! BrainDump binary has been put into ${HOME}/local/bin."; \
+		echo "Util directory has been put into ${HOME}/local/braindump."; \
 	else \
 		echo "FAILED: Cannot extract into ${HOME}/local/bin."; \
 		exit 1; \
@@ -19,7 +20,7 @@ build:
 
 # .PHONY: test
 # test: 
-# 	@echo "\n=== Testing MindReporter modules... ==="
+# 	@echo "\n=== Testing braindump modules... ==="
 # 	./test.sh
 
 # .PHONY: all

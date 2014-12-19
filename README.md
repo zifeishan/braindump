@@ -1,4 +1,4 @@
-MindReporter
+BrainDump
 ====
 
 Creates automatic reports after each DeepDive run.
@@ -7,7 +7,7 @@ Creates automatic reports after each DeepDive run.
 Configuration
 ----
 
-Update `mindreporter.conf` to configure the report process. See `examples/spouse_custom/` for example usage.
+Update `braindump.conf` to configure the report process. See `examples/spouse_custom/` for example usage.
 
 This sample configuration file has been configured for 
 `DEEPDIVE_HOME/examples/spouse_example/tsv_extractor`.
@@ -21,19 +21,16 @@ Run
 make
 ```
 
-To install `mindreporter` into `$HOME/local/bin/`. Be sure to include that in your PATH if you haven't:
+To install `braindump` into `$HOME/local/bin/`. Be sure to include that in your PATH if you haven't:
 
 `export PATH=$PATH:$HOME/local/bin/`
 
 Integrating with your DeepDive application
 ----
 
-Suppose your app runs in `APP_HOME` and your outputs are saved in `DEEPDIVE_HOME/out`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes.
+Suppose your app runs in `APP_HOME` and your outputs are saved in `DEEPDIVE_HOME/out`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes:
 
-<!-- 1. Place the `mindreporter/` directory, `mindreporter.sh` and `mindreporter.conf` under your APP_HOME.
- -->
-
-- Add into the your `run.sh` a command to run `mindreporter`. e.g. If your `run.sh` looks like:
+Just add into the your `run.sh` a command to run `braindump`. e.g. If your `run.sh` looks like:
 
 ```
 #! /bin/bash
@@ -63,5 +60,5 @@ deepdive -c $APP_HOME/application.conf
 
 # Note that you should go back to your APP_HOME directory
 cd $APP_HOME  
-mindreporter
+braindump
 ```

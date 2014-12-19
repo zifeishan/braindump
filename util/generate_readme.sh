@@ -5,7 +5,7 @@
 # Do not stop on errors
 # set -x # DEBUG
 
-. $WORKING_DIR/mindreporter.conf
+. $WORKING_DIR/braindump.conf
 
 REPORT_DIR=$1
 README="$REPORT_DIR/README.md"
