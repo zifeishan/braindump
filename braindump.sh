@@ -5,6 +5,13 @@ set -e
 
 export WORKING_DIR=`pwd`
 
+if [[ ! -f $WORKING_DIR/braindump.conf ]]; then
+  echo "Configuration file braindump.conf not found!"
+  echo "Running braindump-configure to set up a configuration file..."
+  braindump-configure
+  exit 0
+fi
+
 # Import the configuration file
 # conf file is in current directory
 . $WORKING_DIR/braindump.conf
