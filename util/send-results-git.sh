@@ -17,7 +17,7 @@ git pull origin $BRANCH_NAME
 git add $VERSION_DIR
 git commit -m "Experiment report $VERSION_NAME"
 
-if [ "$SEND_RESULT_WITH_GIT_PUSH" = "true" ];
+if [ "$SEND_RESULT_WITH_GIT_PUSH" = "true" ]; then
 	git push origin $BRANCH_NAME
 fi
 
