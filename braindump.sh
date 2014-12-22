@@ -16,6 +16,7 @@ fi
 # conf file is in current directory
 . $WORKING_DIR/braindump.conf
 
+echo "Dumping $DBNAME, host: $PGHOST, port:$PGPORT, user: $PGUSER"
 mkdir -p $REPORT_DIR
 
 # Decide the version to save as
