@@ -9,7 +9,11 @@ Installation
 
 ### Dependencies
 
-You need python library `click` to use the automatic configuration functionality.
+You need python library `click` to use the automatic configuration 
+functionality. Run: ```pip install click```
+
+Alternatively, you can skip the automatic configuration functionality 
+and manually configure `braindump.conf`.
 
 ### Install
 
@@ -19,7 +23,7 @@ Run
 make
 ```
 
-To install `braindump` into `$HOME/local/bin/`. Be sure to include that in your PATH if you haven't:
+to install `braindump` into `$HOME/local/bin/`. Be sure to include that in your PATH if you haven't:
 
 `export PATH=$PATH:$HOME/local/bin/`
 
@@ -66,7 +70,7 @@ cd $DEEPDIVE_HOME
 # Be sure to set this so that you are able to QUIT if deepdive fails.
 set -e
 
-### Run with deepdive binary:
+# Run with deepdive binary:
 deepdive -c $APP_HOME/application.conf
 
 # Note that you should go back to your APP_HOME directory
