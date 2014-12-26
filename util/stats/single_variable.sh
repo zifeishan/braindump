@@ -49,6 +49,10 @@ if [[ -n "$WORDS" ]]; then
     WHERE expectation > 0.9;
     " >> $OUTPUT_DIR/$TABLE.txt;
 
+  # Good-turing estimator
+  prob_new_mention=`$UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS "WHERE expectation > 0.9"`
+  echo "Probability of next extracted mention is new: $prob_new_mention" >> $OUTPUT_DIR/$TABLE.txt
+
   # Most common entity
   psql $DBNAME -c "
   	DROP VIEW IF EXISTS __${TABLE}_${VAR_COLUMN}_histogram CASCADE;

@@ -32,7 +32,22 @@ for (( i=0; i<${num_variables}; i++ )); do
   fi
 done
 
-# Top 
+# Stats for each feature
+num_features=${#FEATURE_TABLES[@]}
+for (( i=0; i<${num_features}; i++ )); do
+  table=${FEATURE_TABLES[$i]}
+  column=${FEATURE_COLUMNS[$i]}
+  echo "## Feature table $table" >>$README
+  cat $REPORT_DIR/stats/$table.txt >>$README
+
+  # If file exists
+  if [[ -f "$REPORT_DIR/stats/${table}_top_entities.tsv" ]]; then
+    echo "### Top entities" >>$README
+    head -n 10 $REPORT_DIR/stats/${table}_top_entities.tsv | sed 's/^/    /' >>$README;
+  fi
+done
+
+
 
 
 true

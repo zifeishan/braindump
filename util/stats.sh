@@ -15,7 +15,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
 
   # Stats for each variable
   num_variables=${#VARIABLE_TABLES[@]};
-  echo "Examining $num_variables variable tables...";
+  echo "  Examining $num_variables variable tables for stats...";
   for (( i=0; i<${num_variables}; i++ )); do
     table=${VARIABLE_TABLES[$i]}
     column=${VARIABLE_COLUMNS[$i]}
@@ -31,6 +31,20 @@ if [[ -z "$STATS_SCRIPT" ]]; then
     bash $UTIL_DIR/stats/single_variable.sh $OUTPUT_DIR $table $column $words $docid
 
   done;
+
+  # Stats for each feature
+  num_features=${#FEATURE_TABLES[@]}
+  echo "  Examining $num_features feature tables for stats..."
+  for (( i=0; i<${num_features}; i++ )); do
+    table=${FEATURE_TABLES[$i]}
+    column=${FEATURE_COLUMNS[$i]}
+
+    # Good-turing estimator
+    prob_new_feature=`$UTIL_DIR/stats/good_turing_estimator.sh $table $column`
+    echo "Probability of next extracted feature is new: $prob_new_feature" >> $OUTPUT_DIR/$table.txt
+
+  done
+
 else
   # Just run the user-defined script
   bash $STATS_SCRIPT
