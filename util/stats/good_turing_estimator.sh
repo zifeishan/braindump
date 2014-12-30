@@ -1,7 +1,5 @@
 #! /bin/bash
 
-set +x # DEBUG
-
 TABLE_NAME=$1
 COLUMN_NAME=$2
 WHERE_CLAUSE=${3:-}
@@ -21,3 +19,5 @@ FROM
 WHERE t.count = 1
 ) TO STDOUT
 "
+
+# TODO devision by zero

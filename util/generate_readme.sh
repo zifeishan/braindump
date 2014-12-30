@@ -27,7 +27,7 @@ for (( i=0; i<${num_variables}; i++ )); do
 
   # If file exists
   if [[ -f "$REPORT_DIR/stats/${table}_top_entities.tsv" ]]; then
-  	echo "### Top entities" >>$README
+  	echo "### Most frequent entities" >>$README
   	head -n 10 $REPORT_DIR/stats/${table}_top_entities.tsv | sed 's/^/    /' >>$README;
   fi
 done
@@ -39,15 +39,15 @@ for (( i=0; i<${num_features}; i++ )); do
   column=${FEATURE_COLUMNS[$i]}
   echo "## Feature table $table" >>$README
   cat $REPORT_DIR/stats/$table.txt >>$README
-
-  # If file exists
-  if [[ -f "$REPORT_DIR/stats/${table}_top_entities.tsv" ]]; then
-    echo "### Top entities" >>$README
-    head -n 10 $REPORT_DIR/stats/${table}_top_entities.tsv | sed 's/^/    /' >>$README;
-  fi
 done
 
-
-
+if [[ -f "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
+  echo "### Top Positive Features" >>$README
+  head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | sed 's/^/    /' >>$README;
+fi
+if [[ -f "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
+  echo "### Top Negative Features" >>$README
+  head -n 10 $REPORT_DIR/features/weights/negative_features.tsv | sed 's/^/    /' >>$README;
+fi
 
 true

@@ -44,9 +44,17 @@ if [[ -n "$WORDS" ]]; then
   echo "Doing naive entity linking using exact match on column $WORDS...";
 
   psql $DBNAME -c "
-    SELECT COUNT(distinct $WORDS) AS extracted_entities
-    FROM ${TABLE}_${VAR_COLUMN}_inference
-    WHERE expectation > 0.9;
+    DROP VIEW IF EXISTS __${TABLE}_${VAR_COLUMN}_distinct_words CASCADE;
+
+    CREATE VIEW __${TABLE}_${VAR_COLUMN}_distinct_words AS
+      SELECT DISTINCT $WORDS
+      FROM ${TABLE}_${VAR_COLUMN}_inference
+      WHERE expectation > 0.9; 
+  "
+
+  psql $DBNAME -c "
+    SELECT COUNT(*) AS extracted_entities
+    FROM __${TABLE}_${VAR_COLUMN}_distinct_words
     " >> $OUTPUT_DIR/$TABLE.txt;
 
   # Good-turing estimator
