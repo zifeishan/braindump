@@ -23,6 +23,8 @@ if [[ -z "$STATS_SCRIPT" ]]; then
     docid=
     if [[ -n "$VARIABLE_WORDS_COLUMNS" ]]; then
       words=${VARIABLE_WORDS_COLUMNS[$i]}
+      # Remove spaces
+      words=`echo $words | tr -d ' '`
     fi
     if [[ -n "$VARIABLE_DOCID_COLUMNS" ]]; then
       docid=${VARIABLE_DOCID_COLUMNS[$i]}
@@ -41,7 +43,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
 
     # Good-turing estimator
     prob_new_feature=`$UTIL_DIR/stats/good_turing_estimator.sh $table $column`
-    echo "Probability of next extracted feature is new: $prob_new_feature" >> $OUTPUT_DIR/$table.txt
+    echo "    Probability of next extracted feature is new: $prob_new_feature" >> $OUTPUT_DIR/$table.txt
 
   done
 

@@ -12,7 +12,7 @@ README="$REPORT_DIR/README.md"
 
 touch $README
 
-echo "# Statsitics" >> $README
+printf "# Statsitics\n" >> $README
 
 # Stats for documents
 # Hack: indent 4 spaces for better display
@@ -22,12 +22,12 @@ cat $REPORT_DIR/stats/documents.txt | sed 's/^/    /' >> $README
 num_variables=${#VARIABLE_TABLES[@]};
 for (( i=0; i<${num_variables}; i++ )); do
 	table=${VARIABLE_TABLES[$i]}
-  echo "## Variable $table" >>$README
+  printf "## Variable $table\n" >> $README
   cat $REPORT_DIR/stats/$table.txt | sed 's/^/    /' >>$README
 
   # If file exists
   if [[ -f "$REPORT_DIR/stats/${table}_top_entities.tsv" ]]; then
-  	echo "### Most frequent entities" >>$README
+  	printf "\n### Most frequent entities\n" >>$README
   	head -n 10 $REPORT_DIR/stats/${table}_top_entities.tsv | sed 's/^/    /' >>$README;
   fi
 done
@@ -37,16 +37,16 @@ num_features=${#FEATURE_TABLES[@]}
 for (( i=0; i<${num_features}; i++ )); do
   table=${FEATURE_TABLES[$i]}
   column=${FEATURE_COLUMNS[$i]}
-  echo "## Feature table $table" >>$README
+  printf "\n## Feature table $table\n" >>$README
   cat $REPORT_DIR/stats/$table.txt >>$README
 done
 
 if [[ -f "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
-  echo "### Top Positive Features" >>$README
+  printf "\n### Top Positive Features\n" >>$README
   head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | sed 's/^/    /' >>$README;
 fi
 if [[ -f "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
-  echo "### Top Negative Features" >>$README
+  printf "\n### Top Negative Features\n" >>$README
   head -n 10 $REPORT_DIR/features/weights/negative_features.tsv | sed 's/^/    /' >>$README;
 fi
 

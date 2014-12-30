@@ -18,6 +18,5 @@ FROM
    GROUP BY $COLUMN_NAME) t
 WHERE t.count = 1
 ) TO STDOUT
-"
-
-# TODO devision by zero
+" || echo "N/A"
+# Return true in case "Error: devision by zero"
