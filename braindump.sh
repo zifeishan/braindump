@@ -32,16 +32,21 @@ for ((verNumber=1; ;verNumber+=1)); do
     mkdir -p $REPORT_DIR/$versionName/
     cd $REPORT_DIR/$versionName/
 
-    echo "[`date`] Saving mapping with DeepDive output directory..."
-    ln -s $DD_THIS_OUTPUT_DIR ./dd-out
-    echo $DD_TIMESTAMP > ./dd-timestamp
+    # Skip if last DeepDive run is not finished
+    if [ -d $DD_THIS_OUTPUT_DIR/calibration ]; then
+      echo "[`date`] Saving mapping with DeepDive output directory..."
+      ln -s $DD_THIS_OUTPUT_DIR ./dd-out
+      echo $DD_TIMESTAMP > ./dd-timestamp
 
-    echo "[`date`] Saving code..."
-    mkdir -p code
-    bash $UTIL_DIR/save.sh $APP_HOME ./code/
+      echo "[`date`] Saving code..."
+      mkdir -p code
+      bash $UTIL_DIR/save.sh $APP_HOME ./code/
 
-    echo "[`date`] Saving calibration..."
-    cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+      echo "[`date`] Saving calibration..."
+      cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+    else
+      echo "WARNING: last deepdive run $DD_THIS_OUTPUT_DIR seems incomplete, skipping..."
+    fi
 
     echo "[`date`] Saving statistics..."  
     bash $UTIL_DIR/stats.sh $VARIABLE_TABLES $VARIABLE_COLUMNS $VARIABLE_WORDS_COLUMNS 
@@ -81,7 +86,7 @@ for ((verNumber=1; ;verNumber+=1)); do
     if [[ -z "$SUPERVISION_SAMPLE_SCRIPT" ]]; then
       # Supervision sample script not set, use default
       num_variables=${#VARIABLE_TABLES[@]};
-      echo "[`date`] Examining $num_variables variable tables...";
+      echo "[`date`] Examining $num_variables variable tables for supervision...";
       for (( i=0; i<${num_variables}; i++ )); do
         table=${VARIABLE_TABLES[$i]}
         column=${VARIABLE_COLUMNS[$i]}
@@ -98,9 +103,9 @@ for ((verNumber=1; ;verNumber+=1)); do
     fi
 
     if [[ -z "$INFERENCE_SAMPLE_SCRIPT" ]]; then
-      # Supervision sample script not set, use default
+      # Inference sample script not set, use default
       num_variables=${#VARIABLE_TABLES[@]};
-      echo "[`date`] Examining $num_variables variable tables...";
+      echo "[`date`] Examining $num_variables variable tables for inference...";
       for (( i=0; i<${num_variables}; i++ )); do
         table=${VARIABLE_TABLES[$i]}
         column=${VARIABLE_COLUMNS[$i]}
