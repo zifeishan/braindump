@@ -15,7 +15,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
 
   # Stats for each variable
   num_variables=${#VARIABLE_TABLES[@]};
-  echo "  Examining $num_variables variable tables for stats...";
+  echo "Examining $num_variables variable tables for stats...";
   for (( i=0; i<${num_variables}; i++ )); do
     table=${VARIABLE_TABLES[$i]}
     column=${VARIABLE_COLUMNS[$i]}
@@ -36,16 +36,12 @@ if [[ -z "$STATS_SCRIPT" ]]; then
 
   # Stats for each feature
   num_features=${#FEATURE_TABLES[@]}
-  echo "  Examining $num_features feature tables for stats..."
+  echo "Examining $num_features feature tables for stats..."
   for (( i=0; i<${num_features}; i++ )); do
     table=${FEATURE_TABLES[$i]}
     column=${FEATURE_COLUMNS[$i]}
 
-    printf "* Good-Turing estimation of prob. that next extracted feature is new:\n" >> $OUTPUT_DIR/$table.txt
-
-    # Good-turing estimator
-    $UTIL_DIR/stats/good_turing_estimator.sh $table $column $OUTPUT_DIR/$table.txt
-
+    bash $UTIL_DIR/stats/single_feature.sh $OUTPUT_DIR $table $column
   done
 
 else

@@ -12,13 +12,16 @@ README="$REPORT_DIR/README.md"
 
 touch $README
 
-printf "# Statsitics\n" >> $README
+printf "# Corpus Statsitics\n" >> $README
 
 # Stats for documents
 # Hack: indent 4 spaces for better display
 cat $REPORT_DIR/stats/documents.txt >> $README
 
 printf "\n" >> $README
+
+printf "# Variables\n" >> $README
+
 # Stats for each variable
 num_variables=${#VARIABLE_TABLES[@]};
 for (( i=0; i<${num_variables}; i++ )); do
@@ -32,8 +35,20 @@ for (( i=0; i<${num_variables}; i++ )); do
   	head -n 10 $REPORT_DIR/stats/${table}_top_entities.tsv | sed 's/^/    /' >>$README;
   fi
   printf "\n" >> $README
-
 done
+
+printf "# Features\n" >>$README
+
+if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
+  printf "## Top Positive Features\n" >>$README
+  head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | sed 's/^/    /' >>$README;
+  printf "\n" >> $README
+fi
+if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
+  printf "## Top Negative Features\n" >>$README
+  head -n 10 $REPORT_DIR/features/weights/negative_features.tsv | sed 's/^/    /' >>$README;
+  printf "\n" >> $README
+fi
 
 # Stats for each feature
 num_features=${#FEATURE_TABLES[@]}
@@ -43,17 +58,13 @@ for (( i=0; i<${num_features}; i++ )); do
   printf "## Feature table $table\n" >>$README
   cat $REPORT_DIR/stats/$table.txt >>$README
   printf "\n" >> $README
+
+  if [[ -s "$REPORT_DIR/features/counts/$table.tsv" ]]; then
+    printf "### Most frequent features for $table\n" >>$README
+    head -n 10 $REPORT_DIR/features/counts/$table.tsv | sed 's/^/    /' >>$README;
+    printf "\n" >> $README
+  fi
 done
 
-if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
-  printf "### Top Positive Features\n" >>$README
-  head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | sed 's/^/    /' >>$README;
-  printf "\n" >> $README
-fi
-if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
-  printf "### Top Negative Features\n" >>$README
-  head -n 10 $REPORT_DIR/features/weights/negative_features.tsv | sed 's/^/    /' >>$README;
-  printf "\n" >> $README
-fi
 
 true
