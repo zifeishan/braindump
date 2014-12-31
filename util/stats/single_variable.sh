@@ -17,26 +17,38 @@ set -u
 touch $OUTPUT_DIR/$TABLE.txt
 
 # Number of mentions
-psql $DBNAME -c "
-  SELECT COUNT(*) as mention_candidates
-  FROM ${TABLE}
-  " >> $OUTPUT_DIR/$TABLE.txt
+printf "* Number of mention candidates: %d\n" `psql $DBNAME -c " COPY (
+  SELECT COUNT(*)
+  FROM ${TABLE} ) TO STDOUT
+  "` >> $OUTPUT_DIR/$TABLE.txt
 
 # Positive / negative examples
-echo "Supervision statistics:" >> $OUTPUT_DIR/$TABLE.txt
+# printf "Supervision statistics:\n" >> $OUTPUT_DIR/$TABLE.txt
 
-psql $DBNAME -c "
-  SELECT ${VAR_COLUMN}, COUNT(*)
+printf "* Number of positive examples: %d\n" `psql $DBNAME -c " COPY (
+  SELECT COUNT(*)
   FROM ${TABLE}
-  GROUP BY $VAR_COLUMN
-  " >> $OUTPUT_DIR/$TABLE.txt
+  WHERE $VAR_COLUMN = true
+  ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
+
+printf "* Number of negative examples: %d\n" `psql $DBNAME -c " COPY (
+  SELECT COUNT(*)
+  FROM ${TABLE}
+  WHERE $VAR_COLUMN = false
+  ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
+
+printf "* Number of query variables: %d\n" `psql $DBNAME -c " COPY (
+  SELECT COUNT(*)
+  FROM ${TABLE}
+  WHERE $VAR_COLUMN is null
+  ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
 
 # Number of mentions
-psql $DBNAME -c "
+printf "* Number of extracted mentions with >0.9 expectation: %d\n" `psql $DBNAME -c " COPY (
   SELECT COUNT(*) AS extracted_mentions
   FROM ${TABLE}_${VAR_COLUMN}_inference
-  WHERE expectation > 0.9;
-  " >> $OUTPUT_DIR/$TABLE.txt
+  WHERE expectation > 0.9
+  ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
 
 
 # Number of distinct entities extracted
@@ -52,14 +64,15 @@ if [[ -n "$WORDS" ]]; then
       WHERE expectation > 0.9; 
   "
 
-  psql $DBNAME -c "
+  printf "* Number of extracted entities with naive entity linking: %d\n" `psql $DBNAME -c " COPY (
     SELECT COUNT(*) AS extracted_entities
     FROM __${TABLE}_${VAR_COLUMN}_distinct_words
-    " >> $OUTPUT_DIR/$TABLE.txt;
+    ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt;
 
   # Good-turing estimator
-  prob_new_mention=`$UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS "WHERE expectation > 0.9"`
-  echo "Probability of next extracted mention is new: $prob_new_mention" >> $OUTPUT_DIR/$TABLE.txt
+  printf "* Good-Turing estimation of prob. that next extracted mention is new:\n" >> $OUTPUT_DIR/$TABLE.txt
+  
+  $UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS $OUTPUT_DIR/$TABLE.txt "WHERE expectation > 0.9"
 
   # Most common entity
   psql $DBNAME -c "
@@ -89,11 +102,11 @@ fi
 # distinct documents with extractions
 if [[ -n "$DOCID" ]]; then
   echo "Doing naive entity linking using exact match on column $DOCID..."
-  psql $DBNAME -c "
+  printf "Number of documents with extraction: %d\n" `psql $DBNAME -c "COPY (
     SELECT COUNT(distinct $DOCID) AS documents_with_extraction
     FROM ${TABLE}_${VAR_COLUMN}_inference
-    WHERE expectation > 0.9;
-    " >> $OUTPUT_DIR/$TABLE.txt
+    WHERE expectation > 0.9 ) TO STDOUT
+    "` >> $OUTPUT_DIR/$TABLE.txt
 fi
 
 

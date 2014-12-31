@@ -41,9 +41,10 @@ if [[ -z "$STATS_SCRIPT" ]]; then
     table=${FEATURE_TABLES[$i]}
     column=${FEATURE_COLUMNS[$i]}
 
+    printf "* Good-Turing estimation of prob. that next extracted feature is new:\n" >> $OUTPUT_DIR/$table.txt
+
     # Good-turing estimator
-    prob_new_feature=`$UTIL_DIR/stats/good_turing_estimator.sh $table $column`
-    echo "    Probability of next extracted feature is new: $prob_new_feature" >> $OUTPUT_DIR/$table.txt
+    $UTIL_DIR/stats/good_turing_estimator.sh $table $column $OUTPUT_DIR/$table.txt
 
   done
 
