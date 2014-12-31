@@ -102,7 +102,7 @@ fi
 # distinct documents with extractions
 if [[ -n "$DOCID" ]]; then
   echo "Doing naive entity linking using exact match on column $DOCID..."
-  printf "Number of documents with extraction: %d\n" `psql $DBNAME -c "COPY (
+  printf "* Number of documents with extraction: %d\n" `psql $DBNAME -c "COPY (
     SELECT COUNT(distinct $DOCID) AS documents_with_extraction
     FROM ${TABLE}_${VAR_COLUMN}_inference
     WHERE expectation > 0.9 ) TO STDOUT
