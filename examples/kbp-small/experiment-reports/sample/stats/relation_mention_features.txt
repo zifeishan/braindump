@@ -1,0 +1,5 @@
+* Total number of features: 8368916
+* Number of distinct features: 2167463
+* Good-Turing estimation of prob. that next extracted feature is new:
+  * Estimate: 0.181
+  * 95% Confidence interval: [0.141, 0.222]

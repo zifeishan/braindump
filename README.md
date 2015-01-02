@@ -118,6 +118,11 @@ APP_HOME/experiment-reports/v00001/:
 
 ```
 
+Example Configurations and Reports
+----
+
+You can browse some examples of configurations and reports, in `examples/` directory.
+
 
 Configuration Specification
 ----

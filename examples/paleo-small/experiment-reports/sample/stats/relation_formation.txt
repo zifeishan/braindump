@@ -1,0 +1,10 @@
+* Number of mention candidates: 87309
+* Number of positive examples: 1353
+* Number of negative examples: 46764
+* Number of query variables: 39192
+* Number of extracted mentions with >0.9 expectation: 4440
+* Number of extracted entities with naive entity linking: 1586
+* Good-Turing estimation of prob. that next extracted mention is new:
+  * Estimate: 0.118
+  * 95% Confidence interval: [0.000, 1.000]
+* Number of documents with extraction: 516

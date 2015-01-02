@@ -1,0 +1,10 @@
+* Number of mention candidates: 0
+* Number of positive examples: 0
+* Number of negative examples: 0
+* Number of query variables: 0
+* Number of extracted mentions with >0.9 expectation: 0
+* Number of extracted entities with naive entity linking: 0
+* Good-Turing estimation of prob. that next extracted mention is new:
+  * Estimate: N/A
+  * 95% Confidence interval: N/A 
+* Number of documents with extraction: 0

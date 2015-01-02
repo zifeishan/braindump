@@ -1,0 +1,2 @@
+* Number of documents: 14230
+* Number of sentences: 55469

@@ -1,0 +1,501 @@
+id,docid,type,eid1,eid2,entity1,entity2,is_correct
+526016,overlappingpdfs.138462.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138462.pdf.task_512_16_16,TAXON_DOC_overlappingpdfs.138462.pdf.task_512_22_22,trophon,pelecypoda,f
+478533,overlappingpdfs.132577.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132577.pdf.task_94_10_11,TAXON_DOC_overlappingpdfs.132577.pdf.task_94_4_4,spondylus crassicosta,gigantopecten,f
+444212,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_154_6_7,TAXON_DOC_overlappingpdfs.138678.pdf.task_154_47_47,chalcobombus humilis,sophrobombus,f
+427608,overlappingpdfs.133027.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133027.pdf.task_931_23_23,TAXON_DOC_overlappingpdfs.133027.pdf.task_931_52_52,charientocrinus,rhenocrinidae,f
+394407,overlappingpdfs.136450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136450.pdf.task_719_16_16,TAXON_DOC_overlappingpdfs.136450.pdf.task_719_0_0,taxocrinus,onychocrinidae,f
+447586,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_224_224,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_57_57,siphlonurinae,sciadoceridae,f
+392228,overlappingpdfs.132974.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132974.pdf.task_364_91_92,TAXON_DOC_overlappingpdfs.132974.pdf.task_364_130_130,ifasaurus elongatus,microposaurus,f
+360828,overlappingpdfs.138593.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138593.pdf.task_3541_24_25,TAXON_DOC_overlappingpdfs.138593.pdf.task_3541_31_31,chitra indica,amyda,f
+523086,overlappingpdfs.132756.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132756.pdf.task_35_13_14,TAXON_DOC_overlappingpdfs.132756.pdf.task_35_5_5,eurhinodelphis longirostris,acrodelphinidae,f
+544586,overlappingpdfs.132226.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132226.pdf.task_1836_1_1,TAXON_DOC_overlappingpdfs.132226.pdf.task_1836_5_5,xanthoidea,decapoda,f
+494230,overlappingpdfs.1392.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1392.pdf.task_58_39_40,TAXON_DOC_overlappingpdfs.1392.pdf.task_58_20_20,gopherus berlandieri,xerobates,f
+379737,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_14_15,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_0_0,parazhelestes robustus,aspanlestes,f
+395574,overlappingpdfs.136450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136450.pdf.task_727_45_45,TAXON_DOC_overlappingpdfs.136450.pdf.task_727_37_37,cordylocrinus,hapalocrinidae,f
+389803,overlappingpdfs.132535.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132535.pdf.task_494_18_18,TAXON_DOC_overlappingpdfs.132535.pdf.task_494_5_5,omomys,omomyinae,f
+459153,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7264_124_124,TAXON_DOC_overlappingpdfs.138613.pdf.task_7264_26_26,euarchistigmatinae,endopterygota,f
+512599,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_1401_48_48,TAXON_DOC_overlappingpdfs.132522.pdf.task_1401_10_10,leptaena,karomena,f
+487421,overlappingpdfs.13975.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.13975.pdf.task_1291_94_94,TAXON_DOC_overlappingpdfs.13975.pdf.task_1291_11_11,mastodon,major,f
+360811,overlappingpdfs.132883.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132883.pdf.task_105_12_13,TAXON_DOC_overlappingpdfs.132883.pdf.task_105_6_6,martinia elegans,elivina,f
+399129,overlappingpdfs.133140.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133140.pdf.task_1460_4_4,TAXON_DOC_overlappingpdfs.133140.pdf.task_1460_16_16,paleopsychoda,bruchomyiinae,f
+378918,overlappingpdfs.132196.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_3_3,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_7_7,santanachelys,plesiochelyidae,f
+547185,overlappingpdfs.131528.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131528.pdf.task_704_15_15,TAXON_DOC_overlappingpdfs.131528.pdf.task_704_28_28,delocrinus,cyathocrinitidae,f
+405305,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_451_18_18,TAXON_DOC_overlappingpdfs.138622.pdf.task_451_31_31,mesocyon,brachyrhynchocyon,f
+429715,overlappingpdfs.138083.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138083.pdf.task_4270_8_8,TAXON_DOC_overlappingpdfs.138083.pdf.task_4270_16_16,gobiohyus,suidae,f
+449882,overlappingpdfs.132963.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132963.pdf.task_40_35_36,TAXON_DOC_overlappingpdfs.132963.pdf.task_40_31_31,probelesodon kitchingi,chiniquodon,f
+403904,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_5061_47_48,TAXON_DOC_overlappingpdfs.138622.pdf.task_5061_1_1,osbornodon fricki,prohesperocyon,f
+372263,overlappingpdfs.138465.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138465.pdf.task_2112_13_14,TAXON_DOC_overlappingpdfs.138465.pdf.task_2112_17_17,paraschizodus rothi,schizodus,f
+411256,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_50_51,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_87_87,dege hendeyi,eudyptes,f
+413147,overlappingpdfs.138644.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138644.pdf.task_3575_31_32,TAXON_DOC_overlappingpdfs.138644.pdf.task_3575_20_20,proratites simplex,proplatypygus,f
+528535,overlappingpdfs.136931.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136931.pdf.task_581_107_107,TAXON_DOC_overlappingpdfs.136931.pdf.task_581_115_115,loxonema,natica,f
+481195,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_116_117,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_57_57,ikanogavialis gameroi,gavialosuchus,f
+513088,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_1362_65_65,TAXON_DOC_overlappingpdfs.132522.pdf.task_1362_81_81,sowerbyella,chonetoidea,f
+474155,overlappingpdfs.132206.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132206.pdf.task_15_12_12,TAXON_DOC_overlappingpdfs.132206.pdf.task_15_20_20,colpomphalus,eucycloidea,f
+433791,overlappingpdfs.1336.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1336.pdf.task_1078_0_1,TAXON_DOC_overlappingpdfs.1336.pdf.task_1078_10_10,galadi speciosus,perikoala,f
+574012,overlappingpdfs.133101.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133101.pdf.task_652_31_32,TAXON_DOC_overlappingpdfs.133101.pdf.task_652_38_38,ngamalacinus timmulvaneyi,sarcophilus,f
+423402,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_43_44,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_21_21,anabisetia saldiviai,tianyulong,f
+539126,overlappingpdfs.132502.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132502.pdf.task_335_30_31,TAXON_DOC_overlappingpdfs.132502.pdf.task_335_37_37,tyrrhenolutra helbingi,paludolutra,f
+404713,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_812_74_75,TAXON_DOC_overlappingpdfs.138859.pdf.task_812_63_63,spheniscus muizoni,pygoscelis,f
+521181,overlappingpdfs.132630.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132630.pdf.task_498_30_30,TAXON_DOC_overlappingpdfs.132630.pdf.task_498_42_42,gekkonidae,iguania,f
+498115,overlappingpdfs.130595.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130595.pdf.task_849_30_31,TAXON_DOC_overlappingpdfs.130595.pdf.task_849_18_18,protocardia striatula,camptonectes,f
+562315,overlappingpdfs.132705.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132705.pdf.task_110_81_81,TAXON_DOC_overlappingpdfs.132705.pdf.task_110_56_56,nogodininae,tettigometridae,f
+512927,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_267_76_76,TAXON_DOC_overlappingpdfs.132522.pdf.task_267_33_33,katastrophomena,sowerbyella,f
+386646,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_176_23_24,TAXON_DOC_overlappingpdfs.138761.pdf.task_176_12_12,colonosaurus mudgei,ichthyornis,f
+391598,overlappingpdfs.132974.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132974.pdf.task_347_131_131,TAXON_DOC_overlappingpdfs.132974.pdf.task_347_40_40,lyrocephaliscus,lonchorhynchinae,f
+346318,overlappingpdfs.138578.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138578.pdf.task_1207_11_12,TAXON_DOC_overlappingpdfs.138578.pdf.task_1207_3_3,pterinaea fasciculata,ptychopteria,f
+362605,overlappingpdfs.132793.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132793.pdf.task_167_20_20,TAXON_DOC_overlappingpdfs.132793.pdf.task_167_37_37,proapocritus,apocrita,f
+346576,overlappingpdfs.132547.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132547.pdf.task_727_13_13,TAXON_DOC_overlappingpdfs.132547.pdf.task_727_17_17,calymene,encrinurus,f
+375582,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_2794_0_0,TAXON_DOC_overlappingpdfs.138709.pdf.task_2794_9_9,didelphis,palaeoryctidae,f
+416275,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_16_17,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_44_44,icadyptes salasi,palaeospheniscus,f
+561906,overlappingpdfs.132738.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132738.pdf.task_17_15_15,TAXON_DOC_overlappingpdfs.132738.pdf.task_17_7_7,singidella,pipidae,f
+408975,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_5061_39_40,TAXON_DOC_overlappingpdfs.138622.pdf.task_5061_53_53,osbornodon renjiei,paraenhydrocyon,f
+539364,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_6925_14_14,TAXON_DOC_overlappingpdfs.138632.pdf.task_6925_22_22,plesiorycteropus,hyracoidea,f
+450702,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_1598_43_43,TAXON_DOC_overlappingpdfs.138613.pdf.task_1598_33_33,ephemeroidea,potamanthidae,f
+495599,overlappingpdfs.130952.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130952.pdf.task_86_0_0,TAXON_DOC_overlappingpdfs.130952.pdf.task_86_2_2,glyptocrinus,camerata,f
+481810,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_83_84,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_108_108,asiatosuchus germanicus,borealosuchus,f
+531985,overlappingpdfs.132439.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132439.pdf.task_520_10_11,TAXON_DOC_overlappingpdfs.132439.pdf.task_520_75_75,howesia browni,scaphonyx,f
+447337,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_303_303,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_285_285,sphex,pseudomacromiidae,f
+481479,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_136_137,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_33_33,bernissartia fagesii,crocodylus,f
+538372,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_30_30,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_98_98,erinaceus,perissodactyla,f
+457054,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_248_248,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_320_320,siphlurites,psocoptera,f
+536898,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_56_57,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_138_138,dasypus novemcinctus,mustela,f
+563262,overlappingpdfs.138624.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138624.pdf.task_354_22_22,TAXON_DOC_overlappingpdfs.138624.pdf.task_354_14_14,thebanaspis,tropidocoryphinae,f
+408151,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_80_81,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_40_40,spheniscus demersus,platydyptes,f
+496064,overlappingpdfs.138538.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138538.pdf.task_2147_0_0,TAXON_DOC_overlappingpdfs.138538.pdf.task_2147_2_2,acastoides,phacopina,f
+396913,overlappingpdfs.133066.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133066.pdf.task_430_20_20,TAXON_DOC_overlappingpdfs.133066.pdf.task_430_32_32,hemipedina,mesodiadema,f
+547081,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_39_40,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_35_35,haopterus gracilis,germanodactylus,f
+387958,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_4004_20_21,TAXON_DOC_overlappingpdfs.138761.pdf.task_4004_14_14,ichthyornis dispar,crypturellus,f
+350302,overlappingpdfs.138365.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138365.pdf.task_825_13_13,TAXON_DOC_overlappingpdfs.138365.pdf.task_825_5_5,diceratherium,capacikala,f
+576568,overlappingpdfs.133101.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133101.pdf.task_650_40_40,TAXON_DOC_overlappingpdfs.133101.pdf.task_650_15_15,sminthopsinae,ameridelphia,f
+405077,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_1793_21_22,TAXON_DOC_overlappingpdfs.138859.pdf.task_1793_45_45,delphinornis arctowskii,marambiornis,f
+356278,overlappingpdfs.136715.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136715.pdf.task_145_4_4,TAXON_DOC_overlappingpdfs.136715.pdf.task_145_6_6,atrypa,sieberella,f
+492828,overlappingpdfs.132955.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132955.pdf.task_772_0_1,TAXON_DOC_overlappingpdfs.132955.pdf.task_772_51_51,ebrachosuchus neukami,mystriosuchus,f
+556885,overlappingpdfs.132960.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132960.pdf.task_14_2_3,TAXON_DOC_overlappingpdfs.132960.pdf.task_14_20_20,poekilopleuron bucklandii,megalosaurus,f
+513917,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_11_19_20,TAXON_DOC_overlappingpdfs.132522.pdf.task_11_13_13,lateriseptomena modesta,chunanomena,f
+443770,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_3234_9_9,TAXON_DOC_overlappingpdfs.138678.pdf.task_3234_23_23,melikertes,meliponini,f
+572688,overlappingpdfs.132555.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132555.pdf.task_142_17_17,TAXON_DOC_overlappingpdfs.132555.pdf.task_142_8_8,spanilidae,nepiomorphia,f
+477945,overlappingpdfs.131701.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131701.pdf.task_376_11_11,TAXON_DOC_overlappingpdfs.131701.pdf.task_376_13_13,xenophoridae,mesogastropoda,f
+525442,overlappingpdfs.132756.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132756.pdf.task_1036_0_1,TAXON_DOC_overlappingpdfs.132756.pdf.task_1036_29_29,eurhinodelphis cocheteuxi,tasmacetus,f
+509279,overlappingpdfs.132634.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132634.pdf.task_1634_10_11,TAXON_DOC_overlappingpdfs.132634.pdf.task_1634_0_0,simosthenurus maddocki,metasthenurus,f
+420849,overlappingpdfs.132348.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132348.pdf.task_1548_4_6,TAXON_DOC_overlappingpdfs.132348.pdf.task_1548_26_26,carupa tenuipes,chlorodiella,f
+393510,overlappingpdfs.136149.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136149.pdf.task_574_15_15,TAXON_DOC_overlappingpdfs.136149.pdf.task_574_19_19,howellella,howittia,f
+494304,overlappingpdfs.133075.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133075.pdf.task_221_47_47,TAXON_DOC_overlappingpdfs.133075.pdf.task_221_49_49,euloma,archaeuloma,f
+499685,overlappingpdfs.133121.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133121.pdf.task_186_17_17,TAXON_DOC_overlappingpdfs.133121.pdf.task_186_3_3,protanisoceras,metahamites,f
+575963,overlappingpdfs.132555.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132555.pdf.task_96_19_19,TAXON_DOC_overlappingpdfs.132555.pdf.task_96_5_5,praecardiidae,bivalvia,f
+506860,overlappingpdfs.133053.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133053.pdf.task_622_130_131,TAXON_DOC_overlappingpdfs.133053.pdf.task_622_16_16,protodipleurosoma rugulosum,beltanella,f
+559016,overlappingpdfs.133545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133545.pdf.task_1059_50_50,TAXON_DOC_overlappingpdfs.133545.pdf.task_1059_44_44,buxtonia,brachythyris,f
+463694,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_276_276,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_70_70,blephariceridae,aeschnidioidea,f
+487556,overlappingpdfs.132162.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132162.pdf.task_657_7_7,TAXON_DOC_overlappingpdfs.132162.pdf.task_657_20_20,eodromeinae,adephaga,f
+374187,overlappingpdfs.132196.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_10_11,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_1_1,thalassemys moseri,kallokibotion,f
+573455,overlappingpdfs.138665.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138665.pdf.task_3765_585_586,TAXON_DOC_overlappingpdfs.138665.pdf.task_3765_442_442,temujinia ellisoni,carusia,f
+471309,overlappingpdfs.132751.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132751.pdf.task_226_23_23,TAXON_DOC_overlappingpdfs.132751.pdf.task_226_21_21,geragnostus,trinodus,f
+530754,overlappingpdfs.132439.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132439.pdf.task_520_90_91,TAXON_DOC_overlappingpdfs.132439.pdf.task_520_26_26,hyperodapedon gordoni,mesodapedon,f
+452922,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_36_36,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_150_150,paracarsonus,platystichtidae,f
+550270,overlappingpdfs.130296.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_106_106,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_145_145,strongylocentrotus,holothuroidea,f
+355405,overlappingpdfs.132485.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132485.pdf.task_372_24_25,TAXON_DOC_overlappingpdfs.132485.pdf.task_372_19_19,paleosuchus trigonatus,alligator,f
+493815,overlappingpdfs.133075.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133075.pdf.task_47_0_1,TAXON_DOC_overlappingpdfs.133075.pdf.task_47_4_4,charchaqia halli,proceratopyge,f
+448493,overlappingpdfs.1346.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1346.pdf.task_177_7_8,TAXON_DOC_overlappingpdfs.1346.pdf.task_177_26_26,archaeospheniscus lowei,platydyptes,f
+546377,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_4_5,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_86_86,boreopterus cuiae,tapejara,f
+356200,overlappingpdfs.138450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138450.pdf.task_10_0_0,TAXON_DOC_overlappingpdfs.138450.pdf.task_10_2_2,baenidae,reptilia,f
+400984,overlappingpdfs.138573.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138573.pdf.task_5158_59_59,TAXON_DOC_overlappingpdfs.138573.pdf.task_5158_10_10,hipparion,cormohipparion,f
+518247,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_1113_16_17,TAXON_DOC_overlappingpdfs.132112.pdf.task_1113_27_27,parietobalaena campiniana,uranocetus,f
+442012,overlappingpdfs.1336.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1336.pdf.task_669_5_5,TAXON_DOC_overlappingpdfs.1336.pdf.task_669_7_7,ngapakaldia,vombatiformes,f
+497289,overlappingpdfs.138538.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138538.pdf.task_2019_3_3,TAXON_DOC_overlappingpdfs.138538.pdf.task_2019_5_5,jujuyops,phacopina,f
+432152,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_51_52,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_30_30,boreallodape striebichi,liotrigonopsis,f
+443841,overlappingpdfs.132764.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_39_40,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_21_21,omeisaurus fuxiensis,sinocoelurus,f
+466155,overlappingpdfs.138834.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138834.pdf.task_617_53_54,TAXON_DOC_overlappingpdfs.138834.pdf.task_617_48_48,lomasuchus palpebrosus,baurusuchus,f
+409418,overlappingpdfs.132321.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132321.pdf.task_670_3_4,TAXON_DOC_overlappingpdfs.132321.pdf.task_670_9_9,sphyrna,myliobatidae,f
+369703,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_4245_13_13,TAXON_DOC_overlappingpdfs.138384.pdf.task_4245_33_33,sarcodon,oxyaeninae,f
+358426,overlappingpdfs.131777.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131777.pdf.task_222_11_11,TAXON_DOC_overlappingpdfs.131777.pdf.task_222_3_3,cypricardella,cyrtospirifer,f
+381038,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2867_12_13,TAXON_DOC_overlappingpdfs.138745.pdf.task_2867_0_0,eoungulatum kudukensis,sailestes,f
+509025,overlappingpdfs.132634.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132634.pdf.task_405_22_22,TAXON_DOC_overlappingpdfs.132634.pdf.task_405_18_18,macropodinae,diprotodontidae,f
+516016,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_1429_17_17,TAXON_DOC_overlappingpdfs.132112.pdf.task_1429_9_9,georgia,cetacea,f
+395100,overlappingpdfs.138438.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138438.pdf.task_324_5_6,TAXON_DOC_overlappingpdfs.138438.pdf.task_324_12_12,merychippus sumani,archaeohippus,f
+440783,overlappingpdfs.138083.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138083.pdf.task_2435_0_1,TAXON_DOC_overlappingpdfs.138083.pdf.task_2435_25_25,amynodon sinensis,cadurcotherium,f
+531292,overlappingpdfs.131885.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131885.pdf.task_792_0_0,TAXON_DOC_overlappingpdfs.131885.pdf.task_792_2_2,rhipidomella,pholadella,f
+542739,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_12_13,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_18_18,didelphis marsupialis,vombatus,f
+430088,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_107_107,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_33_33,protobombus,boreallodape,f
+547950,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_84_85,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_51_51,tapejara imperator,lonchodectes,f
+481549,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_0_1,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_29_29,osteolaemus tetraspis,crocodylus,f
+448210,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_162_162,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_102_102,plecoptera,phasmatodea,f
+480993,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_83_84,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_114_114,asiatosuchus germanicus,gryposuchus,f
+509565,overlappingpdfs.133053.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133053.pdf.task_622_160_161,TAXON_DOC_overlappingpdfs.133053.pdf.task_622_175_175,irridinitus multiradiatus,vendella,f
+546998,overlappingpdfs.13950.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.13950.pdf.task_751_22_22,TAXON_DOC_overlappingpdfs.13950.pdf.task_751_29_29,cassidaria,teredina,f
+379317,overlappingpdfs.137951.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137951.pdf.task_243_0_1,TAXON_DOC_overlappingpdfs.137951.pdf.task_243_2_2,peridiomys rusticus,poamys,f
+497160,overlappingpdfs.133012.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133012.pdf.task_119_39_40,TAXON_DOC_overlappingpdfs.133012.pdf.task_119_70_70,hipparion molayanense,protoryx,f
+519665,overlappingpdfs.132630.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132630.pdf.task_501_19_19,TAXON_DOC_overlappingpdfs.132630.pdf.task_501_20_20,pachyrhachis,anilioidea,f
+504204,overlappingpdfs.132857.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132857.pdf.task_703_36_36,TAXON_DOC_overlappingpdfs.132857.pdf.task_703_40_40,sanchezaster,cardiasterina,f
+468550,overlappingpdfs.132785.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132785.pdf.task_487_17_17,TAXON_DOC_overlappingpdfs.132785.pdf.task_487_42_42,isectolophidae,chalicotherioidea,f
+569006,overlappingpdfs.131277.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131277.pdf.task_340_3_3,TAXON_DOC_overlappingpdfs.131277.pdf.task_340_7_7,graptolites,cyclocrinites,f
+574766,overlappingpdfs.138272.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138272.pdf.task_677_16_16,TAXON_DOC_overlappingpdfs.138272.pdf.task_677_26_26,cancrinella,overtonia,f
+444111,overlappingpdfs.138388.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138388.pdf.task_3157_14_14,TAXON_DOC_overlappingpdfs.138388.pdf.task_3157_10_10,cobitidae,pisces,f
+540519,overlappingpdfs.132524.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132524.pdf.task_526_18_18,TAXON_DOC_overlappingpdfs.132524.pdf.task_526_39_39,plesiosaurus,seeleyosaurus,f
+516892,overlappingpdfs.132707.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132707.pdf.task_87_0_2,TAXON_DOC_overlappingpdfs.132707.pdf.task_87_10_10,mickwitzia occidens,kutorgina,f
+418291,overlappingpdfs.132348.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132348.pdf.task_1547_3_4,TAXON_DOC_overlappingpdfs.132348.pdf.task_1547_19_19,dardanus hungaricus,daira,f
+492971,overlappingpdfs.1381.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1381.pdf.task_1034_26_27,TAXON_DOC_overlappingpdfs.1381.pdf.task_1034_0_0,cymodocea nodosa,zostera,f
+413159,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_63_64,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_81_81,pygoscelis papua,spheniscus,f
+418682,overlappingpdfs.132348.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132348.pdf.task_1547_21_22,TAXON_DOC_overlappingpdfs.132348.pdf.task_1547_11_11,charybdis mathiasi,kromtitis,f
+445335,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_242_242,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_23_23,cretatermes,cercopoidea,f
+388552,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_1270_67_68,TAXON_DOC_overlappingpdfs.138761.pdf.task_1270_70_70,vultur gryphus,struthio,f
+481912,overlappingpdfs.133016.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133016.pdf.task_90_22_22,TAXON_DOC_overlappingpdfs.133016.pdf.task_90_14_14,plectodiscus,porpitidae,f
+412792,overlappingpdfs.138644.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138644.pdf.task_3564_33_34,TAXON_DOC_overlappingpdfs.138644.pdf.task_3564_0_0,hilarimorphites setosa,helempis,f
+448505,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_317_317,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_57_57,stackelbergisca,sciadoceridae,f
+418676,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_69_70,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_43_43,chaoyangsaurus youngi,anabisetia,f
+543699,overlappingpdfs.131528.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131528.pdf.task_713_35_35,TAXON_DOC_overlappingpdfs.131528.pdf.task_713_27_27,glossocrinus,rhenocrinidae,f
+458592,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_224_224,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_269_269,siphlonurinae,siricidae,f
+441604,overlappingpdfs.132764.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_35_35,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_17_17,mamenchisaurus,dinosauria,f
+380685,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_328_329,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_212_212,apternodus mediaevus,talpa,f
+483895,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_118_119,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_20_20,siquisiquesuchus venezuelensis,crocodylus,f
+354930,overlappingpdfs.132874.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_549_550,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_201_201,otozoum moodii,edmontosaurus,f
+533624,overlappingpdfs.135557.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135557.pdf.task_238_2_2,TAXON_DOC_overlappingpdfs.135557.pdf.task_238_12_12,plerophyllum,tachylasma,f
+480179,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_91_92,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_122_122,stangerochampsa mccabei,argochampsa,f
+457961,overlappingpdfs.132255.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132255.pdf.task_373_19_19,TAXON_DOC_overlappingpdfs.132255.pdf.task_373_10_10,argentina,sauropoda,f
+374323,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_6_7,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_0_0,aspanlestes aptap,kennalestes,f
+550000,overlappingpdfs.130296.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_21_22,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_132_132,asterias rubens,strongylocentrotus,f
+566305,overlappingpdfs.132526.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132526.pdf.task_346_38_38,TAXON_DOC_overlappingpdfs.132526.pdf.task_346_21_21,acanthophiceras,otoceras,f
+562098,overlappingpdfs.138624.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138624.pdf.task_1555_15_15,TAXON_DOC_overlappingpdfs.138624.pdf.task_1555_41_41,proetus,dechenella,f
+448315,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_89_89,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_231_231,australiphemera,anaxyelidae,f
+566600,overlappingpdfs.135.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135.pdf.task_749_10_10,TAXON_DOC_overlappingpdfs.135.pdf.task_749_8_8,plesiosauroidea,reptilia,f
+346717,overlappingpdfs.131793.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131793.pdf.task_197_42_42,TAXON_DOC_overlappingpdfs.131793.pdf.task_197_26_26,schizophoria,leptaenisca,f
+548207,overlappingpdfs.136536.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136536.pdf.task_504_16_16,TAXON_DOC_overlappingpdfs.136536.pdf.task_504_21_21,schizophoria,pentagonia,f
+470068,overlappingpdfs.132401.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132401.pdf.task_638_12_13,TAXON_DOC_overlappingpdfs.132401.pdf.task_638_31_31,metriorhynchus acutus,geosaurus,f
+359649,overlappingpdfs.136141.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136141.pdf.task_279_9_9,TAXON_DOC_overlappingpdfs.136141.pdf.task_279_6_6,protaxocrinus,taxocrinidae,f
+555319,overlappingpdfs.132358.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132358.pdf.task_441_0_1,TAXON_DOC_overlappingpdfs.132358.pdf.task_441_16_16,orhomalus medericki,romania,f
+439736,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7210_14_14,TAXON_DOC_overlappingpdfs.138678.pdf.task_7210_12_12,apidae,hymenoptera,f
+478188,overlappingpdfs.137545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137545.pdf.task_1761_9_9,TAXON_DOC_overlappingpdfs.137545.pdf.task_1761_2_2,antilope,pecora,f
+573108,overlappingpdfs.132555.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132555.pdf.task_15_1_1,TAXON_DOC_overlappingpdfs.132555.pdf.task_15_10_10,nepiomorphia,praecardioida,f
+536466,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_6827_9_9,TAXON_DOC_overlappingpdfs.138632.pdf.task_6827_15_15,primates,rodentia,f
+399910,overlappingpdfs.133140.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133140.pdf.task_1302_11_11,TAXON_DOC_overlappingpdfs.133140.pdf.task_1302_15_15,phlebotomites,psychodinae,f
+369590,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_3954_15_15,TAXON_DOC_overlappingpdfs.138384.pdf.task_3954_22_22,solenodon,chrysochloridae,f
+389503,overlappingpdfs.132786.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132786.pdf.task_829_4_4,TAXON_DOC_overlappingpdfs.132786.pdf.task_829_6_6,anchitheriomys,rodentia,f
+466046,overlappingpdfs.136807.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136807.pdf.task_285_85_85,TAXON_DOC_overlappingpdfs.136807.pdf.task_285_18_18,cypricardella,platyrachella,f
+384840,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_613_29_30,TAXON_DOC_overlappingpdfs.138761.pdf.task_613_49_49,concornis lacustris,ichthyornis,f
+459937,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_167_167,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_320_320,protodelphax,psocoptera,f
+456482,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_188_188,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_144_144,porotermitinae,platypezidae,f
+431062,overlappingpdfs.132764.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_39_40,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_43_43,omeisaurus fuxiensis,gongbusaurus,f
+483322,overlappingpdfs.138237.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138237.pdf.task_179_36_36,TAXON_DOC_overlappingpdfs.138237.pdf.task_179_30_30,phenacodus,condylarthra,f
+420649,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_69_70,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_96_96,chaoyangsaurus youngi,scelidosaurus,f
+460189,overlappingpdfs.132817.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132817.pdf.task_793_2_3,TAXON_DOC_overlappingpdfs.132817.pdf.task_793_36_36,eremotherium eomigrans,promegatherium,f
+398379,overlappingpdfs.132925.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132925.pdf.task_514_37_37,TAXON_DOC_overlappingpdfs.132925.pdf.task_514_24_24,atrypa,lissatrypa,f
+524076,overlappingpdfs.132756.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132756.pdf.task_675_230_231,TAXON_DOC_overlappingpdfs.132756.pdf.task_675_196_196,ziphiodelphis abeli,ziphius,f
+357277,overlappingpdfs.132874.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_562_563,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_253_253,otozoum moodii,iguanodon,f
+448558,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_336_336,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_211_211,antonaphis,ampulicinae,f
+417924,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_19_20,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_2_2,fruitadens haagarorum,euparkeria,f
+409443,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_2364_36_37,TAXON_DOC_overlappingpdfs.138859.pdf.task_2364_46_46,icadyptes salasi,pachydyptes,f
+555080,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_456_8_8,TAXON_DOC_overlappingpdfs.135517.pdf.task_456_0_0,homomya,cucullaea,f
+490832,overlappingpdfs.139153.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139153.pdf.task_9_86_86,TAXON_DOC_overlappingpdfs.139153.pdf.task_9_48_48,didelphodus,therictoidea,f
+394472,overlappingpdfs.136450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136450.pdf.task_713_14_14,TAXON_DOC_overlappingpdfs.136450.pdf.task_713_27_27,pachylocrinus,rhenocrinidae,f
+513919,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_1403_4_4,TAXON_DOC_overlappingpdfs.132522.pdf.task_1403_32_32,leptellina,mjoesina,f
+442424,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7834_20_21,TAXON_DOC_overlappingpdfs.138678.pdf.task_7834_14_14,melissites trigona,meliponorytes,f
+349787,overlappingpdfs.138365.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138365.pdf.task_355_32_33,TAXON_DOC_overlappingpdfs.138365.pdf.task_355_0_0,enhydrocyon crassidens,carnivora,f
+478874,overlappingpdfs.132577.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132577.pdf.task_917_22_22,TAXON_DOC_overlappingpdfs.132577.pdf.task_917_16_16,cetotherium,eschrichtiidae,f
+558357,overlappingpdfs.133545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133545.pdf.task_1102_60_60,TAXON_DOC_overlappingpdfs.133545.pdf.task_1102_30_30,beecheria,dowhatania,f
+356484,overlappingpdfs.132272.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132272.pdf.task_91_24_25,TAXON_DOC_overlappingpdfs.132272.pdf.task_91_9_9,pseudodontornis longidentata,dasornis,f
+473713,overlappingpdfs.132970.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132970.pdf.task_2_4_4,TAXON_DOC_overlappingpdfs.132970.pdf.task_2_2_2,araneae,arthropoda,f
+355123,overlappingpdfs.132874.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_494_495,TAXON_DOC_overlappingpdfs.132874.pdf.task_1505_24_24,otozoum moodii,anatosaurus,f
+363565,overlappingpdfs.139033.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139033.pdf.task_157_9_9,TAXON_DOC_overlappingpdfs.139033.pdf.task_157_15_15,cyclomylus,bathyergidae,f
+517090,overlappingpdfs.1391.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1391.pdf.task_143_11_12,TAXON_DOC_overlappingpdfs.1391.pdf.task_143_21_21,owenetta kitchingorum,pintosaurus,f
+443511,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_20_20,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_6_6,boreallodape,eomacropidini,f
+398209,overlappingpdfs.133140.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133140.pdf.task_1302_8_9,TAXON_DOC_overlappingpdfs.133140.pdf.task_1302_0_0,protopsychoda nadiae,libanophlebotomus,f
+543516,overlappingpdfs.131528.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131528.pdf.task_725_12_12,TAXON_DOC_overlappingpdfs.131528.pdf.task_725_11_11,camptocrinus,dichocrinidae,f
+382097,overlappingpdfs.132173.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132173.pdf.task_714_3_3,TAXON_DOC_overlappingpdfs.132173.pdf.task_714_12_12,glyptochiton,polyplacophora,f
+462510,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7279_24_24,TAXON_DOC_overlappingpdfs.138613.pdf.task_7279_3_3,mesogenesia,membracoidea,f
+517612,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_31_32,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_2_2,joumocetus shimizui,georgiacetus,f
+419375,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_96_97,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_49_49,scelidosaurus harrisonii,dryosauridae,f
+465778,overlappingpdfs.139932.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139932.pdf.task_182_9_9,TAXON_DOC_overlappingpdfs.139932.pdf.task_182_33_33,antigona,architectonica,f
+557548,overlappingpdfs.133545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133545.pdf.task_1077_7_7,TAXON_DOC_overlappingpdfs.133545.pdf.task_1077_13_13,lissochonetes,calliprotonia,f
+553304,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_1049_6_7,TAXON_DOC_overlappingpdfs.135517.pdf.task_1049_52_52,protocardia striatula,serpula,f
+543229,overlappingpdfs.136536.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136536.pdf.task_858_46_46,TAXON_DOC_overlappingpdfs.136536.pdf.task_858_44_44,ambocoelia,elytha,f
+363608,overlappingpdfs.132551.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132551.pdf.task_1319_7_7,TAXON_DOC_overlappingpdfs.132551.pdf.task_1319_5_5,hondadelphys,sparassodonta,f
+471777,overlappingpdfs.131219.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131219.pdf.task_278_10_10,TAXON_DOC_overlappingpdfs.131219.pdf.task_278_1_1,pycnocrinus,glyptocrinidae,f
+423589,overlappingpdfs.132120.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132120.pdf.task_1133_0_1,TAXON_DOC_overlappingpdfs.132120.pdf.task_1133_12_12,corosaurus alcovensis,sauropterygia,f
+366294,overlappingpdfs.132064.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132064.pdf.task_192_6_7,TAXON_DOC_overlappingpdfs.132064.pdf.task_192_16_16,thelodus parvidens,andreolepis,f
+463439,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_179_179,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_110_110,protodiplatys,prophalangopsidae,f
+418510,overlappingpdfs.138658.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138658.pdf.task_4474_3_3,TAXON_DOC_overlappingpdfs.138658.pdf.task_4474_5_5,asteropyginae,trilobita,f
+416633,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_645_80_81,TAXON_DOC_overlappingpdfs.138859.pdf.task_645_72_72,eudyptes pachyrhynchus,spheniscus,f
+566458,overlappingpdfs.135.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135.pdf.task_195_1_2,TAXON_DOC_overlappingpdfs.135.pdf.task_195_12_12,cymatosaurus fridericianus,pistosaurus,f
+384971,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_7353_13_14,TAXON_DOC_overlappingpdfs.138761.pdf.task_7353_15_15,baptornis advenus,patagopteryx,f
+477158,overlappingpdfs.137545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137545.pdf.task_3631_41_41,TAXON_DOC_overlappingpdfs.137545.pdf.task_3631_23_23,toxodontia,placentalia,f
+566554,overlappingpdfs.132526.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132526.pdf.task_328_28_28,TAXON_DOC_overlappingpdfs.132526.pdf.task_328_22_22,acanthophiceras,aldanoceras,f
+350830,overlappingpdfs.138365.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138365.pdf.task_738_45_46,TAXON_DOC_overlappingpdfs.138365.pdf.task_738_26_26,diceratherium gregorii,nothocyon,f
+481757,overlappingpdfs.132608.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_116_117,TAXON_DOC_overlappingpdfs.132608.pdf.task_314_67_67,ikanogavialis gameroi,kentisuchus,f
+404916,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_2066_21_22,TAXON_DOC_overlappingpdfs.138859.pdf.task_2066_10_10,perudyptes devriesi,palaeospheniscus,f
+409038,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_837_58_59,TAXON_DOC_overlappingpdfs.138859.pdf.task_837_80_80,spheniscus megaramphus,eudyptes,f
+504446,overlappingpdfs.132501.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132501.pdf.task_198_11_11,TAXON_DOC_overlappingpdfs.132501.pdf.task_198_43_43,megalosaurus,dubreuillosaurus,f
+444157,overlappingpdfs.1336.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1336.pdf.task_1078_32_33,TAXON_DOC_overlappingpdfs.1336.pdf.task_1078_24_24,propalorchestes novaculacephalus,warendja,f
+381898,overlappingpdfs.132964.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132964.pdf.task_94_65_65,TAXON_DOC_overlappingpdfs.132964.pdf.task_94_22_22,ptychagnostus,onymagnostus,f
+422649,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_412_14_15,TAXON_DOC_overlappingpdfs.132216.pdf.task_412_7_7,orodromeus makelai,hypsilophodon,f
+496104,overlappingpdfs.138538.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138538.pdf.task_1936_54_54,TAXON_DOC_overlappingpdfs.138538.pdf.task_1936_40_40,andinacaste,phacopina,f
+453287,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_73_73,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_429_429,atalophlebia,architendipedidae,f
+442856,overlappingpdfs.138388.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138388.pdf.task_1867_23_23,TAXON_DOC_overlappingpdfs.138388.pdf.task_1867_15_15,anguillidae,saccopharyngiformes,f
+413698,overlappingpdfs.132444.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132444.pdf.task_805_0_0,TAXON_DOC_overlappingpdfs.132444.pdf.task_805_25_25,tridacna,tonga,f
+357906,overlappingpdfs.138679.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138679.pdf.task_774_36_37,TAXON_DOC_overlappingpdfs.138679.pdf.task_774_11_11,prionocyclus wyomingensis,ammonites,f
+476936,overlappingpdfs.137545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137545.pdf.task_3582_13_13,TAXON_DOC_overlappingpdfs.137545.pdf.task_3582_19_19,paloplotherium,rhinoceros,f
+458147,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7279_16_16,TAXON_DOC_overlappingpdfs.138613.pdf.task_7279_109_109,mesobaetis,muscomorpha,f
+467519,overlappingpdfs.138834.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138834.pdf.task_4256_111_112,TAXON_DOC_overlappingpdfs.138834.pdf.task_4256_288_288,notosuchus terrestris,bretesuchus,f
+422114,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_41_42,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_0_0,hypsilophodon foxii,marasuchus,f
+473069,overlappingpdfs.138385.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138385.pdf.task_2526_59_59,TAXON_DOC_overlappingpdfs.138385.pdf.task_2526_42_42,tupaioidea,erinaceomorpha,f
+372910,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_3735_20_20,TAXON_DOC_overlappingpdfs.138384.pdf.task_3735_8_8,uintacyon,vulpavus,f
+420145,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_35_36,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_0_0,zephyrosaurus schaffi,marasuchus,f
+361551,overlappingpdfs.132793.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132793.pdf.task_139_3_3,TAXON_DOC_overlappingpdfs.132793.pdf.task_139_14_14,karatavites,paroryssidae,f
+359301,overlappingpdfs.135412.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135412.pdf.task_234_29_29,TAXON_DOC_overlappingpdfs.135412.pdf.task_234_53_53,karsteniceras,pulchelliidae,f
+577751,overlappingpdfs.132555.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132555.pdf.task_82_13_13,TAXON_DOC_overlappingpdfs.132555.pdf.task_82_24_24,palaeoconcha,solemyidae,f
+434141,overlappingpdfs.132764.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132764.pdf.task_698_34_34,TAXON_DOC_overlappingpdfs.132764.pdf.task_698_6_6,xiaosaurus,theropoda,f
+523461,overlappingpdfs.132473.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132473.pdf.task_1109_11_11,TAXON_DOC_overlappingpdfs.132473.pdf.task_1109_24_24,adamantisaurus,nemegtosauridae,f
+415369,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_766_58_59,TAXON_DOC_overlappingpdfs.138859.pdf.task_766_56_56,spheniscus megaramphus,eudyptula,f
+387095,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_3580_11_12,TAXON_DOC_overlappingpdfs.138761.pdf.task_3580_1_1,ichthyornis dispar,confuciusornis,f
+433940,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_77_78,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_37_37,electrobombus samlandensis,electrolictus,f
+576619,overlappingpdfs.133101.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133101.pdf.task_450_7_8,TAXON_DOC_overlappingpdfs.133101.pdf.task_450_26_26,pucadelphys andinus,caluromys,f
+423765,overlappingpdfs.133097.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133097.pdf.task_896_9_9,TAXON_DOC_overlappingpdfs.133097.pdf.task_896_26_26,ptilocercus,plesiadapiformes,f
+395867,overlappingpdfs.137475.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137475.pdf.task_12_19_19,TAXON_DOC_overlappingpdfs.137475.pdf.task_12_30_30,spirifer,syringothyris,f
+514917,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_47_48,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_61_61,diorocetus hiatus,titanocetus,f
+433337,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_8641_244_244,TAXON_DOC_overlappingpdfs.138678.pdf.task_8641_118_118,electrapis,ctenoplectrellina,f
+376314,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1022_39_40,TAXON_DOC_overlappingpdfs.138709.pdf.task_1022_75_75,apternodus major,micropternodus,f
+375253,overlappingpdfs.132196.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_10_10,TAXON_DOC_overlappingpdfs.132196.pdf.task_122_7_7,thalassemys,plesiochelyidae,f
+352673,overlappingpdfs.138375.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138375.pdf.task_439_24_24,TAXON_DOC_overlappingpdfs.138375.pdf.task_439_3_3,solemyacea,gastropoda,f
+385991,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_7229_41_42,TAXON_DOC_overlappingpdfs.138761.pdf.task_7229_45_45,neuquenornis volans,vorona,f
+380987,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_496_41_41,TAXON_DOC_overlappingpdfs.138709.pdf.task_496_39_39,koniaryctes,parapternodontidae,f
+445730,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_6854_12_13,TAXON_DOC_overlappingpdfs.138613.pdf.task_6854_7_7,spaniotoma conservata,orthocladiinae,f
+376982,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_0_1,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_8_8,aspanlestes aptap,parazhelestes,f
+371990,overlappingpdfs.133024.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133024.pdf.task_276_5_5,TAXON_DOC_overlappingpdfs.133024.pdf.task_276_9_9,diatryma,anserimorphae,f
+500401,overlappingpdfs.130595.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130595.pdf.task_1066_43_43,TAXON_DOC_overlappingpdfs.130595.pdf.task_1066_37_37,ampullospira,parallelodon,f
+437667,overlappingpdfs.1336.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1336.pdf.task_1076_2_3,TAXON_DOC_overlappingpdfs.1336.pdf.task_1076_34_34,cercartetus lepidus,ngapakaldia,f
+517994,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_53_54,TAXON_DOC_overlappingpdfs.132112.pdf.task_83_18_18,piscobalaena nana,balaenula,f
+421235,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_656_11_12,TAXON_DOC_overlappingpdfs.132216.pdf.task_656_5_5,scelidosaurus harrisonii,heterodontosaurus,f
+414689,overlappingpdfs.138644.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138644.pdf.task_3556_101_102,TAXON_DOC_overlappingpdfs.138644.pdf.task_3556_58_58,archisciada lebanensis,archichrysotus,f
+555283,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_848_18_18,TAXON_DOC_overlappingpdfs.135517.pdf.task_848_9_9,camptonectes,telothyris,f
+475391,overlappingpdfs.132206.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132206.pdf.task_12_7_8,TAXON_DOC_overlappingpdfs.132206.pdf.task_12_13_13,lensataphrus tenuis,cylindrobullina,f
+479331,overlappingpdfs.132230.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132230.pdf.task_67_27_27,TAXON_DOC_overlappingpdfs.132230.pdf.task_67_67_67,diplura,trichoptera,f
+521589,overlappingpdfs.130636.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130636.pdf.task_33_62_62,TAXON_DOC_overlappingpdfs.130636.pdf.task_33_31_31,radiolaria,cnidaria,f
+378821,overlappingpdfs.137951.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137951.pdf.task_3723_69_70,TAXON_DOC_overlappingpdfs.137951.pdf.task_3723_44_44,blastomeryx marshi,capreolus,f
+465416,overlappingpdfs.138834.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138834.pdf.task_626_43_44,TAXON_DOC_overlappingpdfs.138834.pdf.task_626_36_36,zosuchus davidsoni,gobiosuchus,f
+515829,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_1026_6_7,TAXON_DOC_overlappingpdfs.132112.pdf.task_1026_15_15,cophocetus oregonensis,diorocetus,f
+364108,overlappingpdfs.132793.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132793.pdf.task_47_2_2,TAXON_DOC_overlappingpdfs.132793.pdf.task_47_8_8,cephalciinae,sepulcidae,f
+493993,overlappingpdfs.132955.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132955.pdf.task_933_22_23,TAXON_DOC_overlappingpdfs.132955.pdf.task_933_51_51,rutiodon carolinensis,pseudopalatus,f
+375692,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2864_12_13,TAXON_DOC_overlappingpdfs.138745.pdf.task_2864_2_2,protungulatum donnae,sailestes,f
+502397,overlappingpdfs.132812.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132812.pdf.task_196_22_22,TAXON_DOC_overlappingpdfs.132812.pdf.task_196_15_15,vallisia,heterodontiformes,f
+557712,overlappingpdfs.132829.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132829.pdf.task_9_10_10,TAXON_DOC_overlappingpdfs.132829.pdf.task_9_2_2,hemiaster,hemiasterina,f
+483335,overlappingpdfs.138329.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138329.pdf.task_643_53_53,TAXON_DOC_overlappingpdfs.138329.pdf.task_643_0_0,chama,pelecypoda,f
+509596,overlappingpdfs.132836.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132836.pdf.task_623_41_42,TAXON_DOC_overlappingpdfs.132836.pdf.task_623_15_15,canningella expansa,aulocopoides,f
+567820,overlappingpdfs.132526.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132526.pdf.task_329_37_37,TAXON_DOC_overlappingpdfs.132526.pdf.task_329_28_28,metophiceras,hypophiceras,f
+411810,overlappingpdfs.138644.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138644.pdf.task_12_57_57,TAXON_DOC_overlappingpdfs.138644.pdf.task_12_15_15,chimeromyia,trichopezinae,f
+450576,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_249_249,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_82_82,cretatermitinae,chrysopidae,f
+545757,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_65_65,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_16_16,nyctosaurus,beipiaopterus,f
+532282,overlappingpdfs.138877.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138877.pdf.task_131_54_54,TAXON_DOC_overlappingpdfs.138877.pdf.task_131_59_59,rubiaceae,sapotaceae,f
+445542,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_68_68,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_188_188,patulopes,porotermitinae,f
+411622,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_783_58_59,TAXON_DOC_overlappingpdfs.138859.pdf.task_783_80_80,spheniscus megaramphus,eudyptes,f
+475579,overlappingpdfs.138385.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138385.pdf.task_2761_1_1,TAXON_DOC_overlappingpdfs.138385.pdf.task_2761_27_27,galericinae,soricidae,f
+374890,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_18_19,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_12_12,parazhelestes minor,protungulatum,f
+403818,overlappingpdfs.132761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132761.pdf.task_132_35_36,TAXON_DOC_overlappingpdfs.132761.pdf.task_132_33_33,trigonotreta lyonsensis,kiangsiella,f
+419051,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_4_5,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_59_59,herrerasaurus ischigualastensis,gasparinisaura,f
+395346,overlappingpdfs.132397.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_19_20,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_79_79,baurusuchus pachecoi,peirosaurus,f
+416182,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_44_45,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_65_65,palaeospheniscus patagonicus,eudyptula,f
+538640,overlappingpdfs.132447.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132447.pdf.task_387_7_7,TAXON_DOC_overlappingpdfs.132447.pdf.task_387_5_5,neritopsina,gastropoda,f
+465082,overlappingpdfs.136807.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136807.pdf.task_264_100_100,TAXON_DOC_overlappingpdfs.136807.pdf.task_264_85_85,cyrtina,nuculoidea,f
+458716,overlappingpdfs.130183.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130183.pdf.task_163_23_25,TAXON_DOC_overlappingpdfs.130183.pdf.task_163_30_30,angulogerina angulosa,anomalinella,f
+557721,overlappingpdfs.132829.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132829.pdf.task_1259_41_41,TAXON_DOC_overlappingpdfs.132829.pdf.task_1259_14_14,micraster,toxaster,f
+508696,overlappingpdfs.135208.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135208.pdf.task_112_12_12,TAXON_DOC_overlappingpdfs.135208.pdf.task_112_19_19,cleiothyridina,parallelora,f
+446878,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_401_401,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_369_369,araripogon,calliphoridae,f
+464776,overlappingpdfs.138834.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138834.pdf.task_4266_6_7,TAXON_DOC_overlappingpdfs.138834.pdf.task_4266_49_49,dakosaurus andiniensis,dyrosaurus,f
+419814,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_25_26,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_27_27,lesothosaurus diagnosticus,stormbergia,f
+513042,overlappingpdfs.132742.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132742.pdf.task_1198_26_26,TAXON_DOC_overlappingpdfs.132742.pdf.task_1198_14_14,balaenula,caperea,f
+379678,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_3215_10_11,TAXON_DOC_overlappingpdfs.138745.pdf.task_3215_21_21,zhelestes temirkazyk,avitotherium,f
+388217,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_4287_8_9,TAXON_DOC_overlappingpdfs.138761.pdf.task_4287_11_11,ichthyornis dispar,baptornis,f
+516494,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_84_15_16,TAXON_DOC_overlappingpdfs.132112.pdf.task_84_7_7,balaenoptera edeni,megaptera,f
+377052,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_340_341,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_132_132,apternodus mediaevus,erinaceus,f
+530012,overlappingpdfs.138601.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138601.pdf.task_401_5_5,TAXON_DOC_overlappingpdfs.138601.pdf.task_401_12_12,curtonotum,muscomorpha,f
+399221,overlappingpdfs.1371.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1371.pdf.task_708_11_11,TAXON_DOC_overlappingpdfs.1371.pdf.task_708_9_9,cryptodira,reptilia,f
+566225,overlappingpdfs.133015.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133015.pdf.task_399_40_41,TAXON_DOC_overlappingpdfs.133015.pdf.task_399_53_53,dryadia acanthopoda,china,f
+528391,overlappingpdfs.132971.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132971.pdf.task_946_18_18,TAXON_DOC_overlappingpdfs.132971.pdf.task_946_29_29,sellaea,caprinidae,f
+418051,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_63_64,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_84_84,changchunsaurus parvus,leptoceratopsidae,f
+369511,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_2488_6_7,TAXON_DOC_overlappingpdfs.138384.pdf.task_2488_57_57,prolimnocyon atavus,sinopa,f
+351474,overlappingpdfs.138578.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138578.pdf.task_399_60_60,TAXON_DOC_overlappingpdfs.138578.pdf.task_399_24_24,ptychopteria,nuculites,f
+506213,overlappingpdfs.131702.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131702.pdf.task_668_11_11,TAXON_DOC_overlappingpdfs.131702.pdf.task_668_16_16,megalomphala,gastropoda,f
+502607,overlappingpdfs.133121.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133121.pdf.task_335_17_17,TAXON_DOC_overlappingpdfs.133121.pdf.task_335_9_9,hamites,eoscaphites,f
+444168,overlappingpdfs.132764.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_35_36,TAXON_DOC_overlappingpdfs.132764.pdf.task_703_31_31,mamenchisaurus hochuanensis,sauropoda,f
+541274,overlappingpdfs.132304.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132304.pdf.task_451_8_8,TAXON_DOC_overlappingpdfs.132304.pdf.task_451_4_4,calosargus,archisargus,f
+438345,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_60_60,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_4_4,electrapis,electrobombini,f
+487158,overlappingpdfs.135105.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135105.pdf.task_163_44_45,TAXON_DOC_overlappingpdfs.135105.pdf.task_163_238_238,asterigerina carinata,planorbulinella,f
+511617,overlappingpdfs.132096.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132096.pdf.task_1427_13_14,TAXON_DOC_overlappingpdfs.132096.pdf.task_1427_27_27,nemacanthus monilifer,synechodontiformes,f
+465776,overlappingpdfs.138834.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138834.pdf.task_4257_88_89,TAXON_DOC_overlappingpdfs.138834.pdf.task_4257_31_31,peirosaurus torminni,araripesuchus,f
+369864,overlappingpdfs.136548.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136548.pdf.task_257_18_19,TAXON_DOC_overlappingpdfs.136548.pdf.task_257_29_29,lingula carbonaria,bellerophon,f
+569179,overlappingpdfs.137150.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.137150.pdf.task_375_0_0,TAXON_DOC_overlappingpdfs.137150.pdf.task_375_2_2,simia,cercopithecus,f
+394649,overlappingpdfs.139183.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139183.pdf.task_105_27_27,TAXON_DOC_overlappingpdfs.139183.pdf.task_105_36_36,squalodon,saurodelphis,f
+396173,overlappingpdfs.132397.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_37_38,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_57_57,itasuchus jesuinoi,mariliasuchus,f
+496529,overlappingpdfs.133012.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133012.pdf.task_466_11_11,TAXON_DOC_overlappingpdfs.133012.pdf.task_466_1_1,erinaceus,insectivora,f
+560668,overlappingpdfs.132829.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132829.pdf.task_735_89_89,TAXON_DOC_overlappingpdfs.132829.pdf.task_735_99_99,micraster,macraster,f
+382223,overlappingpdfs.130665.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130665.pdf.task_18_25_26,TAXON_DOC_overlappingpdfs.130665.pdf.task_18_42_42,anabarella plana,watsonella,f
+411821,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_44_45,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_89_89,palaeospheniscus patagonicus,eudyptes,f
+519101,overlappingpdfs.132435.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132435.pdf.task_613_6_7,TAXON_DOC_overlappingpdfs.132435.pdf.task_613_9_10,annulicorona pyramidalis,glabrisubcorona,f
+501475,overlappingpdfs.133121.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133121.pdf.task_200_20_20,TAXON_DOC_overlappingpdfs.133121.pdf.task_200_18_18,hamites,hamitella,f
+352053,overlappingpdfs.138365.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138365.pdf.task_355_32_33,TAXON_DOC_overlappingpdfs.138365.pdf.task_355_70_70,enhydrocyon crassidens,hyracodon,f
+576403,overlappingpdfs.138665.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138665.pdf.task_3765_585_586,TAXON_DOC_overlappingpdfs.138665.pdf.task_3765_79_79,temujinia ellisoni,carusia,f
+371723,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_6296_44_44,TAXON_DOC_overlappingpdfs.138384.pdf.task_6296_38_38,apheliscus,apatemyidae,f
+378312,overlappingpdfs.130910.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130910.pdf.task_293_18_19,TAXON_DOC_overlappingpdfs.130910.pdf.task_293_27_27,thecosmilia rugosa,styllophyllidae,f
+446549,overlappingpdfs.136699.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136699.pdf.task_627_5_5,TAXON_DOC_overlappingpdfs.136699.pdf.task_627_11_11,atrypa,productella,f
+408848,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_457_28_28,TAXON_DOC_overlappingpdfs.138622.pdf.task_457_38_38,tomarctus,borophaginae,f
+379234,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_340_341,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_24_24,apternodus mediaevus,blarina,f
+541076,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_64_65,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_18_18,manis gigantea,vombatus,f
+381500,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_358_359,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_138_138,apternodus mediaevus,erinaceus,f
+346670,overlappingpdfs.138578.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138578.pdf.task_408_63_63,TAXON_DOC_overlappingpdfs.138578.pdf.task_408_32_32,gosseletia,grammysioidea,f
+445745,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_109_109,TAXON_DOC_overlappingpdfs.138613.pdf.task_7260_171_171,cicadidae,coleoptera,f
+437855,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_62_63,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_104_104,boreallodape mollyae,paleomelitta,f
+421267,overlappingpdfs.132348.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132348.pdf.task_141_3_4,TAXON_DOC_overlappingpdfs.132348.pdf.task_141_16_16,daira speciosa,tarbellastraea,f
+430291,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7210_16_16,TAXON_DOC_overlappingpdfs.138678.pdf.task_7210_12_12,apinae,hymenoptera,f
+358578,overlappingpdfs.132981.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132981.pdf.task_6_49_50,TAXON_DOC_overlappingpdfs.132981.pdf.task_6_55_55,apatecosia inornata,digonella,f
+416785,overlappingpdfs.132444.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132444.pdf.task_899_20_20,TAXON_DOC_overlappingpdfs.132444.pdf.task_899_5_5,fraginae,bivalvia,f
+375355,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2864_0_1,TAXON_DOC_overlappingpdfs.138745.pdf.task_2864_6_6,kennalestes gobiensis,aspanlestes,f
+451199,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_101_101,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_3_3,limaiinae,labiidae,f
+366701,overlappingpdfs.136806.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136806.pdf.task_512_19_19,TAXON_DOC_overlappingpdfs.136806.pdf.task_512_6_6,leptodesma,camarotoechia,f
+434991,overlappingpdfs.132236.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132236.pdf.task_821_7_7,TAXON_DOC_overlappingpdfs.132236.pdf.task_821_3_3,buprestinae,coleoptera,f
+464429,overlappingpdfs.138531.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138531.pdf.task_169_30_30,TAXON_DOC_overlappingpdfs.138531.pdf.task_169_17_17,dinochelys,baenidae,f
+541657,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_954_45_46,TAXON_DOC_overlappingpdfs.138632.pdf.task_954_27_27,patriomanis americanus,manis,f
+459425,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_47_47,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_21_21,paraleptophlebia,palingeniidae,f
+418388,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_35_36,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_25_25,zephyrosaurus schaffi,lesothosaurus,f
+351203,overlappingpdfs.132532.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132532.pdf.task_1117_3_4,TAXON_DOC_overlappingpdfs.132532.pdf.task_1117_17_17,syllomus aegyptiacus,chelonia,f
+557079,overlappingpdfs.133.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133.pdf.task_259_27_27,TAXON_DOC_overlappingpdfs.133.pdf.task_259_16_16,carcharodontosaurus,majungatholus,f
+558131,overlappingpdfs.133545.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133545.pdf.task_1110_31_31,TAXON_DOC_overlappingpdfs.133545.pdf.task_1110_39_39,composita,eomarginifera,f
+390913,overlappingpdfs.1303.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1303.pdf.task_98_48_48,TAXON_DOC_overlappingpdfs.1303.pdf.task_98_36_36,phonocdromus,palaeothentoidea,f
+521886,overlappingpdfs.132630.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132630.pdf.task_501_50_50,TAXON_DOC_overlappingpdfs.132630.pdf.task_501_13_13,xenosauridae,amphisbaenia,f
+453145,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_11_11,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_80_80,palaeoforda,pemphredoninae,f
+464038,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_13_13,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_313_313,architipulidae,anisozygoptera,f
+534226,overlappingpdfs.131885.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131885.pdf.task_766_55_55,TAXON_DOC_overlappingpdfs.131885.pdf.task_766_63_63,pleurotomaria,platyrachella,f
+555521,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_848_24_24,TAXON_DOC_overlappingpdfs.135517.pdf.task_848_20_20,arcomytilus,eopecten,f
+461587,overlappingpdfs.132817.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132817.pdf.task_184_77_78,TAXON_DOC_overlappingpdfs.132817.pdf.task_184_69_69,megatherium sundti,megatheriinae,f
+376701,overlappingpdfs.132196.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132196.pdf.task_120_7_8,TAXON_DOC_overlappingpdfs.132196.pdf.task_120_22_22,kayentachelys aprix,niolamia,f
+491837,overlappingpdfs.139153.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139153.pdf.task_68_0_1,TAXON_DOC_overlappingpdfs.139153.pdf.task_68_5_5,deltatheridium pretrituberculare,deltatheroides,f
+387740,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_702_43_44,TAXON_DOC_overlappingpdfs.138761.pdf.task_702_6_6,confuciusornis sanctus,iaceornis,f
+465101,overlappingpdfs.136807.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136807.pdf.task_766_15_15,TAXON_DOC_overlappingpdfs.136807.pdf.task_766_35_35,cypricardella,nuculites,f
+365869,overlappingpdfs.132406.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132406.pdf.task_726_9_10,TAXON_DOC_overlappingpdfs.132406.pdf.task_726_23_23,pelocetus calvertensis,chonecetus,f
+458011,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_258_258,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_13_13,siphonaptera,scarabaeidae,f
+425296,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_71_72,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_19_19,stenopelix valdensis,fruitadens,f
+427318,overlappingpdfs.133052.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133052.pdf.task_410_8_8,TAXON_DOC_overlappingpdfs.133052.pdf.task_410_13_13,subterraniphyllum,mastophoroideae,f
+469000,overlappingpdfs.133117.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133117.pdf.task_731_41_41,TAXON_DOC_overlappingpdfs.133117.pdf.task_731_43_43,lingulella,lingula,f
+554544,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_1049_20_20,TAXON_DOC_overlappingpdfs.135517.pdf.task_1049_1_1,palaeonucula,parvamussium,f
+466472,overlappingpdfs.136807.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136807.pdf.task_402_15_15,TAXON_DOC_overlappingpdfs.136807.pdf.task_402_5_5,cypricardella,tropidoleptus,f
+499269,overlappingpdfs.133121.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133121.pdf.task_335_5_5,TAXON_DOC_overlappingpdfs.133121.pdf.task_335_29_29,scaphites,proturrilitoides,f
+568910,overlappingpdfs.132690.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132690.pdf.task_63_25_26,TAXON_DOC_overlappingpdfs.132690.pdf.task_63_11_11,pliotaxidea garberi,dipoides,f
+415417,overlappingpdfs.132444.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_86_86,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_70_70,globularia,tectarius,f
+568834,overlappingpdfs.131066.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131066.pdf.task_28_30_30,TAXON_DOC_overlappingpdfs.131066.pdf.task_28_18_18,trypanopora,tentaculitoidea,f
+397562,overlappingpdfs.1371.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1371.pdf.task_547_13_14,TAXON_DOC_overlappingpdfs.1371.pdf.task_547_21_21,dorsetochelys delairi,neurankylus,f
+537546,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_956_0_1,TAXON_DOC_overlappingpdfs.138632.pdf.task_956_4_4,dasypus novemcinctus,myrmecophagidae,f
+378394,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_2794_24_25,TAXON_DOC_overlappingpdfs.138709.pdf.task_2794_29_29,apternodus dasophylakas,apternodontidae,f
+437878,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_154_38_38,TAXON_DOC_overlappingpdfs.138678.pdf.task_154_6_6,protobombus,chalcobombus,f
+557527,overlappingpdfs.138540.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138540.pdf.task_40_13_14,TAXON_DOC_overlappingpdfs.138540.pdf.task_40_28_28,moropus elatus,ancylotherium,f
+485378,overlappingpdfs.132298.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132298.pdf.task_36_17_18,TAXON_DOC_overlappingpdfs.132298.pdf.task_36_22_22,azendohsaurus laaroussii,dinosauria,f
+542869,overlappingpdfs.132502.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132502.pdf.task_1223_5_5,TAXON_DOC_overlappingpdfs.132502.pdf.task_1223_7_7,cricetidae,rodentia,f
+457344,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7287_45_45,TAXON_DOC_overlappingpdfs.138613.pdf.task_7287_70_70,tajmyraphis,roproniidae,f
+435658,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_102_103,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_26_26,protobombus tristellus,oligochlora,f
+568481,overlappingpdfs.132481.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132481.pdf.task_186_19_20,TAXON_DOC_overlappingpdfs.132481.pdf.task_186_33_33,pardosuchus whaitsi,lycosuchus,f
+543382,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_84_85,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_59_59,tapejara imperator,istiodactylus,f
+397825,overlappingpdfs.133140.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133140.pdf.task_1460_22_22,TAXON_DOC_overlappingpdfs.133140.pdf.task_1460_17_17,protopsychoda,trichomyiinae,f
+356334,overlappingpdfs.138450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138450.pdf.task_676_11_12,TAXON_DOC_overlappingpdfs.138450.pdf.task_676_4_4,palatobaena bairdi,plesiobaena,f
+375995,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_0_1,TAXON_DOC_overlappingpdfs.138745.pdf.task_2857_4_4,kennalestes gobiensis,paranyctoides,f
+575281,overlappingpdfs.133101.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133101.pdf.task_522_14_14,TAXON_DOC_overlappingpdfs.133101.pdf.task_522_7_7,sarcophilus,didelphidae,f
+472315,overlappingpdfs.132970.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132970.pdf.task_17_34_34,TAXON_DOC_overlappingpdfs.132970.pdf.task_17_36_36,nephila,tetragnathidae,f
+463429,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_5419_10_10,TAXON_DOC_overlappingpdfs.138613.pdf.task_5419_8_8,proctotrupoidea,hymenoptera,f
+430356,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_110_111,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_10_10,protolithurgus ditomeus,paleomelittidae,f
+551963,overlappingpdfs.130296.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_21_21,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_53_53,asterias,blastoidea,f
+378117,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_273_274,TAXON_DOC_overlappingpdfs.138709.pdf.task_1623_164_164,apternodus brevirostris,setifer,f
+542950,overlappingpdfs.136536.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136536.pdf.task_858_26_26,TAXON_DOC_overlappingpdfs.136536.pdf.task_858_34_34,atrypa,meristina,f
+395823,overlappingpdfs.136450.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136450.pdf.task_702_8_8,TAXON_DOC_overlappingpdfs.136450.pdf.task_702_7_7,cosmetocrinus,aphelocrinidae,f
+565043,overlappingpdfs.132705.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132705.pdf.task_179_14_14,TAXON_DOC_overlappingpdfs.132705.pdf.task_179_2_2,celinapterix,tropiduchidae,f
+443588,overlappingpdfs.138083.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138083.pdf.task_51_1_2,TAXON_DOC_overlappingpdfs.138083.pdf.task_51_12_12,pondaungia cotteri,amphipithecus,f
+522635,overlappingpdfs.132317.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132317.pdf.task_806_12_13,TAXON_DOC_overlappingpdfs.132317.pdf.task_806_0_0,brachysuchus megalodon,euparkeria,f
+445930,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_34_34,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_82_82,pristiplocia,sciophilinae,f
+392785,overlappingpdfs.138671.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138671.pdf.task_3218_22_22,TAXON_DOC_overlappingpdfs.138671.pdf.task_3218_2_2,halictus,halictini,f
+545827,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_65_65,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_31_31,nyctosaurus,pterodactylus,f
+353875,overlappingpdfs.136715.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136715.pdf.task_186_25_25,TAXON_DOC_overlappingpdfs.136715.pdf.task_186_3_3,carinagypa,machaeraria,f
+457438,overlappingpdfs.132963.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132963.pdf.task_389_27_27,TAXON_DOC_overlappingpdfs.132963.pdf.task_389_4_4,cistecynodon,chiniquodontidae,f
+460250,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7269_46_46,TAXON_DOC_overlappingpdfs.138613.pdf.task_7269_34_34,gryllinae,gonolabididae,f
+441677,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_8642_143_143,TAXON_DOC_overlappingpdfs.138678.pdf.task_8642_165_165,melikertes,bombus,f
+431449,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_60_60,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_15_15,electrapis,ctenoplectrellina,f
+449091,overlappingpdfs.132516.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132516.pdf.task_204_18_18,TAXON_DOC_overlappingpdfs.132516.pdf.task_204_14_14,glyptoconularia,conularina,f
+483675,overlappingpdfs.138329.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138329.pdf.task_643_48_49,TAXON_DOC_overlappingpdfs.138329.pdf.task_643_8_8,cardium consors,antigona,f
+497963,overlappingpdfs.133121.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133121.pdf.task_748_9_9,TAXON_DOC_overlappingpdfs.133121.pdf.task_748_55_55,hamites,eoscaphites,f
+443303,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_35_35,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_23_23,electrobombus,protolithurgini,f
+380485,overlappingpdfs.133094.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133094.pdf.task_155_12_12,TAXON_DOC_overlappingpdfs.133094.pdf.task_155_2_2,kokenospira,bellerophontidae,f
+566652,overlappingpdfs.132526.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132526.pdf.task_328_28_28,TAXON_DOC_overlappingpdfs.132526.pdf.task_328_38_38,acanthophiceras,otoceras,f
+547358,overlappingpdfs.132745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132745.pdf.task_262_3_3,TAXON_DOC_overlappingpdfs.132745.pdf.task_262_2_2,bairdia,bairdiacea,f
+505378,overlappingpdfs.138572.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138572.pdf.task_1342_12_12,TAXON_DOC_overlappingpdfs.138572.pdf.task_1342_6_6,tibia,patella,f
+551785,overlappingpdfs.130296.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_67_67,TAXON_DOC_overlappingpdfs.130296.pdf.task_375_66_66,brisaster,echinoidea,f
+469525,overlappingpdfs.132785.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132785.pdf.task_476_10_10,TAXON_DOC_overlappingpdfs.132785.pdf.task_476_4_4,pachynolophus,equoidea,f
+485609,overlappingpdfs.139044.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.139044.pdf.task_144_23_23,TAXON_DOC_overlappingpdfs.139044.pdf.task_144_18_18,trachodon,protiguanodon,f
+471601,overlappingpdfs.132401.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132401.pdf.task_585_1_2,TAXON_DOC_overlappingpdfs.132401.pdf.task_585_4_4,dakosaurus andiniensis,geosaurus,f
+399804,overlappingpdfs.138044.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138044.pdf.task_76_5_5,TAXON_DOC_overlappingpdfs.138044.pdf.task_76_12_12,alectrosaurus,dromaeosaurinae,f
+406595,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_72_73,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_59_59,spheniscus urbinai,pygoscelis,f
+444896,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_130_131,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_116_116,succinapis micheneri,roussyana,f
+566017,overlappingpdfs.132481.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132481.pdf.task_388_25_26,TAXON_DOC_overlappingpdfs.132481.pdf.task_388_21_21,eotitanosuchus olsoni,molybdopygus,f
+360563,overlappingpdfs.138593.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138593.pdf.task_3252_49_50,TAXON_DOC_overlappingpdfs.138593.pdf.task_3252_0_0,cycloderma aubryi,trionychidae,f
+547694,overlappingpdfs.132503.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_4_5,TAXON_DOC_overlappingpdfs.132503.pdf.task_365_31_31,boreopterus cuiae,pterodactylus,f
+450441,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_336_336,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_264_264,antonaphis,blattodea,f
+444311,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_57_58,TAXON_DOC_overlappingpdfs.138678.pdf.task_134_99_99,ctenoplectrella grimaldii,succinapis,f
+493434,overlappingpdfs.132506.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132506.pdf.task_314_10_10,TAXON_DOC_overlappingpdfs.132506.pdf.task_314_6_6,proscopiidae,orthoptera,f
+554493,overlappingpdfs.135517.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135517.pdf.task_1091_17_17,TAXON_DOC_overlappingpdfs.135517.pdf.task_1091_8_8,entolium,plagiostoma,f
+428370,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_122_122,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_28_28,thaumastobombus,ctenoplectrellina,f
+384528,overlappingpdfs.138761.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138761.pdf.task_1523_5_6,TAXON_DOC_overlappingpdfs.138761.pdf.task_1523_17_17,rhea americana,chauna,f
+538813,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_6500_1_1,TAXON_DOC_overlappingpdfs.138632.pdf.task_6500_4_4,megalonychidae,soricomorpha,f
+370677,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_3949_6_6,TAXON_DOC_overlappingpdfs.138384.pdf.task_3949_24_24,nesophontes,palaeoryctidae,f
+515179,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_1060_24_25,TAXON_DOC_overlappingpdfs.132112.pdf.task_1060_21_21,metopocetus durinasus,piscobalaena,f
+446257,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7211_3_3,TAXON_DOC_overlappingpdfs.138613.pdf.task_7211_6_6,cretaceogaster,diptera,f
+439655,overlappingpdfs.135646.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135646.pdf.task_435_3_3,TAXON_DOC_overlappingpdfs.135646.pdf.task_435_7_7,goniasteridae,echinodermata,f
+521715,overlappingpdfs.133084.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133084.pdf.task_51_31_32,TAXON_DOC_overlappingpdfs.133084.pdf.task_51_20_20,indotherium pranhitai,kotatherium,f
+372417,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_6298_55_55,TAXON_DOC_overlappingpdfs.138384.pdf.task_6298_35_35,cryptoryctes,creodonta,f
+415520,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_2773_3_4,TAXON_DOC_overlappingpdfs.138622.pdf.task_2773_28_28,philotrox condoni,enhydrocyon,f
+522361,overlappingpdfs.132630.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132630.pdf.task_498_11_11,TAXON_DOC_overlappingpdfs.132630.pdf.task_498_18_18,varanus,anguidae,f
+471575,overlappingpdfs.130490.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130490.pdf.task_234_60_60,TAXON_DOC_overlappingpdfs.130490.pdf.task_234_53_53,subpulchellia,pulchelliidae,f
+407268,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_52_53,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_92_92,dege hendeyi,eudyptes,f
+375143,overlappingpdfs.132840.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132840.pdf.task_180_33_33,TAXON_DOC_overlappingpdfs.132840.pdf.task_180_19_19,glyptoleda,nuculana,f
+519120,overlappingpdfs.132457.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132457.pdf.task_1116_8_8,TAXON_DOC_overlappingpdfs.132457.pdf.task_1116_11_11,onchopristis,batoidea,f
+515576,overlappingpdfs.132112.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132112.pdf.task_1119_21_22,TAXON_DOC_overlappingpdfs.132112.pdf.task_1119_6_6,parietobalaena palmeri,balaenoidea,f
+549889,overlappingpdfs.135332.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135332.pdf.task_149_0_1,TAXON_DOC_overlappingpdfs.135332.pdf.task_149_12_12,fanichonetes campigia,hustedia,f
+348939,overlappingpdfs.138578.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138578.pdf.task_1129_38_38,TAXON_DOC_overlappingpdfs.138578.pdf.task_1129_32_32,actinopteria,nuculoidea,f
+512698,overlappingpdfs.132522.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132522.pdf.task_1362_77_77,TAXON_DOC_overlappingpdfs.132522.pdf.task_1362_37_37,kozlowskites,christiania,f
+458064,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_415_415,TAXON_DOC_overlappingpdfs.138613.pdf.task_7259_120_120,archijassidae,aeshnoidea,f
+438024,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_65_66,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_35_35,boreallodape striebichi,electrobombus,f
+383397,overlappingpdfs.132227.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132227.pdf.task_39_2_3,TAXON_DOC_overlappingpdfs.132227.pdf.task_39_12_12,quaesitosaurus orientalis,baotianmansaurus,f
+431931,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_71_71,TAXON_DOC_overlappingpdfs.138678.pdf.task_7838_130_130,protobombus,succinapis,f
+410428,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_72_73,TAXON_DOC_overlappingpdfs.138859.pdf.task_797_102_102,spheniscus urbinai,eudyptes,f
+379266,overlappingpdfs.138745.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_4_5,TAXON_DOC_overlappingpdfs.138745.pdf.task_3230_10_10,zhelestes temirkazyk,parazhelestes,f
+554526,overlappingpdfs.132358.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132358.pdf.task_15_9_9,TAXON_DOC_overlappingpdfs.132358.pdf.task_15_7_7,paguroidea,brachyura,f
+360991,overlappingpdfs.132551.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132551.pdf.task_1319_16_16,TAXON_DOC_overlappingpdfs.132551.pdf.task_1319_6_6,dukecynus,hondadelphidae,f
+571437,overlappingpdfs.132619.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132619.pdf.task_779_3_4,TAXON_DOC_overlappingpdfs.132619.pdf.task_779_14_14,megatherium celendinense,megatheriinae,f
+456542,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_122_122,TAXON_DOC_overlappingpdfs.138613.pdf.task_7284_147_147,pipunculidae,platypezoidea,f
+357092,overlappingpdfs.132009.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132009.pdf.task_580_115_117,TAXON_DOC_overlappingpdfs.132009.pdf.task_580_130_130,natica parva,graptoloidea,f
+483996,overlappingpdfs.132392.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132392.pdf.task_291_23_24,TAXON_DOC_overlappingpdfs.132392.pdf.task_291_7_7,bolosaurus grandis,reptilia,f
+408345,overlappingpdfs.138644.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138644.pdf.task_3556_34_34,TAXON_DOC_overlappingpdfs.138644.pdf.task_3556_132_132,archichrysotus,atelestinae,f
+369386,overlappingpdfs.138384.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138384.pdf.task_6296_0_0,TAXON_DOC_overlappingpdfs.138384.pdf.task_6296_49_49,acmeodon,apternodontidae,f
+449704,overlappingpdfs.130183.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.130183.pdf.task_163_23_25,TAXON_DOC_overlappingpdfs.130183.pdf.task_163_197_198,angulogerina angulosa,nonion,f
+416732,overlappingpdfs.1395.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1395.pdf.task_82_14_15,TAXON_DOC_overlappingpdfs.1395.pdf.task_82_4_4,allognathosuchus mooki,stangerochampsa,f
+503978,overlappingpdfs.131702.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131702.pdf.task_656_1_1,TAXON_DOC_overlappingpdfs.131702.pdf.task_656_3_3,bellerophontacea,gastropoda,f
+373535,overlappingpdfs.133094.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133094.pdf.task_155_3_3,TAXON_DOC_overlappingpdfs.133094.pdf.task_155_13_13,bucania,eobucania,f
+424033,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_23_23,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_49_49,eocursor,dryosauridae,f
+368354,overlappingpdfs.132976.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132976.pdf.task_54_7_7,TAXON_DOC_overlappingpdfs.132976.pdf.task_54_21_21,monachus,lobodontini,f
+519048,overlappingpdfs.135782.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135782.pdf.task_453_3_3,TAXON_DOC_overlappingpdfs.135782.pdf.task_453_11_11,protenaster,haliotis,f
+498228,overlappingpdfs.133073.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133073.pdf.task_195_11_12,TAXON_DOC_overlappingpdfs.133073.pdf.task_195_4_5,dzhebaglina plicata,strophomena,f
+544458,overlappingpdfs.131528.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.131528.pdf.task_1212_13_13,TAXON_DOC_overlappingpdfs.131528.pdf.task_1212_14_14,rhombifera,cystoidea,f
+445325,overlappingpdfs.132516.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132516.pdf.task_186_10_10,TAXON_DOC_overlappingpdfs.132516.pdf.task_186_8_8,eoconularia,conularina,f
+413383,overlappingpdfs.138859.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_85_86,TAXON_DOC_overlappingpdfs.138859.pdf.task_846_99_99,madrynornis mirandus,eudyptes,f
+457854,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_8_8,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_17_17,labiinae,lalacidae,f
+562932,overlappingpdfs.138624.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138624.pdf.task_343_25_25,TAXON_DOC_overlappingpdfs.138624.pdf.task_343_37_37,monodechenella,warburgellinae,f
+351534,overlappingpdfs.138365.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138365.pdf.task_785_29_30,TAXON_DOC_overlappingpdfs.138365.pdf.task_785_37_37,sunkahetanka pahinsintewakpa,nanotragulus,f
+438450,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_8641_160_160,TAXON_DOC_overlappingpdfs.138678.pdf.task_8641_233_233,electrapini,halictidae,f
+414267,overlappingpdfs.138622.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138622.pdf.task_400_14_14,TAXON_DOC_overlappingpdfs.138622.pdf.task_400_12_12,borophagus,tephrocyon,f
+421965,overlappingpdfs.132216.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_63_64,TAXON_DOC_overlappingpdfs.132216.pdf.task_672_8_8,changchunsaurus parvus,echinodon,f
+532797,overlappingpdfs.135557.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135557.pdf.task_190_39_39,TAXON_DOC_overlappingpdfs.135557.pdf.task_190_9_9,plerophyllum,cyathaxonia,f
+542183,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_791_16_16,TAXON_DOC_overlappingpdfs.138632.pdf.task_791_22_22,plesiorycteropus,tubulidentata,f
+455648,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_156_156,TAXON_DOC_overlappingpdfs.138613.pdf.task_7286_110_110,sieblosia,prophalangopsidae,f
+377895,overlappingpdfs.138709.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138709.pdf.task_1022_97_98,TAXON_DOC_overlappingpdfs.138709.pdf.task_1022_103_103,pararyctes pattersoni,solenodon,f
+471897,overlappingpdfs.135100.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135100.pdf.task_3_22_23,TAXON_DOC_overlappingpdfs.135100.pdf.task_3_33_33,neusticemys neuquina,argentina,f
+566584,overlappingpdfs.132526.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132526.pdf.task_84_31_31,TAXON_DOC_overlappingpdfs.132526.pdf.task_84_19_19,ophiceras,bukkenites,f
+421331,overlappingpdfs.135510.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.135510.pdf.task_62_35_35,TAXON_DOC_overlappingpdfs.135510.pdf.task_62_20_20,sokolovograptus,agastograptus,f
+493268,overlappingpdfs.133075.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.133075.pdf.task_106_4_5,TAXON_DOC_overlappingpdfs.133075.pdf.task_106_19_19,hedinia regalis,china,f
+562829,overlappingpdfs.132455.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132455.pdf.task_638_86_86,TAXON_DOC_overlappingpdfs.132455.pdf.task_638_172_172,hybodus,aspidoceras,f
+493407,overlappingpdfs.132955.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132955.pdf.task_24_18_19,TAXON_DOC_overlappingpdfs.132955.pdf.task_24_30_30,belodon plieningeri,nicrosaurus,f
+542753,overlappingpdfs.138632.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_100_100,TAXON_DOC_overlappingpdfs.138632.pdf.task_3659_70_70,equus,rodentia,f
+366385,overlappingpdfs.132895.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132895.pdf.task_112_135_135,TAXON_DOC_overlappingpdfs.132895.pdf.task_112_109_109,leptaena,hesperorthis,f
+471726,overlappingpdfs.132751.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.132751.pdf.task_280_9_9,TAXON_DOC_overlappingpdfs.132751.pdf.task_280_6_6,pseudocalymene,styginidae,f
+434681,overlappingpdfs.1336.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.1336.pdf.task_1076_14_15,TAXON_DOC_overlappingpdfs.1336.pdf.task_1076_8_8,invictokoala monticola,nimiokoala,f
+441402,overlappingpdfs.138678.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_49_49,TAXON_DOC_overlappingpdfs.138678.pdf.task_84_15_15,protolithurgus,boreallodapini,f
+450807,overlappingpdfs.138613.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_124_124,TAXON_DOC_overlappingpdfs.138613.pdf.task_7276_49_49,lisponema,latiscutellidae,f
+464215,overlappingpdfs.136483.pdf.task,TAXONOMY,TAXON_DOC_overlappingpdfs.136483.pdf.task_216_31_31,TAXON_DOC_overlappingpdfs.136483.pdf.task_216_11_11,cypricardella,douvillina,f
