@@ -1,0 +1,1001 @@
+id,docid,type,eid1,eid2,entity1,entity2,is_correct,category,expectation
+1530311,overlappingpdfs.132829.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132829.pdf.task_435_2_3,ROCK_DOC_overlappingpdfs.132829.pdf.task_435_9_10,heteraster texanus,comanche peak formation,,1,0.996
+1504798,overlappingpdfs.132660.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132660.pdf.task_728_4_4,ROCK_DOC_overlappingpdfs.132660.pdf.task_728_10_10,reptilia,bearpaw formation,f,1,0.999
+1459061,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1533_16_17,ROCK_DOC_overlappingpdfs.138449.pdf.task_1533_20_22,paraderma bogerti,judith river formation,,1,0.996
+1497613,overlappingpdfs.1397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1397.pdf.task_37_18_18,ROCK_DOC_overlappingpdfs.1397.pdf.task_37_15_15,argentina,chubut group,f,1,0.999
+1480523,overlappingpdfs.1368.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1368.pdf.task_915_8_8,ROCK_DOC_overlappingpdfs.1368.pdf.task_915_17_18,semionotiformes,kota formation,t,1,0.996
+1523941,overlappingpdfs.132609.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132609.pdf.task_323_4_4,ROCK_DOC_overlappingpdfs.132609.pdf.task_323_9_9,neoceratopsia,medicine formation,,1,0.996
+1454089,overlappingpdfs.138375.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138375.pdf.task_3051_7_7,ROCK_DOC_overlappingpdfs.138375.pdf.task_3051_10_10,eumorphotis,thaynes formation,,1,0.996
+1517948,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_988_20_20,ROCK_DOC_overlappingpdfs.132859.pdf.task_988_16_17,montana,judith river formation,,1,0.996
+1470126,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_731_5_5,ROCK_DOC_overlappingpdfs.132470.pdf.task_731_12_12,lepidosauria,chinle group,,1,0.996
+1532066,overlappingpdfs.138624.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138624.pdf.task_6201_2_2,ROCK_DOC_overlappingpdfs.138624.pdf.task_6201_5_6,bivalvia,solsville member,,1,0.997
+1477742,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3577_0_0,ROCK_DOC_overlappingpdfs.138573.pdf.task_3577_25_25,neohipparion,california sand,,1,0.996
+1537081,overlappingpdfs.136991.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136991.pdf.task_298_30_30,ROCK_DOC_overlappingpdfs.136991.pdf.task_298_10_11,hirnantia,kildare limestone formation,,1,1
+1494284,overlappingpdfs.132401.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132401.pdf.task_579_11_12,ROCK_DOC_overlappingpdfs.132401.pdf.task_579_15_16,metriorhynchus durobrivensis,oxford clay,,1,0.998
+1484316,overlappingpdfs.133097.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133097.pdf.task_1611_4_4,ROCK_DOC_overlappingpdfs.133097.pdf.task_1611_10_11,mammalia,kuldana formation,,1,0.996
+1480346,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_54_54,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,capulus,warak formation,,1,0.939
+1513101,overlappingpdfs.132522.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132522.pdf.task_324_0_0,ROCK_DOC_overlappingpdfs.132522.pdf.task_324_4_5,holtedahlina,whitewater formation,f,1,0.996
+1484682,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_49_9_9,ROCK_DOC_overlappingpdfs.133475.pdf.task_49_20_20,boreopterus,yixian formation,,1,1
+1478272,overlappingpdfs.132333.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132333.pdf.task_1649_10_10,ROCK_DOC_overlappingpdfs.132333.pdf.task_1649_16_18,gastropoda,st cassian formation,,1,0.996
+1489763,overlappingpdfs.132303.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132303.pdf.task_471_1_1,ROCK_DOC_overlappingpdfs.132303.pdf.task_471_4_5,teleostei,agua nueva formation,,1,0.997
+1500631,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2128_5_6,ROCK_DOC_overlappingpdfs.138407.pdf.task_2128_11_13,microsyops,golden valley formation,,1,0.999
+1461869,overlappingpdfs.136806.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136806.pdf.task_403_0_0,ROCK_DOC_overlappingpdfs.136806.pdf.task_403_5_6,leiorhynchus,triangle formation,f,1,0.996
+1478740,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5719_0_1,ROCK_DOC_overlappingpdfs.138573.pdf.task_5719_12_14,cormohipparion occidentale,ash hollow formation,,1,1
+1513217,overlappingpdfs.132412.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132412.pdf.task_117_15_15,ROCK_DOC_overlappingpdfs.132412.pdf.task_117_12_12,argentina,sepulturas formation,,1,0.996
+1452221,overlappingpdfs.138578.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138578.pdf.task_4855_8_9,ROCK_DOC_overlappingpdfs.138578.pdf.task_4855_12_12,grammysia alveata,hamilton group,,1,0.996
+1484524,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1115_5_6,ROCK_DOC_overlappingpdfs.138755.pdf.task_1115_10_11,ostrea pulaskensis,hornerstown formation,f,1,0.996
+1495329,overlappingpdfs.135922.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135922.pdf.task_655_6_6,ROCK_DOC_overlappingpdfs.135922.pdf.task_655_9_9,bryozoa,pogonip group,,1,0.999
+1531952,overlappingpdfs.136763.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136763.pdf.task_325_14_14,ROCK_DOC_overlappingpdfs.136763.pdf.task_325_20_21,labechia,crown point formation,f,1,0.938
+1481170,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_45_46,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,seraphs,warak formation,,1,0.937
+1506047,overlappingpdfs.132301.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132301.pdf.task_1047_3_3,ROCK_DOC_overlappingpdfs.132301.pdf.task_1047_0_0,cuyana,potrerillos formation,,1,0.999
+1486877,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_246_12_12,ROCK_DOC_overlappingpdfs.132666.pdf.task_246_17_19,placerias,bluewater creek formation,,1,0.996
+1483729,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1884_1_1,ROCK_DOC_overlappingpdfs.138755.pdf.task_1884_20_21,sphenodiscus,hornerstown formation,t,1,0.996
+1466922,overlappingpdfs.130827.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130827.pdf.task_428_5_5,ROCK_DOC_overlappingpdfs.130827.pdf.task_428_8_8,pterotheca,deerhope formation,,1,0.996
+1476183,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_74_31_31,ROCK_DOC_overlappingpdfs.1376.pdf.task_74_6_6,argyrosaurus,chubut group,t,1,1
+1500906,overlappingpdfs.133020.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133020.pdf.task_108_1_1,ROCK_DOC_overlappingpdfs.133020.pdf.task_108_18_18,cryptospirifer,maokou formation,,1,1
+1472568,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_87_88,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,sphagesaurus huenei,bauru group,t,1,0.996
+1465030,overlappingpdfs.138745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138745.pdf.task_289_6_6,ROCK_DOC_overlappingpdfs.138745.pdf.task_289_24_25,zalambdalestes,djadokhta formation,,1,1
+1477575,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5740_5_6,ROCK_DOC_overlappingpdfs.138573.pdf.task_5740_17_18,cormohipparion occidentale,ash hollow formation,t,1,1
+1461052,overlappingpdfs.135551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135551.pdf.task_355_8_8,ROCK_DOC_overlappingpdfs.135551.pdf.task_355_13_14,siphonia,quadersandstein member,t,1,0.996
+1483062,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1481_0_0,ROCK_DOC_overlappingpdfs.138755.pdf.task_1481_6_7,ammonites,grey chalk,,1,0.996
+1459105,overlappingpdfs.132858.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132858.pdf.task_931_11_11,ROCK_DOC_overlappingpdfs.132858.pdf.task_931_14_17,casineria,cheese bay shrimp bed formation,,1,0.996
+1500264,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_857_0_0,ROCK_DOC_overlappingpdfs.138393.pdf.task_857_3_3,dictyopyge,newark group,,1,0.999
+1508683,overlappingpdfs.132923.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132923.pdf.task_752_8_9,ROCK_DOC_overlappingpdfs.132923.pdf.task_752_13_14,plesiosaurus australis,oolitic formation,f,1,1
+1458033,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_3392_43_43,ROCK_DOC_overlappingpdfs.138449.pdf.task_3392_37_37,alberta,foremost formation,,1,0.996
+1506082,overlappingpdfs.138538.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138538.pdf.task_319_6_6,ROCK_DOC_overlappingpdfs.138538.pdf.task_319_3_3,padilla,icla formation,,1,0.999
+1528139,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_225_14_14,ROCK_DOC_overlappingpdfs.132658.pdf.task_225_10_11,india,iurassic kota formation,,1,0.995
+1470011,overlappingpdfs.132939.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132939.pdf.task_271_12_12,ROCK_DOC_overlappingpdfs.132939.pdf.task_271_15_15,spondylolestes,beaufort group,,1,0.996
+1472804,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_2708_5_5,ROCK_DOC_overlappingpdfs.138438.pdf.task_2708_21_23,chaenohyus,john day formation,,1,0.996
+1522532,overlappingpdfs.131841.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131841.pdf.task_370_13_13,ROCK_DOC_overlappingpdfs.131841.pdf.task_370_16_17,sphaerocodium,crown point formation,f,1,0.996
+1472457,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_812_4_4,ROCK_DOC_overlappingpdfs.132397.pdf.task_812_7_7,teleorhinus,benton shales,f,1,0.996
+1525418,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_310_11_11,ROCK_DOC_overlappingpdfs.132899.pdf.task_310_7_7,china,kaili formation,,1,0.996
+1458435,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2744_7_7,ROCK_DOC_overlappingpdfs.138449.pdf.task_2744_4_4,montana,river formation,,1,0.996
+1467351,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_4_5,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_13,apatosaurus ajax,morrison formation,t,1,1
+1451394,overlappingpdfs.138365.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138365.pdf.task_2410_13_14,ROCK_DOC_overlappingpdfs.138365.pdf.task_2410_21_21,cynodesmus cooki,sharps formation,,1,0.996
+1512081,overlappingpdfs.133034.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133034.pdf.task_197_3_6,ROCK_DOC_overlappingpdfs.133034.pdf.task_197_9_10,priohybodus arambourgi,tacuarembo formation,,1,0.991
+1532318,overlappingpdfs.13.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13.pdf.task_614_6_6,ROCK_DOC_overlappingpdfs.13.pdf.task_614_12_14,ornithischia,judith river formation,f,1,0.996
+1483189,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_216_9_9,ROCK_DOC_overlappingpdfs.133475.pdf.task_216_18_19,laurasia,jiufotang formation,,1,0.929
+1498389,overlappingpdfs.139836.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139836.pdf.task_341_7_7,ROCK_DOC_overlappingpdfs.139836.pdf.task_341_10_12,ceratopsia,belly river formation,,1,0.999
+1525289,overlappingpdfs.132745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132745.pdf.task_496_8_8,ROCK_DOC_overlappingpdfs.132745.pdf.task_496_4_4,arabia,khuff formation,,1,0.996
+1453772,overlappingpdfs.131549.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131549.pdf.task_616_15_15,ROCK_DOC_overlappingpdfs.131549.pdf.task_616_41_42,solenopora,steinvika limestone formation,,1,1
+1530694,overlappingpdfs.132960.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132960.pdf.task_403_30_30,ROCK_DOC_overlappingpdfs.132960.pdf.task_403_14_15,torvosaurus,morrison formation,,1,1
+1469927,overlappingpdfs.132180.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132180.pdf.task_516_7_7,ROCK_DOC_overlappingpdfs.132180.pdf.task_516_11_13,plesiosauroidea,iurassic posidonia shale,,1,0.995
+1513113,overlappingpdfs.132283.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132283.pdf.task_1331_6_6,ROCK_DOC_overlappingpdfs.132283.pdf.task_1331_3_3,georgina,gowers formation,,1,0.996
+1466845,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_634_5_5,ROCK_DOC_overlappingpdfs.1341.pdf.task_634_9_9,cetacea,almejas formation,f,1,0.998
+1515672,overlappingpdfs.132707.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132707.pdf.task_753_0_1,ROCK_DOC_overlappingpdfs.132707.pdf.task_753_12_13,kutorgina reticulata,ella island formation,,1,0.996
+1477169,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3534_6_7,ROCK_DOC_overlappingpdfs.138573.pdf.task_3534_9_9,neohipparion trampasense,love formation,,1,0.996
+1469897,overlappingpdfs.132896.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132896.pdf.task_130_21_21,ROCK_DOC_overlappingpdfs.132896.pdf.task_130_15_15,stokesosaurus,morrison formation,,1,1
+1481423,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_480_8_9,ROCK_DOC_overlappingpdfs.132444.pdf.task_480_12_13,hippopus hippopus,togpochau limestone formation,f,1,0.996
+1510701,overlappingpdfs.135749.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135749.pdf.task_428_5_5,ROCK_DOC_overlappingpdfs.135749.pdf.task_428_8_8,pterotheca,deerhope formation,f,1,1
+1474336,overlappingpdfs.138426.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138426.pdf.task_104_8_8,ROCK_DOC_overlappingpdfs.138426.pdf.task_104_11_12,syndyoceras,harrison formation,,1,0.997
+1465140,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_11_7_7,ROCK_DOC_overlappingpdfs.132215.pdf.task_11_11_12,peloneustes,peterborough member,,1,0.996
+1510417,overlappingpdfs.130492.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130492.pdf.task_69_0_1,ROCK_DOC_overlappingpdfs.130492.pdf.task_69_5_7,champsosaurus albertensis,horseshoe canyon formation,,1,1
+1525449,overlappingpdfs.132657.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132657.pdf.task_17_34_34,ROCK_DOC_overlappingpdfs.132657.pdf.task_17_44_45,mesolyda,uda formation,,1,0.996
+1474637,overlappingpdfs.138426.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138426.pdf.task_3358_33_33,ROCK_DOC_overlappingpdfs.138426.pdf.task_3358_40_40,syndyoceras,harrison formation,,1,0.996
+1472752,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_504_9_9,ROCK_DOC_overlappingpdfs.132353.pdf.task_504_13_14,sauropoda,morrison formation,t,1,0.997
+1509635,overlappingpdfs.132527.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132527.pdf.task_1512_9_9,TIME_DOC_overlappingpdfs.132527.pdf.task_1512_6_6,karoo supergroup,Balfour|227.50000|201.60000,f,1,1
+1480047,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_981_34_34,ROCK_DOC_overlappingpdfs.138622.pdf.task_981_30_30,montana,renova formation,,1,0.996
+1493476,overlappingpdfs.130178.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130178.pdf.task_467_17_17,ROCK_DOC_overlappingpdfs.130178.pdf.task_467_22_23,thalassemydidae,vaca muerta formation,,1,0.998
+1468831,overlappingpdfs.132510.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132510.pdf.task_19_21_22,ROCK_DOC_overlappingpdfs.132510.pdf.task_19_28_28,palaeopsittacus georgei,london clay,,1,0.996
+1514873,overlappingpdfs.132282.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132282.pdf.task_646_0_0,ROCK_DOC_overlappingpdfs.132282.pdf.task_646_9_9,yangtzeella,tonggao formation,,1,1
+1477586,overlappingpdfs.132759.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132759.pdf.task_659_24_24,ROCK_DOC_overlappingpdfs.132759.pdf.task_659_27_28,astraspis,harding sandstone,,1,0.996
+1505140,overlappingpdfs.130593.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130593.pdf.task_977_4_4,ROCK_DOC_overlappingpdfs.130593.pdf.task_977_8_9,mollusca,imo formation,f,1,0.999
+1517261,overlappingpdfs.138012.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138012.pdf.task_637_44_44,ROCK_DOC_overlappingpdfs.138012.pdf.task_637_48_48,eogyrinus,english coal,,1,0.996
+1481216,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_45_45,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,seraphs,warak formation,,1,0.954
+1462725,overlappingpdfs.132895.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132895.pdf.task_363_69_69,TIME_DOC_overlappingpdfs.132895.pdf.task_363_73_73,cybele member,Telychian|438.50000|433.40000,f,1,0.949
+1486721,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_606_24_25,ROCK_DOC_overlappingpdfs.132666.pdf.task_606_28_29,trilophosaurus buettneri,otis chalk,,1,0.996
+1472862,overlappingpdfs.131561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131561.pdf.task_625_11_11,ROCK_DOC_overlappingpdfs.131561.pdf.task_625_0_0,cyrtospirifer,foreknobs formation,,1,1
+1537546,overlappingpdfs.136991.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136991.pdf.task_178_23_23,ROCK_DOC_overlappingpdfs.136991.pdf.task_178_17_18,hirnantia,kildare limestone formation,,1,1
+1476493,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3615_0_0,ROCK_DOC_overlappingpdfs.138573.pdf.task_3615_13_14,neohipparion,ash hollow formation,,1,0.996
+1490610,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_364_5_5,ROCK_DOC_overlappingpdfs.136699.pdf.task_364_18_18,spathella,foreknobs formation,t,1,1
+1483057,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_51_2_2,ROCK_DOC_overlappingpdfs.133475.pdf.task_51_27_27,feilongus,yixian formation,,1,0.999
+1473873,overlappingpdfs.1393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1393.pdf.task_51_16_16,ROCK_DOC_overlappingpdfs.1393.pdf.task_51_19_20,shonisaurus,pardonet formation,,1,0.992
+1501822,overlappingpdfs.132298.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132298.pdf.task_4_7_7,ROCK_DOC_overlappingpdfs.132298.pdf.task_4_14_15,diapsida,isalo group,,1,0.999
+1464628,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_169_5_5,ROCK_DOC_overlappingpdfs.138709.pdf.task_169_57_58,bates,cypress hills formation,,1,0.955
+1522063,overlappingpdfs.135478.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135478.pdf.task_293_9_9,ROCK_DOC_overlappingpdfs.135478.pdf.task_293_15_15,arizonasaurus,holbrook member,t,1,1
+1498167,overlappingpdfs.132789.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132789.pdf.task_327_2_2,ROCK_DOC_overlappingpdfs.132789.pdf.task_327_11_12,glyptops,morrison formation,t,1,0.999
+1525452,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_1792_23_23,ROCK_DOC_overlappingpdfs.132899.pdf.task_1792_12_12,nevada,emigrant formation,,1,0.996
+1453411,overlappingpdfs.132931.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132931.pdf.task_506_14_14,ROCK_DOC_overlappingpdfs.132931.pdf.task_506_18_18,herrerasauridae,ischigualasto formation,,1,0.995
+1518450,overlappingpdfs.132756.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132756.pdf.task_865_7_7,ROCK_DOC_overlappingpdfs.132756.pdf.task_865_13_14,delphinoidea,choptank formation,,1,0.996
+1462925,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_2856_17_17,ROCK_DOC_overlappingpdfs.138465.pdf.task_2856_12_13,mexico,san andres formation,,1,0.994
+1517207,overlappingpdfs.132757.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132757.pdf.task_66_9_9,ROCK_DOC_overlappingpdfs.132757.pdf.task_66_23_25,rotularia,lopez de bertodano formation,,1,0.996
+1496598,overlappingpdfs.132069.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132069.pdf.task_298_30_30,ROCK_DOC_overlappingpdfs.132069.pdf.task_298_10_11,hirnantia,kildare limestone formation,,1,1
+1506068,overlappingpdfs.132095.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132095.pdf.task_1234_6_6,ROCK_DOC_overlappingpdfs.132095.pdf.task_1234_10_10,saurischia,ischigualasto formation,f,1,1
+1453634,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_107_44_44,ROCK_DOC_overlappingpdfs.132874.pdf.task_107_22_22,otozoum,portland formation,,1,1
+1477574,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5740_5_6,ROCK_DOC_overlappingpdfs.138573.pdf.task_5740_17_18,cormohipparion occidentale,ash hollow formation,,1,1
+1507520,overlappingpdfs.1394.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1394.pdf.task_247_10_10,ROCK_DOC_overlappingpdfs.1394.pdf.task_247_6_6,kepodactylus,morrison formation,,1,1
+1508965,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1551_24_25,ROCK_DOC_overlappingpdfs.132527.pdf.task_1551_6_7,exaeretodon riograndensis,santa maria formation,,1,0.999
+1533002,overlappingpdfs.132244.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132244.pdf.task_727_8_8,ROCK_DOC_overlappingpdfs.132244.pdf.task_727_12_12,triconodonta,elliot formation,,1,0.996
+1472275,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_19_19,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,baurusuchus,bauru group,,1,1
+1466844,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_634_5_5,ROCK_DOC_overlappingpdfs.1341.pdf.task_634_9_9,cetacea,almejas formation,,1,0.996
+1494445,overlappingpdfs.132751.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132751.pdf.task_1460_0_0,ROCK_DOC_overlappingpdfs.132751.pdf.task_1460_5_5,trilobites,tangtou formation,,1,0.999
+1490580,overlappingpdfs.132765.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132765.pdf.task_599_10_10,ROCK_DOC_overlappingpdfs.132765.pdf.task_599_6_6,arizona,moenkopi formation,f,1,0.995
+1505293,overlappingpdfs.135558.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135558.pdf.task_587_1_1,ROCK_DOC_overlappingpdfs.135558.pdf.task_587_13_13,isoxys,buen formation,,1,1
+1494263,overlappingpdfs.131219.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131219.pdf.task_700_6_6,ROCK_DOC_overlappingpdfs.131219.pdf.task_700_9_10,ostracoda,ellis bay formation,,1,0.998
+1462004,overlappingpdfs.132976.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132976.pdf.task_10_5_5,ROCK_DOC_overlappingpdfs.132976.pdf.task_10_14_15,acrophoca,pisco formation,,1,0.996
+1525540,overlappingpdfs.133261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133261.pdf.task_298_30_30,ROCK_DOC_overlappingpdfs.133261.pdf.task_298_38_39,yanosteus,yixian formation,,1,0.996
+1463843,overlappingpdfs.138384.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138384.pdf.task_5846_8_8,ROCK_DOC_overlappingpdfs.138384.pdf.task_5846_11_12,mammalia,husin coal,,1,0.996
+1476182,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_74_31_31,ROCK_DOC_overlappingpdfs.1376.pdf.task_74_6_6,argyrosaurus,chubut group,,1,1
+1489587,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_252_4_4,ROCK_DOC_overlappingpdfs.136699.pdf.task_252_11_11,leptodesma,foreknobs formation,t,1,1
+1480293,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_86_86,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,globularia,warak formation,,1,0.947
+1513432,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_768_9_9,ROCK_DOC_overlappingpdfs.132302.pdf.task_768_15_15,flagellicaudata,morrison formation,,1,0.996
+1520797,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_4_4,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_14,apatosaurus,morrison formation,,1,1
+1478443,overlappingpdfs.1343.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1343.pdf.task_311_8_8,ROCK_DOC_overlappingpdfs.1343.pdf.task_311_12_13,sauropoda,huincul formation,,1,0.999
+1523594,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_40_40,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_52_53,yanliaocorixa,haifanggou formation,,1,1
+1483049,overlappingpdfs.133026.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133026.pdf.task_21_5_6,ROCK_DOC_overlappingpdfs.133026.pdf.task_21_13_13,clathrospira glindmeyeri,antelope formation,,1,0.996
+1497776,overlappingpdfs.133070.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133070.pdf.task_790_29_29,ROCK_DOC_overlappingpdfs.133070.pdf.task_790_36_36,tropidostoma,beaufort group,,1,1
+1467148,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_7_7,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_13,sauropoda,morrison formation,,1,0.999
+1500224,overlappingpdfs.133020.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133020.pdf.task_487_28_28,ROCK_DOC_overlappingpdfs.133020.pdf.task_487_19_19,china,maokou formation,,1,0.997
+1529348,overlappingpdfs.133414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133414.pdf.task_663_9_9,ROCK_DOC_overlappingpdfs.133414.pdf.task_663_14_14,trichoceridae,daohugou formation,,1,0.996
+1488503,overlappingpdfs.132254.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132254.pdf.task_44_6_6,ROCK_DOC_overlappingpdfs.132254.pdf.task_44_9_10,curculionidae,santana formation,,1,0.997
+1465342,overlappingpdfs.132725.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132725.pdf.task_323_5_5,ROCK_DOC_overlappingpdfs.132725.pdf.task_323_12_13,hesperornis,niobrara chalk,f,1,0.996
+1468810,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_892_14_14,ROCK_DOC_overlappingpdfs.138761.pdf.task_892_31_34,ichthyornis,smoky hill chalk member,,1,0.999
+1466955,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_48_94_94,ROCK_DOC_overlappingpdfs.1341.pdf.task_48_66_66,carolina,pisco formation,,1,0.946
+1471720,overlappingpdfs.132659.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132659.pdf.task_24_3_3,ROCK_DOC_overlappingpdfs.132659.pdf.task_24_13_13,pterosauria,santana formation,,1,0.996
+1499206,overlappingpdfs.135105.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135105.pdf.task_499_9_9,ROCK_DOC_overlappingpdfs.135105.pdf.task_499_12_12,ostracoda,quilon formation,,1,0.999
+1494264,overlappingpdfs.131219.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131219.pdf.task_700_6_6,ROCK_DOC_overlappingpdfs.131219.pdf.task_700_9_10,ostracoda,ellis bay formation,f,1,0.998
+1476128,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_2553_0_0,ROCK_DOC_overlappingpdfs.138573.pdf.task_2553_13_14,hipparion,ash hollow formation,,1,1
+1499125,overlappingpdfs.132210.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132210.pdf.task_1211_15_15,ROCK_DOC_overlappingpdfs.132210.pdf.task_1211_19_19,plesiosauria,pierre shale,,1,0.999
+1465320,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_1117_5_5,ROCK_DOC_overlappingpdfs.138709.pdf.task_1117_15_16,apternodus,white river formation,,1,0.996
+1507828,overlappingpdfs.1394.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1394.pdf.task_302_7_7,ROCK_DOC_overlappingpdfs.1394.pdf.task_302_26_27,saurischia,chinle formation,,1,0.999
+1484032,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_17_13_13,ROCK_DOC_overlappingpdfs.132216.pdf.task_17_18_19,changchunsaurus,quantou formation,,1,1
+1457542,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1856_15_15,ROCK_DOC_overlappingpdfs.138449.pdf.task_1856_12_12,montana,medicine formation,,1,0.996
+1529511,overlappingpdfs.133414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133414.pdf.task_596_5_5,ROCK_DOC_overlappingpdfs.133414.pdf.task_596_11_11,cicadomorpha,crato formation,,1,0.996
+1453479,overlappingpdfs.138450.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138450.pdf.task_1140_9_9,ROCK_DOC_overlappingpdfs.138450.pdf.task_1140_6_6,uinta,uinta formation,,1,0.996
+1487128,overlappingpdfs.132367.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132367.pdf.task_29_3_3,ROCK_DOC_overlappingpdfs.132367.pdf.task_29_10_10,brachiopoda,episkopi formation,f,1,0.996
+1523708,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_40_40,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_52_52,yanliaocorixa,haifanggou formation,,1,1
+1520229,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_4_5,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_13,apatosaurus ajax,morrison formation,,1,1
+1510951,overlappingpdfs.135749.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135749.pdf.task_23_6_6,ROCK_DOC_overlappingpdfs.135749.pdf.task_23_13_13,pterotheca,linn formation,,1,1
+1458059,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_3392_43_43,ROCK_DOC_overlappingpdfs.138449.pdf.task_3392_37_37,alberta,foremost sandstone,,1,0.996
+1477205,overlappingpdfs.135259.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135259.pdf.task_62_4_5,ROCK_DOC_overlappingpdfs.135259.pdf.task_62_18_18,glyptops plicatulus,morrison formation,t,1,1
+1451553,overlappingpdfs.132532.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132532.pdf.task_9_12_12,ROCK_DOC_overlappingpdfs.132532.pdf.task_9_16_17,ctenochelys,niobrara formation,,1,0.996
+1453520,overlappingpdfs.131549.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131549.pdf.task_503_6_6,ROCK_DOC_overlappingpdfs.131549.pdf.task_503_16_17,echinosphaerites,steinvika limestone formation,,1,1
+1489582,overlappingpdfs.132479.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132479.pdf.task_649_14_14,ROCK_DOC_overlappingpdfs.132479.pdf.task_649_10_11,alberta,belly river formation,,1,0.993
+1525541,overlappingpdfs.133261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133261.pdf.task_298_30_30,ROCK_DOC_overlappingpdfs.133261.pdf.task_298_38_39,yanosteus,yixian formation,t,1,0.996
+1461629,overlappingpdfs.132895.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132895.pdf.task_363_69_69,ROCK_DOC_overlappingpdfs.132895.pdf.task_363_63_64,cybele,jupiter formation,,1,0.956
+1529983,overlappingpdfs.1370.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1370.pdf.task_240_23_23,ROCK_DOC_overlappingpdfs.1370.pdf.task_240_20_20,arizona,moenkopi formation,,1,0.996
+1485235,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_188_33_33,ROCK_DOC_overlappingpdfs.138755.pdf.task_188_6_6,cucullaea,tinton formation,f,1,0.996
+1524603,overlappingpdfs.132745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132745.pdf.task_739_15_15,ROCK_DOC_overlappingpdfs.132745.pdf.task_739_10_10,arabia,khuff formation,,1,0.996
+1469977,overlappingpdfs.132896.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132896.pdf.task_268_7_7,ROCK_DOC_overlappingpdfs.132896.pdf.task_268_13_14,dinosauria,morrison formation,,1,1
+1502027,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_1311_11_11,ROCK_DOC_overlappingpdfs.138393.pdf.task_1311_24_24,coelophysis,chinle formation,,1,1
+1535975,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_87_17_17,ROCK_DOC_overlappingpdfs.132354.pdf.task_87_12_13,argentina,las aguaditas formation,,1,0.995
+1509248,overlappingpdfs.132862.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132862.pdf.task_2527_0_0,ROCK_DOC_overlappingpdfs.132862.pdf.task_2527_5_5,platyceratidae,cassian formation,,1,0.999
+1466547,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_4_5,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_14,apatosaurus ajax,morrison formation,,1,1
+1477694,overlappingpdfs.133046.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133046.pdf.task_6_26_27,ROCK_DOC_overlappingpdfs.133046.pdf.task_6_12_13,broomistega putterilli,beaufort group,t,1,0.996
+1478501,overlappingpdfs.135259.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135259.pdf.task_45_7_8,ROCK_DOC_overlappingpdfs.135259.pdf.task_45_11_13,glyptops plicatulus,late iurassic morrison formation,,1,0.999
+1470127,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_731_5_5,ROCK_DOC_overlappingpdfs.132470.pdf.task_731_12_12,lepidosauria,chinle group,t,1,0.996
+1474388,overlappingpdfs.1393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1393.pdf.task_163_36_36,ROCK_DOC_overlappingpdfs.1393.pdf.task_163_33_33,epigondolella,pardonet formation,,1,0.996
+1530819,overlappingpdfs.132300.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132300.pdf.task_244_4_4,ROCK_DOC_overlappingpdfs.132300.pdf.task_244_7_7,vertebrata,bridger group,f,1,0.996
+1492853,overlappingpdfs.132969.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132969.pdf.task_72_6_6,ROCK_DOC_overlappingpdfs.132969.pdf.task_72_9_11,hamites,tata limestone formation,,1,0.997
+1505309,overlappingpdfs.132955.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132955.pdf.task_1222_3_3,ROCK_DOC_overlappingpdfs.132955.pdf.task_1222_10_11,archosauria,oxford formation,f,1,0.999
+1483218,overlappingpdfs.138526.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138526.pdf.task_379_23_24,ROCK_DOC_overlappingpdfs.138526.pdf.task_379_16_17,probaena sculpta,morrison formation,,1,0.999
+1472687,overlappingpdfs.13256.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13256.pdf.task_76_50_50,ROCK_DOC_overlappingpdfs.13256.pdf.task_76_52_52,trias,devonshire sandstone,,1,0.993
+1487153,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_246_12_12,ROCK_DOC_overlappingpdfs.132666.pdf.task_246_17_18,placerias,bluewater creek formation,,1,0.996
+1502097,overlappingpdfs.1398.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1398.pdf.task_39_6_7,ROCK_DOC_overlappingpdfs.1398.pdf.task_39_29_29,amargasaurus cazaui,rayoso formation,,1,0.999
+1511745,overlappingpdfs.133113.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133113.pdf.task_408_61_62,ROCK_DOC_overlappingpdfs.133113.pdf.task_408_64_65,dastilbe crandalli,riacho doce formation,,1,0.996
+1502326,overlappingpdfs.132463.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132463.pdf.task_462_16_17,ROCK_DOC_overlappingpdfs.132463.pdf.task_462_7_7,sinobaatar lingyuanensis,jehol group,,1,0.999
+1520781,overlappingpdfs.132140.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132140.pdf.task_792_7_7,ROCK_DOC_overlappingpdfs.132140.pdf.task_792_13_13,aetosauria,chinle group,,1,0.996
+1459855,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1015_22_22,ROCK_DOC_overlappingpdfs.138449.pdf.task_1015_18_19,montana,judith river formation,,1,0.996
+1454063,overlappingpdfs.138450.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138450.pdf.task_2672_5_5,ROCK_DOC_overlappingpdfs.138450.pdf.task_2672_8_10,aspiderites,belly river formation,,1,0.996
+1476666,overlappingpdfs.133046.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133046.pdf.task_6_26_26,ROCK_DOC_overlappingpdfs.133046.pdf.task_6_12_12,broomistega,beaufort group,,1,1
+1502634,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4759_23_23,ROCK_DOC_overlappingpdfs.138519.pdf.task_4759_19_20,nevada,virgin valley formation,,1,0.998
+1487011,overlappingpdfs.133100.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133100.pdf.task_1579_0_0,ROCK_DOC_overlappingpdfs.133100.pdf.task_1579_7_7,pelecypoda,ottowa formation,,1,0.996
+1468765,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_3204_12_12,ROCK_DOC_overlappingpdfs.138761.pdf.task_3204_15_16,ichthyornis,smoky hill member,f,1,0.999
+1501125,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2245_3_4,ROCK_DOC_overlappingpdfs.138407.pdf.task_2245_8_8,microsyops latidens,huerfano formation,,1,0.999
+1498992,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2190_5_5,ROCK_DOC_overlappingpdfs.138407.pdf.task_2190_8_8,microsyops,lysite member,,1,0.999
+1484532,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_2907_14_14,ROCK_DOC_overlappingpdfs.138658.pdf.task_2907_17_18,asteropyginae,mahantango formation,,1,0.989
+1513170,overlappingpdfs.131707.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131707.pdf.task_787_4_4,ROCK_DOC_overlappingpdfs.131707.pdf.task_787_14_15,cusacrinus,hampton formation,,1,0.996
+1518211,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_579_8_8,ROCK_DOC_overlappingpdfs.132859.pdf.task_579_5_5,montana,lebo formation,,1,0.996
+1480501,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1784_34_34,ROCK_DOC_overlappingpdfs.138622.pdf.task_1784_37_37,oreodon,poleslide member,,1,0.996
+1492254,overlappingpdfs.138834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138834.pdf.task_1366_5_5,ROCK_DOC_overlappingpdfs.138834.pdf.task_1366_2_3,rugosuchus,glen rose formation,,1,0.998
+1468683,overlappingpdfs.132921.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132921.pdf.task_824_4_4,ROCK_DOC_overlappingpdfs.132921.pdf.task_824_7_7,mollusca,great oolite,f,1,0.996
+1498421,overlappingpdfs.132622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132622.pdf.task_49_11_12,ROCK_DOC_overlappingpdfs.132622.pdf.task_49_28_29,parabatrachopus argentina,los iumes formation,,1,0.956
+1487374,overlappingpdfs.133027.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133027.pdf.task_1887_4_4,ROCK_DOC_overlappingpdfs.133027.pdf.task_1887_8_9,echinodermata,broken rib member,,1,0.998
+1510414,overlappingpdfs.132098.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132098.pdf.task_850_5_5,ROCK_DOC_overlappingpdfs.132098.pdf.task_850_7_8,atrypacea,montoya group,,1,0.998
+1480700,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1431_8_8,ROCK_DOC_overlappingpdfs.138622.pdf.task_1431_11_13,hesperocyon,white river group,f,1,0.996
+1484081,overlappingpdfs.132120.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132120.pdf.task_1192_5_5,ROCK_DOC_overlappingpdfs.132120.pdf.task_1192_11_11,diapsida,niobrara chalk,,1,0.996
+1500314,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_5881_7_7,ROCK_DOC_overlappingpdfs.138407.pdf.task_5881_3_3,mexico,nacimiento formation,,1,0.999
+1458521,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1798_8_9,ROCK_DOC_overlappingpdfs.138449.pdf.task_1798_12_13,thescelosaurus neglectus,lance formation,,1,0.996
+1494584,overlappingpdfs.132834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132834.pdf.task_859_2_2,ROCK_DOC_overlappingpdfs.132834.pdf.task_859_5_5,radiolaria,huron member,f,1,0.999
+1463467,overlappingpdfs.133024.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133024.pdf.task_13_3_4,ROCK_DOC_overlappingpdfs.133024.pdf.task_13_18_19,eremopezus eocaenus,jebel quatrani formation,,1,0.996
+1526557,overlappingpdfs.136271.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136271.pdf.task_15_4_4,ROCK_DOC_overlappingpdfs.136271.pdf.task_15_8_9,calamagras,white river formation,,1,0.995
+1508538,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1500_13_13,ROCK_DOC_overlappingpdfs.132527.pdf.task_1500_10_10,namibia,omingonde formation,,1,0.999
+1472599,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_79_80,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,peirosaurus tormini,bauru group,,1,0.948
+1523854,overlappingpdfs.132609.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132609.pdf.task_394_15_15,ROCK_DOC_overlappingpdfs.132609.pdf.task_394_11_12,alberta,horseshoe canyon formation,,1,0.994
+1520230,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_4_5,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_13,apatosaurus ajax,morrison formation,t,1,1
+1483728,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1884_1_1,ROCK_DOC_overlappingpdfs.138755.pdf.task_1884_20_21,sphenodiscus,hornerstown formation,,1,0.996
+1490295,overlappingpdfs.132765.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132765.pdf.task_498_7_7,ROCK_DOC_overlappingpdfs.132765.pdf.task_498_11_14,stereospondyli,huai hin lat formation,f,1,0.996
+1472532,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_828_0_0,ROCK_DOC_overlappingpdfs.132397.pdf.task_828_11_11,mariliasuchus,bauru group,,1,0.996
+1472912,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_723_3_3,ROCK_DOC_overlappingpdfs.132397.pdf.task_723_6_8,alligator,hell creek beds formation,,1,0.996
+1530562,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_406_2_3,ROCK_DOC_overlappingpdfs.138540.pdf.task_406_6_7,tylocephalonyx skinneri,split rock formation,,1,0.996
+1515708,overlappingpdfs.138424.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138424.pdf.task_759_44_44,ROCK_DOC_overlappingpdfs.138424.pdf.task_759_48_49,deltatheridium,djadochta formation,,1,0.996
+1480964,overlappingpdfs.130639.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130639.pdf.task_325_13_13,ROCK_DOC_overlappingpdfs.130639.pdf.task_325_19_20,choristodera,laohongdong formation,,1,0.996
+1457674,overlappingpdfs.132551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132551.pdf.task_1100_8_8,ROCK_DOC_overlappingpdfs.132551.pdf.task_1100_11_12,notoungulata,fray bentos formation,,1,0.996
+1514780,overlappingpdfs.132435.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132435.pdf.task_1267_5_5,ROCK_DOC_overlappingpdfs.132435.pdf.task_1267_10_12,diapsida,sulphur mountain formation,,1,0.996
+1510539,overlappingpdfs.132843.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132843.pdf.task_552_12_12,ROCK_DOC_overlappingpdfs.132843.pdf.task_552_17_17,squamata,chalk formation,,1,1
+1518677,overlappingpdfs.131915.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131915.pdf.task_318_7_7,ROCK_DOC_overlappingpdfs.131915.pdf.task_318_10_11,foraminifera,waldron shale,,1,0.998
+1537345,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_667_2_2,ROCK_DOC_overlappingpdfs.132458.pdf.task_667_5_5,bernissartia,wealden group,,1,0.99
+1488704,overlappingpdfs.1336.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1336.pdf.task_524_11_11,ROCK_DOC_overlappingpdfs.1336.pdf.task_524_15_16,marsupialia,wipajiri formation,,1,0.998
+1469024,overlappingpdfs.131160.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131160.pdf.task_266_5_5,ROCK_DOC_overlappingpdfs.131160.pdf.task_266_11_12,bivalvia,marcellus formation,,1,0.996
+1527933,overlappingpdfs.132661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132661.pdf.task_1305_27_27,ROCK_DOC_overlappingpdfs.132661.pdf.task_1305_32_32,cranaena,limestone shales,,1,0.996
+1469929,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_155_0_0,ROCK_DOC_overlappingpdfs.139.pdf.task_155_6_7,pseudosaurillus,purbeck limestone formation,,1,0.996
+1499202,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_1789_6_7,ROCK_DOC_overlappingpdfs.138407.pdf.task_1789_10_10,craseops sylvestris,poway formation,,1,0.999
+1481415,overlappingpdfs.1368.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1368.pdf.task_915_8_8,ROCK_DOC_overlappingpdfs.1368.pdf.task_915_17_17,semionotiformes,kota formation,,1,1
+1515544,overlappingpdfs.138424.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138424.pdf.task_745_23_23,ROCK_DOC_overlappingpdfs.138424.pdf.task_745_27_27,hyracolestes,gashato formation,,1,0.996
+1463631,overlappingpdfs.132261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132261.pdf.task_533_15_15,ROCK_DOC_overlappingpdfs.132261.pdf.task_533_10_10,china,yixian formation,,1,0.995
+1510365,overlappingpdfs.133053.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133053.pdf.task_670_15_15,ROCK_DOC_overlappingpdfs.133053.pdf.task_670_18_19,ernietta,kuibis formation,,1,0.997
+1506229,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1674_5_6,ROCK_DOC_overlappingpdfs.132293.pdf.task_1674_24_24,blikanasaurus cromptoni,elliot formation,f,1,0.999
+1528076,overlappingpdfs.132360.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132360.pdf.task_1062_7_8,ROCK_DOC_overlappingpdfs.132360.pdf.task_1062_11_12,opis rosarioensis,anchor bay member,f,1,0.996
+1483558,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1885_65_65,ROCK_DOC_overlappingpdfs.138755.pdf.task_1885_55_55,georgia,providence sand,,1,0.942
+1532475,overlappingpdfs.138453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138453.pdf.task_446_40_41,ROCK_DOC_overlappingpdfs.138453.pdf.task_446_44_46,phacops iowensis,hungry hollow formation,,1,0.996
+1521855,overlappingpdfs.132185.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132185.pdf.task_624_5_5,ROCK_DOC_overlappingpdfs.132185.pdf.task_624_13_14,supersaurus,morrison formation,,1,0.996
+1515333,overlappingpdfs.132457.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132457.pdf.task_996_11_11,ROCK_DOC_overlappingpdfs.132457.pdf.task_996_15_15,elasmobranchii,takatika grit,,1,0.996
+1522358,overlappingpdfs.132592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132592.pdf.task_647_7_7,ROCK_DOC_overlappingpdfs.132592.pdf.task_647_12_13,eucryptodira,qigu formation,,1,0.996
+1490776,overlappingpdfs.132101.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132101.pdf.task_404_7_8,ROCK_DOC_overlappingpdfs.132101.pdf.task_404_11_11,glyptagnostus reticulatus,machari formation,f,1,0.997
+1528558,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_277_28_28,ROCK_DOC_overlappingpdfs.132658.pdf.task_277_9_10,titanosauridae,allen formation,,1,0.996
+1457445,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_4614_15_15,ROCK_DOC_overlappingpdfs.138449.pdf.task_4614_11_12,alberta,belly river group,,1,0.996
+1518544,overlappingpdfs.132756.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132756.pdf.task_994_15_15,ROCK_DOC_overlappingpdfs.132756.pdf.task_994_19_19,mammalia,calvert formation,,1,0.996
+1487400,overlappingpdfs.135573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135573.pdf.task_942_29_29,ROCK_DOC_overlappingpdfs.135573.pdf.task_942_25_25,china,doushantuo formation,,1,0.996
+1520420,overlappingpdfs.135686.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135686.pdf.task_103_25_26,ROCK_DOC_overlappingpdfs.135686.pdf.task_103_28_30,guduguwan hardmani,gum ridge formation,,1,0.996
+1521893,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_30_21_21,ROCK_DOC_overlappingpdfs.133102.pdf.task_30_9_9,albanerpeton,cloverly formation,,1,1
+1514832,overlappingpdfs.132112.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132112.pdf.task_633_51_52,ROCK_DOC_overlappingpdfs.132112.pdf.task_633_64_64,turritella eryna,berchem formation,,1,1
+1526553,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_1054_0_0,ROCK_DOC_overlappingpdfs.132899.pdf.task_1054_5_6,eokochaspis,emigrant formation,,1,1
+1522055,overlappingpdfs.132592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132592.pdf.task_716_15_15,ROCK_DOC_overlappingpdfs.132592.pdf.task_716_8_8,china,yixian formation,,1,0.995
+1487191,overlappingpdfs.136514.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136514.pdf.task_234_12_12,ROCK_DOC_overlappingpdfs.136514.pdf.task_234_17_18,allotheria,milk river formation,,1,0.995
+1470042,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_527_28_28,ROCK_DOC_overlappingpdfs.132470.pdf.task_527_24_25,mexico,la boca formation,,1,0.996
+1467216,overlappingpdfs.130184.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130184.pdf.task_254_18_18,ROCK_DOC_overlappingpdfs.130184.pdf.task_254_24_24,dicynodontia,kawinga formation,,1,0.996
+1498022,overlappingpdfs.133070.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133070.pdf.task_790_8_8,ROCK_DOC_overlappingpdfs.133070.pdf.task_790_36_37,oudenodon,beaufort group,,1,1
+1523623,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_56_56,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_87_88,fuyous,daohugou formation,,1,0.996
+1535135,overlappingpdfs.132481.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132481.pdf.task_313_11_11,ROCK_DOC_overlappingpdfs.132481.pdf.task_313_2_3,urumchia,iiucaiyuan formation,,1,0.996
+1497625,overlappingpdfs.1397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1397.pdf.task_473_12_12,ROCK_DOC_overlappingpdfs.1397.pdf.task_473_18_19,theropoda,ischigualasto formation,f,1,0.998
+1515243,overlappingpdfs.132282.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132282.pdf.task_143_4_4,ROCK_DOC_overlappingpdfs.132282.pdf.task_143_14_14,yangtzeella,kuniutan formation,,1,0.996
+1516708,overlappingpdfs.130636.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130636.pdf.task_20_3_3,ROCK_DOC_overlappingpdfs.130636.pdf.task_20_6_7,isoxys,maotianshan shale,f,1,0.992
+1472813,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_149_149,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,goniopholis,bauru group,t,1,0.945
+1520976,overlappingpdfs.131439.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131439.pdf.task_93_13_14,ROCK_DOC_overlappingpdfs.131439.pdf.task_93_5_7,eodinobolus facies,fossil hill limestone formation,,1,0.996
+1506829,overlappingpdfs.132301.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132301.pdf.task_786_3_3,ROCK_DOC_overlappingpdfs.132301.pdf.task_786_0_0,cuyana,potrerillos formation,,1,0.999
+1468413,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_890_21_21,ROCK_DOC_overlappingpdfs.138761.pdf.task_890_28_29,ichthyornis,smoky hill member,,1,0.996
+1510206,overlappingpdfs.132836.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132836.pdf.task_1078_9_9,ROCK_DOC_overlappingpdfs.132836.pdf.task_1078_3_3,alberta,wabamun formation,,1,0.999
+1514297,overlappingpdfs.1372.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1372.pdf.task_555_5_5,TIME_DOC_overlappingpdfs.1372.pdf.task_555_2_2,bearpaw formation,Campanian|83.60000|72.10000,f,1,1
+1486592,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_10_13_13,ROCK_DOC_overlappingpdfs.132666.pdf.task_10_29_29,trilophosaurus,chinle group,,1,1
+1497723,overlappingpdfs.132622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132622.pdf.task_49_101_101,ROCK_DOC_overlappingpdfs.132622.pdf.task_49_75_76,neogene,iarillal formation,,1,0.94
+1476653,overlappingpdfs.133316.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133316.pdf.task_1069_2_2,ROCK_DOC_overlappingpdfs.133316.pdf.task_1069_5_6,paratirolites,bellerophon formation,,1,0.997
+1512881,overlappingpdfs.1372.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1372.pdf.task_839_3_3,ROCK_DOC_overlappingpdfs.1372.pdf.task_839_7_7,mosasauridae,bearpaw formation,f,1,0.998
+1486571,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_6_3_3,ROCK_DOC_overlappingpdfs.132666.pdf.task_6_10_10,trilophosaurus,chinle group,,1,1
+1468834,overlappingpdfs.131160.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131160.pdf.task_266_5_5,ROCK_DOC_overlappingpdfs.131160.pdf.task_266_8_8,bivalvia,solsville member,f,1,0.997
+1481780,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1981_16_17,ROCK_DOC_overlappingpdfs.138622.pdf.task_1981_20_21,mesocyon brachyops,john day formation,,1,0.997
+1469985,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_1178_6_6,ROCK_DOC_overlappingpdfs.139.pdf.task_1178_12_13,mammalia,cloverly formation,t,1,1
+1470630,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_560_10_10,ROCK_DOC_overlappingpdfs.139.pdf.task_560_19_19,pseudosaurillus,mussentuchit member,,1,1
+1520397,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_503_8_8,ROCK_DOC_overlappingpdfs.132531.pdf.task_503_12_12,saurischia,morrison formation,,1,0.996
+1527934,overlappingpdfs.132661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132661.pdf.task_1305_27_27,ROCK_DOC_overlappingpdfs.132661.pdf.task_1305_32_32,cranaena,limestone shales,f,1,0.996
+1474719,overlappingpdfs.132572.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132572.pdf.task_9_10_10,ROCK_DOC_overlappingpdfs.132572.pdf.task_9_21_21,psittacosaurus,yixian formation,,1,0.996
+1522531,overlappingpdfs.131841.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131841.pdf.task_370_13_13,ROCK_DOC_overlappingpdfs.131841.pdf.task_370_16_17,sphaerocodium,crown point formation,,1,0.996
+1464801,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_1117_5_5,ROCK_DOC_overlappingpdfs.138709.pdf.task_1117_15_17,apternodus,white river formation,,1,0.999
+1510548,overlappingpdfs.130492.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130492.pdf.task_375_10_10,ROCK_DOC_overlappingpdfs.130492.pdf.task_375_20_20,batrachia,montana group,,1,0.999
+1520683,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_7_7,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_14,sauropoda,morrison formation,t,1,1
+1502677,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_1611_2_2,ROCK_DOC_overlappingpdfs.138393.pdf.task_1611_16_16,chinlea,tecovas formation,,1,1
+1477980,overlappingpdfs.132702.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132702.pdf.task_582_0_0,ROCK_DOC_overlappingpdfs.132702.pdf.task_582_4_4,thryonomyidae,manchar formation,,1,0.996
+1537220,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_569_22_22,ROCK_DOC_overlappingpdfs.132458.pdf.task_569_1_2,spalacolestes,cedar mountain formation,,1,1
+1477404,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5776_0_0,ROCK_DOC_overlappingpdfs.138573.pdf.task_5776_12_14,cormohipparion,ash hollow formation,t,1,0.996
+1457584,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1533_16_17,ROCK_DOC_overlappingpdfs.138449.pdf.task_1533_20_21,paraderma bogerti,judith river formation,,1,0.996
+1523816,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_448_88_88,ROCK_DOC_overlappingpdfs.132304.pdf.task_448_85_85,china,daohugou formation,,1,0.996
+1524593,overlappingpdfs.1375.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1375.pdf.task_635_25_25,ROCK_DOC_overlappingpdfs.1375.pdf.task_635_28_29,zapalasaurus,la amarga formation,,1,1
+1485042,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_28_9_9,ROCK_DOC_overlappingpdfs.132216.pdf.task_28_13_13,ornithopoda,quantou formation,,1,0.996
+1528494,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_265_8_8,ROCK_DOC_overlappingpdfs.132658.pdf.task_265_11_12,hyperodapedon,santa maria formation,,1,0.996
+1494279,overlappingpdfs.130623.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130623.pdf.task_96_12_12,ROCK_DOC_overlappingpdfs.130623.pdf.task_96_21_21,kouphichnium,stranger formation,,1,1
+1484811,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_3707_0_0,ROCK_DOC_overlappingpdfs.138755.pdf.task_3707_4_5,ammonites,white chalk,f,1,0.996
+1489779,overlappingpdfs.132479.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132479.pdf.task_663_4_4,ROCK_DOC_overlappingpdfs.132479.pdf.task_663_7_8,stenonychosaurus,oldman formation,,1,0.997
+1522852,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_517_11_12,ROCK_DOC_overlappingpdfs.133102.pdf.task_517_8_8,albanerpeton arthridion,antlers formation,t,1,0.996
+1502464,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_999_6_6,ROCK_DOC_overlappingpdfs.138393.pdf.task_999_3_3,semionotus,newark group,f,1,0.999
+1484987,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_51_0_0,ROCK_DOC_overlappingpdfs.133475.pdf.task_51_27_27,gallodactylidae,yixian formation,,1,0.996
+1462380,overlappingpdfs.132895.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132895.pdf.task_373_72_73,TIME_DOC_overlappingpdfs.132895.pdf.task_373_80_80,ross brook formation,Telychian|438.50000|433.40000,f,1,0.937
+1470023,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_988_6_6,ROCK_DOC_overlappingpdfs.132470.pdf.task_988_10_11,rhynchocephalia,mccoy brook formation,,1,0.997
+1509340,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1551_17_17,ROCK_DOC_overlappingpdfs.132527.pdf.task_1551_6_8,exaeretodon,santa maria formation,,1,0.999
+1480639,overlappingpdfs.136075.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136075.pdf.task_373_6_6,ROCK_DOC_overlappingpdfs.136075.pdf.task_373_9_10,pterotocrinus,kinkaid limestone formation,f,1,0.996
+1458791,overlappingpdfs.132894.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132894.pdf.task_1151_4_4,ROCK_DOC_overlappingpdfs.132894.pdf.task_1151_7_8,mollusca,great oolite,,1,0.996
+1512804,overlappingpdfs.132777.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132777.pdf.task_235_28_28,ROCK_DOC_overlappingpdfs.132777.pdf.task_235_25_25,asaphus,obukhovo formation,,1,0.996
+1459176,overlappingpdfs.132551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132551.pdf.task_1182_5_5,ROCK_DOC_overlappingpdfs.132551.pdf.task_1182_9_10,notohippidae,salla beds formation,,1,0.996
+1470319,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_2_2,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_8_10,diapsida,iurassic kota formation,,1,0.996
+1517289,overlappingpdfs.138012.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138012.pdf.task_353_12_12,ROCK_DOC_overlappingpdfs.138012.pdf.task_353_16_16,crossotelos,wichita group,,1,0.998
+1459783,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1192_24_24,ROCK_DOC_overlappingpdfs.138449.pdf.task_1192_20_21,montana,hell creek formation,,1,0.996
+1470144,overlappingpdfs.132382.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132382.pdf.task_615_5_5,ROCK_DOC_overlappingpdfs.132382.pdf.task_615_11_11,cicadomorpha,crato formation,,1,0.996
+1484180,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_2849_9_9,ROCK_DOC_overlappingpdfs.138658.pdf.task_2849_12_12,greenops,kashong shale,f,1,0.996
+1525185,overlappingpdfs.132451.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132451.pdf.task_13_11_11,ROCK_DOC_overlappingpdfs.132451.pdf.task_13_8_8,montana,medicine formation,,1,0.995
+1528322,overlappingpdfs.132661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132661.pdf.task_1305_27_27,ROCK_DOC_overlappingpdfs.132661.pdf.task_1305_30_33,cranaena,black rock limestone group,,1,0.997
+1537082,overlappingpdfs.136991.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136991.pdf.task_298_30_30,ROCK_DOC_overlappingpdfs.136991.pdf.task_298_10_11,hirnantia,kildare limestone formation,t,1,1
+1509694,overlappingpdfs.132527.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132527.pdf.task_1569_16_16,TIME_DOC_overlappingpdfs.132527.pdf.task_1569_13_13,karoo supergroup,Balfour|227.50000|201.60000,f,1,1
+1532069,overlappingpdfs.1357.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1357.pdf.task_395_10_11,ROCK_DOC_overlappingpdfs.1357.pdf.task_395_13_13,pseudoloris cuestai,mazateron formation,f,1,0.996
+1536999,overlappingpdfs.132494.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132494.pdf.task_630_4_4,ROCK_DOC_overlappingpdfs.132494.pdf.task_630_9_10,mesosuchia,umm himar formation,,1,0.996
+1535727,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_736_0_0,ROCK_DOC_overlappingpdfs.132354.pdf.task_736_3_3,trilobites,panjiazui formation,,1,0.996
+1468816,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4936_5_5,ROCK_DOC_overlappingpdfs.138761.pdf.task_4936_12_12,hesperornis,niobrara formation,,1,1
+1478511,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5719_0_0,ROCK_DOC_overlappingpdfs.138573.pdf.task_5719_12_13,cormohipparion,ash hollow formation,,1,1
+1505972,overlappingpdfs.132301.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132301.pdf.task_588_6_6,ROCK_DOC_overlappingpdfs.132301.pdf.task_588_3_3,cuyana,zorra formation,,1,0.999
+1478257,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5786_0_1,ROCK_DOC_overlappingpdfs.138573.pdf.task_5786_13_14,cormohipparion occidentale,clarendon beds formation,,1,0.995
+1521938,overlappingpdfs.135139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135139.pdf.task_638_17_17,ROCK_DOC_overlappingpdfs.135139.pdf.task_638_14_14,india,maleri formation,,1,0.996
+1457824,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1262_11_11,ROCK_DOC_overlappingpdfs.138449.pdf.task_1262_7_8,alberta,milk river formation,,1,0.995
+1453618,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_1468_5_5,ROCK_DOC_overlappingpdfs.132874.pdf.task_1468_18_18,otozoum,portland formation,,1,1
+1484428,overlappingpdfs.138434.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138434.pdf.task_1575_4_5,ROCK_DOC_overlappingpdfs.138434.pdf.task_1575_8_8,palaeozygopleura hamiltoniae,solsville member,,1,0.996
+1490932,overlappingpdfs.132888.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132888.pdf.task_27_8_8,ROCK_DOC_overlappingpdfs.132888.pdf.task_27_11_11,plateosaurus,trossingen formation,,1,0.997
+1450791,overlappingpdfs.132569.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132569.pdf.task_11_22_22,ROCK_DOC_overlappingpdfs.132569.pdf.task_11_19_19,namibia,omingonde formation,,1,0.996
+1519980,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_17_21_21,ROCK_DOC_overlappingpdfs.132531.pdf.task_17_40_43,diplodocidae,north american morrison formation,f,1,0.996
+1484327,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_4857_0_0,ROCK_DOC_overlappingpdfs.138658.pdf.task_4857_4_5,trilobites,traverse group,,1,0.981
+1474592,overlappingpdfs.132925.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132925.pdf.task_646_13_13,ROCK_DOC_overlappingpdfs.132925.pdf.task_646_10_10,monoclimacis,rusne formation,f,1,0.996
+1476413,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1324_6_6,ROCK_DOC_overlappingpdfs.1376.pdf.task_1324_12_13,sauropoda,bauru group,t,1,1
+1472359,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_309_7_8,ROCK_DOC_overlappingpdfs.138438.pdf.task_309_11_11,dyseohyus fricki,barstow formation,,1,0.996
+1526518,overlappingpdfs.133122.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133122.pdf.task_623_7_7,ROCK_DOC_overlappingpdfs.133122.pdf.task_623_11_12,muraenosaurus,oxford clay,,1,0.996
+1471609,overlappingpdfs.131319.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131319.pdf.task_467_14_14,ROCK_DOC_overlappingpdfs.131319.pdf.task_467_31_32,ptychagnostus,jince formation,t,1,1
+1523877,overlappingpdfs.130629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130629.pdf.task_355_6_6,ROCK_DOC_overlappingpdfs.130629.pdf.task_355_13_14,jerea,quadersandstein member,t,1,1
+1496545,overlappingpdfs.132069.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132069.pdf.task_298_14_14,ROCK_DOC_overlappingpdfs.132069.pdf.task_298_10_11,hirnantia,kildare limestone formation,t,1,1
+1469784,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_66_5_5,ROCK_DOC_overlappingpdfs.132470.pdf.task_66_25_25,coelophysis,forest formation,,1,0.928
+1483783,overlappingpdfs.135561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135561.pdf.task_280_25_25,ROCK_DOC_overlappingpdfs.135561.pdf.task_280_29_29,lycoptera,selenga formation,,1,0.935
+1467111,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_759_13_13,ROCK_DOC_overlappingpdfs.1341.pdf.task_759_18_18,odontoceti,marys formations,,1,0.996
+1470320,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_2_2,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_8_10,diapsida,iurassic kota formation,f,1,0.996
+1458382,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2906_6_6,ROCK_DOC_overlappingpdfs.138449.pdf.task_2906_3_3,montana,river formation,,1,0.996
+1522864,overlappingpdfs.135478.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135478.pdf.task_20_26_26,ROCK_DOC_overlappingpdfs.135478.pdf.task_20_21_21,arizona,moenkopi formation,,1,0.995
+1506715,overlappingpdfs.131054.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131054.pdf.task_283_4_4,ROCK_DOC_overlappingpdfs.131054.pdf.task_283_9_10,echinodermata,lebanon limestone formation,f,1,0.999
+1484946,overlappingpdfs.138526.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138526.pdf.task_58_0_1,ROCK_DOC_overlappingpdfs.138526.pdf.task_58_11_11,glyptops plicatulus,morrison formation,t,1,1
+1506622,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1919_3_4,ROCK_DOC_overlappingpdfs.132293.pdf.task_1919_7_8,kotasaurus yamanpalliensis,iurassic kota formation,,1,0.999
+1464937,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_186_20_20,ROCK_DOC_overlappingpdfs.138709.pdf.task_186_5_6,apternodus,white river formation,,1,0.996
+1458452,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2019_20_20,ROCK_DOC_overlappingpdfs.138449.pdf.task_2019_16_17,montana,hell creek formation,,1,0.996
+1484541,overlappingpdfs.132120.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132120.pdf.task_1054_7_7,ROCK_DOC_overlappingpdfs.132120.pdf.task_1054_12_12,plesiosauroidea,posidonia shale,,1,0.996
+1461423,overlappingpdfs.132529.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132529.pdf.task_609_6_6,ROCK_DOC_overlappingpdfs.132529.pdf.task_609_10_13,temnospondyli,early iurassic evergreen formation,f,1,0.997
+1528341,overlappingpdfs.132360.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132360.pdf.task_1058_5_6,ROCK_DOC_overlappingpdfs.132360.pdf.task_1058_15_15,opis triangulata,gualala formation,,1,1
+1490917,overlappingpdfs.130183.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130183.pdf.task_499_9_9,ROCK_DOC_overlappingpdfs.130183.pdf.task_499_12_12,ostracoda,quilon formation,f,1,0.997
+1472926,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_504_5_5,ROCK_DOC_overlappingpdfs.132353.pdf.task_504_13_13,supersaurus,morrison formation,,1,1
+1480116,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1785_67_67,ROCK_DOC_overlappingpdfs.138622.pdf.task_1785_70_70,oreodon,poleslide member,,1,0.996
+1496979,overlappingpdfs.136616.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136616.pdf.task_102_10_10,ROCK_DOC_overlappingpdfs.136616.pdf.task_102_14_15,ichthyocrinus,rochester shale,,1,0.999
+1468495,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4505_15_16,ROCK_DOC_overlappingpdfs.138761.pdf.task_4505_22_23,ichthyornis dispar,niobrara chalk,,1,0.996
+1453436,overlappingpdfs.138450.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138450.pdf.task_1794_7_7,ROCK_DOC_overlappingpdfs.138450.pdf.task_1794_10_12,neurankylus,hell creek formation,,1,0.996
+1458110,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_4090_5_5,ROCK_DOC_overlappingpdfs.138449.pdf.task_4090_8_9,mammalia,laramie formation,f,1,0.996
+1477213,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_7631_2_2,ROCK_DOC_overlappingpdfs.138573.pdf.task_7631_4_4,equidae,florida sand,f,1,0.993
+1486682,overlappingpdfs.1362.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1362.pdf.task_29_25_25,ROCK_DOC_overlappingpdfs.1362.pdf.task_29_19_19,carolina,yorktown formation,,1,0.995
+1505072,overlappingpdfs.130593.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130593.pdf.task_961_8_8,ROCK_DOC_overlappingpdfs.130593.pdf.task_961_12_12,mollusca,imo formation,,1,0.999
+1490481,overlappingpdfs.132255.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132255.pdf.task_18_31_32,ROCK_DOC_overlappingpdfs.132255.pdf.task_18_36_36,troodon formosus,medicine formation,f,1,0.997
+1485348,overlappingpdfs.133026.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133026.pdf.task_21_5_6,ROCK_DOC_overlappingpdfs.133026.pdf.task_21_13_14,clathrospira glindmeyeri,antelope valley formation,,1,0.996
+1510498,overlappingpdfs.138210.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138210.pdf.task_1221_9_9,ROCK_DOC_overlappingpdfs.138210.pdf.task_1221_15_16,euskelesaurus,red beds formation,,1,0.999
+1487336,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_897_8_8,ROCK_DOC_overlappingpdfs.132666.pdf.task_897_11_12,hyperodapedon,santa maria formation,t,1,0.997
+1471647,overlappingpdfs.132130.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132130.pdf.task_707_9_10,ROCK_DOC_overlappingpdfs.132130.pdf.task_707_14_14,cretoxyrhina mantelli,niobrara chalk,f,1,0.996
+1513183,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_768_7_7,ROCK_DOC_overlappingpdfs.132302.pdf.task_768_15_15,sauropoda,morrison formation,,1,1
+1522593,overlappingpdfs.135478.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135478.pdf.task_236_25_26,ROCK_DOC_overlappingpdfs.135478.pdf.task_236_31_32,parotosuchus nasutus,hardegsen formation,,1,0.995
+1458109,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_4090_5_5,ROCK_DOC_overlappingpdfs.138449.pdf.task_4090_8_9,mammalia,laramie formation,,1,0.996
+1522018,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_24_7_8,ROCK_DOC_overlappingpdfs.133102.pdf.task_24_24_25,albanerpeton arthridion,antlers formation,t,1,0.996
+1537269,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_801_6_6,ROCK_DOC_overlappingpdfs.132458.pdf.task_801_12_12,mammalia,cloverly formation,,1,1
+1468791,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4412_34_34,ROCK_DOC_overlappingpdfs.138761.pdf.task_4412_14_14,guildavis,niobrara formation,,1,0.946
+1484283,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_28_7_7,ROCK_DOC_overlappingpdfs.132216.pdf.task_28_16_16,ornithischia,yixian formation,,1,0.996
+1528367,overlappingpdfs.132360.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132360.pdf.task_1107_98_98,ROCK_DOC_overlappingpdfs.132360.pdf.task_1107_86_86,punta,rosario formation,,1,0.941
+1462008,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_106_18_18,ROCK_DOC_overlappingpdfs.132363.pdf.task_106_12_12,anabarites,zhongyicun member,,1,1
+1480210,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_6322_6_6,ROCK_DOC_overlappingpdfs.138622.pdf.task_6322_12_14,geomyoidea,john day formation,,1,0.996
+1463836,overlappingpdfs.132629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132629.pdf.task_477_9_9,ROCK_DOC_overlappingpdfs.132629.pdf.task_477_13_13,theropoda,wealden group,,1,1
+1516860,overlappingpdfs.132757.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132757.pdf.task_608_25_25,ROCK_DOC_overlappingpdfs.132757.pdf.task_608_19_19,antarctica,meseta formation,,1,0.995
+1510292,overlappingpdfs.130492.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130492.pdf.task_215_25_25,ROCK_DOC_overlappingpdfs.130492.pdf.task_215_21_21,montana,medicine formation,,1,0.997
+1510744,overlappingpdfs.135738.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135738.pdf.task_410_3_3,ROCK_DOC_overlappingpdfs.135738.pdf.task_410_9_10,canadoceras,krasnoyarka formation,,1,1
+1467354,overlappingpdfs.138085.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138085.pdf.task_47_7_7,ROCK_DOC_overlappingpdfs.138085.pdf.task_47_0_0,argentina,casamayor formation,f,1,0.996
+1524880,overlappingpdfs.1375.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1375.pdf.task_846_0_1,ROCK_DOC_overlappingpdfs.1375.pdf.task_846_10_11,zapalasaurus bonapartei,la amarga formation,,1,1
+1515663,overlappingpdfs.132457.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132457.pdf.task_1156_10_10,ROCK_DOC_overlappingpdfs.132457.pdf.task_1156_16_18,elasmobranchii,nanao calcareous sandstone,f,1,0.996
+1489924,overlappingpdfs.132479.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132479.pdf.task_567_4_4,ROCK_DOC_overlappingpdfs.132479.pdf.task_567_12_14,chasmosaurus,dinosaur park formation,,1,0.996
+1488126,overlappingpdfs.133099.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133099.pdf.task_1294_4_4,ROCK_DOC_overlappingpdfs.133099.pdf.task_1294_7_7,hypodicranotus,whittaker formation,,1,0.997
+1454469,overlappingpdfs.138450.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138450.pdf.task_2942_13_13,ROCK_DOC_overlappingpdfs.138450.pdf.task_2942_9_10,montana,hell creek formation,,1,0.996
+1476407,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_6491_21_22,ROCK_DOC_overlappingpdfs.138573.pdf.task_6491_25_25,cormohipparion goorisi,fleming formation,,1,0.996
+1532910,overlappingpdfs.132198.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132198.pdf.task_745_7_7,ROCK_DOC_overlappingpdfs.132198.pdf.task_745_14_15,coleoptera,potrerillos formation,f,1,0.995
+1457732,overlappingpdfs.132883.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132883.pdf.task_882_4_5,ROCK_DOC_overlappingpdfs.132883.pdf.task_882_8_9,reticularia lineata,chitichun limestone formation,f,1,0.996
+1470587,overlappingpdfs.132180.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132180.pdf.task_626_4_4,ROCK_DOC_overlappingpdfs.132180.pdf.task_626_10_10,reptilia,bearpaw formation,,1,0.996
+1493026,overlappingpdfs.132723.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132723.pdf.task_451_9_9,ROCK_DOC_overlappingpdfs.132723.pdf.task_451_15_16,bothremydidae,maevarano formation,f,1,0.998
+1490480,overlappingpdfs.132255.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132255.pdf.task_18_31_32,ROCK_DOC_overlappingpdfs.132255.pdf.task_18_36_36,troodon formosus,medicine formation,,1,0.997
+1513809,overlappingpdfs.132283.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132283.pdf.task_30_10_10,ROCK_DOC_overlappingpdfs.132283.pdf.task_30_7_7,georgina,gowers formation,,1,0.996
+1461723,overlappingpdfs.133092.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133092.pdf.task_16_124_124,ROCK_DOC_overlappingpdfs.133092.pdf.task_16_129_129,soomaspis,soom shale,,1,0.947
+1535251,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_651_6_6,ROCK_DOC_overlappingpdfs.131277.pdf.task_651_22_23,stricklandia,leangen member,,1,1
+1536341,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_80_17_17,ROCK_DOC_overlappingpdfs.132354.pdf.task_80_14_14,virginia,edinburg formation,,1,0.993
+1531829,overlappingpdfs.132.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132.pdf.task_714_7_7,ROCK_DOC_overlappingpdfs.132.pdf.task_714_13_14,theropoda,santana formation,,1,0.996
+1480750,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_78_79,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,campanile pseudoobeliscus,warak formation,,1,0.946
+1484939,overlappingpdfs.135561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135561.pdf.task_325_13_13,ROCK_DOC_overlappingpdfs.135561.pdf.task_325_19_20,choristodera,laohongdong formation,,1,0.996
+1468556,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4412_4_4,ROCK_DOC_overlappingpdfs.138761.pdf.task_4412_14_14,ichthyornis,niobrara formation,t,1,0.943
+1472227,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_87_87,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,sphagesaurus,bauru group,,1,0.996
+1510422,overlappingpdfs.130492.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130492.pdf.task_10_7_7,ROCK_DOC_overlappingpdfs.130492.pdf.task_10_17_18,diapsida,tullock formation,,1,0.999
+1483912,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_672_4_4,ROCK_DOC_overlappingpdfs.133475.pdf.task_672_12_13,pterodactyloidea,jiufotang formation,,1,0.996
+1484701,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_4347_8_8,ROCK_DOC_overlappingpdfs.138658.pdf.task_4347_11_12,trilobita,bokkeveld group,,1,0.996
+1526678,overlappingpdfs.133261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133261.pdf.task_298_24_25,ROCK_DOC_overlappingpdfs.133261.pdf.task_298_38_38,peipiaosteus pani,yixian formation,,1,1
+1464966,overlappingpdfs.132196.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132196.pdf.task_57_9_9,ROCK_DOC_overlappingpdfs.132196.pdf.task_57_19_21,meiolaniidae,la colonia formation,t,1,0.996
+1459006,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2649_2_3,ROCK_DOC_overlappingpdfs.138449.pdf.task_2649_7_7,alphadon marshi,edmonton formation,,1,0.996
+1480192,overlappingpdfs.134.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.134.pdf.task_360_30_30,ROCK_DOC_overlappingpdfs.134.pdf.task_360_26_26,montana,medicine formation,,1,0.993
+1480491,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_4906_49_49,ROCK_DOC_overlappingpdfs.138622.pdf.task_4906_52_52,leptauchenia,poleslide member,,1,0.996
+1478196,overlappingpdfs.132319.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132319.pdf.task_646_7_7,ROCK_DOC_overlappingpdfs.132319.pdf.task_646_12_13,plesiosauroidea,posidonia shale,,1,0.996
+1484426,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_51_12_13,ROCK_DOC_overlappingpdfs.133475.pdf.task_51_27_27,feilongus youngi,yixian formation,,1,1
+1472479,overlappingpdfs.133066.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133066.pdf.task_436_0_0,ROCK_DOC_overlappingpdfs.133066.pdf.task_436_5_7,mesodiadema,st cassian formation,f,1,0.996
+1480033,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1787_50_50,ROCK_DOC_overlappingpdfs.138622.pdf.task_1787_53_54,oreodon,poleslide member,,1,0.996
+1508469,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1658_6_6,ROCK_DOC_overlappingpdfs.132527.pdf.task_1658_1_1,china,lufeng formation,,1,0.999
+1483314,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_51_12_12,ROCK_DOC_overlappingpdfs.133475.pdf.task_51_27_27,feilongus,yixian formation,,1,1
+1460923,overlappingpdfs.135551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135551.pdf.task_355_6_6,ROCK_DOC_overlappingpdfs.135551.pdf.task_355_13_13,jerea,quadersandstein member,,1,1
+1461063,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_656_12_12,ROCK_DOC_overlappingpdfs.132363.pdf.task_656_40_40,ocruranus,zhongyicun member,,1,0.996
+1456504,overlappingpdfs.132505.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132505.pdf.task_592_8_8,ROCK_DOC_overlappingpdfs.132505.pdf.task_592_12_12,archosauromorpha,okurodani formation,,1,0.997
+1477307,overlappingpdfs.133046.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133046.pdf.task_525_9_9,ROCK_DOC_overlappingpdfs.133046.pdf.task_525_12_13,amphibia,beaufort beds formation,f,1,0.996
+1470281,overlappingpdfs.132939.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132939.pdf.task_271_12_12,ROCK_DOC_overlappingpdfs.132939.pdf.task_271_15_16,spondylolestes,beaufort group,,1,0.996
+1467217,overlappingpdfs.130184.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130184.pdf.task_254_18_18,ROCK_DOC_overlappingpdfs.130184.pdf.task_254_24_24,dicynodontia,kawinga formation,f,1,0.996
+1476370,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_1930_1_2,ROCK_DOC_overlappingpdfs.138573.pdf.task_1930_13_14,cormohipparion occidentale,ash hollow formation,t,1,1
+1470583,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_380_12_12,ROCK_DOC_overlappingpdfs.132470.pdf.task_380_15_16,planocephalosaurus,tecovas formation,,1,1
+1490949,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_252_4_4,ROCK_DOC_overlappingpdfs.136699.pdf.task_252_11_12,leptodesma,foreknobs formation,t,1,0.997
+1537332,overlappingpdfs.136991.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136991.pdf.task_238_24_24,ROCK_DOC_overlappingpdfs.136991.pdf.task_238_60_61,dalmanella,kildare limestone formation,,1,1
+1453919,overlappingpdfs.131592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131592.pdf.task_234_12_12,ROCK_DOC_overlappingpdfs.131592.pdf.task_234_17_19,allotheria,milk river formation,,1,0.995
+1522246,overlappingpdfs.132185.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132185.pdf.task_600_7_7,ROCK_DOC_overlappingpdfs.132185.pdf.task_600_11_12,sauropoda,morrison formation,,1,0.997
+1480565,overlappingpdfs.130639.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130639.pdf.task_218_68_68,ROCK_DOC_overlappingpdfs.130639.pdf.task_218_57_57,sinemys,tugulu group,,1,0.999
+1472648,overlappingpdfs.131561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131561.pdf.task_199_14_14,ROCK_DOC_overlappingpdfs.131561.pdf.task_199_8_9,ambocoelia,foreknobs formation,,1,0.999
+1470397,overlappingpdfs.132845.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132845.pdf.task_1019_18_18,ROCK_DOC_overlappingpdfs.132845.pdf.task_1019_15_15,fergana,balabansai formation,,1,0.996
+1476884,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_570_15_15,ROCK_DOC_overlappingpdfs.1376.pdf.task_570_28_29,argyrosaurus,bajo barreal formation,,1,1
+1461138,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_602_0_0,ROCK_DOC_overlappingpdfs.132363.pdf.task_602_12_12,ocruranus,zhongyicun member,,1,1
+1532328,overlappingpdfs.1357.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1357.pdf.task_733_5_5,ROCK_DOC_overlappingpdfs.1357.pdf.task_733_9_9,primates,mazateron formation,f,1,0.996
+1498645,overlappingpdfs.136925.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136925.pdf.task_35_12_13,TIME_DOC_overlappingpdfs.136925.pdf.task_35_16_16,malongulli formation,Eastonian|456.10000|449.50000,f,1,1
+1522036,overlappingpdfs.135478.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135478.pdf.task_418_9_10,ROCK_DOC_overlappingpdfs.135478.pdf.task_418_14_14,hadrokkosaurus bradyi,moenkopi formation,,1,0.995
+1522866,overlappingpdfs.132592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132592.pdf.task_403_26_27,ROCK_DOC_overlappingpdfs.132592.pdf.task_403_20_20,ordosemys brinkmania,tugulu group,,1,1
+1472392,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_462_6_6,ROCK_DOC_overlappingpdfs.132353.pdf.task_462_12_12,dinosauria,huincul formation,,1,0.997
+1476738,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1128_7_7,ROCK_DOC_overlappingpdfs.1376.pdf.task_1128_17_19,argyrosaurus,bajo barreal formation,t,1,0.996
+1456076,overlappingpdfs.133469.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133469.pdf.task_1111_11_11,ROCK_DOC_overlappingpdfs.133469.pdf.task_1111_15_16,palaeotaxodonta,acoite formation,,1,0.998
+1528416,overlappingpdfs.133114.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133114.pdf.task_67_14_14,ROCK_DOC_overlappingpdfs.133114.pdf.task_67_30_30,peltopleurus,besano formation,,1,0.935
+1506487,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1912_10_10,ROCK_DOC_overlappingpdfs.132293.pdf.task_1912_6_7,india,iurassic kota formation,,1,0.999
+1499876,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_2293_53_54,ROCK_DOC_overlappingpdfs.138519.pdf.task_2293_35_36,ustatochoerus major,ash hollow formation,t,1,0.998
+1488428,overlappingpdfs.132254.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132254.pdf.task_44_6_6,ROCK_DOC_overlappingpdfs.132254.pdf.task_44_9_9,curculionidae,santana formation,,1,0.996
+1532482,overlappingpdfs.132626.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132626.pdf.task_102_32_33,ROCK_DOC_overlappingpdfs.132626.pdf.task_102_39_41,moeritherium andrewsi,gebel qatrani formation,,1,0.996
+1461477,overlappingpdfs.136806.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136806.pdf.task_403_0_0,ROCK_DOC_overlappingpdfs.136806.pdf.task_403_5_5,leiorhynchus,triangle formation,,1,0.996
+1455740,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_720_8_8,ROCK_DOC_overlappingpdfs.1373.pdf.task_720_20_21,pseudosuchia,chinle formation,f,1,0.996
+1464926,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_834_11_11,ROCK_DOC_overlappingpdfs.132215.pdf.task_834_15_17,pliosaurus,kimmeridge clay formation,t,1,0.996
+1524781,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_44_21_21,ROCK_DOC_overlappingpdfs.132899.pdf.task_44_14_14,nevada,emigrant formation,,1,0.996
+1495944,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_1293_4_5,ROCK_DOC_overlappingpdfs.132699.pdf.task_1293_13_13,apatosaurus ajax,morrison formation,t,1,1
+1465103,overlappingpdfs.132196.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132196.pdf.task_895_4_4,ROCK_DOC_overlappingpdfs.132196.pdf.task_895_8_9,cryptodira,yixian formation,,1,0.997
+1495745,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_1293_4_5,ROCK_DOC_overlappingpdfs.132699.pdf.task_1293_13_14,apatosaurus ajax,morrison formation,,1,1
+1450844,overlappingpdfs.138578.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138578.pdf.task_7958_5_5,ROCK_DOC_overlappingpdfs.138578.pdf.task_7958_8_8,grammysia,chemung group,,1,0.997
+1505397,overlappingpdfs.132955.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132955.pdf.task_1317_6_6,ROCK_DOC_overlappingpdfs.132955.pdf.task_1317_14_14,archosauria,forest formation,,1,0.998
+1487285,overlappingpdfs.1362.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1362.pdf.task_311_9_9,ROCK_DOC_overlappingpdfs.1362.pdf.task_311_15_17,cetacea,san mateo formation,,1,0.996
+1506066,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1912_10_10,ROCK_DOC_overlappingpdfs.132293.pdf.task_1912_5_7,india,early iurassic kota formation,,1,0.999
+1466627,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_46_3_4,ROCK_DOC_overlappingpdfs.1341.pdf.task_46_11_11,brachydelphis mazeasi,pisco formation,,1,1
+1520901,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_503_6_6,ROCK_DOC_overlappingpdfs.132531.pdf.task_503_12_13,dinosauria,morrison formation,,1,0.999
+1456474,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_34_4_4,ROCK_DOC_overlappingpdfs.1373.pdf.task_34_1_1,arizona,chinle formation,,1,0.978
+1481324,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_264_6_6,ROCK_DOC_overlappingpdfs.138622.pdf.task_264_9_11,hesperocyon,white river group,f,1,0.992
+1469736,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_618_11_11,ROCK_DOC_overlappingpdfs.132470.pdf.task_618_7_7,arizona,kayenta formation,,1,0.995
+1535973,overlappingpdfs.130697.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130697.pdf.task_473_6_6,ROCK_DOC_overlappingpdfs.130697.pdf.task_473_9_10,ogygopsis,burgess shale,f,1,0.996
+1510298,overlappingpdfs.132708.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132708.pdf.task_48_52_52,ROCK_DOC_overlappingpdfs.132708.pdf.task_48_39_39,gallimimus,nemegt formation,,1,0.998
+1495590,overlappingpdfs.135100.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135100.pdf.task_467_17_17,ROCK_DOC_overlappingpdfs.135100.pdf.task_467_22_23,thalassemydidae,vaca muerta formation,f,1,0.999
+1485329,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_4552_0_0,ROCK_DOC_overlappingpdfs.138658.pdf.task_4552_5_6,trilobites,solon member,,1,0.995
+1509143,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1604_19_19,ROCK_DOC_overlappingpdfs.132527.pdf.task_1604_14_14,china,lufeng formation,,1,0.998
+1486906,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_10_13_13,ROCK_DOC_overlappingpdfs.132666.pdf.task_10_25_25,trilophosaurus,trujillo formation,,1,1
+1520381,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_17_21_21,ROCK_DOC_overlappingpdfs.132531.pdf.task_17_40_42,diplodocidae,north american morrison formation,f,1,0.996
+1506188,overlappingpdfs.132301.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132301.pdf.task_416_5_5,ROCK_DOC_overlappingpdfs.132301.pdf.task_416_0_2,cuyana,santa clara abajo formation,,1,0.999
+1524433,overlappingpdfs.133261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133261.pdf.task_309_15_15,ROCK_DOC_overlappingpdfs.133261.pdf.task_309_18_18,sinamia,sanlianhe coal,,1,0.996
+1484633,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_849_14_14,ROCK_DOC_overlappingpdfs.132216.pdf.task_849_11_11,alberta,edmonton formation,,1,0.996
+1468314,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4412_23_23,ROCK_DOC_overlappingpdfs.138761.pdf.task_4412_14_15,apatornis,niobrara chalk,,1,0.95
+1506525,overlappingpdfs.139832.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139832.pdf.task_57_17_17,ROCK_DOC_overlappingpdfs.139832.pdf.task_57_23_23,archaeotrigon,morrison formation,,1,0.999
+1490594,overlappingpdfs.132888.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132888.pdf.task_923_3_3,ROCK_DOC_overlappingpdfs.132888.pdf.task_923_5_5,plateosaurus,trossingen formation,,1,0.997
+1470239,overlappingpdfs.132845.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132845.pdf.task_540_14_14,ROCK_DOC_overlappingpdfs.132845.pdf.task_540_9_9,china,qigu formation,,1,0.995
+1536004,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_80_42_42,ROCK_DOC_overlappingpdfs.132354.pdf.task_80_37_38,argentina,las aguaditas formation,,1,0.994
+1472478,overlappingpdfs.133066.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133066.pdf.task_436_0_0,ROCK_DOC_overlappingpdfs.133066.pdf.task_436_5_7,mesodiadema,st cassian formation,,1,0.996
+1466759,overlappingpdfs.130184.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130184.pdf.task_254_18_18,ROCK_DOC_overlappingpdfs.130184.pdf.task_254_24_25,dicynodontia,kawinga formation,,1,0.996
+1485234,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_188_33_33,ROCK_DOC_overlappingpdfs.138755.pdf.task_188_6_6,cucullaea,tinton formation,,1,0.996
+1515659,overlappingpdfs.138424.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138424.pdf.task_273_33_33,ROCK_DOC_overlappingpdfs.138424.pdf.task_273_96_96,eurymylus,gashato formation,,1,0.947
+1495928,overlappingpdfs.132134.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132134.pdf.task_1127_7_7,ROCK_DOC_overlappingpdfs.132134.pdf.task_1127_13_15,diptera,iurassic daohugou formation,,1,0.999
+1523682,overlappingpdfs.130629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130629.pdf.task_355_8_8,ROCK_DOC_overlappingpdfs.130629.pdf.task_355_13_14,siphonia,quadersandstein member,,1,0.996
+1515171,overlappingpdfs.132282.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132282.pdf.task_71_6_6,ROCK_DOC_overlappingpdfs.132282.pdf.task_71_10_11,yangtzeella,kuniutan formation,t,1,0.996
+1480660,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_29_29,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,rhinoclavis,warak formation,f,1,0.941
+1481959,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_981_2_2,ROCK_DOC_overlappingpdfs.138622.pdf.task_981_22_23,hesperocyon,cypress hills formation,t,1,0.996
+1468889,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4412_23_23,ROCK_DOC_overlappingpdfs.138761.pdf.task_4412_14_14,apatornis,niobrara formation,,1,0.944
+1508906,overlappingpdfs.132453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132453.pdf.task_548_6_6,ROCK_DOC_overlappingpdfs.132453.pdf.task_548_12_12,tapejaridae,iiufotang formation,,1,0.999
+1480253,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_4906_49_49,ROCK_DOC_overlappingpdfs.138622.pdf.task_4906_52_53,leptauchenia,poleslide member,,1,1
+1476304,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1547_10_10,ROCK_DOC_overlappingpdfs.1376.pdf.task_1547_19_20,sauropoda,bajo barreal formation,,1,0.996
+1463907,overlappingpdfs.132122.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132122.pdf.task_1063_7_7,ROCK_DOC_overlappingpdfs.132122.pdf.task_1063_13_14,slaughteria,trinity group,,1,1
+1535293,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_649_2_2,ROCK_DOC_overlappingpdfs.131277.pdf.task_649_24_24,stricklandia,solvik formation,t,1,0.996
+1517071,overlappingpdfs.132757.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132757.pdf.task_66_9_9,ROCK_DOC_overlappingpdfs.132757.pdf.task_66_23_26,rotularia,lopez de bertodano formation,,1,1
+1459204,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1306_21_21,ROCK_DOC_overlappingpdfs.138449.pdf.task_1306_18_18,alberta,oldman formation,,1,0.996
+1537328,overlappingpdfs.133101.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133101.pdf.task_30_7_8,ROCK_DOC_overlappingpdfs.133101.pdf.task_30_19_19,ankotarinja tirarensis,etadunna formation,t,1,0.995
+1498158,overlappingpdfs.136925.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136925.pdf.task_388_10_10,ROCK_DOC_overlappingpdfs.136925.pdf.task_388_13_14,foerstephyllum,gordon limestone formation,,1,0.999
+1480213,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_2200_29_29,ROCK_DOC_overlappingpdfs.138622.pdf.task_2200_32_32,leptauchenia,poleslide member,,1,0.996
+1477958,overlappingpdfs.135259.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135259.pdf.task_455_16_17,ROCK_DOC_overlappingpdfs.135259.pdf.task_455_28_28,dinochelys whitei,morrison formation,,1,1
+1497768,overlappingpdfs.133070.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133070.pdf.task_790_8_8,ROCK_DOC_overlappingpdfs.133070.pdf.task_790_36_36,oudenodon,beaufort group,t,1,0.999
+1502401,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_5724_0_1,ROCK_DOC_overlappingpdfs.138407.pdf.task_5724_11_11,mixodectes pungens,nacimiento formation,,1,0.999
+1474717,overlappingpdfs.138044.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138044.pdf.task_72_16_16,ROCK_DOC_overlappingpdfs.138044.pdf.task_72_40_40,dinosauria,dabasu formation,,1,0.996
+1491937,overlappingpdfs.133116.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133116.pdf.task_959_0_0,ROCK_DOC_overlappingpdfs.133116.pdf.task_959_7_7,crustacea,gogo formation,,1,0.997
+1535923,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_80_42_42,ROCK_DOC_overlappingpdfs.132354.pdf.task_80_30_30,argentina,doularg formation,f,1,0.994
+1518403,overlappingpdfs.135515.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135515.pdf.task_977_4_4,ROCK_DOC_overlappingpdfs.135515.pdf.task_977_8_8,mollusca,imo formation,f,1,0.997
+1481790,overlappingpdfs.132093.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132093.pdf.task_61_9_10,ROCK_DOC_overlappingpdfs.132093.pdf.task_61_14_15,cyrtosymbole playfordi,virgin hills formation,,1,0.996
+1454154,overlappingpdfs.133446.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133446.pdf.task_16_16_17,ROCK_DOC_overlappingpdfs.133446.pdf.task_16_26_27,taniwhasaurus oweni,conway formation,,1,1
+1470170,overlappingpdfs.139761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139761.pdf.task_256_7_7,ROCK_DOC_overlappingpdfs.139761.pdf.task_256_4_4,argentina,sunchal formation,f,1,0.996
+1463548,overlappingpdfs.138384.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138384.pdf.task_5846_8_8,ROCK_DOC_overlappingpdfs.138384.pdf.task_5846_11_11,mammalia,husin coal,,1,0.996
+1461807,overlappingpdfs.132895.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132895.pdf.task_373_63_64,ROCK_DOC_overlappingpdfs.132895.pdf.task_373_51_53,eocoelia intermedia,val brillant quartzite,,1,0.947
+1528456,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_277_28_28,ROCK_DOC_overlappingpdfs.132658.pdf.task_277_9_9,titanosauridae,allen formation,,1,0.996
+1513361,overlappingpdfs.1372.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1372.pdf.task_893_6_6,ROCK_DOC_overlappingpdfs.1372.pdf.task_893_10_11,sauropterygia,bearpaw formation,,1,0.998
+1451622,overlappingpdfs.132547.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132547.pdf.task_1124_0_0,ROCK_DOC_overlappingpdfs.132547.pdf.task_1124_5_5,bryozoa,limestone formation,f,1,0.996
+1537320,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_255_34_34,ROCK_DOC_overlappingpdfs.138665.pdf.task_255_29_29,isodontosaurus,djadokhta formation,,1,1
+1469098,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_956_32_32,ROCK_DOC_overlappingpdfs.138761.pdf.task_956_56_57,ichthyornis,smoky hill member,,1,0.992
+1472582,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_2827_9_9,ROCK_DOC_overlappingpdfs.138438.pdf.task_2827_12_12,cynorca,caliente formation,,1,0.996
+1476727,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_1946_6_7,ROCK_DOC_overlappingpdfs.138573.pdf.task_1946_13_15,cormohipparion occidentale,ash hollow formation,t,1,0.996
+1510710,overlappingpdfs.130492.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130492.pdf.task_10_7_7,ROCK_DOC_overlappingpdfs.130492.pdf.task_10_17_17,diapsida,tullock formation,,1,1
+1528216,overlappingpdfs.132315.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132315.pdf.task_19_3_3,ROCK_DOC_overlappingpdfs.132315.pdf.task_19_13_14,theropoda,bayan mandahu formation,,1,0.996
+1485487,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_17_13_13,ROCK_DOC_overlappingpdfs.132216.pdf.task_17_18_18,changchunsaurus,quantou formation,,1,0.996
+1495884,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_1293_4_4,ROCK_DOC_overlappingpdfs.132699.pdf.task_1293_13_13,apatosaurus,morrison formation,,1,1
+1470511,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_611_15_15,ROCK_DOC_overlappingpdfs.139.pdf.task_611_9_9,bicuspidon,mussentuchit member,,1,1
+1453666,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_108_17_17,ROCK_DOC_overlappingpdfs.132874.pdf.task_108_25_26,otozoum,portland formation,,1,0.999
+1498192,overlappingpdfs.136.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136.pdf.task_638_0_1,ROCK_DOC_overlappingpdfs.136.pdf.task_638_13_14,calsoyasuchus valliceps,kayenta formation,,1,0.999
+1499875,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_2293_53_54,ROCK_DOC_overlappingpdfs.138519.pdf.task_2293_35_36,ustatochoerus major,ash hollow formation,,1,0.998
+1537265,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_831_4_4,ROCK_DOC_overlappingpdfs.132458.pdf.task_831_8_8,mammalia,antlers formation,,1,0.999
+1537236,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_573_60_60,ROCK_DOC_overlappingpdfs.132458.pdf.task_573_19_21,spalacotheridium,cedar mountain formation,,1,1
+1467186,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_759_13_13,ROCK_DOC_overlappingpdfs.1341.pdf.task_759_18_19,odontoceti,marys formation,,1,0.996
+1470166,overlappingpdfs.131000.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131000.pdf.task_608_6_6,ROCK_DOC_overlappingpdfs.131000.pdf.task_608_9_9,graptolites,pogonip group,,1,0.997
+1506526,overlappingpdfs.139832.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139832.pdf.task_57_17_17,ROCK_DOC_overlappingpdfs.139832.pdf.task_57_23_23,archaeotrigon,morrison formation,t,1,0.999
+1517933,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_729_14_14,ROCK_DOC_overlappingpdfs.132859.pdf.task_729_10_11,montana,hell creek formation,,1,0.996
+1490132,overlappingpdfs.132479.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132479.pdf.task_567_8_8,ROCK_DOC_overlappingpdfs.132479.pdf.task_567_12_14,ceratopsia,dinosaur park formation,f,1,0.997
+1515802,overlappingpdfs.138424.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138424.pdf.task_1564_2_2,ROCK_DOC_overlappingpdfs.138424.pdf.task_1564_8_8,mammalia,bridger formation,,1,0.996
+1516446,overlappingpdfs.132317.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132317.pdf.task_875_5_5,ROCK_DOC_overlappingpdfs.132317.pdf.task_875_19_19,leptosuchus,dockum group,t,1,0.991
+1456001,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_610_4_4,ROCK_DOC_overlappingpdfs.1373.pdf.task_610_11_11,archosauria,oxford formation,f,1,0.996
+1463915,overlappingpdfs.132122.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132122.pdf.task_1063_7_8,ROCK_DOC_overlappingpdfs.132122.pdf.task_1063_13_14,slaughteria eruptens,trinity group,t,1,0.997
+1530483,overlappingpdfs.132102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132102.pdf.task_53_7_8,ROCK_DOC_overlappingpdfs.132102.pdf.task_53_11_11,kailidiscus chinensis,kaili formation,,1,0.996
+1509251,overlappingpdfs.132453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132453.pdf.task_20_3_3,ROCK_DOC_overlappingpdfs.132453.pdf.task_20_12_12,pterosauria,crato formation,,1,0.999
+1498111,overlappingpdfs.1397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1397.pdf.task_473_14_14,ROCK_DOC_overlappingpdfs.1397.pdf.task_473_18_19,herrerasauridae,ischigualasto formation,,1,0.998
+1480541,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_45_45,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,seraphs,warak formation,,1,0.934
+1459202,overlappingpdfs.132858.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132858.pdf.task_1037_15_15,ROCK_DOC_overlappingpdfs.132858.pdf.task_1037_10_10,mexico,cutler formation,,1,0.995
+1489913,overlappingpdfs.132303.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132303.pdf.task_323_20_20,ROCK_DOC_overlappingpdfs.132303.pdf.task_323_11_11,unamichthys,tlayua formation,,1,1
+1501229,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_1640_10_10,ROCK_DOC_overlappingpdfs.138407.pdf.task_1640_13_13,thylacaelurus,kishenehn formation,,1,0.999
+1471684,overlappingpdfs.132974.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132974.pdf.task_519_8_8,ROCK_DOC_overlappingpdfs.132974.pdf.task_519_14_14,temnospondyli,abo formation,f,1,0.996
+1512171,overlappingpdfs.135252.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135252.pdf.task_778_5_5,ROCK_DOC_overlappingpdfs.135252.pdf.task_778_8_8,hippuritoidea,gosau group,,1,0.943
+1492956,overlappingpdfs.132969.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132969.pdf.task_72_6_6,ROCK_DOC_overlappingpdfs.132969.pdf.task_72_9_10,hamites,tata limestone formation,,1,0.997
+1535325,overlappingpdfs.138447.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138447.pdf.task_396_9_9,ROCK_DOC_overlappingpdfs.138447.pdf.task_396_31_32,mourlonia,noonkanbah formation,,1,1
+1472847,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_202_25_25,ROCK_DOC_overlappingpdfs.1334.pdf.task_202_21_22,montana,hell creek formation,,1,0.996
+1499366,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4826_15_15,ROCK_DOC_overlappingpdfs.138519.pdf.task_4826_18_19,procamelus,valentine formation,t,1,0.999
+1459050,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1799_11_12,ROCK_DOC_overlappingpdfs.138449.pdf.task_1799_15_16,thescelosaurus warreni,edmonton formation,,1,0.996
+1511038,overlappingpdfs.135749.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135749.pdf.task_503_6_6,ROCK_DOC_overlappingpdfs.135749.pdf.task_503_9_11,pterotheca,wether law linn formation,,1,1
+1530458,overlappingpdfs.132652.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132652.pdf.task_578_3_3,ROCK_DOC_overlappingpdfs.132652.pdf.task_578_6_6,plesiosauria,oxford clay,f,1,0.996
+1524033,overlappingpdfs.132609.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132609.pdf.task_447_5_5,ROCK_DOC_overlappingpdfs.132609.pdf.task_447_11_13,neoceratopsia,iudith river group,,1,0.996
+1467281,overlappingpdfs.1374.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1374.pdf.task_677_7_7,ROCK_DOC_overlappingpdfs.1374.pdf.task_677_13_13,alligatoridae,urumaco formation,,1,0.995
+1488558,overlappingpdfs.135646.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135646.pdf.task_163_0_0,ROCK_DOC_overlappingpdfs.135646.pdf.task_163_16_19,metopaster,craie de villedieu formation,,1,1
+1537122,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_831_2_2,ROCK_DOC_overlappingpdfs.132458.pdf.task_831_8_8,multituberculata,antlers formation,,1,1
+1486732,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_6_3_3,ROCK_DOC_overlappingpdfs.132666.pdf.task_6_10_11,trilophosaurus,chinle group,,1,0.996
+1472175,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_37_37,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,itasuchus,bauru group,,1,0.945
+1512943,overlappingpdfs.132742.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132742.pdf.task_451_13_14,ROCK_DOC_overlappingpdfs.132742.pdf.task_451_21_21,parietobalaena palmeri,calvert formation,,1,0.945
+1472595,overlappingpdfs.130742.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130742.pdf.task_15_11_11,ROCK_DOC_overlappingpdfs.130742.pdf.task_15_8_8,paragloborilus,meishucun formation,f,1,0.996
+1466646,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_9_9,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_13,diplodocidae,morrison formation,,1,0.998
+1524565,overlappingpdfs.135414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135414.pdf.task_70_0_1,ROCK_DOC_overlappingpdfs.135414.pdf.task_70_5_6,champsosaurus albertensis,horseshoe canyon formation,t,1,0.997
+1515987,overlappingpdfs.138424.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138424.pdf.task_273_52_52,TIME_DOC_overlappingpdfs.138424.pdf.task_273_7_7,gashato formation,Tertiary|66.00000|2.58800,f,1,0.94
+1465650,overlappingpdfs.138745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138745.pdf.task_50_8_8,ROCK_DOC_overlappingpdfs.138745.pdf.task_50_13_13,zalambdalestes,djadokhta formation,t,1,0.996
+1480672,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_2351_21_22,ROCK_DOC_overlappingpdfs.138622.pdf.task_2351_25_25,brachyrhynchocyon douglasi,sharps formation,,1,0.996
+1467010,overlappingpdfs.132678.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132678.pdf.task_700_9_9,ROCK_DOC_overlappingpdfs.132678.pdf.task_700_14_14,osteichthyes,catskill formation,,1,0.996
+1495802,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_1293_9_9,ROCK_DOC_overlappingpdfs.132699.pdf.task_1293_13_13,diplodocidae,morrison formation,t,1,1
+1461478,overlappingpdfs.136806.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136806.pdf.task_403_0_0,ROCK_DOC_overlappingpdfs.136806.pdf.task_403_5_5,leiorhynchus,triangle formation,f,1,0.996
+1471500,overlappingpdfs.132974.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132974.pdf.task_820_6_6,ROCK_DOC_overlappingpdfs.132974.pdf.task_820_12_12,labyrinthodontia,arcadia formation,,1,0.996
+1492957,overlappingpdfs.132969.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132969.pdf.task_72_6_6,ROCK_DOC_overlappingpdfs.132969.pdf.task_72_9_10,hamites,tata limestone formation,f,1,0.997
+1501630,overlappingpdfs.132298.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132298.pdf.task_131_23_23,ROCK_DOC_overlappingpdfs.132298.pdf.task_131_20_20,argentina,ischigualasto formation,,1,0.999
+1466496,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_46_3_4,ROCK_DOC_overlappingpdfs.1341.pdf.task_46_11_12,brachydelphis mazeasi,pisco formation,,1,1
+1465279,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_1282_15_15,ROCK_DOC_overlappingpdfs.132215.pdf.task_1282_19_19,plesiosauria,pierre shale,f,1,0.996
+1506821,overlappingpdfs.135142.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135142.pdf.task_10_26_26,ROCK_DOC_overlappingpdfs.135142.pdf.task_10_22_22,argentina,chenque formation,f,1,0.999
+1522380,overlappingpdfs.135139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135139.pdf.task_626_29_29,ROCK_DOC_overlappingpdfs.135139.pdf.task_626_24_25,montana,hell creek formation,,1,0.996
+1490993,overlappingpdfs.132303.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132303.pdf.task_509_9_9,ROCK_DOC_overlappingpdfs.132303.pdf.task_509_13_13,teleostei,crato formation,,1,0.996
+1528563,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_225_6_6,ROCK_DOC_overlappingpdfs.132658.pdf.task_225_10_11,lepidosauria,iurassic kota formation,f,1,1
+1465374,overlappingpdfs.138745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138745.pdf.task_233_46_46,ROCK_DOC_overlappingpdfs.138745.pdf.task_233_41_41,pseudictops,gashato formation,,1,0.993
+1532644,overlappingpdfs.138624.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138624.pdf.task_6201_2_2,ROCK_DOC_overlappingpdfs.138624.pdf.task_6201_5_5,bivalvia,solsville member,,1,0.999
+1481219,overlappingpdfs.130639.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130639.pdf.task_325_13_13,ROCK_DOC_overlappingpdfs.130639.pdf.task_325_19_19,choristodera,laohongdong formation,,1,0.996
+1518510,overlappingpdfs.132473.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132473.pdf.task_1109_24_24,ROCK_DOC_overlappingpdfs.132473.pdf.task_1109_6_6,nemegtosauridae,adamantina formation,,1,0.999
+1499188,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2151_8_8,ROCK_DOC_overlappingpdfs.138407.pdf.task_2151_11_11,microsyops,huerfano formation,f,1,0.999
+1505086,overlappingpdfs.132955.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132955.pdf.task_1323_32_32,ROCK_DOC_overlappingpdfs.132955.pdf.task_1323_10_11,parasuchidae,chinle group,,1,0.952
+1523726,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_56_56,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_87_87,fuyous,daohugou formation,,1,1
+1480431,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1784_74_74,ROCK_DOC_overlappingpdfs.138622.pdf.task_1784_77_77,leptauchenia,poleslide member,,1,0.996
+1497595,overlappingpdfs.1397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1397.pdf.task_112_11_11,ROCK_DOC_overlappingpdfs.1397.pdf.task_112_8_8,argentina,chubut group,f,1,0.999
+1483555,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1237_16_16,ROCK_DOC_overlappingpdfs.138755.pdf.task_1237_8_8,cucullaea,hornerstown formation,,1,0.996
+1461091,overlappingpdfs.132529.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132529.pdf.task_343_5_5,ROCK_DOC_overlappingpdfs.132529.pdf.task_343_23_24,dvinosauria,buena vista formation,t,1,0.996
+1481676,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_86_87,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,globularia,warak formation,,1,0.94
+1465106,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_186_20_21,ROCK_DOC_overlappingpdfs.138709.pdf.task_186_5_6,apternodus gregoryi,white river group,f,1,0.996
+1468701,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_890_21_21,ROCK_DOC_overlappingpdfs.138761.pdf.task_890_28_31,ichthyornis,smoky hill chalk member,,1,1
+1535292,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_649_2_2,ROCK_DOC_overlappingpdfs.131277.pdf.task_649_24_24,stricklandia,solvik formation,,1,0.996
+1523878,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_429_24_25,ROCK_DOC_overlappingpdfs.132304.pdf.task_429_39_39,yanliaocorixa chinensis,jiulongshan formation,,1,0.996
+1515379,overlappingpdfs.132435.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132435.pdf.task_588_12_12,ROCK_DOC_overlappingpdfs.132435.pdf.task_588_4_4,traumatocrinus,sina formation,,1,0.996
+1488019,overlappingpdfs.131.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131.pdf.task_981_4_4,ROCK_DOC_overlappingpdfs.131.pdf.task_981_17_17,theropoda,morrison formation,,1,1
+1484493,overlappingpdfs.138526.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138526.pdf.task_379_23_24,ROCK_DOC_overlappingpdfs.138526.pdf.task_379_16_16,probaena sculpta,morrison formation,t,1,0.996
+1528385,overlappingpdfs.132661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132661.pdf.task_1583_5_5,ROCK_DOC_overlappingpdfs.132661.pdf.task_1583_11_11,brachiopoda,hamilton group,,1,1
+1455799,overlappingpdfs.136141.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136141.pdf.task_700_6_6,ROCK_DOC_overlappingpdfs.136141.pdf.task_700_9_11,ostracoda,ellis bay formation,f,1,0.997
+1468904,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_956_32_33,ROCK_DOC_overlappingpdfs.138761.pdf.task_956_56_57,ichthyornis dispar,smoky hill member,,1,0.991
+1509020,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1534_9_9,ROCK_DOC_overlappingpdfs.132527.pdf.task_1534_0_0,argentina,ischigualasto formation,f,1,0.999
+1510814,overlappingpdfs.132753.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132753.pdf.task_2034_3_3,ROCK_DOC_overlappingpdfs.132753.pdf.task_2034_8_8,cyathophycus,vinini formation,,1,1
+1517217,overlappingpdfs.132317.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132317.pdf.task_998_4_4,ROCK_DOC_overlappingpdfs.132317.pdf.task_998_11_11,archosauria,oxford formation,,1,0.996
+1506519,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1912_10_10,ROCK_DOC_overlappingpdfs.132293.pdf.task_1912_7_7,india,kota formation,,1,0.999
+1518526,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_1424_7_7,ROCK_DOC_overlappingpdfs.132859.pdf.task_1424_12_14,caudata,green river formation,,1,0.996
+1456483,overlappingpdfs.131777.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131777.pdf.task_680_1_1,ROCK_DOC_overlappingpdfs.131777.pdf.task_680_42_43,rhipidomella,foreknobs formation,,1,1
+1470153,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_66_5_5,ROCK_DOC_overlappingpdfs.132470.pdf.task_66_25_25,coelophysis,forest member,,1,0.936
+1504792,overlappingpdfs.138.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138.pdf.task_728_3_3,ROCK_DOC_overlappingpdfs.138.pdf.task_728_7_7,mosasauridae,bearpaw formation,,1,0.999
+1537346,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_667_2_2,ROCK_DOC_overlappingpdfs.132458.pdf.task_667_5_5,bernissartia,wealden group,t,1,0.992
+1526478,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_793_25_26,ROCK_DOC_overlappingpdfs.132899.pdf.task_793_4_4,oryctocephalus indicus,kaili formation,,1,0.996
+1461212,overlappingpdfs.130145.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130145.pdf.task_607_31_31,ROCK_DOC_overlappingpdfs.130145.pdf.task_607_26_27,carolina,castle hayne formation,,1,0.995
+1451880,overlappingpdfs.132569.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132569.pdf.task_583_9_9,ROCK_DOC_overlappingpdfs.132569.pdf.task_583_15_15,dicynodontia,karoo supergroup,,1,0.996
+1524978,overlappingpdfs.132899.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132899.pdf.task_1054_0_0,ROCK_DOC_overlappingpdfs.132899.pdf.task_1054_5_5,eokochaspis,emigrant formation,,1,0.999
+1456245,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_735_11_11,ROCK_DOC_overlappingpdfs.1373.pdf.task_735_7_8,mexico,chinle group,,1,0.996
+1454070,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_556_3_3,ROCK_DOC_overlappingpdfs.132874.pdf.task_556_8_8,anchisaurus,portland formation,t,1,0.996
+1516909,overlappingpdfs.132317.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132317.pdf.task_875_5_5,ROCK_DOC_overlappingpdfs.132317.pdf.task_875_19_20,leptosuchus,dockum group,,1,1
+1481599,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_54_55,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,capulus anceps,warak formation,,1,0.953
+1492407,overlappingpdfs.136483.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136483.pdf.task_246_13_13,ROCK_DOC_overlappingpdfs.136483.pdf.task_246_5_5,camarotoechia,foreknobs formation,t,1,1
+1529260,overlappingpdfs.132202.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132202.pdf.task_38_18_18,ROCK_DOC_overlappingpdfs.132202.pdf.task_38_40_41,calosargus,karabastau formation,,1,1
+1516819,overlappingpdfs.132317.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132317.pdf.task_905_2_2,ROCK_DOC_overlappingpdfs.132317.pdf.task_905_10_11,leptosuchus,dockum group,,1,1
+1474665,overlappingpdfs.132572.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132572.pdf.task_46_4_4,ROCK_DOC_overlappingpdfs.132572.pdf.task_46_11_11,psittacosaurus,yixian formation,,1,0.996
+1518827,overlappingpdfs.132594.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132594.pdf.task_23_8_9,ROCK_DOC_overlappingpdfs.132594.pdf.task_23_14_15,leptomitus,murero formation,,1,0.996
+1507566,overlappingpdfs.133073.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133073.pdf.task_633_0_1,ROCK_DOC_overlappingpdfs.133073.pdf.task_633_8_9,dulankarella magna,dulankara formation,,1,0.999
+1476786,overlappingpdfs.132333.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132333.pdf.task_1646_4_4,ROCK_DOC_overlappingpdfs.132333.pdf.task_1646_11_11,heterostropha,cassian formation,,1,0.996
+1509039,overlappingpdfs.132655.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132655.pdf.task_422_6_6,ROCK_DOC_overlappingpdfs.132655.pdf.task_422_12_13,mammalia,cloverly formation,t,1,1
+1502259,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2382_41_42,ROCK_DOC_overlappingpdfs.138407.pdf.task_2382_46_46,microsyops lundeliusi,huerfano formation,,1,0.999
+1470425,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_12_12,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_9_9,india,kota formation,,1,0.995
+1537215,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_573_60_61,ROCK_DOC_overlappingpdfs.132458.pdf.task_573_19_20,spalacotheridium noblei,cedar mountain formation,,1,1
+1523964,overlappingpdfs.130337.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130337.pdf.task_45_7_8,ROCK_DOC_overlappingpdfs.130337.pdf.task_45_11_14,glyptops plicatulus,late iurassic morrison formation,,1,0.997
+1507688,overlappingpdfs.132953.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132953.pdf.task_523_15_15,ROCK_DOC_overlappingpdfs.132953.pdf.task_523_21_21,dicynodontia,kawinga formation,f,1,0.998
+1512005,overlappingpdfs.133113.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133113.pdf.task_497_9_9,ROCK_DOC_overlappingpdfs.133113.pdf.task_497_12_12,dastilbe,crato formation,,1,0.996
+1494238,overlappingpdfs.132751.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132751.pdf.task_1640_0_0,ROCK_DOC_overlappingpdfs.132751.pdf.task_1640_4_5,trilobites,shihtzupu formation,,1,0.998
+1458638,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_3146_22_22,ROCK_DOC_overlappingpdfs.138449.pdf.task_3146_18_19,montana,hell creek formation,,1,0.996
+1532755,overlappingpdfs.1357.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1357.pdf.task_367_18_19,ROCK_DOC_overlappingpdfs.1357.pdf.task_367_21_21,pseudoloris cuestai,mazateron formation,,1,0.996
+1477693,overlappingpdfs.133046.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133046.pdf.task_6_26_27,ROCK_DOC_overlappingpdfs.133046.pdf.task_6_12_13,broomistega putterilli,beaufort group,,1,0.996
+1472870,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_355_12_12,ROCK_DOC_overlappingpdfs.1334.pdf.task_355_15_15,borealosuchus,hornerstown formation,,1,0.996
+1507803,overlappingpdfs.133073.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133073.pdf.task_685_0_1,ROCK_DOC_overlappingpdfs.133073.pdf.task_685_8_9,leptaena grayae,craighead limestone formation,,1,0.999
+1510380,overlappingpdfs.132753.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132753.pdf.task_2062_6_6,ROCK_DOC_overlappingpdfs.132753.pdf.task_2062_10_11,asthenospongia,phi kappa formation,,1,0.999
+1460929,overlappingpdfs.132895.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132895.pdf.task_363_69_69,ROCK_DOC_overlappingpdfs.132895.pdf.task_363_63_63,cybele,jupiter formation,f,1,0.934
+1487145,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_74_2_2,ROCK_DOC_overlappingpdfs.132666.pdf.task_74_5_7,trilophosaurus,owl rock formation,f,1,0.996
+1492399,overlappingpdfs.136483.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136483.pdf.task_625_11_11,ROCK_DOC_overlappingpdfs.136483.pdf.task_625_0_0,cyrtospirifer,foreknobs formation,,1,1
+1481825,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_86_87,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,globularia,warak formation,,1,0.939
+1532870,overlappingpdfs.132767.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132767.pdf.task_294_29_29,ROCK_DOC_overlappingpdfs.132767.pdf.task_294_32_34,prestosuchus,santa maria formation,,1,0.996
+1494703,overlappingpdfs.131219.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131219.pdf.task_535_14_15,ROCK_DOC_overlappingpdfs.131219.pdf.task_535_8_8,archaeocrinus obconicus,maquoketa formation,,1,0.999
+1498159,overlappingpdfs.136925.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136925.pdf.task_388_10_10,ROCK_DOC_overlappingpdfs.136925.pdf.task_388_13_14,foerstephyllum,gordon limestone formation,f,1,0.999
+1537050,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_255_16_16,ROCK_DOC_overlappingpdfs.138665.pdf.task_255_9_9,globaura,djadokhta formation,,1,1
+1463765,overlappingpdfs.132629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132629.pdf.task_477_7_7,ROCK_DOC_overlappingpdfs.132629.pdf.task_477_13_13,saurischia,wealden group,,1,0.996
+1507596,overlappingpdfs.132812.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132812.pdf.task_2439_8_8,ROCK_DOC_overlappingpdfs.132812.pdf.task_2439_14_15,neoselachii,posidonia shale,,1,0.999
+1526311,overlappingpdfs.132745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132745.pdf.task_873_11_11,ROCK_DOC_overlappingpdfs.132745.pdf.task_873_7_7,arabia,khuff formation,,1,0.993
+1481428,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_70_70,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,tectarius,warak formation,,1,0.954
+1467234,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_4_4,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_13,apatosaurus,morrison formation,,1,1
+1530354,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_1742_8_8,ROCK_DOC_overlappingpdfs.138540.pdf.task_1742_4_5,tylocephalonyx,sheep creek formation,,1,0.996
+1488501,overlappingpdfs.132764.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132764.pdf.task_797_3_3,ROCK_DOC_overlappingpdfs.132764.pdf.task_797_12_12,deinonychus,antlers formation,,1,0.996
+1530512,overlappingpdfs.132960.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132960.pdf.task_403_28_28,ROCK_DOC_overlappingpdfs.132960.pdf.task_403_14_14,stokesosaurus,morrison formation,t,1,0.996
+1472481,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_462_6_6,ROCK_DOC_overlappingpdfs.132353.pdf.task_462_12_13,dinosauria,huincul formation,f,1,0.996
+1537337,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_244_18_19,ROCK_DOC_overlappingpdfs.138665.pdf.task_244_27_27,velociraptor mongoliensis,djadokhta formation,,1,1
+1526419,overlappingpdfs.132657.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132657.pdf.task_17_34_35,ROCK_DOC_overlappingpdfs.132657.pdf.task_17_47_47,mesolyda sibirica,uda formation,,1,1
+1533024,overlappingpdfs.132.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132.pdf.task_538_20_20,ROCK_DOC_overlappingpdfs.132.pdf.task_538_8_8,baryonyx,enciso group,,1,1
+1472390,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_661_4_4,ROCK_DOC_overlappingpdfs.132353.pdf.task_661_13_14,apatosaurus,morrison formation,,1,1
+1467096,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_634_5_5,ROCK_DOC_overlappingpdfs.1341.pdf.task_634_9_10,cetacea,almejas formation,,1,0.996
+1477893,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1461_8_8,ROCK_DOC_overlappingpdfs.1376.pdf.task_1461_14_16,ornithischia,bajo barreal formation,f,1,0.996
+1498226,overlappingpdfs.132622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132622.pdf.task_49_11_11,ROCK_DOC_overlappingpdfs.132622.pdf.task_49_28_29,parabatrachopus,los iumes formation,,1,0.949
+1461774,overlappingpdfs.132730.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132730.pdf.task_372_10_10,ROCK_DOC_overlappingpdfs.132730.pdf.task_372_16_16,neuroptera,crato formation,,1,0.996
+1458781,overlappingpdfs.132146.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132146.pdf.task_609_6_6,ROCK_DOC_overlappingpdfs.132146.pdf.task_609_12_12,amphibia,northumberland coal,,1,0.996
+1527965,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_225_4_4,ROCK_DOC_overlappingpdfs.132658.pdf.task_225_10_12,diapsida,iurassic kota formation,,1,0.996
+1452150,overlappingpdfs.132532.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132532.pdf.task_21_20_21,ROCK_DOC_overlappingpdfs.132532.pdf.task_21_24_24,ctenochelys stenoporus,niobrara formation,t,1,0.996
+1525581,overlappingpdfs.132657.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132657.pdf.task_17_34_35,ROCK_DOC_overlappingpdfs.132657.pdf.task_17_44_45,mesolyda sibirica,uda formation,,1,1
+1453821,overlappingpdfs.138450.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138450.pdf.task_2690_1_1,ROCK_DOC_overlappingpdfs.138450.pdf.task_2690_3_4,vertebrata,judith river formation,,1,0.997
+1532645,overlappingpdfs.138624.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138624.pdf.task_6201_2_2,ROCK_DOC_overlappingpdfs.138624.pdf.task_6201_5_5,bivalvia,solsville member,f,1,0.996
+1489700,overlappingpdfs.132255.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132255.pdf.task_18_31_32,ROCK_DOC_overlappingpdfs.132255.pdf.task_18_36_37,troodon formosus,medicine formation,f,1,0.996
+1532109,overlappingpdfs.132.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132.pdf.task_552_21_22,ROCK_DOC_overlappingpdfs.132.pdf.task_552_14_16,siamosaurus suteethorni,sao khua formation,,1,1
+1528550,overlappingpdfs.132360.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132360.pdf.task_94_122_122,ROCK_DOC_overlappingpdfs.132360.pdf.task_94_111_112,moreno,garzas sand,,1,0.944
+1517220,overlappingpdfs.132630.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132630.pdf.task_711_0_0,ROCK_DOC_overlappingpdfs.132630.pdf.task_711_11_11,parviraptor,morrison formation,t,1,0.996
+1521788,overlappingpdfs.135139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135139.pdf.task_598_31_31,ROCK_DOC_overlappingpdfs.135139.pdf.task_598_28_28,montana,medicine formation,,1,0.996
+1532201,overlappingpdfs.13.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13.pdf.task_614_6_6,ROCK_DOC_overlappingpdfs.13.pdf.task_614_12_13,ornithischia,judith river formation,,1,0.996
+1515230,overlappingpdfs.1391.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1391.pdf.task_354_9_9,ROCK_DOC_overlappingpdfs.1391.pdf.task_354_5_6,uruguay,buena vista formation,,1,0.995
+1528466,overlappingpdfs.132315.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132315.pdf.task_727_6_6,ROCK_DOC_overlappingpdfs.132315.pdf.task_727_10_10,oviraptorosauria,nemegt formation,,1,0.996
+1480373,overlappingpdfs.134.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.134.pdf.task_890_5_5,ROCK_DOC_overlappingpdfs.134.pdf.task_890_12_12,theropoda,oldman formation,f,1,0.996
+1535103,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_651_6_6,ROCK_DOC_overlappingpdfs.131277.pdf.task_651_22_22,stricklandia,leangen member,,1,1
+1467682,overlappingpdfs.1341.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1341.pdf.task_48_89_89,TIME_DOC_overlappingpdfs.1341.pdf.task_48_91_91,yorktown formation,Pliocene|5.33300|2.58800,f,1,0.942
+1457407,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1663_8_8,ROCK_DOC_overlappingpdfs.138449.pdf.task_1663_4_5,alberta,milk river formation,,1,0.996
+1499297,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_2293_53_53,ROCK_DOC_overlappingpdfs.138519.pdf.task_2293_35_36,ustatochoerus,ash hollow formation,,1,1
+1513009,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_1028_9_9,ROCK_DOC_overlappingpdfs.132302.pdf.task_1028_14_14,sauropoda,iurassic formation,,1,0.996
+1468793,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4412_32_32,ROCK_DOC_overlappingpdfs.138761.pdf.task_4412_14_15,ichthyornis,niobrara chalk,f,1,0.95
+1472591,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_661_4_4,ROCK_DOC_overlappingpdfs.132353.pdf.task_661_13_13,apatosaurus,morrison formation,t,1,1
+1490710,overlappingpdfs.132303.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132303.pdf.task_483_8_8,ROCK_DOC_overlappingpdfs.132303.pdf.task_483_14_14,ionoscopiformes,marizal formation,,1,0.997
+1473912,overlappingpdfs.130556.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130556.pdf.task_293_9_9,ROCK_DOC_overlappingpdfs.130556.pdf.task_293_15_16,arizonasaurus,holbrook member,,1,1
+1472594,overlappingpdfs.130742.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130742.pdf.task_15_11_11,ROCK_DOC_overlappingpdfs.130742.pdf.task_15_8_8,paragloborilus,meishucun formation,,1,0.996
+1455728,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_739_13_13,ROCK_DOC_overlappingpdfs.1373.pdf.task_739_9_10,mexico,chinle group,,1,0.996
+1512199,overlappingpdfs.133113.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133113.pdf.task_624_23_23,ROCK_DOC_overlappingpdfs.133113.pdf.task_624_26_26,dastilbe,crato formation,,1,0.997
+1493448,overlappingpdfs.133117.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133117.pdf.task_729_19_19,ROCK_DOC_overlappingpdfs.133117.pdf.task_729_24_25,lingulella,collingwood oil shale,f,1,0.998
+1510230,overlappingpdfs.135749.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135749.pdf.task_11_8_8,ROCK_DOC_overlappingpdfs.135749.pdf.task_11_15_15,pterotheca,linn formation,f,1,0.999
+1518206,overlappingpdfs.135515.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135515.pdf.task_961_8_8,ROCK_DOC_overlappingpdfs.135515.pdf.task_961_12_13,mollusca,imo formation,,1,0.996
+1520576,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_503_6_6,ROCK_DOC_overlappingpdfs.132531.pdf.task_503_12_12,dinosauria,morrison formation,,1,0.996
+1508405,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1161_9_9,ROCK_DOC_overlappingpdfs.132527.pdf.task_1161_6_6,argentina,ischigualasto formation,,1,0.999
+1508447,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1500_25_25,ROCK_DOC_overlappingpdfs.132527.pdf.task_1500_21_22,argentina,puesto viejo formation,,1,0.999
+1516682,overlappingpdfs.132630.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132630.pdf.task_649_15_15,ROCK_DOC_overlappingpdfs.132630.pdf.task_649_19_19,squamata,english chalk,,1,1
+1537201,overlappingpdfs.133080.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133080.pdf.task_265_36_37,ROCK_DOC_overlappingpdfs.133080.pdf.task_265_16_16,araucarioxylon arizonicum,chinle formation,,1,1
+1486619,overlappingpdfs.136514.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136514.pdf.task_234_21_21,ROCK_DOC_overlappingpdfs.136514.pdf.task_234_17_18,alberta,milk river formation,,1,0.995
+1531782,overlappingpdfs.1357.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1357.pdf.task_365_44_45,ROCK_DOC_overlappingpdfs.1357.pdf.task_365_47_47,pseudoloris cuestai,mazateron formation,f,1,0.996
+1486974,overlappingpdfs.135573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135573.pdf.task_918_20_20,ROCK_DOC_overlappingpdfs.135573.pdf.task_918_24_25,chlorophyta,doushantuo formation,,1,0.996
+1510299,overlappingpdfs.132708.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132708.pdf.task_48_52_52,ROCK_DOC_overlappingpdfs.132708.pdf.task_48_39_39,gallimimus,nemegt formation,t,1,0.998
+1524685,overlappingpdfs.135414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135414.pdf.task_216_25_25,ROCK_DOC_overlappingpdfs.135414.pdf.task_216_21_21,montana,medicine formation,,1,0.995
+1516610,overlappingpdfs.130636.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130636.pdf.task_79_3_3,ROCK_DOC_overlappingpdfs.130636.pdf.task_79_6_8,isoxys,emu bay shale,f,1,0.996
+1463191,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_1598_21_22,ROCK_DOC_overlappingpdfs.138465.pdf.task_1598_18_18,schizodus alpinus,kendrick shale,,1,0.996
+1501242,overlappingpdfs.132210.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132210.pdf.task_1211_15_15,ROCK_DOC_overlappingpdfs.132210.pdf.task_1211_19_20,plesiosauria,pierre shale,,1,0.999
+1489503,overlappingpdfs.137397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.137397.pdf.task_41_6_6,ROCK_DOC_overlappingpdfs.137397.pdf.task_41_9_11,ceratopsia,judith river beds formation,f,1,0.996
+1487196,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_39_7_7,ROCK_DOC_overlappingpdfs.132666.pdf.task_39_14_14,trilophosaurus,chinle group,t,1,0.996
+1526116,overlappingpdfs.135245.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135245.pdf.task_379_5_5,ROCK_DOC_overlappingpdfs.135245.pdf.task_379_9_9,trilobites,balclatchie group,,1,0.996
+1529351,overlappingpdfs.132831.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132831.pdf.task_895_3_3,ROCK_DOC_overlappingpdfs.132831.pdf.task_895_7_8,sauropoda,poison strip member,,1,0.996
+1464921,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_1117_5_5,ROCK_DOC_overlappingpdfs.138709.pdf.task_1117_15_16,apternodus,white river group,,1,0.996
+1461143,overlappingpdfs.132730.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132730.pdf.task_318_6_6,ROCK_DOC_overlappingpdfs.132730.pdf.task_318_10_11,chilopoda,crato formation,,1,0.996
+1531881,overlappingpdfs.138453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138453.pdf.task_2123_2_3,ROCK_DOC_overlappingpdfs.138453.pdf.task_2123_6_7,phacops rana,hungry hollow formation,,1,0.996
+1472327,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_342_2_2,ROCK_DOC_overlappingpdfs.138438.pdf.task_342_17_18,dyseohyus,punchbowl formation,t,1,0.996
+1451951,overlappingpdfs.138578.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138578.pdf.task_2546_4_5,ROCK_DOC_overlappingpdfs.138578.pdf.task_2546_1_1,nuculoidea corbuliformis,chemung group,,1,0.996
+1510532,overlappingpdfs.132634.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132634.pdf.task_895_3_3,ROCK_DOC_overlappingpdfs.132634.pdf.task_895_7_7,marsupialia,allingham formation,,1,0.999
+1481355,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_6322_6_6,ROCK_DOC_overlappingpdfs.138622.pdf.task_6322_12_13,geomyoidea,john day formation,,1,0.928
+1461103,overlappingpdfs.132529.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132529.pdf.task_40_13_14,ROCK_DOC_overlappingpdfs.132529.pdf.task_40_4_5,uruyiella liminea,buena vista formation,t,1,0.996
+1528559,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_277_28_28,ROCK_DOC_overlappingpdfs.132658.pdf.task_277_9_10,titanosauridae,allen formation,t,1,0.996
+1472851,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_27_27,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,baurusuchus,bauru group,,1,0.996
+1464743,overlappingpdfs.132736.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132736.pdf.task_992_13_13,ROCK_DOC_overlappingpdfs.132736.pdf.task_992_17_18,skiagia,shabakty formation,,1,0.996
+1492034,overlappingpdfs.138834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138834.pdf.task_2556_13_13,ROCK_DOC_overlappingpdfs.138834.pdf.task_2556_10_10,arizona,kayenta formation,,1,0.995
+1466604,overlappingpdfs.1374.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1374.pdf.task_1087_18_18,ROCK_DOC_overlappingpdfs.1374.pdf.task_1087_15_15,namibia,river formation,,1,0.996
+1492503,overlappingpdfs.138834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138834.pdf.task_1938_9_10,ROCK_DOC_overlappingpdfs.138834.pdf.task_1938_15_15,calsoyasuchus valliceps,kayenta formation,t,1,0.997
+1484477,overlappingpdfs.133026.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133026.pdf.task_21_5_6,ROCK_DOC_overlappingpdfs.133026.pdf.task_21_13_15,clathrospira glindmeyeri,antelope valley formation,,1,0.996
+1481857,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_13_14,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,conorbis protensus,warak formation,,1,0.949
+1451753,overlappingpdfs.132532.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132532.pdf.task_25_5_5,ROCK_DOC_overlappingpdfs.132532.pdf.task_25_14_14,cheloniidae,niobrara formation,,1,0.996
+1515244,overlappingpdfs.132282.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132282.pdf.task_143_4_4,ROCK_DOC_overlappingpdfs.132282.pdf.task_143_14_14,yangtzeella,kuniutan formation,t,1,0.996
+1470391,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_1178_4_4,ROCK_DOC_overlappingpdfs.139.pdf.task_1178_12_12,gobiconodon,cloverly formation,,1,1
+1504682,overlappingpdfs.132314.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132314.pdf.task_437_30_30,ROCK_DOC_overlappingpdfs.132314.pdf.task_437_23_23,argentina,parana formation,,1,0.997
+1468344,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_956_32_32,ROCK_DOC_overlappingpdfs.138761.pdf.task_956_12_15,ichthyornis,smoky hill chalk member,,1,1
+1508944,overlappingpdfs.132501.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132501.pdf.task_121_11_12,ROCK_DOC_overlappingpdfs.132501.pdf.task_121_15_17,megalosaurus bucklandii,taynton limestone formation,,1,0.999
+1513713,overlappingpdfs.138313.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138313.pdf.task_4377_1_1,ROCK_DOC_overlappingpdfs.138313.pdf.task_4377_6_6,bryozoa,traverse group,,1,0.996
+1489658,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_680_1_1,ROCK_DOC_overlappingpdfs.136699.pdf.task_680_42_43,rhipidomella,foreknobs formation,t,1,1
+1522799,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_28_11_12,ROCK_DOC_overlappingpdfs.133102.pdf.task_28_15_16,albanerpeton arthridion,antlers formation,t,1,0.996
+1488305,overlappingpdfs.131.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131.pdf.task_981_4_4,ROCK_DOC_overlappingpdfs.131.pdf.task_981_17_18,theropoda,morrison formation,t,1,1
+1496683,overlappingpdfs.132230.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132230.pdf.task_15_8_8,ROCK_DOC_overlappingpdfs.132230.pdf.task_15_5_5,mesoraphidiidae,crato formation,,1,0.999
+1480504,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_1784_34_34,ROCK_DOC_overlappingpdfs.138622.pdf.task_1784_37_38,oreodon,poleslide member,,1,0.996
+1487045,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_606_24_25,ROCK_DOC_overlappingpdfs.132666.pdf.task_606_28_28,trilophosaurus buettneri,otis chalk,,1,0.996
+1452280,overlappingpdfs.138578.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138578.pdf.task_7958_5_5,ROCK_DOC_overlappingpdfs.138578.pdf.task_7958_8_9,grammysia,chemung group,,1,0.996
+1523967,overlappingpdfs.133088.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133088.pdf.task_647_4_4,ROCK_DOC_overlappingpdfs.133088.pdf.task_647_7_8,mollusca,great oolite,f,1,0.996
+1484325,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_216_9_9,ROCK_DOC_overlappingpdfs.133475.pdf.task_216_18_18,laurasia,jiufotang formation,,1,0.939
+1472404,overlappingpdfs.132498.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132498.pdf.task_1489_18_18,ROCK_DOC_overlappingpdfs.132498.pdf.task_1489_15_15,china,gaoyuzhuang formation,,1,0.996
+1531044,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_1654_18_21,ROCK_DOC_overlappingpdfs.138540.pdf.task_1654_27_28,moropus elatus,troublesome formation,,1,0.996
+1456313,overlappingpdfs.130554.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130554.pdf.task_430_11_11,ROCK_DOC_overlappingpdfs.130554.pdf.task_430_15_17,graptoloidea,cape phillips formation,,1,0.997
+1469881,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_4_4,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_9_9,lepidosauria,kota formation,,1,0.996
+1474871,overlappingpdfs.138707.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138707.pdf.task_1528_8_8,ROCK_DOC_overlappingpdfs.138707.pdf.task_1528_10_11,schizodontomys,johnson canyon member,,1,0.996
+1512875,overlappingpdfs.132742.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132742.pdf.task_451_13_13,ROCK_DOC_overlappingpdfs.132742.pdf.task_451_21_21,parietobalaena,calvert formation,,1,0.933
+1459300,overlappingpdfs.132858.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132858.pdf.task_984_10_10,ROCK_DOC_overlappingpdfs.132858.pdf.task_984_15_15,ctenodus,calciferous sandstone,,1,0.996
+1529543,overlappingpdfs.132202.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132202.pdf.task_39_25_25,ROCK_DOC_overlappingpdfs.132202.pdf.task_39_23_23,kovalevisargus,karabastau formation,,1,1
+1512879,overlappingpdfs.132283.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132283.pdf.task_1283_27_28,ROCK_DOC_overlappingpdfs.132283.pdf.task_1283_34_35,ribeiria junior,gowers formation,,1,0.996
+1465640,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_179_11_11,ROCK_DOC_overlappingpdfs.138709.pdf.task_179_17_18,apternodus,brule formation,,1,1
+1469735,overlappingpdfs.132845.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132845.pdf.task_552_0_1,ROCK_DOC_overlappingpdfs.132845.pdf.task_552_9_9,xinjiangchelys qiguensis,qigu formation,,1,0.996
+1531805,overlappingpdfs.132705.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132705.pdf.task_475_4_4,ROCK_DOC_overlappingpdfs.132705.pdf.task_475_1_1,argentina,salta group,f,1,0.996
+1496969,overlappingpdfs.132069.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132069.pdf.task_178_8_8,ROCK_DOC_overlappingpdfs.132069.pdf.task_178_17_18,hirnantia,kildare limestone formation,,1,1
+1506441,overlappingpdfs.136837.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136837.pdf.task_318_7_7,ROCK_DOC_overlappingpdfs.136837.pdf.task_318_10_10,foraminifera,waldron shale,,1,0.999
+1462839,overlappingpdfs.132895.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132895.pdf.task_363_63_63,TIME_DOC_overlappingpdfs.132895.pdf.task_363_73_73,jupiter formation,Telychian|438.50000|433.40000,f,1,0.954
+1513574,overlappingpdfs.1372.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1372.pdf.task_893_4_4,ROCK_DOC_overlappingpdfs.1372.pdf.task_893_10_10,reptilia,bearpaw formation,,1,0.996
+1463810,overlappingpdfs.132629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132629.pdf.task_240_4_4,ROCK_DOC_overlappingpdfs.132629.pdf.task_240_7_8,palaeoscyllium,wessex formation,,1,0.989
+1523632,overlappingpdfs.130337.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130337.pdf.task_62_4_5,ROCK_DOC_overlappingpdfs.130337.pdf.task_62_18_18,glyptops plicatulus,morrison formation,,1,1
+1529972,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_1376_13_14,ROCK_DOC_overlappingpdfs.138540.pdf.task_1376_17_18,tylocephalonyx skinneri,sheep creek formation,,1,0.996
+1502971,overlappingpdfs.132162.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132162.pdf.task_180_6_6,ROCK_DOC_overlappingpdfs.132162.pdf.task_180_3_3,wuhua,daohugou formation,t,1,1
+1490092,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_308_29_29,ROCK_DOC_overlappingpdfs.136699.pdf.task_308_12_13,platyrachella,foreknobs formation,,1,1
+1531988,overlappingpdfs.132176.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132176.pdf.task_1509_5_5,ROCK_DOC_overlappingpdfs.132176.pdf.task_1509_16_17,permophorus,productus limestone formation,,1,0.996
+1494620,overlappingpdfs.137099.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.137099.pdf.task_567_5_5,ROCK_DOC_overlappingpdfs.137099.pdf.task_567_8_9,mammalia,laramie formation,,1,0.999
+1476268,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3934_5_5,ROCK_DOC_overlappingpdfs.138573.pdf.task_3934_0_2,sonoma,petaluma ucmp petaluma formation,,1,0.996
+1468897,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_956_32_33,ROCK_DOC_overlappingpdfs.138761.pdf.task_956_12_15,ichthyornis dispar,smoky hill chalk member,,1,1
+1530082,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_1759_16_17,ROCK_DOC_overlappingpdfs.138540.pdf.task_1759_20_21,cynorca occidentale,sheep creek formation,,1,0.996
+1463290,overlappingpdfs.135664.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135664.pdf.task_15_11_11,ROCK_DOC_overlappingpdfs.135664.pdf.task_15_8_8,paragloborilus,meishucun formation,f,1,0.995
+1474720,overlappingpdfs.132572.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132572.pdf.task_9_10_10,ROCK_DOC_overlappingpdfs.132572.pdf.task_9_21_21,psittacosaurus,yixian formation,t,1,0.996
+1484868,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_206_28_28,ROCK_DOC_overlappingpdfs.133475.pdf.task_206_8_8,eoenantiornis,yixian formation,,1,1
+1476950,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1547_10_10,ROCK_DOC_overlappingpdfs.1376.pdf.task_1547_23_23,sauropoda,chubut group,,1,1
+1512799,overlappingpdfs.1372.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1372.pdf.task_899_7_7,ROCK_DOC_overlappingpdfs.1372.pdf.task_899_13_14,sauropterygia,bearpaw formation,,1,0.996
+1507560,overlappingpdfs.1394.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1394.pdf.task_302_5_5,ROCK_DOC_overlappingpdfs.1394.pdf.task_302_26_27,coelophysis,chinle formation,t,1,1
+1456247,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_2_6_6,ROCK_DOC_overlappingpdfs.1373.pdf.task_2_15_15,phytosauria,sonsela member,f,1,0.996
+1537564,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_2878_4_5,ROCK_DOC_overlappingpdfs.138665.pdf.task_2878_13_13,slavoia darevskii,djadokhta formation,,1,1
+1498357,overlappingpdfs.139836.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139836.pdf.task_313_6_6,ROCK_DOC_overlappingpdfs.139836.pdf.task_313_10_11,monoclonius,belly river formation,,1,0.999
+1472968,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_619_4_4,ROCK_DOC_overlappingpdfs.1334.pdf.task_619_9_10,crocodilia,nacimiento formation,,1,0.996
+1513590,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_768_18_18,ROCK_DOC_overlappingpdfs.132302.pdf.task_768_14_14,montana,iurassic formation,,1,0.974
+1535902,overlappingpdfs.138024.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138024.pdf.task_769_6_7,ROCK_DOC_overlappingpdfs.138024.pdf.task_769_11_11,palaeophis toliapicus,london clay,,1,0.996
+1466542,overlappingpdfs.132995.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132995.pdf.task_732_8_8,ROCK_DOC_overlappingpdfs.132995.pdf.task_732_12_12,triconodonta,elliot formation,,1,0.997
+1530822,overlappingpdfs.132102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132102.pdf.task_48_9_10,ROCK_DOC_overlappingpdfs.132102.pdf.task_48_13_14,stromatocystites pentangularis,iince formation,,1,0.996
+1453795,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_715_5_5,ROCK_DOC_overlappingpdfs.132874.pdf.task_715_2_2,pseudotetrasauropus,chinle group,,1,0.996
+1518829,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_56_44_44,ROCK_DOC_overlappingpdfs.132859.pdf.task_56_40_41,montana,hell creek formation,,1,0.996
+1459560,overlappingpdfs.135446.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135446.pdf.task_396_14_14,ROCK_DOC_overlappingpdfs.135446.pdf.task_396_17_17,composita,vanport shale,,1,0.996
+1466516,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_47_51_51,ROCK_DOC_overlappingpdfs.1341.pdf.task_47_41_41,pontoporiidae,marys formations,,1,0.941
+1465660,overlappingpdfs.132725.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132725.pdf.task_56_0_0,ROCK_DOC_overlappingpdfs.132725.pdf.task_56_19_19,hesperornis,niobrara formation,,1,1
+1490504,overlappingpdfs.138613.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138613.pdf.task_191_1_1,ROCK_DOC_overlappingpdfs.138613.pdf.task_191_4_5,blattodea,santana formation,,1,0.989
+1456539,overlappingpdfs.136141.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136141.pdf.task_721_6_6,ROCK_DOC_overlappingpdfs.136141.pdf.task_721_11_12,echinodermata,lebanon limestone formation,,1,0.996
+1472552,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_623_6_6,ROCK_DOC_overlappingpdfs.132397.pdf.task_623_12_12,notosuchia,bauru group,f,1,0.996
+1478091,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5776_0_1,ROCK_DOC_overlappingpdfs.138573.pdf.task_5776_12_13,cormohipparion occidentale,ash hollow formation,,1,1
+1493023,overlappingpdfs.132675.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132675.pdf.task_438_7_7,ROCK_DOC_overlappingpdfs.132675.pdf.task_438_13_13,saurischia,bauru group,,1,0.998
+1472969,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_619_4_4,ROCK_DOC_overlappingpdfs.1334.pdf.task_619_9_10,crocodilia,nacimiento formation,f,1,0.996
+1485422,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_17_13_14,ROCK_DOC_overlappingpdfs.132216.pdf.task_17_18_19,changchunsaurus parvus,quantou formation,,1,1
+1512973,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_1049_7_7,ROCK_DOC_overlappingpdfs.132302.pdf.task_1049_13_13,sauropoda,morrison formation,,1,1
+1466553,overlappingpdfs.130827.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130827.pdf.task_207_25_26,ROCK_DOC_overlappingpdfs.130827.pdf.task_207_29_32,pterotheca trimerelloides,wether law linn formation,,1,0.996
+1478225,overlappingpdfs.1343.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1343.pdf.task_311_8_8,ROCK_DOC_overlappingpdfs.1343.pdf.task_311_12_12,sauropoda,huincul formation,t,1,0.998
+1491011,overlappingpdfs.132479.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132479.pdf.task_649_7_7,ROCK_DOC_overlappingpdfs.132479.pdf.task_649_10_11,ornithomimidae,belly river formation,,1,0.998
+1456083,overlappingpdfs.136141.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136141.pdf.task_535_17_17,ROCK_DOC_overlappingpdfs.136141.pdf.task_535_8_8,atactocrinus,maquoketa formation,,1,0.996
+1518619,overlappingpdfs.132756.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132756.pdf.task_994_13_13,ROCK_DOC_overlappingpdfs.132756.pdf.task_994_19_19,odontoceti,calvert formation,f,1,0.996
+1530774,overlappingpdfs.138540.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138540.pdf.task_762_19_20,ROCK_DOC_overlappingpdfs.138540.pdf.task_762_24_25,tylocephalonyx skinneri,sheep creek formation,,1,0.996
+1478502,overlappingpdfs.135259.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135259.pdf.task_45_7_8,ROCK_DOC_overlappingpdfs.135259.pdf.task_45_11_13,glyptops plicatulus,late iurassic morrison formation,f,1,0.998
+1477664,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1343_8_8,ROCK_DOC_overlappingpdfs.1376.pdf.task_1343_22_22,sauropoda,chubut group,,1,1
+1481894,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_45_47,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,seraphs subconvolutus,warak formation,,1,0.947
+1522017,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_24_7_8,ROCK_DOC_overlappingpdfs.133102.pdf.task_24_24_25,albanerpeton arthridion,antlers formation,,1,0.996
+1473983,overlappingpdfs.132572.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132572.pdf.task_374_8_8,ROCK_DOC_overlappingpdfs.132572.pdf.task_374_14_14,ceratopsia,yixian formation,,1,0.996
+1461879,overlappingpdfs.132895.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132895.pdf.task_373_85_85,ROCK_DOC_overlappingpdfs.132895.pdf.task_373_72_73,scotia,ross brook formation,,1,0.95
+1472414,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_350_10_10,ROCK_DOC_overlappingpdfs.1334.pdf.task_350_17_18,borealosuchus,black peaks formation,,1,0.996
+1517905,overlappingpdfs.132473.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132473.pdf.task_1170_4_4,ROCK_DOC_overlappingpdfs.132473.pdf.task_1170_12_13,dinosauria,bauru group,,1,1
+1524834,overlappingpdfs.135414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135414.pdf.task_376_10_10,ROCK_DOC_overlappingpdfs.135414.pdf.task_376_13_14,batrachia,judith river formation,,1,0.996
+1518849,overlappingpdfs.138332.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138332.pdf.task_1150_3_4,ROCK_DOC_overlappingpdfs.138332.pdf.task_1150_7_7,nimravus brachyops,gering formation,,1,0.996
+1466969,overlappingpdfs.133017.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133017.pdf.task_253_6_6,ROCK_DOC_overlappingpdfs.133017.pdf.task_253_10_10,chilopoda,crato formations,f,1,0.996
+1520682,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_7_7,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_14,sauropoda,morrison formation,,1,1
+1486663,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_10_13_13,ROCK_DOC_overlappingpdfs.132666.pdf.task_10_29_30,trilophosaurus,chinle group,,1,0.999
+1520188,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_503_4_4,ROCK_DOC_overlappingpdfs.132531.pdf.task_503_12_12,sauropoda,morrison formation,,1,1
+1482056,overlappingpdfs.139531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139531.pdf.task_224_9_9,ROCK_DOC_overlappingpdfs.139531.pdf.task_224_13_14,notosuchus,notostylops beds formation,,1,0.996
+1461058,overlappingpdfs.132976.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132976.pdf.task_472_27_27,ROCK_DOC_overlappingpdfs.132976.pdf.task_472_1_2,acrophoca,bahia inglesa formation,,1,1
+1535159,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_585_18_18,ROCK_DOC_overlappingpdfs.131277.pdf.task_585_8_8,clorinda,solvik formation,,1,1
+1512099,overlappingpdfs.130286.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130286.pdf.task_369_14_14,ROCK_DOC_overlappingpdfs.130286.pdf.task_369_17_17,zoophycos,tournai formation,,1,0.996
+1480877,overlappingpdfs.132242.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132242.pdf.task_192_6_7,ROCK_DOC_overlappingpdfs.132242.pdf.task_192_11_11,acherontisuchus guajiraensis,cerrejon formation,,1,0.996
+1491802,overlappingpdfs.133116.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133116.pdf.task_860_31_32,ROCK_DOC_overlappingpdfs.133116.pdf.task_860_17_18,concavicaris playfordi,gogo formation,,1,0.996
+1498247,overlappingpdfs.132622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132622.pdf.task_1652_10_10,ROCK_DOC_overlappingpdfs.132622.pdf.task_1652_7_7,arizona,moenkopi formation,,1,0.996
+1525619,overlappingpdfs.1353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1353.pdf.task_1269_21_21,ROCK_DOC_overlappingpdfs.1353.pdf.task_1269_8_9,edentosuchus,tugulu group,t,1,0.996
+1468486,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_4590_0_0,ROCK_DOC_overlappingpdfs.138761.pdf.task_4590_20_20,ichthyornis,niobrara formation,,1,1
+1470209,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_4_4,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_8_10,lepidosauria,iurassic kota formation,,1,0.997
+1537344,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_958_9_9,ROCK_DOC_overlappingpdfs.132458.pdf.task_958_13_13,theropoda,wealden group,t,1,1
+1532270,overlappingpdfs.132767.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132767.pdf.task_294_29_29,ROCK_DOC_overlappingpdfs.132767.pdf.task_294_32_33,prestosuchus,santa maria formation,,1,0.996
+1502698,overlappingpdfs.1398.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1398.pdf.task_36_6_6,ROCK_DOC_overlappingpdfs.1398.pdf.task_36_14_16,chubutisaurus,cerro barcino formation,t,1,0.999
+1532757,overlappingpdfs.132684.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132684.pdf.task_4_3_3,ROCK_DOC_overlappingpdfs.132684.pdf.task_4_13_13,bivalvia,qingyan formation,,1,1
+1509347,overlappingpdfs.132501.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132501.pdf.task_121_11_12,ROCK_DOC_overlappingpdfs.132501.pdf.task_121_15_16,megalosaurus bucklandii,taynton limestone formation,f,1,0.999
+1481438,overlappingpdfs.132242.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132242.pdf.task_15_11_11,ROCK_DOC_overlappingpdfs.132242.pdf.task_15_8_8,acherontisuchus,cerrejon formation,f,1,0.996
+1494420,overlappingpdfs.132834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132834.pdf.task_859_2_2,ROCK_DOC_overlappingpdfs.132834.pdf.task_859_5_6,radiolaria,huron member,,1,0.999
+1502560,overlappingpdfs.132210.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132210.pdf.task_1117_4_4,ROCK_DOC_overlappingpdfs.132210.pdf.task_1117_11_11,plesiosauria,lias group,,1,1
+1509275,overlappingpdfs.132655.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132655.pdf.task_422_8_8,ROCK_DOC_overlappingpdfs.132655.pdf.task_422_12_13,triconodonta,cloverly formation,,1,1
+1490505,overlappingpdfs.138613.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138613.pdf.task_191_1_1,ROCK_DOC_overlappingpdfs.138613.pdf.task_191_4_5,blattodea,santana formation,f,1,0.992
+1456246,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_2_6_6,ROCK_DOC_overlappingpdfs.1373.pdf.task_2_15_15,phytosauria,sonsela member,,1,0.996
+1470395,overlappingpdfs.139.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139.pdf.task_948_3_3,ROCK_DOC_overlappingpdfs.139.pdf.task_948_20_22,mammalia,cedar mountain formation,,1,1
+1458357,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_977_15_15,ROCK_DOC_overlappingpdfs.138449.pdf.task_977_11_12,montana,hell creek formation,,1,0.996
+1463595,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_1545_6_6,ROCK_DOC_overlappingpdfs.138465.pdf.task_1545_2_3,arizona,san andres formation,,1,0.996
+1455755,overlappingpdfs.131777.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131777.pdf.task_308_29_29,ROCK_DOC_overlappingpdfs.131777.pdf.task_308_12_12,platyrachella,foreknobs formation,,1,1
+1481550,overlappingpdfs.138622.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138622.pdf.task_6322_6_6,ROCK_DOC_overlappingpdfs.138622.pdf.task_6322_13_13,geomyoidea,day formation,,1,0.954
+1467335,overlappingpdfs.132173.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132173.pdf.task_536_2_3,ROCK_DOC_overlappingpdfs.132173.pdf.task_536_6_7,protobalanus hamiltonensis,hamilton group,,1,0.997
+1472408,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_95_95,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,sphagesaurus,bauru group,,1,0.996
+1472428,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_812_4_4,ROCK_DOC_overlappingpdfs.132397.pdf.task_812_7_8,teleorhinus,benton shales,,1,0.997
+1459782,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2745_9_10,ROCK_DOC_overlappingpdfs.138449.pdf.task_2745_13_14,alphadon lulli,lance formation,,1,0.997
+1480369,overlappingpdfs.1395.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1395.pdf.task_388_5_6,ROCK_DOC_overlappingpdfs.1395.pdf.task_388_10_11,albertochampsa langstoni,dinosaur park formation,,1,0.996
+1489985,overlappingpdfs.132303.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132303.pdf.task_11_8_9,ROCK_DOC_overlappingpdfs.132303.pdf.task_11_15_15,ogunichthys triangularis,marizal formation,,1,0.996
+1525280,overlappingpdfs.133261.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133261.pdf.task_32_14_14,ROCK_DOC_overlappingpdfs.133261.pdf.task_32_24_24,sinamia,jehol group,,1,1
+1459656,overlappingpdfs.132191.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132191.pdf.task_397_11_11,ROCK_DOC_overlappingpdfs.132191.pdf.task_397_14_15,eccentrotheca,comley limestone formation,,1,0.996
+1478206,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_1543_28_28,ROCK_DOC_overlappingpdfs.1376.pdf.task_1543_9_9,titanosauridae,allen formation,,1,0.996
+1501249,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_64_42_42,ROCK_DOC_overlappingpdfs.138393.pdf.task_64_48_48,ceratodus,dockum group,,1,1
+1466543,overlappingpdfs.132995.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132995.pdf.task_732_8_8,ROCK_DOC_overlappingpdfs.132995.pdf.task_732_12_12,triconodonta,elliot formation,f,1,0.998
+1461868,overlappingpdfs.136806.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136806.pdf.task_403_0_0,ROCK_DOC_overlappingpdfs.136806.pdf.task_403_5_6,leiorhynchus,triangle formation,,1,0.996
+1464888,overlappingpdfs.132725.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132725.pdf.task_167_0_0,ROCK_DOC_overlappingpdfs.132725.pdf.task_167_19_20,baptornis,niobrara formation,t,1,0.996
+1483559,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_3814_9_9,ROCK_DOC_overlappingpdfs.138755.pdf.task_3814_4_5,victoria,pebble point formation,,1,0.995
+1507559,overlappingpdfs.1394.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1394.pdf.task_302_5_5,ROCK_DOC_overlappingpdfs.1394.pdf.task_302_26_27,coelophysis,chinle formation,,1,1
+1521852,overlappingpdfs.135478.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135478.pdf.task_14_5_5,ROCK_DOC_overlappingpdfs.135478.pdf.task_14_9_10,eocyclotosaurus,perovkan holbrook member,f,1,0.996
+1511029,overlappingpdfs.132098.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132098.pdf.task_16_1_2,ROCK_DOC_overlappingpdfs.132098.pdf.task_16_10_11,hiscobeccus gigas,cape calhoun formation,,1,1
+1513222,overlappingpdfs.132522.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132522.pdf.task_1019_5_5,ROCK_DOC_overlappingpdfs.132522.pdf.task_1019_8_8,atrypacea,montoya group,,1,0.996
+1481933,overlappingpdfs.1395.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1395.pdf.task_931_6_6,ROCK_DOC_overlappingpdfs.1395.pdf.task_931_10_11,alligatoroidea,kirtland formation,,1,0.998
+1533079,overlappingpdfs.13.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13.pdf.task_527_28_28,ROCK_DOC_overlappingpdfs.13.pdf.task_527_24_25,montana,judith river formation,,1,0.996
+1480084,overlappingpdfs.138859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138859.pdf.task_467_15_15,ROCK_DOC_overlappingpdfs.138859.pdf.task_467_37_39,spheniscidae,la meseta formation,,1,1
+1537035,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_191_18_19,ROCK_DOC_overlappingpdfs.138665.pdf.task_191_13_13,protoceratops andrewsi,djadokhta formation,t,1,0.996
+1477437,overlappingpdfs.135259.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135259.pdf.task_455_16_17,ROCK_DOC_overlappingpdfs.135259.pdf.task_455_28_29,dinochelys whitei,morrison formation,,1,1
+1455835,overlappingpdfs.130330.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130330.pdf.task_778_5_5,ROCK_DOC_overlappingpdfs.130330.pdf.task_778_8_8,hippuritoidea,gosau group,f,1,0.933
+1497047,overlappingpdfs.132069.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132069.pdf.task_178_23_23,ROCK_DOC_overlappingpdfs.132069.pdf.task_178_17_18,hirnantia,kildare limestone formation,t,1,1
+1511004,overlappingpdfs.135749.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135749.pdf.task_52_38_39,ROCK_DOC_overlappingpdfs.135749.pdf.task_52_52_52,pterotheca transversa,bardahessiagh formation,,1,0.941
+1524146,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_553_7_7,ROCK_DOC_overlappingpdfs.132304.pdf.task_553_15_17,diptera,iurassic daohugou formation,f,1,0.996
+1464002,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_2553_20_22,TIME_DOC_overlappingpdfs.138465.pdf.task_2553_4_4,cherry canyon formation,Word|268.00000|265.00000,f,1,1
+1466936,overlappingpdfs.130827.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130827.pdf.task_503_6_6,ROCK_DOC_overlappingpdfs.130827.pdf.task_503_9_12,pterotheca,wether law linn formation,,1,0.996
+1489908,overlappingpdfs.132567.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132567.pdf.task_1654_1_1,ROCK_DOC_overlappingpdfs.132567.pdf.task_1654_4_5,bryozoa,kullsberg limestone formation,,1,0.996
+1490441,overlappingpdfs.132963.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132963.pdf.task_39_14_14,ROCK_DOC_overlappingpdfs.132963.pdf.task_39_18_19,cistecynodon,burgersdorp formation,,1,0.996
+1465630,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_11_7_7,ROCK_DOC_overlappingpdfs.132215.pdf.task_11_11_11,peloneustes,peterborough member,,1,0.996
+1520249,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_735_4_4,ROCK_DOC_overlappingpdfs.132531.pdf.task_735_13_13,apatosaurus,morrison formation,,1,1
+1450934,overlappingpdfs.132532.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132532.pdf.task_9_12_13,ROCK_DOC_overlappingpdfs.132532.pdf.task_9_16_17,ctenochelys stenoporus,niobrara formation,,1,0.996
+1463109,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_2792_19_19,ROCK_DOC_overlappingpdfs.138465.pdf.task_2792_14_15,mexico,san andres formation,,1,0.996
+1459086,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_3146_9_9,ROCK_DOC_overlappingpdfs.138449.pdf.task_3146_5_6,montana,judith river formation,,1,0.996
+1461456,overlappingpdfs.135106.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135106.pdf.task_254_18_18,ROCK_DOC_overlappingpdfs.135106.pdf.task_254_24_25,dicynodontia,kawinga formation,,1,0.996
+1537408,overlappingpdfs.138665.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138665.pdf.task_1813_5_5,ROCK_DOC_overlappingpdfs.138665.pdf.task_1813_24_26,tchingisaurus,barun goyot formation,,1,1
+1478048,overlappingpdfs.1343.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1343.pdf.task_29_10_10,ROCK_DOC_overlappingpdfs.1343.pdf.task_29_15_16,rebbachisauridae,huincul formation,,1,0.996
+1481527,overlappingpdfs.1368.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1368.pdf.task_915_5_5,ROCK_DOC_overlappingpdfs.1368.pdf.task_915_17_17,lepidotes,kota formation,,1,1
+1530569,overlappingpdfs.132300.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132300.pdf.task_281_10_10,ROCK_DOC_overlappingpdfs.132300.pdf.task_281_14_15,trionychidae,iudith river group,,1,0.995
+1459713,overlappingpdfs.132146.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132146.pdf.task_306_6_7,ROCK_DOC_overlappingpdfs.132146.pdf.task_306_10_11,ichthyostega watsoni,britta dal formation,,1,0.996
+1481220,overlappingpdfs.130639.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130639.pdf.task_325_13_13,ROCK_DOC_overlappingpdfs.130639.pdf.task_325_19_19,choristodera,laohongdong formation,f,1,0.995
+1486997,overlappingpdfs.133100.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133100.pdf.task_1215_2_2,ROCK_DOC_overlappingpdfs.133100.pdf.task_1215_5_6,bivalvia,solsville member,,1,0.997
+1494577,overlappingpdfs.130623.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130623.pdf.task_96_12_12,ROCK_DOC_overlappingpdfs.130623.pdf.task_96_16_18,kouphichnium,tongonoxie sandstone member,f,1,1
+1480307,overlappingpdfs.138859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138859.pdf.task_415_27_27,ROCK_DOC_overlappingpdfs.138859.pdf.task_415_13_14,palaeeudyptes,la meseta formation,,1,0.996
+1488552,overlappingpdfs.133099.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133099.pdf.task_1162_0_0,ROCK_DOC_overlappingpdfs.133099.pdf.task_1162_9_9,asaphidae,valhallfonna formation,,1,0.926
+1468280,overlappingpdfs.138761.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138761.pdf.task_157_5_5,ROCK_DOC_overlappingpdfs.138761.pdf.task_157_24_24,ichthyornis,niobrara formation,,1,1
+1516617,overlappingpdfs.132630.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132630.pdf.task_711_0_0,ROCK_DOC_overlappingpdfs.132630.pdf.task_711_11_12,parviraptor,morrison formation,,1,1
+1513792,overlappingpdfs.132504.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132504.pdf.task_578_15_15,ROCK_DOC_overlappingpdfs.132504.pdf.task_578_26_27,comonecturoides,morrison formation,,1,1
+1523913,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_64_65,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_87_88,shantous lacustris,daohugou formation,,1,1
+1508730,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1551_17_17,ROCK_DOC_overlappingpdfs.132527.pdf.task_1551_6_7,exaeretodon,santa maria formation,,1,0.999
+1465237,overlappingpdfs.138745.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138745.pdf.task_530_6_6,ROCK_DOC_overlappingpdfs.138745.pdf.task_530_23_23,dryolestoidea,morrison formation,,1,0.996
+1532369,overlappingpdfs.13.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13.pdf.task_34_34_34,ROCK_DOC_overlappingpdfs.13.pdf.task_34_26_26,alberta,oldman formation,,1,0.995
+1473683,overlappingpdfs.138426.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138426.pdf.task_3358_5_5,ROCK_DOC_overlappingpdfs.138426.pdf.task_3358_12_13,protoceras,poleslide member,f,1,0.996
+1484095,overlappingpdfs.135561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135561.pdf.task_280_25_25,ROCK_DOC_overlappingpdfs.135561.pdf.task_280_29_30,lycoptera,selenga formation,,1,0.996
+1459207,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_1857_4_4,ROCK_DOC_overlappingpdfs.138449.pdf.task_1857_1_1,alberta,oldman formation,,1,0.996
+1465336,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_834_11_11,ROCK_DOC_overlappingpdfs.132215.pdf.task_834_15_16,pliosaurus,kimmeridge clay formation,,1,1
+1512978,overlappingpdfs.132302.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132302.pdf.task_768_7_7,ROCK_DOC_overlappingpdfs.132302.pdf.task_768_14_14,sauropoda,iurassic formation,f,1,0.994
+1531932,overlappingpdfs.13.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13.pdf.task_35_31_31,ROCK_DOC_overlappingpdfs.13.pdf.task_35_26_27,montana,judith river formation,,1,0.994
+1483224,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_88_48_48,ROCK_DOC_overlappingpdfs.133475.pdf.task_88_45_45,china,yixian formation,,1,0.987
+1470439,overlappingpdfs.132939.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132939.pdf.task_418_4_4,ROCK_DOC_overlappingpdfs.132939.pdf.task_418_10_11,parareptilia,wolfville formation,,1,0.996
+1513405,overlappingpdfs.132441.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132441.pdf.task_654_10_10,ROCK_DOC_overlappingpdfs.132441.pdf.task_654_14_15,neuroptera,crato formation,,1,0.996
+1457989,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_278_15_16,ROCK_DOC_overlappingpdfs.138449.pdf.task_278_8_9,acipenser albertensis,judith river formation,,1,0.995
+1505194,overlappingpdfs.130661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130661.pdf.task_629_25_25,ROCK_DOC_overlappingpdfs.130661.pdf.task_629_21_21,china,doushantuo formation,,1,0.999
+1504678,overlappingpdfs.133304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133304.pdf.task_322_12_12,ROCK_DOC_overlappingpdfs.133304.pdf.task_322_8_8,argentina,lecho formation,,1,0.998
+1517056,overlappingpdfs.133084.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133084.pdf.task_9_27_27,ROCK_DOC_overlappingpdfs.133084.pdf.task_9_31_31,kayentachelys,kayenta formation,t,1,0.996
+1469837,overlappingpdfs.132382.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132382.pdf.task_142_13_14,ROCK_DOC_overlappingpdfs.132382.pdf.task_142_22_23,palaeontinopsis liaoxiensis,haifanggou formation,,1,0.999
+1462075,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_501_0_0,ROCK_DOC_overlappingpdfs.132363.pdf.task_501_8_8,ocruranus,zhongyicun member,,1,0.996
+1490294,overlappingpdfs.132765.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132765.pdf.task_498_7_7,ROCK_DOC_overlappingpdfs.132765.pdf.task_498_11_14,stereospondyli,huai hin lat formation,,1,0.997
+1450773,overlappingpdfs.138365.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138365.pdf.task_4432_4_4,ROCK_DOC_overlappingpdfs.138365.pdf.task_4432_9_9,oxydactylus,rosebud formations,,1,0.995
+1483515,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_121_25_25,ROCK_DOC_overlappingpdfs.133475.pdf.task_121_47_47,boreopterus,yixian formation,,1,0.996
+1456505,overlappingpdfs.132505.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132505.pdf.task_592_8_8,ROCK_DOC_overlappingpdfs.132505.pdf.task_592_12_12,archosauromorpha,okurodani formation,f,1,0.997
+1483631,overlappingpdfs.130724.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130724.pdf.task_163_0_0,ROCK_DOC_overlappingpdfs.130724.pdf.task_163_16_18,metopaster,craie de villedieu formation,,1,1
+1488042,overlappingpdfs.1336.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1336.pdf.task_754_6_6,ROCK_DOC_overlappingpdfs.1336.pdf.task_754_12_13,phascolarctidae,etadunna formation,f,1,0.996
+1522003,overlappingpdfs.131841.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131841.pdf.task_325_14_14,ROCK_DOC_overlappingpdfs.131841.pdf.task_325_20_22,labechia,crown point formation,f,1,0.996
+1523933,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_75_75,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_87_87,daohugocorixa,daohugou formation,,1,1
+1498399,overlappingpdfs.136.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136.pdf.task_638_0_0,ROCK_DOC_overlappingpdfs.136.pdf.task_638_13_14,calsoyasuchus,kayenta formation,t,1,0.999
+1537262,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_573_41_42,ROCK_DOC_overlappingpdfs.132458.pdf.task_573_19_20,spalacolestes inconcinnus,cedar mountain formation,,1,0.996
+1532592,overlappingpdfs.1357.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1357.pdf.task_401_26_27,ROCK_DOC_overlappingpdfs.1357.pdf.task_401_29_29,pseudoloris cuestai,mazateron formation,,1,0.996
+1500705,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2128_5_8,ROCK_DOC_overlappingpdfs.138407.pdf.task_2128_11_13,microsyops angustidens,golden valley formation,,1,0.999
+1488851,overlappingpdfs.136629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136629.pdf.task_633_0_1,ROCK_DOC_overlappingpdfs.136629.pdf.task_633_4_4,dolatocrinus tridactylus,widder formation,,1,0.998
+1472765,overlappingpdfs.132397.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132397.pdf.task_33_95_96,ROCK_DOC_overlappingpdfs.132397.pdf.task_33_2_2,sphagesaurus montealtensis,bauru group,,1,0.996
+1537079,overlappingpdfs.132591.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132591.pdf.task_594_11_11,ROCK_DOC_overlappingpdfs.132591.pdf.task_594_15_15,rauisuchia,manda formation,,1,0.997
+1521969,overlappingpdfs.132592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132592.pdf.task_716_4_4,ROCK_DOC_overlappingpdfs.132592.pdf.task_716_8_9,cryptodira,yixian formation,,1,0.996
+1495993,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_5_3_3,ROCK_DOC_overlappingpdfs.132699.pdf.task_5_11_11,sauropoda,morrison formation,,1,0.999
+1501823,overlappingpdfs.132298.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132298.pdf.task_4_7_7,ROCK_DOC_overlappingpdfs.132298.pdf.task_4_14_15,diapsida,isalo group,f,1,0.999
+1469882,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_4_4,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_9_9,lepidosauria,kota formation,f,1,0.996
+1530881,overlappingpdfs.131208.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131208.pdf.task_343_19_19,ROCK_DOC_overlappingpdfs.131208.pdf.task_343_15_15,mexico,cupido formation,,1,0.996
+1490609,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_364_5_5,ROCK_DOC_overlappingpdfs.136699.pdf.task_364_18_18,spathella,foreknobs formation,,1,0.999
+1481743,overlappingpdfs.132242.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132242.pdf.task_14_21_22,ROCK_DOC_overlappingpdfs.132242.pdf.task_14_26_26,cerrejonisuchus improcerus,cerrejon formation,,1,0.996
+1463165,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_2856_17_17,ROCK_DOC_overlappingpdfs.138465.pdf.task_2856_13_13,mexico,andres formation,,1,0.996
+1515371,overlappingpdfs.132282.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132282.pdf.task_158_0_1,ROCK_DOC_overlappingpdfs.132282.pdf.task_158_4_4,yangtzeella igori,uzunbulak formation,,1,0.996
+1487077,overlappingpdfs.136082.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136082.pdf.task_266_5_5,ROCK_DOC_overlappingpdfs.136082.pdf.task_266_11_12,bivalvia,marcellus formation,,1,0.996
+1505524,overlappingpdfs.132506.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132506.pdf.task_258_6_6,ROCK_DOC_overlappingpdfs.132506.pdf.task_258_9_10,proscopiidae,crato formation,,1,0.996
+1467031,overlappingpdfs.132393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132393.pdf.task_759_7_7,ROCK_DOC_overlappingpdfs.132393.pdf.task_759_10_12,exaeretodon,santa maria formation,t,1,0.996
+1457508,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2980_6_6,ROCK_DOC_overlappingpdfs.138449.pdf.task_2980_3_3,montana,river formation,,1,0.996
+1462076,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_501_0_0,ROCK_DOC_overlappingpdfs.132363.pdf.task_501_8_8,ocruranus,zhongyicun member,t,1,0.996
+1457779,overlappingpdfs.132146.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132146.pdf.task_609_6_6,ROCK_DOC_overlappingpdfs.132146.pdf.task_609_12_13,amphibia,northumberland coal,f,1,0.996
+1530340,overlappingpdfs.132300.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132300.pdf.task_244_4_4,ROCK_DOC_overlappingpdfs.132300.pdf.task_244_7_8,vertebrata,bridger group,f,1,1
+1465173,overlappingpdfs.132736.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132736.pdf.task_136_12_13,ROCK_DOC_overlappingpdfs.132736.pdf.task_136_8_8,asteridium tornatum,xishanblaq formation,,1,0.996
+1452320,overlappingpdfs.132532.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132532.pdf.task_95_12_12,ROCK_DOC_overlappingpdfs.132532.pdf.task_95_16_17,ctenochelys,niobrara formation,,1,0.997
+1506620,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1472_2_2,ROCK_DOC_overlappingpdfs.132293.pdf.task_1472_14_15,barapasaurus,kota formation,,1,0.999
+1506132,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1659_4_4,ROCK_DOC_overlappingpdfs.132293.pdf.task_1659_9_9,lepidosauria,kota formation,,1,0.999
+1497979,overlappingpdfs.139843.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.139843.pdf.task_571_14_14,ROCK_DOC_overlappingpdfs.139843.pdf.task_571_10_11,alberta,judith river formation,,1,0.996
+1481311,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_21_21,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_96,rhinoclavis,warak formation,,1,0.934
+1464629,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_169_5_5,ROCK_DOC_overlappingpdfs.138709.pdf.task_169_200_201,bates,horsetail creek member,,1,0.946
+1476997,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_5776_0_1,ROCK_DOC_overlappingpdfs.138573.pdf.task_5776_12_14,cormohipparion occidentale,ash hollow formation,t,1,0.999
+1493488,overlappingpdfs.132723.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132723.pdf.task_509_9_9,ROCK_DOC_overlappingpdfs.132723.pdf.task_509_13_14,amiidae,crato formation,f,1,0.999
+1511546,overlappingpdfs.135749.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135749.pdf.task_52_52_52,TIME_DOC_overlappingpdfs.135749.pdf.task_52_9_9,bardahessiagh formation,Ordovician|485.40000|443.40000,f,1,0.951
+1537020,overlappingpdfs.130614.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130614.pdf.task_312_21_21,ROCK_DOC_overlappingpdfs.130614.pdf.task_312_16_16,argentina,enterrios formation,,1,0.995
+1468833,overlappingpdfs.131160.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131160.pdf.task_266_5_5,ROCK_DOC_overlappingpdfs.131160.pdf.task_266_8_8,bivalvia,solsville member,,1,0.998
+1468358,overlappingpdfs.132965.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132965.pdf.task_289_1_2,ROCK_DOC_overlappingpdfs.132965.pdf.task_289_15_16,chiayusaurus lacustris,xinminbao group,t,1,0.996
+1524158,overlappingpdfs.132304.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132304.pdf.task_444_64_65,ROCK_DOC_overlappingpdfs.132304.pdf.task_444_87_87,shantous lacustris,daohugou formation,t,1,0.996
+1508448,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1500_25_25,ROCK_DOC_overlappingpdfs.132527.pdf.task_1500_21_22,argentina,puesto viejo formation,f,1,0.999
+1492335,overlappingpdfs.138834.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138834.pdf.task_1632_10_11,ROCK_DOC_overlappingpdfs.138834.pdf.task_1632_19_20,stomatosuchus inermis,bahariya formation,,1,0.997
+1485038,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_28_9_9,ROCK_DOC_overlappingpdfs.132216.pdf.task_28_16_16,ornithopoda,yixian formation,,1,0.996
+1483136,overlappingpdfs.132384.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132384.pdf.task_45_8_8,ROCK_DOC_overlappingpdfs.132384.pdf.task_45_5_5,mexico,tlayua formation,,1,0.996
+1480951,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_70_71,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,tectarius elegans,warak formation,,1,0.954
+1467366,overlappingpdfs.1341.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1341.pdf.task_48_79_79,ROCK_DOC_overlappingpdfs.1341.pdf.task_48_66_66,auroracetus,pisco formation,,1,0.941
+1484777,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_28_3_3,ROCK_DOC_overlappingpdfs.132216.pdf.task_28_16_16,china,yixian formation,,1,0.996
+1530381,overlappingpdfs.132300.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132300.pdf.task_281_10_10,ROCK_DOC_overlappingpdfs.132300.pdf.task_281_14_16,trionychidae,iudith river group,,1,0.995
+1457523,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_2745_9_10,ROCK_DOC_overlappingpdfs.138449.pdf.task_2745_13_13,alphadon lulli,lance formation,,1,0.996
+1502399,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_2128_5_6,ROCK_DOC_overlappingpdfs.138407.pdf.task_2128_11_12,microsyops,golden valley formation,,1,0.999
+1487319,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_978_9_9,ROCK_DOC_overlappingpdfs.132666.pdf.task_978_6_6,arizona,chinle group,,1,0.996
+1483156,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_490_8_8,ROCK_DOC_overlappingpdfs.133475.pdf.task_490_19_19,pterodactyloidea,santana formation,,1,0.996
+1495184,overlappingpdfs.135100.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135100.pdf.task_1_11_12,ROCK_DOC_overlappingpdfs.135100.pdf.task_1_15_16,neusticemys neuquina,vaca muerta formation,,1,0.999
+1528335,overlappingpdfs.133114.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133114.pdf.task_671_1_1,ROCK_DOC_overlappingpdfs.133114.pdf.task_671_10_11,teleostei,klondike mountain formation,,1,0.996
+1529403,overlappingpdfs.133414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133414.pdf.task_628_6_6,ROCK_DOC_overlappingpdfs.133414.pdf.task_628_9_9,hemiptera,daohugou formation,,1,0.996
+1457053,overlappingpdfs.1373.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1373.pdf.task_41_55_55,TIME_DOC_overlappingpdfs.1373.pdf.task_41_84_85,sonsela member,Late Triassic|228.0000|199.6000,f,1,0.96
+1525252,overlappingpdfs.133063.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133063.pdf.task_2368_0_0,ROCK_DOC_overlappingpdfs.133063.pdf.task_2368_4_5,trilobites,stinchar limestone formation,,1,0.996
+1478224,overlappingpdfs.1343.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1343.pdf.task_311_8_8,ROCK_DOC_overlappingpdfs.1343.pdf.task_311_12_12,sauropoda,huincul formation,,1,0.997
+1509346,overlappingpdfs.132501.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132501.pdf.task_121_11_12,ROCK_DOC_overlappingpdfs.132501.pdf.task_121_15_16,megalosaurus bucklandii,taynton limestone formation,,1,0.999
+1483819,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_148_9_9,ROCK_DOC_overlappingpdfs.133475.pdf.task_148_6_6,nurhachius,jiufotang formation,,1,0.995
+1515649,overlappingpdfs.132435.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132435.pdf.task_1267_5_5,ROCK_DOC_overlappingpdfs.132435.pdf.task_1267_10_11,diapsida,sulphur mountain formation,,1,0.996
+1487015,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_39_7_7,ROCK_DOC_overlappingpdfs.132666.pdf.task_39_14_15,trilophosaurus,chinle group,,1,1
+1512024,overlappingpdfs.133113.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133113.pdf.task_700_9_9,ROCK_DOC_overlappingpdfs.133113.pdf.task_700_12_13,dastilbe,crato formation,f,1,0.996
+1465521,overlappingpdfs.138709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138709.pdf.task_1040_4_4,ROCK_DOC_overlappingpdfs.138709.pdf.task_1040_10_11,apternodus,brule formation,,1,1
+1499535,overlappingpdfs.138407.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138407.pdf.task_1640_10_10,ROCK_DOC_overlappingpdfs.138407.pdf.task_1640_13_14,thylacaelurus,kishenehn formation,,1,0.999
+1463071,overlappingpdfs.138465.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138465.pdf.task_1548_6_6,ROCK_DOC_overlappingpdfs.138465.pdf.task_1548_2_3,arizona,san andres formation,,1,0.996
+1516438,overlappingpdfs.130636.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130636.pdf.task_18_7_8,ROCK_DOC_overlappingpdfs.130636.pdf.task_18_11_11,isoxys paradoxus,maotianshan shale,,1,0.996
+1513069,overlappingpdfs.132517.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132517.pdf.task_454_6_6,ROCK_DOC_overlappingpdfs.132517.pdf.task_454_12_13,mollusca,dalby limestone formation,f,1,0.996
+1493420,overlappingpdfs.133117.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133117.pdf.task_729_19_19,ROCK_DOC_overlappingpdfs.133117.pdf.task_729_24_26,lingulella,collingwood oil shale,,1,0.998
+1469802,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_673_2_2,ROCK_DOC_overlappingpdfs.132470.pdf.task_673_8_9,diapsida,iurassic kota formation,f,1,0.996
+1530019,overlappingpdfs.132960.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132960.pdf.task_403_18_18,ROCK_DOC_overlappingpdfs.132960.pdf.task_403_14_14,allosaurus,morrison formation,,1,1
+1484561,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_103_3_4,ROCK_DOC_overlappingpdfs.133475.pdf.task_103_12_13,batrachognathus volans,karabastau formation,,1,1
+1466583,overlappingpdfs.132227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132227.pdf.task_709_9_9,ROCK_DOC_overlappingpdfs.132227.pdf.task_709_13_14,diplodocidae,morrison formation,t,1,0.996
+1478479,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_6763_2_2,ROCK_DOC_overlappingpdfs.138573.pdf.task_6763_8_8,equidae,california sand,f,1,0.996
+1483236,overlappingpdfs.132216.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132216.pdf.task_17_13_14,ROCK_DOC_overlappingpdfs.132216.pdf.task_17_18_18,changchunsaurus parvus,quantou formation,,1,1
+1536017,overlappingpdfs.132354.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132354.pdf.task_516_7_7,ROCK_DOC_overlappingpdfs.132354.pdf.task_516_4_4,virginia,edinburg formation,,1,0.993
+1500265,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_857_0_0,ROCK_DOC_overlappingpdfs.138393.pdf.task_857_3_3,dictyopyge,newark group,f,1,0.999
+1502463,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_999_6_6,ROCK_DOC_overlappingpdfs.138393.pdf.task_999_3_3,semionotus,newark group,,1,0.999
+1535191,overlappingpdfs.138447.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138447.pdf.task_396_9_9,ROCK_DOC_overlappingpdfs.138447.pdf.task_396_31_31,mourlonia,noonkanbah formation,,1,0.996
+1477633,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_74_31_32,ROCK_DOC_overlappingpdfs.1376.pdf.task_74_6_6,argyrosaurus superbus,chubut group,,1,1
+1510649,overlappingpdfs.133053.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133053.pdf.task_693_19_19,ROCK_DOC_overlappingpdfs.133053.pdf.task_693_23_24,hiemalora,innerelv member,,1,1
+1522798,overlappingpdfs.133102.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133102.pdf.task_28_11_12,ROCK_DOC_overlappingpdfs.133102.pdf.task_28_15_16,albanerpeton arthridion,antlers formation,,1,0.996
+1521967,overlappingpdfs.132592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132592.pdf.task_716_4_4,ROCK_DOC_overlappingpdfs.132592.pdf.task_716_8_8,cryptodira,yixian formation,,1,0.996
+1508378,overlappingpdfs.132862.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132862.pdf.task_2539_3_3,ROCK_DOC_overlappingpdfs.132862.pdf.task_2539_8_8,gastropoda,formation formation,,1,0.999
+1478698,overlappingpdfs.1376.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1376.pdf.task_570_34_34,ROCK_DOC_overlappingpdfs.1376.pdf.task_570_28_30,drusilasaura,bajo barreal formation,,1,0.999
+1492101,overlappingpdfs.136241.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136241.pdf.task_467_27_28,ROCK_DOC_overlappingpdfs.136241.pdf.task_467_31_31,akadocrinus jani,jince formation,,1,0.997
+1483166,overlappingpdfs.133026.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133026.pdf.task_135_5_6,ROCK_DOC_overlappingpdfs.133026.pdf.task_135_9_9,clathrospira glindmeyeri,antelope formation,,1,0.996
+1459554,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_5475_10_10,ROCK_DOC_overlappingpdfs.138449.pdf.task_5475_13_14,physidae,judith river formation,,1,0.996
+1506073,overlappingpdfs.132293.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132293.pdf.task_1674_5_6,ROCK_DOC_overlappingpdfs.132293.pdf.task_1674_24_25,blikanasaurus cromptoni,elliot formation,,1,0.999
+1474043,overlappingpdfs.132572.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132572.pdf.task_374_19_19,ROCK_DOC_overlappingpdfs.132572.pdf.task_374_14_14,china,yixian formation,,1,0.995
+1460992,overlappingpdfs.133092.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133092.pdf.task_16_124_124,ROCK_DOC_overlappingpdfs.133092.pdf.task_16_129_130,soomaspis,soom shale,,1,0.955
+1518160,overlappingpdfs.132473.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132473.pdf.task_1118_4_4,ROCK_DOC_overlappingpdfs.132473.pdf.task_1118_10_10,titanosauridae,adamantina formation,,1,1
+1537210,overlappingpdfs.132458.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132458.pdf.task_801_4_4,ROCK_DOC_overlappingpdfs.132458.pdf.task_801_12_12,gobiconodon,cloverly formation,,1,1
+1483788,overlappingpdfs.135561.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135561.pdf.task_325_13_13,ROCK_DOC_overlappingpdfs.135561.pdf.task_325_19_19,choristodera,laohongdong formation,f,1,0.996
+1520233,overlappingpdfs.132140.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132140.pdf.task_774_31_31,ROCK_DOC_overlappingpdfs.132140.pdf.task_774_36_36,theropoda,creek formation,,1,0.996
+1532051,overlappingpdfs.133067.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133067.pdf.task_380_16_17,ROCK_DOC_overlappingpdfs.133067.pdf.task_380_32_33,costiferina spiralis,baliqiliq formation,,1,0.996
+1537316,overlappingpdfs.132591.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132591.pdf.task_594_11_11,ROCK_DOC_overlappingpdfs.132591.pdf.task_594_15_16,rauisuchia,manda formation,,1,0.997
+1495235,overlappingpdfs.132699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132699.pdf.task_1293_7_7,ROCK_DOC_overlappingpdfs.132699.pdf.task_1293_13_14,sauropoda,morrison formation,,1,1
+1513349,overlappingpdfs.132517.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132517.pdf.task_132_15_16,ROCK_DOC_overlappingpdfs.132517.pdf.task_132_19_20,salpingostoma shallochense,mill formation,,1,0.996
+1494314,overlappingpdfs.131219.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131219.pdf.task_700_6_6,ROCK_DOC_overlappingpdfs.131219.pdf.task_700_9_11,ostracoda,ellis bay formation,,1,0.999

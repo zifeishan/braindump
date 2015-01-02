@@ -1,0 +1,108 @@
+diff -ENwbur ../v00001/stats/entity_formation.txt ./stats/entity_formation.txt
+--- ../v00001/stats/entity_formation.txt	2015-01-01 14:53:41.000000000 -0800
++++ ./stats/entity_formation.txt	2015-01-02 00:38:27.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.000
+   * 95% Confidence interval: [0.000, 0.241]
+-Number of documents with extraction: 963
++* Number of documents with extraction: 963
+diff -ENwbur ../v00001/stats/entity_location.txt ./stats/entity_location.txt
+--- ../v00001/stats/entity_location.txt	2015-01-01 14:53:42.000000000 -0800
++++ ./stats/entity_location.txt	2015-01-02 00:38:34.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: N/A
+   * 95% Confidence interval: N/A 
+-Number of documents with extraction: 0
++* Number of documents with extraction: 0
+diff -ENwbur ../v00001/stats/entity_taxon.txt ./stats/entity_taxon.txt
+--- ../v00001/stats/entity_taxon.txt	2015-01-01 14:53:42.000000000 -0800
++++ ./stats/entity_taxon.txt	2015-01-02 00:38:43.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.000
+   * 95% Confidence interval: [0.000, 0.128]
+-Number of documents with extraction: 1167
++* Number of documents with extraction: 1167
+diff -ENwbur ../v00001/stats/entity_temporal.txt ./stats/entity_temporal.txt
+--- ../v00001/stats/entity_temporal.txt	2015-01-01 14:53:42.000000000 -0800
++++ ./stats/entity_temporal.txt	2015-01-02 00:38:51.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.000
+   * 95% Confidence interval: [0.000, 0.219]
+-Number of documents with extraction: 1141
++* Number of documents with extraction: 1141
+diff -ENwbur ../v00001/stats/relation_formation.txt ./stats/relation_formation.txt
+--- ../v00001/stats/relation_formation.txt	2015-01-01 14:53:43.000000000 -0800
++++ ./stats/relation_formation.txt	2015-01-02 00:39:04.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.118
+   * 95% Confidence interval: [0.000, 1.000]
+-Number of documents with extraction: 516
++* Number of documents with extraction: 516
+diff -ENwbur ../v00001/stats/relation_formation_global.txt ./stats/relation_formation_global.txt
+--- ../v00001/stats/relation_formation_global.txt	2015-01-01 14:53:43.000000000 -0800
++++ ./stats/relation_formation_global.txt	2015-01-02 00:38:57.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.143
+   * 95% Confidence interval: [0.000, 1.000]
+-Number of documents with extraction: 1
++* Number of documents with extraction: 1
+diff -ENwbur ../v00001/stats/relation_formationlocation.txt ./stats/relation_formationlocation.txt
+--- ../v00001/stats/relation_formationlocation.txt	2015-01-01 14:53:43.000000000 -0800
++++ ./stats/relation_formationlocation.txt	2015-01-02 00:39:18.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: N/A
+   * 95% Confidence interval: N/A 
+-Number of documents with extraction: 0
++* Number of documents with extraction: 0
+diff -ENwbur ../v00001/stats/relation_formationlocation_global.txt ./stats/relation_formationlocation_global.txt
+--- ../v00001/stats/relation_formationlocation_global.txt	2015-01-01 14:53:43.000000000 -0800
++++ ./stats/relation_formationlocation_global.txt	2015-01-02 00:39:11.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: N/A
+   * 95% Confidence interval: N/A 
+-Number of documents with extraction: 0
++* Number of documents with extraction: 0
+diff -ENwbur ../v00001/stats/relation_formationtemporal.txt ./stats/relation_formationtemporal.txt
+--- ../v00001/stats/relation_formationtemporal.txt	2015-01-01 14:53:44.000000000 -0800
++++ ./stats/relation_formationtemporal.txt	2015-01-02 00:39:31.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.040
+   * 95% Confidence interval: [0.000, 0.605]
+-Number of documents with extraction: 827
++* Number of documents with extraction: 827
+diff -ENwbur ../v00001/stats/relation_formationtemporal_global.txt ./stats/relation_formationtemporal_global.txt
+--- ../v00001/stats/relation_formationtemporal_global.txt	2015-01-01 14:53:44.000000000 -0800
++++ ./stats/relation_formationtemporal_global.txt	2015-01-02 00:39:25.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: N/A
+   * 95% Confidence interval: N/A 
+-Number of documents with extraction: 0
++* Number of documents with extraction: 0
+diff -ENwbur ../v00001/stats/relation_taxonomy.txt ./stats/relation_taxonomy.txt
+--- ../v00001/stats/relation_taxonomy.txt	2015-01-01 14:53:44.000000000 -0800
++++ ./stats/relation_taxonomy.txt	2015-01-02 00:39:46.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.288
+   * 95% Confidence interval: [0.000, 0.664]
+-Number of documents with extraction: 958
++* Number of documents with extraction: 958
+diff -ENwbur ../v00001/stats/relation_taxonomy_global.txt ./stats/relation_taxonomy_global.txt
+--- ../v00001/stats/relation_taxonomy_global.txt	2015-01-01 14:53:45.000000000 -0800
++++ ./stats/relation_taxonomy_global.txt	2015-01-02 00:39:38.000000000 -0800
+@@ -7,4 +7,4 @@
+ * Good-Turing estimation of prob. that next extracted mention is new:
+   * Estimate: 0.969
+   * 95% Confidence interval: [0.000, 1.000]
+-Number of documents with extraction: 8
++* Number of documents with extraction: 8

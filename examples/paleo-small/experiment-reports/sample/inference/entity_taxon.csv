@@ -1,0 +1,1001 @@
+id,docid,type,eid,entity,author_year,prov,is_correct,category,expectation
+977048,overlappingpdfs.138044.pdf.task,genus,TAXON_DOC_overlappingpdfs.138044.pdf.task_1038_10_10,tanius,"","{1038,10,10,Tanius}",,1,1
+1289070,overlappingpdfs.137935.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.137935.pdf.task_5906_2_2,scincomorpha,"","{5906,2,2,SCINCOMORPHA}",,1,1
+1034926,overlappingpdfs.133475.pdf.task,genus,TAXON_DOC_overlappingpdfs.133475.pdf.task_495_11_11,china,"","{495,11,11,China}",,1,0.996
+912382,overlappingpdfs.132274.pdf.task,genus,TAXON_DOC_overlappingpdfs.132274.pdf.task_191_11_11,hispaniachelys,"","{191,11,11,Hispaniachelys}",,1,1
+1359208,overlappingpdfs.133089.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.133089.pdf.task_699_8_8,hyolithus,"","{699,8,8,Hyolithus}",,1,0.996
+1295993,overlappingpdfs.138332.pdf.task,genus,TAXON_DOC_overlappingpdfs.138332.pdf.task_363_6_6,cyclopidius,"","{363,6,6,Cyclopidius}",,1,1
+1177822,overlappingpdfs.138393.pdf.task,genus,TAXON_DOC_overlappingpdfs.138393.pdf.task_2122_3_3,turseodus,"","{2122,3,3,Turseodus}",,1,0.996
+963225,overlappingpdfs.131561.pdf.task,genus,TAXON_DOC_overlappingpdfs.131561.pdf.task_618_7_7,tylothyris,"","{618,7,7,Tylothyris}",,1,1
+1070348,overlappingpdfs.138678.pdf.task,species,TAXON_DOC_overlappingpdfs.138678.pdf.task_7829_19_20,boreallodape baltica,"","{7829,19,20,""Boreallodape baltica""}",,1,0.994
+1060305,overlappingpdfs.138388.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138388.pdf.task_723_1_1,elopomorpha,"","{723,1,1,Elopomorpha}",,1,1
+1254825,overlappingpdfs.138313.pdf.task,species,TAXON_DOC_overlappingpdfs.138313.pdf.task_2500_1_2,leptaena dalman,"","{2500,1,2,""LEPTAENA DALMAN""}",,1,1
+1436595,overlappingpdfs.132714.pdf.task,genus,TAXON_DOC_overlappingpdfs.132714.pdf.task_438_13_13,camacho,"","{438,13,13,Camacho}",,1,0.996
+811503,overlappingpdfs.132547.pdf.task,species,TAXON_DOC_overlappingpdfs.132547.pdf.task_170_0_1,lepidactis wenlocki,"","{170,0,1,""Lepidactis wenlocki""}",,1,1
+957724,overlappingpdfs.133066.pdf.task,genus,TAXON_DOC_overlappingpdfs.133066.pdf.task_353_6_6,loriolella,"","{353,6,6,Loriolella}",,1,1
+1251080,overlappingpdfs.130286.pdf.task,genus,TAXON_DOC_overlappingpdfs.130286.pdf.task_285_25_25,crurithyris,"","{285,25,25,Crurithyris}",,1,1
+1043997,overlappingpdfs.138174.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138174.pdf.task_990_15_15,inoceramus,"","{990,15,15,Inoceramus}",,1,0.996
+976542,overlappingpdfs.139605.pdf.task,family,TAXON_DOC_overlappingpdfs.139605.pdf.task_14_15_15,antilocapridae,"","{14,15,15,Antilocapridae}",,1,1
+1310321,overlappingpdfs.138601.pdf.task,genus,TAXON_DOC_overlappingpdfs.138601.pdf.task_3704_45_45,scaptomyza,"","{3704,45,45,Scaptomyza}",,1,0.996
+1313443,overlappingpdfs.132724.pdf.task,genus,TAXON_DOC_overlappingpdfs.132724.pdf.task_39_0_0,protolacazella,"","{39,0,0,Protolacazella}",,1,1
+1297750,overlappingpdfs.138462.pdf.task,genus,TAXON_DOC_overlappingpdfs.138462.pdf.task_2089_8_8,enaliarctos,"","{2089,8,8,Enaliarctos}",,1,1
+1049629,overlappingpdfs.133027.pdf.task,genus,TAXON_DOC_overlappingpdfs.133027.pdf.task_251_1_1,scaphiocrinus,"","{251,1,1,Scaphiocrinus}",,1,1
+936471,overlappingpdfs.132415.pdf.task,genus,TAXON_DOC_overlappingpdfs.132415.pdf.task_523_6_6,lepidotes,"","{523,6,6,Lepidotes}",,1,1
+1301086,overlappingpdfs.132419.pdf.task,genus,TAXON_DOC_overlappingpdfs.132419.pdf.task_540_17_17,marlu,"","{540,17,17,Marlu}",,1,1
+1140946,overlappingpdfs.138385.pdf.task,species,TAXON_DOC_overlappingpdfs.138385.pdf.task_121_8_9,palaeosinopa simpsoni,"","{121,8,9,""P. simpsoni""}",,1,1
+1166362,overlappingpdfs.138141.pdf.task,species,TAXON_DOC_overlappingpdfs.138141.pdf.task_307_0_1,incacetus broggii,"","{307,0,1,""Incacetus broggii""}",,1,1
+868087,overlappingpdfs.135292.pdf.task,genus,TAXON_DOC_overlappingpdfs.135292.pdf.task_118_1_1,flemingites,"","{118,1,1,Flemingites}",,1,1
+1411395,overlappingpdfs.132455.pdf.task,genus,TAXON_DOC_overlappingpdfs.132455.pdf.task_548_6_6,metriorhynchus,"","{548,6,6,Metriorhynchus}",,1,1
+1069980,overlappingpdfs.132706.pdf.task,species,TAXON_DOC_overlappingpdfs.132706.pdf.task_594_48_49,geikia locusticeps,"","{594,48,49,""Geikia locusticeps""}",,1,1
+1231736,overlappingpdfs.138572.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.138572.pdf.task_322_18_18,palpimanoidea,"","{322,18,18,Palpimanoidea}",,1,0.999
+1164011,overlappingpdfs.138329.pdf.task,species,TAXON_DOC_overlappingpdfs.138329.pdf.task_1758_0_1,cycloseris elegans,"","{1758,0,1,""Cycloseris elegans""}",,1,1
+1016815,overlappingpdfs.138622.pdf.task,species,TAXON_DOC_overlappingpdfs.138622.pdf.task_4778_23_24,paraenhydrocyon wallovianus,"","{4778,23,24,""Paraenhydrocyon wallovianus""}",,1,1
+1389002,overlappingpdfs.132829.pdf.task,species,TAXON_DOC_overlappingpdfs.132829.pdf.task_707_9_10,micraster michelini,"","{707,9,10,""Micraster michelini""}",,1,0.996
+1336293,overlappingpdfs.137387.pdf.task,species,TAXON_DOC_overlappingpdfs.137387.pdf.task_536_3_4,mesohippus bairdi,"","{536,3,4,""M. bairdi""}",,1,1
+850976,overlappingpdfs.139033.pdf.task,family,TAXON_DOC_overlappingpdfs.139033.pdf.task_104_73_73,soricidae,"","{104,73,73,Soricidae}",,1,1
+1003207,overlappingpdfs.138644.pdf.task,genus,TAXON_DOC_overlappingpdfs.138644.pdf.task_2830_3_3,mesobolbomyia,"","{2830,3,3,Mesobolbomyia}",,1,1
+928023,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_7353_21_21,neuquenornis,"","{7353,21,21,Neuquenornis}",,1,0.988
+1180049,overlappingpdfs.135105.pdf.task,genus,TAXON_DOC_overlappingpdfs.135105.pdf.task_197_18_18,peneroplis,"","{197,18,18,Peneroplis}",,1,1
+1422961,overlappingpdfs.132621.pdf.task,genus,TAXON_DOC_overlappingpdfs.132621.pdf.task_503_25_25,lepidotes,"","{503,25,25,Lepidotes}",,1,1
+1098258,overlappingpdfs.132440.pdf.task,genus,TAXON_DOC_overlappingpdfs.132440.pdf.task_970_1_1,acrodus,"","{970,1,1,Acrodus}",,1,1
+1089220,overlappingpdfs.138613.pdf.task,genus,TAXON_DOC_overlappingpdfs.138613.pdf.task_1191_60_60,isonychia,"","{1191,60,60,Isonychia}",,1,0.996
+1095630,overlappingpdfs.132567.pdf.task,species,TAXON_DOC_overlappingpdfs.132567.pdf.task_1169_0_1,phaenopora ordinarius,"","{1169,0,1,""Phaenopora ordinarius""}",,1,1
+1119662,overlappingpdfs.138170.pdf.task,genus,TAXON_DOC_overlappingpdfs.138170.pdf.task_2408_50_50,palaeeudyptes,"","{2408,50,50,Palaeeudyptes}",,1,0.996
+1250474,overlappingpdfs.137566.pdf.task,genus,TAXON_DOC_overlappingpdfs.137566.pdf.task_53_35_35,diadectes,"","{53,35,35,Diadectes}",,1,1
+911721,overlappingpdfs.1374.pdf.task,genus,TAXON_DOC_overlappingpdfs.1374.pdf.task_558_12_12,crocodylus,"","{558,12,12,Crocodylus}",,1,1
+1437204,overlappingpdfs.132619.pdf.task,species,TAXON_DOC_overlappingpdfs.132619.pdf.task_155_83_84,megatherium sundti,"","{155,83,84,""M. sundti""}",,1,1
+918403,overlappingpdfs.131419.pdf.task,genus,TAXON_DOC_overlappingpdfs.131419.pdf.task_546_1_1,aphralysia,"","{546,1,1,Aphralysia}",,1,1
+968126,overlappingpdfs.132521.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132521.pdf.task_441_2_2,monotis,"","{441,2,2,Monotis}",,1,1
+830824,overlappingpdfs.133469.pdf.task,family,TAXON_DOC_overlappingpdfs.133469.pdf.task_1127_0_0,ucumariidae,"","{1127,0,0,Ucumariidae}",,1,1
+1002196,overlappingpdfs.138859.pdf.task,species,TAXON_DOC_overlappingpdfs.138859.pdf.task_471_35_36,delphinornis gracilis,"","{471,35,36,""Delphinornis gracilis""}",,1,0.996
+1099638,overlappingpdfs.1346.pdf.task,genus,TAXON_DOC_overlappingpdfs.1346.pdf.task_903_0_0,kairuku,"","{903,0,0,Kairuku}",,1,1
+1246827,overlappingpdfs.132836.pdf.task,genus,TAXON_DOC_overlappingpdfs.132836.pdf.task_665_5_5,girvanella,"","{665,5,5,Girvanella}",,1,1
+1278470,overlappingpdfs.132317.pdf.task,class,TAXON_DOC_overlappingpdfs.132317.pdf.task_1073_3_3,reptilia,"","{1073,3,3,Reptilia}",,1,1
+1329830,overlappingpdfs.138193.pdf.task,family,TAXON_DOC_overlappingpdfs.138193.pdf.task_709_10_10,polypedatidae,"","{709,10,10,Polypedatidae}",,1,1
+1356517,overlappingpdfs.132226.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132226.pdf.task_1507_4_4,crustacea,"","{1507,4,4,Crustacea}",,1,1
+1349556,overlappingpdfs.132657.pdf.task,order,TAXON_DOC_overlappingpdfs.132657.pdf.task_388_6_6,hymenoptera,"","{388,6,6,Hymenoptera}",,1,0.996
+1070781,overlappingpdfs.138678.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138678.pdf.task_4458_3_3,electrapis,"","{4458,3,3,Electrapis}",,1,1
+1016250,overlappingpdfs.138644.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138644.pdf.task_2955_3_3,cyclorrhapha,"","{2955,3,3,Cyclorrhapha}",,1,1
+1208646,overlappingpdfs.138538.pdf.task,genus,TAXON_DOC_overlappingpdfs.138538.pdf.task_2624_0_0,paratype,"","{2624,0,0,Paratype}",,1,1
+1285169,overlappingpdfs.131147.pdf.task,species,TAXON_DOC_overlappingpdfs.131147.pdf.task_131_5_6,lithophyllum albanense,"","{131,5,6,""Lithophyllum albanense""}",,1,1
+1235974,overlappingpdfs.132857.pdf.task,genus,TAXON_DOC_overlappingpdfs.132857.pdf.task_106_10_10,pseudananchys,"","{106,10,10,Pseudananchys}",,1,0.937
+1041466,overlappingpdfs.133097.pdf.task,species,TAXON_DOC_overlappingpdfs.133097.pdf.task_723_32_33,avenius amatorum,"","{723,32,33,""A. amatorum""}",,1,1
+1036159,overlappingpdfs.132348.pdf.task,species,TAXON_DOC_overlappingpdfs.132348.pdf.task_669_0_1,dromia neogenica,"","{669,0,1,""Dromia neogenica""}",,1,1
+1157437,overlappingpdfs.133044.pdf.task,genus,TAXON_DOC_overlappingpdfs.133044.pdf.task_1681_0_0,trilobites,"","{1681,0,0,Trilobites}",,1,0.996
+1376267,overlappingpdfs.138605.pdf.task,species,TAXON_DOC_overlappingpdfs.138605.pdf.task_5295_0_1,proganochelys quenstedti,"","{5295,0,1,""Proganochelys quenstedti""}",,1,1
+1109233,overlappingpdfs.139932.pdf.task,species,TAXON_DOC_overlappingpdfs.139932.pdf.task_117_29_30,solenosteira semiglobosa,"","{117,29,30,""Solenosteira semiglobosa""}",,1,1
+1408421,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1555_30_30,gerastos,"","{1555,30,30,Gerastos}",,1,0.996
+1447351,overlappingpdfs.138272.pdf.task,genus,TAXON_DOC_overlappingpdfs.138272.pdf.task_1540_13_13,meekella,"","{1540,13,13,Meekella}",,1,0.996
+975480,overlappingpdfs.135476.pdf.task,genus,TAXON_DOC_overlappingpdfs.135476.pdf.task_351_5_5,plectothyrella,"","{351,5,5,Plectothyrella}",,1,1
+975233,overlappingpdfs.138426.pdf.task,genus,TAXON_DOC_overlappingpdfs.138426.pdf.task_1904_5_5,lambdoceras,"","{1904,5,5,Lambdoceras}",,1,0.999
+1189622,overlappingpdfs.133304.pdf.task,genus,TAXON_DOC_overlappingpdfs.133304.pdf.task_91_2_2,soroavisaurus,"","{91,2,2,Soroavisaurus}",,1,1
+1333655,overlappingpdfs.132524.pdf.task,genus,TAXON_DOC_overlappingpdfs.132524.pdf.task_926_5_5,libonectes,"","{926,5,5,Libonectes}",,1,1
+1269280,overlappingpdfs.130925.pdf.task,genus,TAXON_DOC_overlappingpdfs.130925.pdf.task_238_1_1,aristoceras,"","{238,1,1,Aristoceras}",,1,1
+1057342,overlappingpdfs.132764.pdf.task,class,TAXON_DOC_overlappingpdfs.132764.pdf.task_694_17_17,pisces,"","{694,17,17,Pisces}",,1,0.996
+1232719,overlappingpdfs.132574.pdf.task,species,TAXON_DOC_overlappingpdfs.132574.pdf.task_583_0_1,derbiocrinus diversus,"","{583,0,1,""Derbiocrinus diversus""}",,1,1
+914197,overlappingpdfs.137444.pdf.task,genus,TAXON_DOC_overlappingpdfs.137444.pdf.task_1229_0_0,parahippus,"","{1229,0,0,Parahippus}",,1,1
+1041945,overlappingpdfs.138658.pdf.task,species,TAXON_DOC_overlappingpdfs.138658.pdf.task_3007_10_11,greenops boothi,"","{3007,10,11,""G. boothi""}",,1,1
+886638,overlappingpdfs.138129.pdf.task,genus,TAXON_DOC_overlappingpdfs.138129.pdf.task_278_11_11,anosteira,"","{278,11,11,Anosteira}",,1,1
+1268571,overlappingpdfs.132282.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132282.pdf.task_343_3_3,martinia,"","{343,3,3,Martinia}",,1,1
+999355,overlappingpdfs.1368.pdf.task,genus,TAXON_DOC_overlappingpdfs.1368.pdf.task_684_29_29,lepidotes,"","{684,29,29,Lepidotes}",,1,1
+1449935,overlappingpdfs.138665.pdf.task,genus,TAXON_DOC_overlappingpdfs.138665.pdf.task_2766_24_24,cherminotus,"","{2766,24,24,Cherminotus}",,1,1
+1046695,overlappingpdfs.135704.pdf.task,class,TAXON_DOC_overlappingpdfs.135704.pdf.task_606_17_17,crinoidea,"","{606,17,17,Crinoidea}",,1,0.996
+1215026,overlappingpdfs.13257.pdf.task,genus,TAXON_DOC_overlappingpdfs.13257.pdf.task_18_9_9,trias,"","{18,9,9,Trias}",,1,1
+1257715,overlappingpdfs.137213.pdf.task,genus,TAXON_DOC_overlappingpdfs.137213.pdf.task_14078_0_0,euthydesma,"","{14078,0,0,Euthydesma}",,1,0.999
+1040996,overlappingpdfs.132348.pdf.task,genus,TAXON_DOC_overlappingpdfs.132348.pdf.task_549_0_0,porcellana,"","{549,0,0,Porcellana}",,1,1
+1124110,overlappingpdfs.133117.pdf.task,genus,TAXON_DOC_overlappingpdfs.133117.pdf.task_1010_0_0,lingula,"","{1010,0,0,Lingula}",,1,1
+1181007,overlappingpdfs.132210.pdf.task,genus,TAXON_DOC_overlappingpdfs.132210.pdf.task_626_14_14,pliosaurus,"","{626,14,14,Pliosaurus}",,1,1
+980464,overlappingpdfs.132333.pdf.task,subclass,TAXON_DOC_overlappingpdfs.132333.pdf.task_163_1_1,eogastropoda,"","{163,1,1,EOGASTROPODA}",,1,1
+1054675,overlappingpdfs.138083.pdf.task,genus,TAXON_DOC_overlappingpdfs.138083.pdf.task_3740_2_2,haplobunodon,"","{3740,2,2,Haplobunodon}",,1,1
+1368388,overlappingpdfs.132360.pdf.task,genus,TAXON_DOC_overlappingpdfs.132360.pdf.task_2072_0_0,stoliczka,"","{2072,0,0,STOLICZKA}",,1,1
+1058704,overlappingpdfs.138678.pdf.task,genus,TAXON_DOC_overlappingpdfs.138678.pdf.task_5094_0_0,bombusoides,"","{5094,0,0,Bombusoides}",,1,1
+979664,overlappingpdfs.138573.pdf.task,genus,TAXON_DOC_overlappingpdfs.138573.pdf.task_1520_25_25,parahippus,"","{1520,25,25,Parahippus}",,1,0.996
+1297564,overlappingpdfs.138462.pdf.task,genus,TAXON_DOC_overlappingpdfs.138462.pdf.task_519_15_15,lyropecten,"","{519,15,15,Lyropecten}",,1,0.996
+1387062,overlappingpdfs.132829.pdf.task,genus,TAXON_DOC_overlappingpdfs.132829.pdf.task_567_2_2,toxaster,"","{567,2,2,Toxaster}",,1,1
+1389894,overlappingpdfs.133.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.133.pdf.task_67_22_22,poekilopleuron,"","{67,22,22,Poekilopleuron}",,1,1
+1409209,overlappingpdfs.132767.pdf.task,class,TAXON_DOC_overlappingpdfs.132767.pdf.task_517_3_3,reptilia,"","{517,3,3,Reptilia}",,1,1
+927097,overlappingpdfs.138026.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138026.pdf.task_1208_3_3,sirenia,"","{1208,3,3,Sirenia}",,1,1
+873647,overlappingpdfs.133024.pdf.task,species,TAXON_DOC_overlappingpdfs.133024.pdf.task_171_25_26,sagittarius serpentarius,"","{171,25,26,""Sagittarius serpentarius""}",,1,0.996
+1316626,overlappingpdfs.138877.pdf.task,genus,TAXON_DOC_overlappingpdfs.138877.pdf.task_712_26_26,mouriri,"","{712,26,26,Mouriri}",,1,0.995
+1000898,overlappingpdfs.138859.pdf.task,genus,TAXON_DOC_overlappingpdfs.138859.pdf.task_63_3_3,perudyptes,"","{63,3,3,Perudyptes}",,1,1
+1072783,overlappingpdfs.1336.pdf.task,family,TAXON_DOC_overlappingpdfs.1336.pdf.task_86_1_1,phascolarctidae,"","{86,1,1,PHASCOLARCTIDAE}",,1,1
+1162577,overlappingpdfs.138329.pdf.task,genus,TAXON_DOC_overlappingpdfs.138329.pdf.task_1994_2_2,astrangia,"","{1994,2,2,Astrangia}",,1,1
+1221573,overlappingpdfs.130595.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.130595.pdf.task_170_16_16,pseudolimea,"","{170,16,16,Pseudolimea}",,1,1
+851422,overlappingpdfs.132894.pdf.task,genus,TAXON_DOC_overlappingpdfs.132894.pdf.task_17_3_3,cerkesia,"","{17,3,3,Cerkesia}",,1,1
+1140014,overlappingpdfs.138385.pdf.task,genus,TAXON_DOC_overlappingpdfs.138385.pdf.task_1986_27_27,aethechinus,"","{1986,27,27,Aethechinus}",,1,1
+1071738,overlappingpdfs.138083.pdf.task,genus,TAXON_DOC_overlappingpdfs.138083.pdf.task_2743_0_0,amynodon,"","{2743,0,0,Amynodon}",,1,0.996
+1383357,overlappingpdfs.132534.pdf.task,genus,TAXON_DOC_overlappingpdfs.132534.pdf.task_225_33_33,psiloceras,"","{225,33,33,Psiloceras}",,1,0.996
+1078187,overlappingpdfs.131.pdf.task,suborder,TAXON_DOC_overlappingpdfs.131.pdf.task_1269_2_2,dinosauria,"","{1269,2,2,Dinosauria}",,1,1
+1327311,overlappingpdfs.138165.pdf.task,genus,TAXON_DOC_overlappingpdfs.138165.pdf.task_528_10_10,machaeroprosopus,"","{528,10,10,Machaeroprosopus}",,1,1
+1206275,overlappingpdfs.138127.pdf.task,genus,TAXON_DOC_overlappingpdfs.138127.pdf.task_1519_0_0,alberta,"","{1519,0,0,Alberta}",,1,1
+1310164,overlappingpdfs.132140.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132140.pdf.task_83_28_28,archosauriformes,"","{83,28,28,Archosauriformes}",,1,1
+829058,overlappingpdfs.131777.pdf.task,genus,TAXON_DOC_overlappingpdfs.131777.pdf.task_368_11_11,lithophaga,"","{368,11,11,Lithophaga}",,1,1
+1043291,overlappingpdfs.138174.pdf.task,genus,TAXON_DOC_overlappingpdfs.138174.pdf.task_848_20_20,mytilus,"","{848,20,20,Mytilus}",,1,1
+983953,overlappingpdfs.132333.pdf.task,species,TAXON_DOC_overlappingpdfs.132333.pdf.task_1980_5_6,terebratula aspasia,"","{1980,5,6,""Terebratula aspasia""}",,1,1
+949282,overlappingpdfs.131382.pdf.task,genus,TAXON_DOC_overlappingpdfs.131382.pdf.task_396_6_6,euphemites,"","{396,6,6,Euphemites}",,1,1
+1042673,overlappingpdfs.132367.pdf.task,genus,TAXON_DOC_overlappingpdfs.132367.pdf.task_1288_1_1,semen,"","{1288,1,1,Semen}",,1,1
+1205289,overlappingpdfs.132301.pdf.task,genus,TAXON_DOC_overlappingpdfs.132301.pdf.task_165_0_0,rhadinichthys,"","{165,0,0,Rhadinichthys}",,1,1
+954050,overlappingpdfs.13358.pdf.task,genus,TAXON_DOC_overlappingpdfs.13358.pdf.task_491_44_44,physa,"","{491,44,44,Physa}",,1,1
+1152982,overlappingpdfs.131701.pdf.task,family,TAXON_DOC_overlappingpdfs.131701.pdf.task_171_1_1,euomphalopteridae,"","{171,1,1,Euomphalopteridae}",,1,1
+1241946,overlappingpdfs.135749.pdf.task,genus,TAXON_DOC_overlappingpdfs.135749.pdf.task_516_10_10,craspedobolbina,"","{516,10,10,Craspedobolbina}",,1,1
+997329,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_4377_8_8,hesperocyon,"","{4377,8,8,Hesperocyon}",,1,1
+862426,overlappingpdfs.136806.pdf.task,genus,TAXON_DOC_overlappingpdfs.136806.pdf.task_305_6_6,productella,"","{305,6,6,Productella}",,1,1
+960348,overlappingpdfs.1334.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.1334.pdf.task_376_2_2,crocodyloidea,"","{376,2,2,Crocodyloidea}",,1,1
+1028717,overlappingpdfs.138658.pdf.task,genus,TAXON_DOC_overlappingpdfs.138658.pdf.task_106_42_42,acastava,"","{106,42,42,Acastava}",,1,0.992
+1028478,overlappingpdfs.132348.pdf.task,genus,TAXON_DOC_overlappingpdfs.132348.pdf.task_1002_2_2,daira,"","{1002,2,2,Daira}",,1,1
+855935,overlappingpdfs.132418.pdf.task,genus,TAXON_DOC_overlappingpdfs.132418.pdf.task_248_33_33,legnonotus,"","{248,33,33,Legnonotus}",,1,1
+1159641,overlappingpdfs.138329.pdf.task,species,TAXON_DOC_overlappingpdfs.138329.pdf.task_641_5_6,polinices bifasciatus,"","{641,5,6,""Polinices bifasciatus""}",,1,1
+1406166,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1460_14_14,crassiproetus,"","{1460,14,14,Crassiproetus}",,1,0.995
+1112327,overlappingpdfs.138531.pdf.task,genus,TAXON_DOC_overlappingpdfs.138531.pdf.task_1225_15_15,peramus,"","{1225,15,15,Peramus}",,1,1
+1115718,overlappingpdfs.136807.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.136807.pdf.task_874_13_13,bryozoa,"","{874,13,13,Bryozoa}",,1,1
+1013867,overlappingpdfs.138859.pdf.task,family,TAXON_DOC_overlappingpdfs.138859.pdf.task_1106_3_3,spheniscidae,"","{1106,3,3,Spheniscidae}",,1,0.996
+986698,overlappingpdfs.132805.pdf.task,genus,TAXON_DOC_overlappingpdfs.132805.pdf.task_54_29_29,zygopa,"","{54,29,29,Zygopa}",,1,1
+1371741,overlappingpdfs.132360.pdf.task,genus,TAXON_DOC_overlappingpdfs.132360.pdf.task_2017_5_5,placenticeras,"","{2017,5,5,Placenticeras}",,1,1
+908666,overlappingpdfs.135727.pdf.task,genus,TAXON_DOC_overlappingpdfs.135727.pdf.task_745_9_9,china,"","{745,9,9,China}",,1,1
+929326,overlappingpdfs.138026.pdf.task,genus,TAXON_DOC_overlappingpdfs.138026.pdf.task_1132_19_19,dugong,"","{1132,19,19,Dugong}",,1,1
+1042317,overlappingpdfs.130724.pdf.task,species,TAXON_DOC_overlappingpdfs.130724.pdf.task_265_24_25,metopaster chilipora,"","{265,24,25,""M. chilipora""}",,1,0.999
+1099687,overlappingpdfs.133007.pdf.task,genus,TAXON_DOC_overlappingpdfs.133007.pdf.task_199_2_2,haplobunodon,"","{199,2,2,Haplobunodon}",,1,1
+1113551,overlappingpdfs.132490.pdf.task,genus,TAXON_DOC_overlappingpdfs.132490.pdf.task_967_3_3,anotoceras,"","{967,3,3,Anotoceras}",,1,1
+1056757,overlappingpdfs.138678.pdf.task,family,TAXON_DOC_overlappingpdfs.138678.pdf.task_1377_2_2,paleomelittidae,"","{1377,2,2,Paleomelittidae}",,1,1
+1424701,overlappingpdfs.132526.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132526.pdf.task_84_7_7,vishnuites,"","{84,7,7,Vishnuites}",,1,0.986
+843864,overlappingpdfs.130698.pdf.task,genus,TAXON_DOC_overlappingpdfs.130698.pdf.task_153_4_4,echmatocrinus,"","{153,4,4,Echmatocrinus}",,1,1
+1265019,overlappingpdfs.138313.pdf.task,genus,TAXON_DOC_overlappingpdfs.138313.pdf.task_1397_0_0,pentamerella,"","{1397,0,0,Pentamerella}",,1,1
+807538,overlappingpdfs.138578.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138578.pdf.task_2107_3_3,ptychopteria,"","{2107,3,3,Ptychopteria}",,1,1
+960151,overlappingpdfs.1345.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.1345.pdf.task_36_10_10,pomatodelphininae,"","{36,10,10,Pomatodelphininae}",,1,0.996
+875151,overlappingpdfs.132122.pdf.task,genus,TAXON_DOC_overlappingpdfs.132122.pdf.task_41_6_6,abelodon,"","{41,6,6,Abelodon}",,1,1
+806220,overlappingpdfs.137805.pdf.task,genus,TAXON_DOC_overlappingpdfs.137805.pdf.task_192_21_21,nothodectes,"","{192,21,21,Nothodectes}",,1,1
+854759,overlappingpdfs.138593.pdf.task,family,TAXON_DOC_overlappingpdfs.138593.pdf.task_3410_17_17,trionychidae,"","{3410,17,17,Trionychidae}",,1,1
+1322351,overlappingpdfs.133102.pdf.task,species,TAXON_DOC_overlappingpdfs.133102.pdf.task_429_12_13,albanerpeton arthridion,"","{429,12,13,""A. arthridion""}",,1,1
+1321439,overlappingpdfs.130860.pdf.task,species,TAXON_DOC_overlappingpdfs.130860.pdf.task_147_15_16,rhizotrochus tuberculatus,"","{147,15,16,""Rhizotrochus tuberculatus""}",,1,1
+1225683,overlappingpdfs.132812.pdf.task,genus,TAXON_DOC_overlappingpdfs.132812.pdf.task_539_4_4,eypea,"","{539,4,4,Eypea}",,1,1
+1301216,overlappingpdfs.132370.pdf.task,family,TAXON_DOC_overlappingpdfs.132370.pdf.task_1228_24_24,nesticidae,"","{1228,24,24,Nesticidae}",,1,0.996
+1171609,overlappingpdfs.133020.pdf.task,genus,TAXON_DOC_overlappingpdfs.133020.pdf.task_431_80_80,china,"","{431,80,80,China}",,1,0.996
+1305186,overlappingpdfs.131905.pdf.task,class,TAXON_DOC_overlappingpdfs.131905.pdf.task_456_14_14,crinoidea,"","{456,14,14,Crinoidea}",,1,1
+1055510,overlappingpdfs.132100.pdf.task,genus,TAXON_DOC_overlappingpdfs.132100.pdf.task_63_58_58,pardailhania,"","{63,58,58,Pardailhania}",,1,0.996
+1196672,overlappingpdfs.133075.pdf.task,genus,TAXON_DOC_overlappingpdfs.133075.pdf.task_1352_12_12,sigmakainella,"","{1352,12,12,Sigmakainella}",,1,1
+1322101,overlappingpdfs.135557.pdf.task,family,TAXON_DOC_overlappingpdfs.135557.pdf.task_279_12_12,waagenophyllidae,"","{279,12,12,Waagenophyllidae}",,1,1
+891897,overlappingpdfs.138709.pdf.task,family,TAXON_DOC_overlappingpdfs.138709.pdf.task_3849_2_2,microsyopidae,"","{3849,2,2,Microsyopidae}",,1,1
+1276034,overlappingpdfs.132435.pdf.task,genus,TAXON_DOC_overlappingpdfs.132435.pdf.task_987_0_0,tethys,"","{987,0,0,Tethys}",,1,1
+1363159,overlappingpdfs.132226.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132226.pdf.task_966_8_8,chasmocarcininae,"","{966,8,8,Chasmocarcininae}",,1,1
+936377,overlappingpdfs.138761.pdf.task,family,TAXON_DOC_overlappingpdfs.138761.pdf.task_4385_27_27,tinamidae,"","{4385,27,27,Tinamidae}",,1,0.996
+1223552,overlappingpdfs.132935.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132935.pdf.task_531_19_19,anisoptera,"","{531,19,19,Anisoptera}",,1,1
+1313932,overlappingpdfs.138601.pdf.task,family,TAXON_DOC_overlappingpdfs.138601.pdf.task_2690_3_3,drosophilidae,"","{2690,3,3,DROSOPHILIDAE}",,1,0.996
+1363277,overlappingpdfs.1353.pdf.task,genus,TAXON_DOC_overlappingpdfs.1353.pdf.task_1027_14_14,iberosuchus,"","{1027,14,14,Iberosuchus}",,1,1
+1226386,overlappingpdfs.132862.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132862.pdf.task_289_7_7,allorisma,"","{289,7,7,Allorisma}",,1,0.987
+1329353,overlappingpdfs.131508.pdf.task,species,TAXON_DOC_overlappingpdfs.131508.pdf.task_409_38_39,levitusia sublaevis,"","{409,38,39,""L. sublaevis""}",,1,1
+1025286,overlappingpdfs.132216.pdf.task,family,TAXON_DOC_overlappingpdfs.132216.pdf.task_661_8_8,psittacosauridae,"","{661,8,8,PSITTACOSAURIDAE}",,1,0.914
+1099918,overlappingpdfs.137289.pdf.task,informal,TAXON_DOC_overlappingpdfs.137289.pdf.task_1464_0_0,algae,"","{1464,0,0,Algae}",,1,1
+1040250,overlappingpdfs.137776.pdf.task,species,TAXON_DOC_overlappingpdfs.137776.pdf.task_177_0_1,this manus,"","{177,0,1,""This manus""}",,1,0.995
+1360361,overlappingpdfs.132745.pdf.task,genus,TAXON_DOC_overlappingpdfs.132745.pdf.task_851_0_0,columbia,"","{851,0,0,Columbia}",,1,1
+1097351,overlappingpdfs.138613.pdf.task,family,TAXON_DOC_overlappingpdfs.138613.pdf.task_1135_6_6,heptageniidae,"","{1135,6,6,Heptageniidae}",,1,0.996
+1339974,overlappingpdfs.132951.pdf.task,genus,TAXON_DOC_overlappingpdfs.132951.pdf.task_848_0_0,spathobatis,"","{848,0,0,Spathobatis}",,1,1
+1412079,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1006_2_2,bohemiproetus,"","{1006,2,2,Bohemiproetus}",,1,1
+858649,overlappingpdfs.138318.pdf.task,genus,TAXON_DOC_overlappingpdfs.138318.pdf.task_4048_0_0,eirlysia,"","{4048,0,0,Eirlysia}",,1,1
+1122545,overlappingpdfs.138170.pdf.task,genus,TAXON_DOC_overlappingpdfs.138170.pdf.task_228_34_34,eudyptes,"","{228,34,34,Eudyptes}",,1,1
+1392325,overlappingpdfs.138540.pdf.task,species,TAXON_DOC_overlappingpdfs.138540.pdf.task_1435_20_21,moropus elatus,"","{1435,20,21,""M. elatus""}",,1,1
+1179123,overlappingpdfs.138407.pdf.task,genus,TAXON_DOC_overlappingpdfs.138407.pdf.task_1457_12_12,mixodectes,"","{1457,12,12,Mixodectes}",,1,1
+1091128,overlappingpdfs.138613.pdf.task,family,TAXON_DOC_overlappingpdfs.138613.pdf.task_4641_1_1,praeichneumonidae,"","{4641,1,1,Praeichneumonidae}",,1,0.996
+1424700,overlappingpdfs.132526.pdf.task,genus,TAXON_DOC_overlappingpdfs.132526.pdf.task_84_3_3,wordieoceras,"","{84,3,3,Wordieoceras}",,1,0.987
+1356743,overlappingpdfs.133122.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.133122.pdf.task_762_10_10,plesiosauria,"","{762,10,10,Plesiosauria}",,1,1
+932299,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_2693_14_14,ichthyornis,"","{2693,14,14,Ichthyornis}",,1,1
+1075919,overlappingpdfs.138388.pdf.task,family,TAXON_DOC_overlappingpdfs.138388.pdf.task_2014_9_9,triacanthidae,"","{2014,9,9,Triacanthidae}",,1,0.956
+886135,overlappingpdfs.138129.pdf.task,genus,TAXON_DOC_overlappingpdfs.138129.pdf.task_872_35_35,glyptosaurus,"","{872,35,35,Glyptosaurus}",,1,1
+1326460,overlappingpdfs.132893.pdf.task,genus,TAXON_DOC_overlappingpdfs.132893.pdf.task_290_0_0,tasbacka,"","{290,0,0,Tasbacka}",,1,0.999
+814079,overlappingpdfs.138450.pdf.task,genus,TAXON_DOC_overlappingpdfs.138450.pdf.task_60_22_22,baena,"","{60,22,22,Baena}",,1,1
+1092101,overlappingpdfs.133007.pdf.task,family,TAXON_DOC_overlappingpdfs.133007.pdf.task_539_10_10,mixotheriidae,"","{539,10,10,Mixotheriidae}",,1,1
+1424202,overlappingpdfs.133442.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.133442.pdf.task_297_7_7,inoperna,"","{297,7,7,Inoperna}",,1,1
+1266945,overlappingpdfs.132302.pdf.task,genus,TAXON_DOC_overlappingpdfs.132302.pdf.task_219_32_32,bothriospondylus,"","{219,32,32,Bothriospondylus}",,1,1
+985155,overlappingpdfs.133060.pdf.task,genus,TAXON_DOC_overlappingpdfs.133060.pdf.task_15_0_0,mesaktoceras,"","{15,0,0,Mesaktoceras}",,1,1
+1174636,overlappingpdfs.138393.pdf.task,genus,TAXON_DOC_overlappingpdfs.138393.pdf.task_1901_6_6,rutiodon,"","{1901,6,6,Rutiodon}",,1,1
+938766,overlappingpdfs.139.pdf.task,family,TAXON_DOC_overlappingpdfs.139.pdf.task_557_26_26,scincidae,"","{557,26,26,Scincidae}",,1,0.996
+1152051,overlappingpdfs.132483.pdf.task,genus,TAXON_DOC_overlappingpdfs.132483.pdf.task_377_3_3,antarctica,"","{377,3,3,Antarctica}",,1,1
+881033,overlappingpdfs.132698.pdf.task,genus,TAXON_DOC_overlappingpdfs.132698.pdf.task_334_7_7,caviramus,"","{334,7,7,Caviramus}",,1,1
+966110,overlappingpdfs.132397.pdf.task,order,TAXON_DOC_overlappingpdfs.132397.pdf.task_985_10_10,crocodyliformes,"","{985,10,10,Crocodyliformes}",,1,1
+1157318,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_1110_0_0,monodon,"","{1110,0,0,Monodon}",,1,1
+1035631,overlappingpdfs.137534.pdf.task,genus,TAXON_DOC_overlappingpdfs.137534.pdf.task_196_0_0,lithocosmus,"","{196,0,0,Lithocosmus}",,1,1
+1272421,overlappingpdfs.132707.pdf.task,species,TAXON_DOC_overlappingpdfs.132707.pdf.task_266_1_2,clivosilingula elata,"","{266,1,2,""Clivosilingula elata""}",,1,1
+1180361,overlappingpdfs.138519.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138519.pdf.task_6246_5_5,mammalia,"","{6246,5,5,Mammalia}",,1,1
+1122583,overlappingpdfs.138170.pdf.task,genus,TAXON_DOC_overlappingpdfs.138170.pdf.task_1955_13_13,eudyptes,"","{1955,13,13,Eudyptes}",,1,0.996
+1048724,overlappingpdfs.138174.pdf.task,genus,TAXON_DOC_overlappingpdfs.138174.pdf.task_1153_0_0,ostrea,"","{1153,0,0,Ostrea}",,1,1
+816697,overlappingpdfs.130847.pdf.task,genus,TAXON_DOC_overlappingpdfs.130847.pdf.task_488_1_1,mucrospirifer,"","{488,1,1,Mucrospirifer}",,1,1
+1145039,overlappingpdfs.132134.pdf.task,genus,TAXON_DOC_overlappingpdfs.132134.pdf.task_741_11_11,china,"","{741,11,11,China}",,1,1
+869942,overlappingpdfs.138465.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138465.pdf.task_2821_0_0,kaibabella,"","{2821,0,0,Kaibabella}",,1,1
+1284750,overlappingpdfs.132757.pdf.task,genus,TAXON_DOC_overlappingpdfs.132757.pdf.task_508_7_7,tulsa,"","{508,7,7,Tulsa}",,1,0.999
+903799,overlappingpdfs.138709.pdf.task,genus,TAXON_DOC_overlappingpdfs.138709.pdf.task_2624_5_5,apternodus,"","{2624,5,5,Apternodus}",,1,1
+996205,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_431_4_4,temnocyon,"","{431,4,4,Temnocyon}",,1,1
+1131945,overlappingpdfs.132751.pdf.task,genus,TAXON_DOC_overlappingpdfs.132751.pdf.task_485_2_2,neseuretus,"","{485,2,2,Neseuretus}",,1,1
+871586,overlappingpdfs.132197.pdf.task,genus,TAXON_DOC_overlappingpdfs.132197.pdf.task_400_14_14,valdosaurus,"","{400,14,14,Valdosaurus}",,1,1
+1169078,overlappingpdfs.132608.pdf.task,genus,TAXON_DOC_overlappingpdfs.132608.pdf.task_18_29_29,gavialis,"","{18,29,29,Gavialis}",,1,0.999
+927008,overlappingpdfs.138761.pdf.task,species,TAXON_DOC_overlappingpdfs.138761.pdf.task_2577_18_19,crypturellus noctivagus,"","{2577,18,19,""Crypturellus noctivagus""}",,1,0.996
+1450115,overlappingpdfs.136991.pdf.task,genus,TAXON_DOC_overlappingpdfs.136991.pdf.task_49_28_28,dalmanella,"","{49,28,28,Dalmanella}",,1,1
+817774,overlappingpdfs.138450.pdf.task,genus,TAXON_DOC_overlappingpdfs.138450.pdf.task_555_12_12,eubaena,"","{555,12,12,Eubaena}",,1,1
+1203997,overlappingpdfs.133075.pdf.task,species,TAXON_DOC_overlappingpdfs.133075.pdf.task_577_6_7,charchaqia norini,"","{577,6,7,""C. norini""}",,1,1
+1377711,overlappingpdfs.132534.pdf.task,genus,TAXON_DOC_overlappingpdfs.132534.pdf.task_214_8_8,kammerkarites,"","{214,8,8,Kammerkarites}",,1,1
+1446454,overlappingpdfs.133080.pdf.task,genus,TAXON_DOC_overlappingpdfs.133080.pdf.task_319_5_5,arizona,"","{319,5,5,Arizona}",,1,0.996
+1322851,overlappingpdfs.133102.pdf.task,superorder,TAXON_DOC_overlappingpdfs.133102.pdf.task_581_2_2,caudata,"","{581,2,2,Caudata}",,1,0.996
+1093446,overlappingpdfs.138613.pdf.task,order,TAXON_DOC_overlappingpdfs.138613.pdf.task_267_4_4,protelytroptera,"","{267,4,4,Protelytroptera}",,1,0.996
+1216364,overlappingpdfs.137210.pdf.task,class,TAXON_DOC_overlappingpdfs.137210.pdf.task_4819_1_1,brachiopoda,"","{4819,1,1,BRACHIOPODA}",,1,1
+998264,overlappingpdfs.131694.pdf.task,species,TAXON_DOC_overlappingpdfs.131694.pdf.task_324_5_6,eucalyptocrinites caelatus,"","{324,5,6,""Eucalyptocrinites caelatus""}",,1,1
+861530,overlappingpdfs.132895.pdf.task,genus,TAXON_DOC_overlappingpdfs.132895.pdf.task_266_8_8,eocoelia,"","{266,8,8,Eocoelia}",,1,1
+932947,overlappingpdfs.132987.pdf.task,informal,TAXON_DOC_overlappingpdfs.132987.pdf.task_306_5_5,algae,"","{306,5,5,ALGAE}",,1,1
+1271982,overlappingpdfs.132435.pdf.task,class,TAXON_DOC_overlappingpdfs.132435.pdf.task_1295_5_5,reptilia,"","{1295,5,5,Reptilia}",,1,0.996
+1259129,overlappingpdfs.137213.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.137213.pdf.task_13237_3_3,protocardia,"","{13237,3,3,Protocardia}",,1,1
+1412667,overlappingpdfs.132741.pdf.task,genus,TAXON_DOC_overlappingpdfs.132741.pdf.task_448_2_2,botellusoceras,"","{448,2,2,Botellusoceras}",,1,1
+1113106,overlappingpdfs.139932.pdf.task,genus,TAXON_DOC_overlappingpdfs.139932.pdf.task_879_2_2,malluvium,"","{879,2,2,Malluvium}",,1,1
+833533,overlappingpdfs.1373.pdf.task,species,TAXON_DOC_overlappingpdfs.1373.pdf.task_561_28_29,leptosuchus studeri,"","{561,28,29,""L. studeri""}",,1,1
+1291162,overlappingpdfs.137935.pdf.task,genus,TAXON_DOC_overlappingpdfs.137935.pdf.task_2208_21_21,coleonyx,"","{2208,21,21,Coleonyx}",,1,1
+1316461,overlappingpdfs.132185.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132185.pdf.task_377_0_0,prosauropoda,"","{377,0,0,Prosauropoda}",,1,1
+915168,overlappingpdfs.133071.pdf.task,genus,TAXON_DOC_overlappingpdfs.133071.pdf.task_811_17_17,prodeinotherium,"","{811,17,17,Prodeinotherium}",,1,1
+1300535,overlappingpdfs.132756.pdf.task,species,TAXON_DOC_overlappingpdfs.132756.pdf.task_540_25_26,squalodon antwerpiensis,"","{540,25,26,""Squalodon antwerpiensis""}",,1,1
+862153,overlappingpdfs.133092.pdf.task,genus,TAXON_DOC_overlappingpdfs.133092.pdf.task_614_8_8,aulacopleura,"","{614,8,8,Aulacopleura}",,1,1
+1355199,overlappingpdfs.1353.pdf.task,species,TAXON_DOC_overlappingpdfs.1353.pdf.task_1324_3_4,simosuchus clarki,"","{1324,3,4,""Simosuchus clarki""}",,1,1
+1388881,overlappingpdfs.137880.pdf.task,order,TAXON_DOC_overlappingpdfs.137880.pdf.task_640_13_13,crocodilia,"","{640,13,13,Crocodilia}",,1,1
+962577,overlappingpdfs.1334.pdf.task,suborder,TAXON_DOC_overlappingpdfs.1334.pdf.task_559_5_5,crocodylia,"","{559,5,5,Crocodylia}",,1,0.996
+1175764,overlappingpdfs.139044.pdf.task,genus,TAXON_DOC_overlappingpdfs.139044.pdf.task_363_37_37,thescelosaurus,"","{363,37,37,Thescelosaurus}",,1,1
+1154701,overlappingpdfs.132623.pdf.task,genus,TAXON_DOC_overlappingpdfs.132623.pdf.task_469_15_15,vieira,"","{469,15,15,VIEIRA}",,1,1
+962756,overlappingpdfs.132397.pdf.task,genus,TAXON_DOC_overlappingpdfs.132397.pdf.task_443_0_0,australosuchus,"","{443,0,0,Australosuchus}",,1,1
+1077528,overlappingpdfs.132100.pdf.task,phylum,TAXON_DOC_overlappingpdfs.132100.pdf.task_539_5_5,echinodermata,"","{539,5,5,Echinodermata}",,1,1
+880271,overlappingpdfs.133068.pdf.task,genus,TAXON_DOC_overlappingpdfs.133068.pdf.task_290_2_2,mysmenopsis,"","{290,2,2,Mysmenopsis}",,1,1
+816069,overlappingpdfs.131549.pdf.task,species,TAXON_DOC_overlappingpdfs.131549.pdf.task_575_3_4,solenopora spongioides,"","{575,3,4,""Solenopora spongioides""}",,1,1
+1381147,overlappingpdfs.135104.pdf.task,genus,TAXON_DOC_overlappingpdfs.135104.pdf.task_651_8_8,leptoplastides,"","{651,8,8,Leptoplastides}",,1,1
+1129291,overlappingpdfs.132508.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132508.pdf.task_273_0_0,amphissites,"","{273,0,0,Amphissites}",,1,1
+902748,overlappingpdfs.138745.pdf.task,species,TAXON_DOC_overlappingpdfs.138745.pdf.task_3215_25_26,alostera saskatchewanensis,"","{3215,25,26,""Alostera saskatchewanensis""}",,1,0.953
+1342887,overlappingpdfs.132524.pdf.task,genus,TAXON_DOC_overlappingpdfs.132524.pdf.task_9_3_3,hydrorion,"","{9,3,3,Hydrorion}",,1,1
+1271418,overlappingpdfs.138424.pdf.task,order,TAXON_DOC_overlappingpdfs.138424.pdf.task_1506_3_3,dinocerata,"","{1506,3,3,Dinocerata}",,1,0.996
+1045329,overlappingpdfs.136947.pdf.task,order,TAXON_DOC_overlappingpdfs.136947.pdf.task_626_46_46,mitrosagophora,"","{626,46,46,Mitrosagophora}",,1,1
+1048559,overlappingpdfs.133027.pdf.task,genus,TAXON_DOC_overlappingpdfs.133027.pdf.task_224_2_2,taxocrinus,"","{224,2,2,Taxocrinus}",,1,0.967
+1401466,overlappingpdfs.132767.pdf.task,genus,TAXON_DOC_overlappingpdfs.132767.pdf.task_327_29_29,mandasuchus,"","{327,29,29,Mandasuchus}",,1,1
+1314992,overlappingpdfs.138601.pdf.task,family,TAXON_DOC_overlappingpdfs.138601.pdf.task_301_0_0,drosophilidae,"","{301,0,0,DROSOPHILIDAE}",,1,0.996
+1414542,overlappingpdfs.132684.pdf.task,genus,TAXON_DOC_overlappingpdfs.132684.pdf.task_135_0_0,qingyaniola,"","{135,0,0,Qingyaniola}",,1,1
+1249422,overlappingpdfs.130492.pdf.task,species,TAXON_DOC_overlappingpdfs.130492.pdf.task_274_4_5,champsosaurus laramiensis,"","{274,4,5,""C. laramiensis""}",,1,1
+1287102,overlappingpdfs.137935.pdf.task,genus,TAXON_DOC_overlappingpdfs.137935.pdf.task_944_35_35,adriosaurus,"","{944,35,35,Adriosaurus}",,1,1
+878263,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_3656_42_42,didymoconus,"","{3656,42,42,Didymoconus}",,1,0.994
+1233990,overlappingpdfs.1377.pdf.task,genus,TAXON_DOC_overlappingpdfs.1377.pdf.task_176_7_7,xiangornis,"","{176,7,7,Xiangornis}",,1,1
+927537,overlappingpdfs.132091.pdf.task,genus,TAXON_DOC_overlappingpdfs.132091.pdf.task_1042_31_31,nostolepis,"","{1042,31,31,Nostolepis}",,1,0.996
+1445128,overlappingpdfs.138272.pdf.task,family,TAXON_DOC_overlappingpdfs.138272.pdf.task_1288_2_2,schuchertellidae,"","{1288,2,2,Schuchertellidae}",,1,1
+1258905,overlappingpdfs.132096.pdf.task,genus,TAXON_DOC_overlappingpdfs.132096.pdf.task_1467_0_1,amelacanthus,"","{1467,0,1,Amelacanthus}",,1,0.999
+1357784,overlappingpdfs.136473.pdf.task,genus,TAXON_DOC_overlappingpdfs.136473.pdf.task_174_0_0,jurassicorbula,"","{174,0,0,Jurassicorbula}",,1,1
+872877,overlappingpdfs.132917.pdf.task,infraorder,TAXON_DOC_overlappingpdfs.132917.pdf.task_47_4_4,dicynodontia,"","{47,4,4,DICYNODONTIA}",,1,0.996
+796521,overlappingpdfs.132958.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132958.pdf.task_702_29_29,neosauropoda,"","{702,29,29,Neosauropoda}",,1,1
+824632,overlappingpdfs.137396.pdf.task,species,TAXON_DOC_overlappingpdfs.137396.pdf.task_225_0_1,cynocercus incisus,"","{225,0,1,""Cynocercus incisus""}",,1,1
+922138,overlappingpdfs.132091.pdf.task,species,TAXON_DOC_overlappingpdfs.132091.pdf.task_864_4_5,plegmolepis groenlandica,"","{864,4,5,""Plegmolepis groenlandica""}",,1,1
+1372161,overlappingpdfs.132661.pdf.task,genus,TAXON_DOC_overlappingpdfs.132661.pdf.task_340_16_16,marginatia,"","{340,16,16,Marginatia}",,1,1
+827516,overlappingpdfs.132874.pdf.task,genus,TAXON_DOC_overlappingpdfs.132874.pdf.task_819_6_6,navahopus,"","{819,6,6,Navahopus}",,1,1
+927920,overlappingpdfs.132987.pdf.task,genus,TAXON_DOC_overlappingpdfs.132987.pdf.task_880_0_0,dasyporella,"","{880,0,0,Dasyporella}",,1,0.996
+826260,overlappingpdfs.131563.pdf.task,genus,TAXON_DOC_overlappingpdfs.131563.pdf.task_123_28_28,pliomerina,"","{123,28,28,Pliomerina}",,1,1
+1014733,overlappingpdfs.138644.pdf.task,genus,TAXON_DOC_overlappingpdfs.138644.pdf.task_2962_24_24,bolbomyia,"","{2962,24,24,Bolbomyia}",,1,0.996
+1051711,overlappingpdfs.138174.pdf.task,family,TAXON_DOC_overlappingpdfs.138174.pdf.task_4614_6_6,corbulidae,"","{4614,6,6,Corbulidae}",,1,1
+1137661,overlappingpdfs.138385.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138385.pdf.task_2758_13_13,thylacaelurinae,"","{2758,13,13,Thylacaelurinae}",,1,1
+1447963,overlappingpdfs.132591.pdf.task,genus,TAXON_DOC_overlappingpdfs.132591.pdf.task_647_0_0,arizonasaurus,"","{647,0,0,Arizonasaurus}",,1,1
+842755,overlappingpdfs.132883.pdf.task,genus,TAXON_DOC_overlappingpdfs.132883.pdf.task_1580_7_7,china,"","{1580,7,7,China}",,1,1
+1314238,overlappingpdfs.131192.pdf.task,genus,TAXON_DOC_overlappingpdfs.131192.pdf.task_123_50_50,turritella,"","{123,50,50,Turritella}",,1,0.996
+1310950,overlappingpdfs.138601.pdf.task,species,TAXON_DOC_overlappingpdfs.138601.pdf.task_2056_0_1,drosophila xiphophora,"","{2056,0,1,""Drosophila xiphophora""}",,1,1
+950339,overlappingpdfs.130635.pdf.task,species,TAXON_DOC_overlappingpdfs.130635.pdf.task_205_16_17,ipciphyllum laosense,"","{205,16,17,""I. laosense""}",,1,1
+864383,overlappingpdfs.138318.pdf.task,species,TAXON_DOC_overlappingpdfs.138318.pdf.task_2593_0_1,euconospira varizona,"","{2593,0,1,""Euconospira varizona""}",,1,1
+1041471,overlappingpdfs.133097.pdf.task,species,TAXON_DOC_overlappingpdfs.133097.pdf.task_822_0_1,toliapina lawsoni,"","{822,0,1,""T. lawsoni""}",,1,1
+953103,overlappingpdfs.138671.pdf.task,genus,TAXON_DOC_overlappingpdfs.138671.pdf.task_1820_0_0,megommation,"","{1820,0,0,Megommation}",,1,0.999
+1008434,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_935_0_0,canis,"","{935,0,0,Canis}",,1,1
+1103921,overlappingpdfs.1367.pdf.task,genus,TAXON_DOC_overlappingpdfs.1367.pdf.task_481_1_1,latimeria,"","{481,1,1,Latimeria}",,1,1
+958972,overlappingpdfs.132397.pdf.task,species,TAXON_DOC_overlappingpdfs.132397.pdf.task_1043_0_1,dibothrosuchus elaphros,"","{1043,0,1,""Dibothrosuchus elaphros""}",,1,0.996
+1122517,overlappingpdfs.131227.pdf.task,genus,TAXON_DOC_overlappingpdfs.131227.pdf.task_517_36_36,trigonirhynchia,"","{517,36,36,Trigonirhynchia}",,1,0.996
+1112960,overlappingpdfs.138531.pdf.task,genus,TAXON_DOC_overlappingpdfs.138531.pdf.task_1539_5_5,theria,"","{1539,5,5,Theria}",,1,0.999
+1372043,overlappingpdfs.132360.pdf.task,genus,TAXON_DOC_overlappingpdfs.132360.pdf.task_230_16_16,heteropis,"","{230,16,16,Heteropis}",,1,0.996
+1153233,overlappingpdfs.133044.pdf.task,genus,TAXON_DOC_overlappingpdfs.133044.pdf.task_520_36_36,pesaiella,"","{520,36,36,Pesaiella}",,1,1
+1269457,overlappingpdfs.132570.pdf.task,genus,TAXON_DOC_overlappingpdfs.132570.pdf.task_970_0_0,janenschia,"","{970,0,0,Janenschia}",,1,0.996
+1225634,overlappingpdfs.130595.pdf.task,species,TAXON_DOC_overlappingpdfs.130595.pdf.task_1069_0_1,telothyris jauberti,"","{1069,0,1,""Telothyris jauberti""}",,1,0.999
+1053371,overlappingpdfs.133052.pdf.task,genus,TAXON_DOC_overlappingpdfs.133052.pdf.task_479_47_47,halkyardia,"","{479,47,47,Halkyardia}",,1,1
+933348,overlappingpdfs.138761.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138761.pdf.task_4387_1_1,neognathae,"","{4387,1,1,Neognathae}",,1,1
+1008785,overlappingpdfs.138859.pdf.task,genus,TAXON_DOC_overlappingpdfs.138859.pdf.task_760_15_15,palaeeudyptes,"","{760,15,15,Palaeeudyptes}",,1,0.994
+928605,overlappingpdfs.138026.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138026.pdf.task_1708_5_5,sirenia,"","{1708,5,5,Sirenia}",,1,1
+1265615,overlappingpdfs.132283.pdf.task,phylum,TAXON_DOC_overlappingpdfs.132283.pdf.task_1637_12_12,mollusca,"","{1637,12,12,Mollusca}",,1,1
+902079,overlappingpdfs.133094.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.133094.pdf.task_155_28_28,tremanotus,"","{155,28,28,Tremanotus}",,1,1
+1166441,overlappingpdfs.139551.pdf.task,species,TAXON_DOC_overlappingpdfs.139551.pdf.task_34_0_1,chasmosaurus kaiseni,"","{34,0,1,""Chasmosaurus kaiseni""}",,1,1
+966984,overlappingpdfs.138438.pdf.task,genus,TAXON_DOC_overlappingpdfs.138438.pdf.task_57_11_11,dyseohyus,"","{57,11,11,Dyseohyus}",,1,1
+820780,overlappingpdfs.131592.pdf.task,species,TAXON_DOC_overlappingpdfs.131592.pdf.task_105_6_7,gobibaatar parvus,"","{105,6,7,""G. parvus""}",,1,1
+995781,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_2283_16_16,cynodesmus,"","{2283,16,16,Cynodesmus}",,1,1
+1148287,overlappingpdfs.131095.pdf.task,species,TAXON_DOC_overlappingpdfs.131095.pdf.task_334_11_12,solaster endeca,"","{334,11,12,""Solaster endeca""}",,1,0.999
+1321314,overlappingpdfs.138877.pdf.task,genus,TAXON_DOC_overlappingpdfs.138877.pdf.task_2302_8_8,lagothrix,"","{2302,8,8,Lagothrix}",,1,1
+1314531,overlappingpdfs.138601.pdf.task,order,TAXON_DOC_overlappingpdfs.138601.pdf.task_4659_8_8,diptera,"","{4659,8,8,Diptera}",,1,1
+1080921,overlappingpdfs.138222.pdf.task,genus,TAXON_DOC_overlappingpdfs.138222.pdf.task_919_0_0,cimomia,"","{919,0,0,Cimomia}",,1,1
+930606,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_619_2_2,ichthyornis,"","{619,2,2,Ichthyornis}",,1,1
+1074291,overlappingpdfs.138678.pdf.task,genus,TAXON_DOC_overlappingpdfs.138678.pdf.task_2502_0_0,ctenoplectrella,"","{2502,0,0,Ctenoplectrella}",,1,1
+1332419,overlappingpdfs.138632.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138632.pdf.task_6829_7_7,tubulidentata,"","{6829,7,7,TUBULIDENTATA}",,1,0.993
+877327,overlappingpdfs.138465.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138465.pdf.task_1617_0_0,schizodus,"","{1617,0,0,Schizodus}",,1,1
+1428025,overlappingpdfs.132224.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132224.pdf.task_93_17_17,squalodon,"","{93,17,17,Squalodon}",,1,1
+952564,overlappingpdfs.136444.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136444.pdf.task_57_12_12,pelagiella,"","{57,12,12,Pelagiella}",,1,0.996
+1042276,overlappingpdfs.138755.pdf.task,species,TAXON_DOC_overlappingpdfs.138755.pdf.task_2540_3_4,discoscaphites gulosus,"","{2540,3,4,""D. gulosus""}",,1,1
+1033031,overlappingpdfs.133475.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.133475.pdf.task_744_3_3,pterosauria,"","{744,3,3,Pterosauria}",,1,1
+1368868,overlappingpdfs.132315.pdf.task,genus,TAXON_DOC_overlappingpdfs.132315.pdf.task_61_4_4,conchoraptor,"","{61,4,4,Conchoraptor}",,1,0.996
+1377617,overlappingpdfs.132534.pdf.task,genus,TAXON_DOC_overlappingpdfs.132534.pdf.task_1029_8_9,euphyllites,"","{1029,8,9,Euphyllites}",,1,1
+1397606,overlappingpdfs.138540.pdf.task,species,TAXON_DOC_overlappingpdfs.138540.pdf.task_482_18_19,moropus elatus,"","{482,18,19,""M. elatus""}",,1,1
+1072152,overlappingpdfs.131.pdf.task,infraclass,TAXON_DOC_overlappingpdfs.131.pdf.task_981_4_4,theropoda,"","{981,4,4,Theropoda}",,1,0.996
+1448226,overlappingpdfs.132555.pdf.task,family,TAXON_DOC_overlappingpdfs.132555.pdf.task_15_24_24,buchiolidae,"","{15,24,24,Buchiolidae}",,1,0.996
+1126044,overlappingpdfs.132785.pdf.task,infraorder,TAXON_DOC_overlappingpdfs.132785.pdf.task_10_2_2,ancylopoda,"","{10,2,2,Ancylopoda}",,1,1
+1382585,overlappingpdfs.138239.pdf.task,species,TAXON_DOC_overlappingpdfs.138239.pdf.task_2998_0_1,propachyrucos simpsoni,"","{2998,0,1,""Propachyrucos simpsoni""}",,1,1
+1263525,overlappingpdfs.137213.pdf.task,genus,TAXON_DOC_overlappingpdfs.137213.pdf.task_14222_0_0,inocaulis,"","{14222,0,0,Inocaulis}",,1,1
+837075,overlappingpdfs.135412.pdf.task,genus,TAXON_DOC_overlappingpdfs.135412.pdf.task_28_0_0,mexico,"","{28,0,0,Mexico}",,1,1
+1221220,overlappingpdfs.133121.pdf.task,family,TAXON_DOC_overlappingpdfs.133121.pdf.task_48_23_23,ptychoceratidae,"","{48,23,23,Ptychoceratidae}",,1,0.996
+1028423,overlappingpdfs.138658.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138658.pdf.task_4739_17_17,koneprusiinae,"","{4739,17,17,Koneprusiinae}",,1,0.995
+858780,overlappingpdfs.132529.pdf.task,genus,TAXON_DOC_overlappingpdfs.132529.pdf.task_58_32_32,uruguay,"","{58,32,32,Uruguay}",,1,0.996
+1374678,overlappingpdfs.138605.pdf.task,genus,TAXON_DOC_overlappingpdfs.138605.pdf.task_1595_16_16,captorhinus,"","{1595,16,16,Captorhinus}",,1,1
+892129,overlappingpdfs.132736.pdf.task,genus,TAXON_DOC_overlappingpdfs.132736.pdf.task_959_5_5,schmidtiellus,"","{959,5,5,Schmidtiellus}",,1,1
+1111618,overlappingpdfs.136807.pdf.task,genus,TAXON_DOC_overlappingpdfs.136807.pdf.task_792_2_2,pholadella,"","{792,2,2,Pholadella}",,1,0.997
+1304175,overlappingpdfs.137935.pdf.task,species,TAXON_DOC_overlappingpdfs.137935.pdf.task_2334_24_25,lacerta simonyi,"","{2334,24,25,""L. simonyi""}",,1,0.996
+1226788,overlappingpdfs.132862.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132862.pdf.task_1129_3_3,pleurotomaria,"","{1129,3,3,Pleurotomaria}",,1,1
+1210732,overlappingpdfs.130952.pdf.task,genus,TAXON_DOC_overlappingpdfs.130952.pdf.task_247_5_5,canistrocrinus,"","{247,5,5,Canistrocrinus}",,1,1
+1093546,overlappingpdfs.138613.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.138613.pdf.task_6903_0_0,platypezoidea,"","{6903,0,0,Platypezoidea}",,1,0.996
+1204727,overlappingpdfs.138127.pdf.task,species,TAXON_DOC_overlappingpdfs.138127.pdf.task_582_18_19,stegoceras validus,"","{582,18,19,""Stegoceras validus""}",,1,1
+1013575,overlappingpdfs.132321.pdf.task,species,TAXON_DOC_overlappingpdfs.132321.pdf.task_628_8_9,messapicetus gregarius,"","{628,8,9,""Messapicetus gregarius""}",,1,1
+980857,overlappingpdfs.133046.pdf.task,species,TAXON_DOC_overlappingpdfs.133046.pdf.task_500_0_1,benthosuchus sushkini,"","{500,0,1,""Benthosuchus sushkini""}",,1,1
+862750,overlappingpdfs.132406.pdf.task,genus,TAXON_DOC_overlappingpdfs.132406.pdf.task_722_8_8,eomysticetus,"","{722,8,8,Eomysticetus}",,1,1
+1198382,overlappingpdfs.137413.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.137413.pdf.task_10_20_20,iguanodontia,"","{10,20,20,Iguanodontia}",,1,1
+1218121,overlappingpdfs.132812.pdf.task,genus,TAXON_DOC_overlappingpdfs.132812.pdf.task_1095_0_0,orectoloboides,"","{1095,0,0,Orectoloboides}",,1,1
+889600,overlappingpdfs.132736.pdf.task,genus,TAXON_DOC_overlappingpdfs.132736.pdf.task_1032_12_12,comasphaeridium,"","{1032,12,12,Comasphaeridium}",,1,1
+1344238,overlappingpdfs.133122.pdf.task,genus,TAXON_DOC_overlappingpdfs.133122.pdf.task_953_1_1,occitanosaurus,"","{953,1,1,Occitanosaurus}",,1,1
+1058318,overlappingpdfs.131.pdf.task,genus,TAXON_DOC_overlappingpdfs.131.pdf.task_909_5_5,masiakasaurus,"","{909,5,5,Masiakasaurus}",,1,1
+838915,overlappingpdfs.137530.pdf.task,genus,TAXON_DOC_overlappingpdfs.137530.pdf.task_159_4_4,zomba,"","{159,4,4,Zomba}",,1,1
+1307032,overlappingpdfs.138601.pdf.task,order,TAXON_DOC_overlappingpdfs.138601.pdf.task_5052_5_5,diptera,"","{5052,5,5,Diptera}",,1,1
+899529,overlappingpdfs.133094.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.133094.pdf.task_127_14_14,bellerophontoidea,"","{127,14,14,Bellerophontoidea}",,1,1
+1425446,overlappingpdfs.137150.pdf.task,genus,TAXON_DOC_overlappingpdfs.137150.pdf.task_446_0_0,dasypus,"","{446,0,0,Dasypus}",,1,1
+1394009,overlappingpdfs.135723.pdf.task,suborder,TAXON_DOC_overlappingpdfs.135723.pdf.task_629_18_18,rhamphorhynchoidea,"","{629,18,18,Rhamphorhynchoidea}",,1,1
+1197684,overlappingpdfs.1392.pdf.task,genus,TAXON_DOC_overlappingpdfs.1392.pdf.task_242_2_2,gopherus,"","{242,2,2,Gopherus}",,1,1
+894031,overlappingpdfs.132400.pdf.task,species,TAXON_DOC_overlappingpdfs.132400.pdf.task_440_8_9,dorypyge iranensis,"","{440,8,9,""Dorypyge iranensis""}",,1,0.996
+1086244,overlappingpdfs.132817.pdf.task,genus,TAXON_DOC_overlappingpdfs.132817.pdf.task_820_0_0,hapalops,"","{820,0,0,Hapalops}",,1,1
+1168444,overlappingpdfs.136.pdf.task,genus,TAXON_DOC_overlappingpdfs.136.pdf.task_1112_1_1,libycosuchus,"","{1112,1,1,Libycosuchus}",,1,1
+1446445,overlappingpdfs.130614.pdf.task,family,TAXON_DOC_overlappingpdfs.130614.pdf.task_58_31_31,balistidae,"","{58,31,31,Balistidae}",,1,1
+1125516,overlappingpdfs.132749.pdf.task,genus,TAXON_DOC_overlappingpdfs.132749.pdf.task_622_0_0,silurinka,"","{622,0,0,Silurinka}",,1,0.997
+1346493,overlappingpdfs.132899.pdf.task,genus,TAXON_DOC_overlappingpdfs.132899.pdf.task_1174_17_17,nevada,"","{1174,17,17,Nevada}",,1,0.996
+858935,overlappingpdfs.135577.pdf.task,genus,TAXON_DOC_overlappingpdfs.135577.pdf.task_22_32_32,microtia,"","{22,32,32,Microtia}",,1,0.999
+985111,overlappingpdfs.1376.pdf.task,genus,TAXON_DOC_overlappingpdfs.1376.pdf.task_1128_7_7,argyrosaurus,"","{1128,7,7,Argyrosaurus}",,1,0.996
+911431,overlappingpdfs.132274.pdf.task,genus,TAXON_DOC_overlappingpdfs.132274.pdf.task_201_24_24,kayentachelys,"","{201,24,24,Kayentachelys}",,1,1
+1217240,overlappingpdfs.132953.pdf.task,genus,TAXON_DOC_overlappingpdfs.132953.pdf.task_790_14_14,pelanomodon,"","{790,14,14,Pelanomodon}",,1,0.996
+983493,overlappingpdfs.132575.pdf.task,genus,TAXON_DOC_overlappingpdfs.132575.pdf.task_396_93_93,humbert,"","{396,93,93,Humbert}",,1,1
+936690,overlappingpdfs.132987.pdf.task,genus,TAXON_DOC_overlappingpdfs.132987.pdf.task_868_23_23,rothpletzella,"","{868,23,23,Rothpletzella}",,1,1
+1282431,overlappingpdfs.130801.pdf.task,species,TAXON_DOC_overlappingpdfs.130801.pdf.task_164_8_9,pteraichnus saltwashensis,"","{164,8,9,""Pteraichnus saltwashensis""}",,1,1
+1334862,overlappingpdfs.132951.pdf.task,genus,TAXON_DOC_overlappingpdfs.132951.pdf.task_71_2_2,teichichnus,"","{71,2,2,Teichichnus}",,1,1
+1088393,overlappingpdfs.135067.pdf.task,genus,TAXON_DOC_overlappingpdfs.135067.pdf.task_623_17_17,trichotropis,"","{623,17,17,Trichotropis}",,1,1
+905261,overlappingpdfs.138334.pdf.task,superorder,TAXON_DOC_overlappingpdfs.138334.pdf.task_2666_0_0,rodentia,"","{2666,0,0,Rodentia}",,1,1
+1417817,overlappingpdfs.133442.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.133442.pdf.task_215_0_0,aphrodina,"","{215,0,0,Aphrodina}",,1,1
+1187834,overlappingpdfs.132314.pdf.task,genus,TAXON_DOC_overlappingpdfs.132314.pdf.task_53_16_16,parotodus,"","{53,16,16,Parotodus}",,1,0.996
+1421449,overlappingpdfs.138447.pdf.task,genus,TAXON_DOC_overlappingpdfs.138447.pdf.task_984_0_0,apachella,"","{984,0,0,Apachella}",,1,1
+1310207,overlappingpdfs.138601.pdf.task,species,TAXON_DOC_overlappingpdfs.138601.pdf.task_1766_7_8,zaprionus multistriatus,"","{1766,7,8,""Zaprionus multistriatus""}",,1,0.996
+1363144,overlappingpdfs.136536.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136536.pdf.task_364_1_1,atrypa,"","{364,1,1,Atrypa}",,1,0.996
+1143332,overlappingpdfs.138385.pdf.task,species,TAXON_DOC_overlappingpdfs.138385.pdf.task_573_9_10,geolabis marginalis,"","{573,9,10,""Geolabis marginalis""}",,1,1
+1404046,overlappingpdfs.138624.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1218_0_0,proetus,"","{1218,0,0,Proetus}",,1,1
+1028116,overlappingpdfs.138755.pdf.task,genus,TAXON_DOC_overlappingpdfs.138755.pdf.task_936_1_1,phelodinium,"","{936,1,1,Phelodinium}",,1,1
+880859,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_6303_26_26,goniacodon,"","{6303,26,26,Goniacodon}",,1,1
+1183028,overlappingpdfs.138407.pdf.task,species,TAXON_DOC_overlappingpdfs.138407.pdf.task_6613_3_4,microsyops schlosseri,"","{6613,3,4,""Microsyops schlosseri""}",,1,0.996
+886826,overlappingpdfs.138334.pdf.task,genus,TAXON_DOC_overlappingpdfs.138334.pdf.task_811_2_2,anilius,"","{811,2,2,Anilius}",,1,1
+1282127,overlappingpdfs.132380.pdf.task,species,TAXON_DOC_overlappingpdfs.132380.pdf.task_701_2_3,globoharpes friendi,"","{701,2,3,""G. friendi""}",,1,1
+947101,overlappingpdfs.136149.pdf.task,genus,TAXON_DOC_overlappingpdfs.136149.pdf.task_353_0_0,leptathyris,"","{353,0,0,Leptathyris}",,1,0.996
+995042,overlappingpdfs.1395.pdf.task,species,TAXON_DOC_overlappingpdfs.1395.pdf.task_454_0_1,allognathosuchus mooki,"","{454,0,1,""Allognathosuchus mooki""}",,1,0.996
+1265608,overlappingpdfs.137213.pdf.task,genus,TAXON_DOC_overlappingpdfs.137213.pdf.task_14795_0_0,reptaria,"","{14795,0,0,Reptaria}",,1,1
+908891,overlappingpdfs.132678.pdf.task,genus,TAXON_DOC_overlappingpdfs.132678.pdf.task_16_10_10,strepsodus,"","{16,10,10,Strepsodus}",,1,1
+1280261,overlappingpdfs.139280.pdf.task,genus,TAXON_DOC_overlappingpdfs.139280.pdf.task_274_0_0,pantolambda,"","{274,0,0,Pantolambda}",,1,1
+1184221,overlappingpdfs.138519.pdf.task,species,TAXON_DOC_overlappingpdfs.138519.pdf.task_1328_1_2,merychippus primus,"","{1328,1,2,""M. primus""}",,1,0.996
+1268670,overlappingpdfs.132435.pdf.task,species,TAXON_DOC_overlappingpdfs.132435.pdf.task_717_15_16,psephochelys polyosteoderma,"","{717,15,16,""Psephochelys polyosteoderma""}",,1,0.996
+906225,overlappingpdfs.136017.pdf.task,species,TAXON_DOC_overlappingpdfs.136017.pdf.task_15_2_3,promopalaeaster finei,"","{15,2,3,""P. finei""}",,1,1
+1011163,overlappingpdfs.131694.pdf.task,genus,TAXON_DOC_overlappingpdfs.131694.pdf.task_513_7_7,eutaxocrinus,"","{513,7,7,Eutaxocrinus}",,1,1
+1295906,overlappingpdfs.137935.pdf.task,genus,TAXON_DOC_overlappingpdfs.137935.pdf.task_3101_1_1,varanus,"","{3101,1,1,Varanus}",,1,1
+805040,overlappingpdfs.138365.pdf.task,species,TAXON_DOC_overlappingpdfs.138365.pdf.task_436_5_6,cynodesmus minor,"","{436,5,6,""Cynodesmus minor""}",,1,0.994
+1247579,overlappingpdfs.130863.pdf.task,genus,TAXON_DOC_overlappingpdfs.130863.pdf.task_37_4_4,paris,"","{37,4,4,Paris}",,1,1
+1324029,overlappingpdfs.130860.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.130860.pdf.task_448_0_0,mollusca,"","{448,0,0,Mollusca}",,1,1
+1049279,overlappingpdfs.130651.pdf.task,genus,TAXON_DOC_overlappingpdfs.130651.pdf.task_1084_1_1,meghystrichosphaeridium,"","{1084,1,1,Meghystrichosphaeridium}",,1,1
+1101247,overlappingpdfs.1346.pdf.task,genus,TAXON_DOC_overlappingpdfs.1346.pdf.task_36_18_18,kairuku,"","{36,18,18,Kairuku}",,1,1
+1234117,overlappingpdfs.1377.pdf.task,genus,TAXON_DOC_overlappingpdfs.1377.pdf.task_90_30_30,eoalulavis,"","{90,30,30,Eoalulavis}",,1,1
+1111171,overlappingpdfs.136807.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136807.pdf.task_895_11_11,leiorhynchus,"","{895,11,11,Leiorhynchus}",,1,1
+900201,overlappingpdfs.133094.pdf.task,genus,TAXON_DOC_overlappingpdfs.133094.pdf.task_277_0_0,phragmolites,"","{277,0,0,Phragmolites}",,1,1
+862877,overlappingpdfs.132895.pdf.task,species,TAXON_DOC_overlappingpdfs.132895.pdf.task_256_0_1,eocoelia akimiskii,"","{256,0,1,""E. akimiskii""}",,1,1
+926141,overlappingpdfs.132987.pdf.task,species,TAXON_DOC_overlappingpdfs.132987.pdf.task_388_0_1,moniliporella multipora,"","{388,0,1,""Moniliporella multipora""}",,1,1
+987451,overlappingpdfs.138573.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138573.pdf.task_4537_0_0,hipparion,"","{4537,0,0,Hipparion}",,1,1
+988473,overlappingpdfs.132984.pdf.task,genus,TAXON_DOC_overlappingpdfs.132984.pdf.task_392_0_0,oelandiella,"","{392,0,0,Oelandiella}",,1,1
+1217248,overlappingpdfs.132953.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132953.pdf.task_790_22_22,dicynodon,"","{790,22,22,Dicynodon}",,1,0.996
+1034116,overlappingpdfs.138658.pdf.task,genus,TAXON_DOC_overlappingpdfs.138658.pdf.task_685_84_84,rhenops,"","{685,84,84,Rhenops}",,1,1
+990067,overlappingpdfs.133046.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.133046.pdf.task_581_6_6,temnospondyli,"","{581,6,6,Temnospondyli}",,1,1
+1247527,overlappingpdfs.132634.pdf.task,species,TAXON_DOC_overlappingpdfs.132634.pdf.task_484_23_24,mammalodon colliveri,"","{484,23,24,""Mammalodon colliveri""}",,1,1
+1326862,overlappingpdfs.138877.pdf.task,species,TAXON_DOC_overlappingpdfs.138877.pdf.task_1835_53_57,callicebus cupreus ( x ),"","{1835,53,57,""Callicebus cupreus ( X )""}",,1,0.996
+1098979,overlappingpdfs.132101.pdf.task,genus,TAXON_DOC_overlappingpdfs.132101.pdf.task_470_15_15,china,"","{470,15,15,China}",,1,1
+1406277,overlappingpdfs.132455.pdf.task,genus,TAXON_DOC_overlappingpdfs.132455.pdf.task_1321_239_239,metriorhynchus,"","{1321,239,239,Metriorhynchus}",,1,1
+1305688,overlappingpdfs.132386.pdf.task,genus,TAXON_DOC_overlappingpdfs.132386.pdf.task_337_2_2,siderastrea,"","{337,2,2,Siderastrea}",,1,1
+997557,overlappingpdfs.138644.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.138644.pdf.task_61_3_3,empidoidea,"","{61,3,3,Empidoidea}",,1,0.996
+1037589,overlappingpdfs.132612.pdf.task,species,TAXON_DOC_overlappingpdfs.132612.pdf.task_704_0_1,flindersipora cancelli,"","{704,0,1,""Flindersipora cancelli""}",,1,1
+1369523,overlappingpdfs.13405.pdf.task,genus,TAXON_DOC_overlappingpdfs.13405.pdf.task_1127_57_57,neritina,"","{1127,57,57,Neritina}",,1,0.996
+1232054,overlappingpdfs.138572.pdf.task,species,TAXON_DOC_overlappingpdfs.138572.pdf.task_1005_6_7,mecysmauchenius chincay,"","{1005,6,7,""M. chincay""}",,1,1
+814689,overlappingpdfs.132874.pdf.task,genus,TAXON_DOC_overlappingpdfs.132874.pdf.task_105_5_5,otozoum,"","{105,5,5,Otozoum}",,1,0.996
+819157,overlappingpdfs.137778.pdf.task,species,TAXON_DOC_overlappingpdfs.137778.pdf.task_572_19_20,triceratops prorsus,"","{572,19,20,""Triceratops prorsus""}",,1,1
+955304,overlappingpdfs.138671.pdf.task,genus,TAXON_DOC_overlappingpdfs.138671.pdf.task_2042_0_0,tegula,"","{2042,0,0,Tegula}",,1,1
+926494,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_470_31_31,parahesperornis,"","{470,31,31,Parahesperornis}",,1,0.992
+876974,overlappingpdfs.138465.pdf.task,genus,TAXON_DOC_overlappingpdfs.138465.pdf.task_458_0_0,electron,"","{458,0,0,Electron}",,1,1
+895667,overlappingpdfs.138334.pdf.task,genus,TAXON_DOC_overlappingpdfs.138334.pdf.task_456_38_38,macropelobates,"","{456,38,38,Macropelobates}",,1,1
+1418931,overlappingpdfs.132526.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132526.pdf.task_499_15_15,ophiceras,"","{499,15,15,Ophiceras}",,1,0.998
+1209542,overlappingpdfs.138538.pdf.task,genus,TAXON_DOC_overlappingpdfs.138538.pdf.task_70_1_1,kozlowskiaspis,"","{70,1,1,Kozlowskiaspis}",,1,1
+1428586,overlappingpdfs.132619.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132619.pdf.task_54_18_18,sigmodontinae,"","{54,18,18,Sigmodontinae}",,1,1
+845221,overlappingpdfs.132883.pdf.task,genus,TAXON_DOC_overlappingpdfs.132883.pdf.task_1009_6_6,victoria,"","{1009,6,6,Victoria}",,1,1
+1074762,overlappingpdfs.138083.pdf.task,genus,TAXON_DOC_overlappingpdfs.138083.pdf.task_3230_0_0,anthracothema,"","{3230,0,0,ANTHRACOTHEMA}",,1,1
+1268428,overlappingpdfs.132707.pdf.task,genus,TAXON_DOC_overlappingpdfs.132707.pdf.task_419_16_16,botsfordia,"","{419,16,16,Botsfordia}",,1,1
+1267906,overlappingpdfs.137213.pdf.task,kingdom,TAXON_DOC_overlappingpdfs.137213.pdf.task_6553_1_1,animalia,"","{6553,1,1,ANIMALIA}",,1,1
+987308,overlappingpdfs.132333.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132333.pdf.task_694_0_0,ataphrus,"","{694,0,0,Ataphrus}",,1,0.996
+851961,overlappingpdfs.132371.pdf.task,genus,TAXON_DOC_overlappingpdfs.132371.pdf.task_562_9_9,asturicystis,"","{562,9,9,Asturicystis}",,1,1
+876595,overlappingpdfs.138465.pdf.task,species,TAXON_DOC_overlappingpdfs.138465.pdf.task_696_23_24,schizodus compressus,"","{696,23,24,""S. compressus""}",,1,1
+1156269,overlappingpdfs.137545.pdf.task,infraclass,TAXON_DOC_overlappingpdfs.137545.pdf.task_3911_3_3,ornithodelphia,"","{3911,3,3,Ornithodelphia}",,1,1
+946336,overlappingpdfs.138671.pdf.task,genus,TAXON_DOC_overlappingpdfs.138671.pdf.task_733_3_3,megalopta,"","{733,3,3,Megalopta}",,1,1
+996847,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_5541_3_3,philotrox,"","{5541,3,3,Philotrox}",,1,1
+803420,overlappingpdfs.138365.pdf.task,genus,TAXON_DOC_overlappingpdfs.138365.pdf.task_3824_0_0,nanotragulus,"","{3824,0,0,Nanotragulus}",,1,1
+1341189,overlappingpdfs.138632.pdf.task,genus,TAXON_DOC_overlappingpdfs.138632.pdf.task_6856_14_14,plesiorycteropus,"","{6856,14,14,Plesiorycteropus}",,1,0.996
+1089619,overlappingpdfs.138613.pdf.task,family,TAXON_DOC_overlappingpdfs.138613.pdf.task_6848_7_7,scatopsidae,"","{6848,7,7,Scatopsidae}",,1,1
+1192822,overlappingpdfs.138099.pdf.task,genus,TAXON_DOC_overlappingpdfs.138099.pdf.task_456_14_14,tarsius,"","{456,14,14,Tarsius}",,1,1
+1038049,overlappingpdfs.138526.pdf.task,family,TAXON_DOC_overlappingpdfs.138526.pdf.task_43_0_0,baenidae,"","{43,0,0,Baenidae}",,1,1
+1209440,overlappingpdfs.138538.pdf.task,genus,TAXON_DOC_overlappingpdfs.138538.pdf.task_1303_0_0,acastoides,"","{1303,0,0,Acastoides}",,1,1
+976242,overlappingpdfs.135476.pdf.task,genus,TAXON_DOC_overlappingpdfs.135476.pdf.task_458_8_8,hirnantia,"","{458,8,8,Hirnantia}",,1,1
+1368349,overlappingpdfs.132661.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132661.pdf.task_1875_10_10,brachiopoda,"","{1875,10,10,Brachiopoda}",,1,1
+1374980,overlappingpdfs.138605.pdf.task,genus,TAXON_DOC_overlappingpdfs.138605.pdf.task_6052_5_5,proganochelys,"","{6052,5,5,Proganochelys}",,1,1
+1242762,overlappingpdfs.130849.pdf.task,genus,TAXON_DOC_overlappingpdfs.130849.pdf.task_446_10_10,electra,"","{446,10,10,Electra}",,1,1
+1133286,overlappingpdfs.132401.pdf.task,genus,TAXON_DOC_overlappingpdfs.132401.pdf.task_1344_0_0,geosaurus,"","{1344,0,0,Geosaurus}",,1,1
+1234261,overlappingpdfs.1377.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.1377.pdf.task_35_14_14,enantiornithes,"","{35,14,14,Enantiornithes}",,1,1
+1446025,overlappingpdfs.138665.pdf.task,genus,TAXON_DOC_overlappingpdfs.138665.pdf.task_3404_4_4,ardeosaurus,"","{3404,4,4,Ardeosaurus}",,1,0.996
+1271338,overlappingpdfs.132743.pdf.task,genus,TAXON_DOC_overlappingpdfs.132743.pdf.task_614_8_8,gephyrosaurus,"","{614,8,8,Gephyrosaurus}",,1,1
+1356886,overlappingpdfs.133089.pdf.task,genus,TAXON_DOC_overlappingpdfs.133089.pdf.task_2321_10_10,narke,"","{2321,10,10,Narke}",,1,1
+937471,overlappingpdfs.132535.pdf.task,genus,TAXON_DOC_overlappingpdfs.132535.pdf.task_44_67_67,eosimias,"","{44,67,67,Eosimias}",,1,0.996
+1303950,overlappingpdfs.132370.pdf.task,species,TAXON_DOC_overlappingpdfs.132370.pdf.task_11_19_20,ero rovnoensis,"","{11,19,20,""E. rovnoensis""}",,1,1
+1149734,overlappingpdfs.136168.pdf.task,genus,TAXON_DOC_overlappingpdfs.136168.pdf.task_43_8_8,xenusion,"","{43,8,8,Xenusion}",,1,1
+1440573,overlappingpdfs.132555.pdf.task,genus,TAXON_DOC_overlappingpdfs.132555.pdf.task_466_2_2,slava,"","{466,2,2,Slava}",,1,1
+1318374,overlappingpdfs.136839.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136839.pdf.task_785_1_1,eugonocare,"","{785,1,1,Eugonocare}",,1,1
+1426443,overlappingpdfs.132690.pdf.task,genus,TAXON_DOC_overlappingpdfs.132690.pdf.task_417_12_12,arctomeles,"","{417,12,12,Arctomeles}",,1,1
+1100293,overlappingpdfs.130183.pdf.task,species,TAXON_DOC_overlappingpdfs.130183.pdf.task_269_8_9,globigerinoides altiaperturus,"","{269,8,9,""Globigerinoides altiaperturus""}",,1,1
+1309461,overlappingpdfs.138601.pdf.task,family,TAXON_DOC_overlappingpdfs.138601.pdf.task_4877_3_3,drosophilidae,"","{4877,3,3,Drosophilidae}",,1,1
+1027611,overlappingpdfs.138755.pdf.task,subclass,TAXON_DOC_overlappingpdfs.138755.pdf.task_4136_2_2,ammonoidea,"","{4136,2,2,Ammonoidea}",,1,1
+886481,overlappingpdfs.138745.pdf.task,genus,TAXON_DOC_overlappingpdfs.138745.pdf.task_2647_46_46,daulestes,"","{2647,46,46,Daulestes}",,1,1
+1409387,overlappingpdfs.132334.pdf.task,genus,TAXON_DOC_overlappingpdfs.132334.pdf.task_311_16_16,anomalurus,"","{311,16,16,Anomalurus}",,1,0.996
+1362286,overlappingpdfs.1353.pdf.task,genus,TAXON_DOC_overlappingpdfs.1353.pdf.task_1103_6_6,maiasaura,"","{1103,6,6,Maiasaura}",,1,1
+1071567,overlappingpdfs.138678.pdf.task,genus,TAXON_DOC_overlappingpdfs.138678.pdf.task_2800_7_7,boreallodape,"","{2800,7,7,Boreallodape}",,1,0.999
+838682,overlappingpdfs.138593.pdf.task,genus,TAXON_DOC_overlappingpdfs.138593.pdf.task_1721_7_7,chelonia,"","{1721,7,7,Chelonia}",,1,1
+993451,overlappingpdfs.135769.pdf.task,genus,TAXON_DOC_overlappingpdfs.135769.pdf.task_293_3_3,pseudoatrypa,"","{293,3,3,Pseudoatrypa}",,1,1
+1007915,overlappingpdfs.1333.pdf.task,genus,TAXON_DOC_overlappingpdfs.1333.pdf.task_71_11_11,schizorhiza,"","{71,11,11,Schizorhiza}",,1,0.996
+894828,overlappingpdfs.138709.pdf.task,species,TAXON_DOC_overlappingpdfs.138709.pdf.task_1184_15_16,apternodus gregoryi,"","{1184,15,16,""A. gregoryi""}",,1,1
+1317740,overlappingpdfs.138877.pdf.task,species,TAXON_DOC_overlappingpdfs.138877.pdf.task_1896_31_32,callithrix pygmaea,"","{1896,31,32,""Callithrix pygmaea""}",,1,0.996
+1238857,overlappingpdfs.130588.pdf.task,family,TAXON_DOC_overlappingpdfs.130588.pdf.task_182_32_32,retiolitidae,"","{182,32,32,Retiolitidae}",,1,1
+1399546,overlappingpdfs.138624.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1140_0_0,proetus,"","{1140,0,0,Proetus}",,1,0.996
+894731,overlappingpdfs.138428.pdf.task,species,TAXON_DOC_overlappingpdfs.138428.pdf.task_1735_12_13,spheniscus humboldti,"","{1735,12,13,""S. humboldti""}",,1,1
+999764,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_2096_18_18,montana,"","{2096,18,18,Montana}",,1,1
+1397272,overlappingpdfs.132829.pdf.task,family,TAXON_DOC_overlappingpdfs.132829.pdf.task_34_0_0,toxasteridae,"","{34,0,0,Toxasteridae}",,1,1
+1148005,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_1491_0_0,equus,"","{1491,0,0,Equus}",,1,1
+1050483,overlappingpdfs.132666.pdf.task,genus,TAXON_DOC_overlappingpdfs.132666.pdf.task_165_1_1,trilophosaurus,"","{165,1,1,Trilophosaurus}",,1,1
+921521,overlappingpdfs.132446.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132446.pdf.task_343_9_9,insecta,"","{343,9,9,Insecta}",,1,1
+970046,overlappingpdfs.138707.pdf.task,genus,TAXON_DOC_overlappingpdfs.138707.pdf.task_2286_14_14,mexico,"","{2286,14,14,Mexico}",,1,0.996
+958293,overlappingpdfs.1334.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.1334.pdf.task_258_9_9,hylaeochampsidae,"","{258,9,9,Hylaeochampsidae}",,1,1
+1392557,overlappingpdfs.132102.pdf.task,genus,TAXON_DOC_overlappingpdfs.132102.pdf.task_332_19_19,kailidiscus,"","{332,19,19,Kailidiscus}",,1,1
+1143374,overlappingpdfs.132134.pdf.task,genus,TAXON_DOC_overlappingpdfs.132134.pdf.task_1045_6_6,santiago,"","{1045,6,6,SANTIAGO}",,1,1
+1026859,overlappingpdfs.138658.pdf.task,species,TAXON_DOC_overlappingpdfs.138658.pdf.task_1617_13_14,cryphaeus boothi,"","{1617,13,14,""Cryphaeus boothi""}",,1,1
+1381769,overlappingpdfs.138239.pdf.task,genus,TAXON_DOC_overlappingpdfs.138239.pdf.task_169_4_4,parastrapotherium,"","{169,4,4,Parastrapotherium}",,1,0.999
+993714,overlappingpdfs.132702.pdf.task,species,TAXON_DOC_overlappingpdfs.132702.pdf.task_183_13_14,paraphiomys simonsi,"","{183,13,14,""P. simonsi""}",,1,0.996
+878354,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_538_5_7,gelastops,"","{538,5,7,Gelastops}",,1,1
+1439005,overlappingpdfs.132555.pdf.task,genus,TAXON_DOC_overlappingpdfs.132555.pdf.task_225_13_13,praelucina,"","{225,13,13,Praelucina}",,1,1
+1173396,overlappingpdfs.138519.pdf.task,genus,TAXON_DOC_overlappingpdfs.138519.pdf.task_4531_0_0,protolabis,"","{4531,0,0,Protolabis}",,1,1
+861849,overlappingpdfs.132662.pdf.task,genus,TAXON_DOC_overlappingpdfs.132662.pdf.task_409_21_21,glaphurella,"","{409,21,21,Glaphurella}",,1,0.996
+897139,overlappingpdfs.137951.pdf.task,genus,TAXON_DOC_overlappingpdfs.137951.pdf.task_50_0_0,amphicyon,"","{50,0,0,Amphicyon}",,1,1
+1254372,overlappingpdfs.132522.pdf.task,species,TAXON_DOC_overlappingpdfs.132522.pdf.task_899_1_2,sowerbyella sinensis,"","{899,1,2,""Sowerbyella sinensis""}",,1,1
+807694,overlappingpdfs.132972.pdf.task,family,TAXON_DOC_overlappingpdfs.132972.pdf.task_145_9_9,palaeomacromiidae,"","{145,9,9,Palaeomacromiidae}",,1,0.996
+1229124,overlappingpdfs.132857.pdf.task,genus,TAXON_DOC_overlappingpdfs.132857.pdf.task_82_71_71,lampadaster,"","{82,71,71,Lampadaster}",,1,1
+911414,overlappingpdfs.137444.pdf.task,species,TAXON_DOC_overlappingpdfs.137444.pdf.task_615_0_1,felis brasiliensis,"","{615,0,1,""FELIS brasiliensis""}",,1,1
+1450480,overlappingpdfs.132519.pdf.task,suborder,TAXON_DOC_overlappingpdfs.132519.pdf.task_204_2_2,anisozygoptera,"","{204,2,2,Anisozygoptera}",,1,1
+1082045,overlappingpdfs.138613.pdf.task,genus,TAXON_DOC_overlappingpdfs.138613.pdf.task_3269_0_0,ovojassus,"","{3269,0,0,Ovojassus}",,1,1
+797155,overlappingpdfs.132547.pdf.task,species,TAXON_DOC_overlappingpdfs.132547.pdf.task_409_6_7,dalmanites myops,"","{409,6,7,""Dalmanites myops""}",,1,0.996
+1427354,overlappingpdfs.138447.pdf.task,species,TAXON_DOC_overlappingpdfs.138447.pdf.task_448_0_1,ambozone rasmusseni,"","{448,0,1,""A. rasmusseni""}",,1,0.999
+882615,overlappingpdfs.139538.pdf.task,genus,TAXON_DOC_overlappingpdfs.139538.pdf.task_9_13_13,arizona,"","{9,13,13,Arizona}",,1,1
+1333590,overlappingpdfs.132609.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132609.pdf.task_11_0_0,ceratopsia,"","{11,0,0,Ceratopsia}",,1,1
+1235781,overlappingpdfs.132453.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132453.pdf.task_333_6_6,azhdarchidae,"","{333,6,6,Azhdarchidae}",,1,1
+836162,overlappingpdfs.135412.pdf.task,family,TAXON_DOC_overlappingpdfs.135412.pdf.task_47_18_18,hamulinidae,"","{47,18,18,Hamulinidae}",,1,1
+869643,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_2500_0_0,bessoecetor,"","{2500,0,0,Bessoecetor}",,1,1
+1223095,overlappingpdfs.133121.pdf.task,genus,TAXON_DOC_overlappingpdfs.133121.pdf.task_186_3_3,metahamites,"","{186,3,3,Metahamites}",,1,0.942
+1349448,overlappingpdfs.13950.pdf.task,genus,TAXON_DOC_overlappingpdfs.13950.pdf.task_690_15_15,paris,"","{690,15,15,Paris}",,1,0.994
+867255,overlappingpdfs.132118.pdf.task,genus,TAXON_DOC_overlappingpdfs.132118.pdf.task_215_0_0,trichorhagio,"","{215,0,0,Trichorhagio}",,1,1
+953245,overlappingpdfs.138671.pdf.task,tribe,TAXON_DOC_overlappingpdfs.138671.pdf.task_406_4_4,augochlorini,"","{406,4,4,AUGOCHLORINI}",,1,1
+1177558,overlappingpdfs.138407.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138407.pdf.task_4521_0_0,insectivora,"","{4521,0,0,Insectivora}",,1,1
+1383850,overlappingpdfs.138239.pdf.task,genus,TAXON_DOC_overlappingpdfs.138239.pdf.task_157_6_6,rhynchippus,"","{157,6,6,Rhynchippus}",,1,0.996
+1204159,overlappingpdfs.1381.pdf.task,species,TAXON_DOC_overlappingpdfs.1381.pdf.task_852_22_23,metaxytherium forestii,"","{852,22,23,""M. forestii""}",,1,1
+944895,overlappingpdfs.132913.pdf.task,family,TAXON_DOC_overlappingpdfs.132913.pdf.task_28_10_10,helcionellidae,"","{28,10,10,Helcionellidae}",,1,0.996
+1145120,overlappingpdfs.132134.pdf.task,family,TAXON_DOC_overlappingpdfs.132134.pdf.task_272_1_1,sinoalidae,"","{272,1,1,SINOALIDAE}",,1,1
+1265654,overlappingpdfs.132742.pdf.task,family,TAXON_DOC_overlappingpdfs.132742.pdf.task_444_39_39,balaenidae,"","{444,39,39,Balaenidae}",,1,1
+1120851,overlappingpdfs.132785.pdf.task,genus,TAXON_DOC_overlappingpdfs.132785.pdf.task_254_2_2,lophiaspis,"","{254,2,2,Lophiaspis}",,1,1
+1258936,overlappingpdfs.1383.pdf.task,order,TAXON_DOC_overlappingpdfs.1383.pdf.task_23_6_6,diprotodontia,"","{23,6,6,DIPROTODONTIA}",,1,0.996
+983507,overlappingpdfs.130708.pdf.task,genus,TAXON_DOC_overlappingpdfs.130708.pdf.task_339_22_22,sporolithon,"","{339,22,22,Sporolithon}",,1,1
+1096061,overlappingpdfs.132963.pdf.task,species,TAXON_DOC_overlappingpdfs.132963.pdf.task_408_9_10,cynognathus minor,"","{408,9,10,""Cynognathus minor""}",,1,0.996
+1109339,overlappingpdfs.131415.pdf.task,order,TAXON_DOC_overlappingpdfs.131415.pdf.task_307_1_1,toxeumorphorida,"","{307,1,1,Toxeumorphorida}",,1,1
+1379104,overlappingpdfs.132534.pdf.task,genus,TAXON_DOC_overlappingpdfs.132534.pdf.task_859_16_16,psiloceras,"","{859,16,16,Psiloceras}",,1,1
+1004355,overlappingpdfs.132093.pdf.task,genus,TAXON_DOC_overlappingpdfs.132093.pdf.task_316_10_10,rudybole,"","{316,10,10,Rudybole}",,1,1
+1047544,overlappingpdfs.131551.pdf.task,genus,TAXON_DOC_overlappingpdfs.131551.pdf.task_545_0_0,eomiodon,"","{545,0,0,Eomiodon}",,1,1
+1068449,overlappingpdfs.138083.pdf.task,genus,TAXON_DOC_overlappingpdfs.138083.pdf.task_709_8_8,proleptobos,"","{709,8,8,Proleptobos}",,1,1
+1123960,overlappingpdfs.138170.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138170.pdf.task_2301_4_4,palaeeudyptinae,"","{2301,4,4,Palaeeudyptinae}",,1,1
+969173,overlappingpdfs.132521.pdf.task,species,TAXON_DOC_overlappingpdfs.132521.pdf.task_432_8_9,monotis rhaetica,"","{432,8,9,""Monotis rhaetica""}",,1,1
+1386429,overlappingpdfs.137339.pdf.task,genus,TAXON_DOC_overlappingpdfs.137339.pdf.task_175_0_0,bergia,"","{175,0,0,Bergia}",,1,1
+1114957,overlappingpdfs.1367.pdf.task,family,TAXON_DOC_overlappingpdfs.1367.pdf.task_353_33_33,latimeriidae,"","{353,33,33,Latimeriidae}",,1,0.99
+1266820,overlappingpdfs.132412.pdf.task,genus,TAXON_DOC_overlappingpdfs.132412.pdf.task_153_21_21,argentina,"","{153,21,21,Argentina}",,1,1
+1311043,overlappingpdfs.137950.pdf.task,genus,TAXON_DOC_overlappingpdfs.137950.pdf.task_342_0_0,cymatophlebia,"","{342,0,0,CYMATOPHLEBIA}",,1,1
+1216008,overlappingpdfs.132961.pdf.task,order,TAXON_DOC_overlappingpdfs.132961.pdf.task_286_29_29,odonata,"","{286,29,29,Odonata}",,1,0.995
+1109820,overlappingpdfs.132999.pdf.task,species,TAXON_DOC_overlappingpdfs.132999.pdf.task_664_50_51,palmatolepis perlobata,"","{664,50,51,""Palmatolepis perlobata""}",,1,1
+1207973,overlappingpdfs.132961.pdf.task,family,TAXON_DOC_overlappingpdfs.132961.pdf.task_249_11_11,calopterygidae,"","{249,11,11,Calopterygidae}",,1,0.996
+1063884,overlappingpdfs.138388.pdf.task,family,TAXON_DOC_overlappingpdfs.138388.pdf.task_3903_21_21,paradichthyidae,"","{3903,21,21,Paradichthyidae}",,1,0.995
+812011,overlappingpdfs.131793.pdf.task,genus,TAXON_DOC_overlappingpdfs.131793.pdf.task_171_0_0,vagrania,"","{171,0,0,Vagrania}",,1,1
+963198,overlappingpdfs.132168.pdf.task,family,TAXON_DOC_overlappingpdfs.132168.pdf.task_21_40_40,sinemydidae,"","{21,40,40,Sinemydidae}",,1,0.996
+801211,overlappingpdfs.132338.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132338.pdf.task_753_6_6,elasmobranchii,"","{753,6,6,Elasmobranchii}",,1,1
+828956,overlappingpdfs.132272.pdf.task,species,TAXON_DOC_overlappingpdfs.132272.pdf.task_553_16_17,itardiornis hessae,"","{553,16,17,""I. hessae""}",,1,1
+870039,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_3648_21_21,thylacinus,"","{3648,21,21,Thylacinus}",,1,1
+804402,overlappingpdfs.138578.pdf.task,species,TAXON_DOC_overlappingpdfs.138578.pdf.task_5643_26_27,modiolopsis concentrica,"","{5643,26,27,""M. concentrica""}",,1,0.995
+1064366,overlappingpdfs.138678.pdf.task,tribe,TAXON_DOC_overlappingpdfs.138678.pdf.task_6406_10_10,augochlorini,"","{6406,10,10,Augochlorini}",,1,0.996
+1191920,overlappingpdfs.138099.pdf.task,genus,TAXON_DOC_overlappingpdfs.138099.pdf.task_720_15_15,necrolemur,"","{720,15,15,Necrolemur}",,1,0.996
+1234672,overlappingpdfs.139867.pdf.task,genus,TAXON_DOC_overlappingpdfs.139867.pdf.task_240_0_1,panopea,"","{240,0,1,Panopea}",,1,1
+1047548,overlappingpdfs.138174.pdf.task,family,TAXON_DOC_overlappingpdfs.138174.pdf.task_87_0_0,carditidae,"","{87,0,0,Carditidae}",,1,1
+1434278,overlappingpdfs.132224.pdf.task,genus,TAXON_DOC_overlappingpdfs.132224.pdf.task_24_12_12,squalodon,"","{24,12,12,Squalodon}",,1,1
+814909,overlappingpdfs.138375.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138375.pdf.task_3058_0_0,pseudomonotis,"","{3058,0,0,Pseudomonotis}",,1,1
+1349728,overlappingpdfs.1353.pdf.task,order,TAXON_DOC_overlappingpdfs.1353.pdf.task_1194_9_9,crocodyliformes,"","{1194,9,9,Crocodyliformes}",,1,0.996
+969690,overlappingpdfs.138044.pdf.task,genus,TAXON_DOC_overlappingpdfs.138044.pdf.task_995_0_0,bactrosaurus,"","{995,0,0,Bactrosaurus}",,1,1
+1341838,overlappingpdfs.138632.pdf.task,genus,TAXON_DOC_overlappingpdfs.138632.pdf.task_5829_29_29,orycteropus,"","{5829,29,29,Orycteropus}",,1,1
+862514,overlappingpdfs.133092.pdf.task,genus,TAXON_DOC_overlappingpdfs.133092.pdf.task_352_43_43,asaphus,"","{352,43,43,Asaphus}",,1,1
+1352515,overlappingpdfs.136536.pdf.task,genus,TAXON_DOC_overlappingpdfs.136536.pdf.task_128_1_1,levenea,"","{128,1,1,LEVENEA}",,1,1
+1243005,overlappingpdfs.131385.pdf.task,genus,TAXON_DOC_overlappingpdfs.131385.pdf.task_97_28_28,nucula,"","{97,28,28,Nucula}",,1,1
+1148565,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_1749_10_10,lagomys,"","{1749,10,10,Lagomys}",,1,1
+1393422,overlappingpdfs.135723.pdf.task,genus,TAXON_DOC_overlappingpdfs.135723.pdf.task_326_27_27,pteraichnus,"","{326,27,27,Pteraichnus}",,1,1
+1179828,overlappingpdfs.138407.pdf.task,genus,TAXON_DOC_overlappingpdfs.138407.pdf.task_1157_16_16,remiculus,"","{1157,16,16,Remiculus}",,1,0.999
+817201,overlappingpdfs.131549.pdf.task,genus,TAXON_DOC_overlappingpdfs.131549.pdf.task_371_10_10,rostricellula,"","{371,10,10,Rostricellula}",,1,1
+1328746,overlappingpdfs.138165.pdf.task,species,TAXON_DOC_overlappingpdfs.138165.pdf.task_317_1_2,machaeroprosopus gregorii,"","{317,1,2,""Machaeroprosopus gregorii""}",,1,1
+942467,overlappingpdfs.132535.pdf.task,species,TAXON_DOC_overlappingpdfs.132535.pdf.task_311_12_13,teilhardina belgica,"","{311,12,13,""Teilhardina belgica""}",,1,1
+1221766,overlappingpdfs.137459.pdf.task,genus,TAXON_DOC_overlappingpdfs.137459.pdf.task_137_9_9,boyeria,"","{137,9,9,Boyeria}",,1,1
+812169,overlappingpdfs.138365.pdf.task,species,TAXON_DOC_overlappingpdfs.138365.pdf.task_3436_0_1,diceratherium armatum,"","{3436,0,1,""Diceratherium armatum""}",,1,1
+1016620,overlappingpdfs.132307.pdf.task,species,TAXON_DOC_overlappingpdfs.132307.pdf.task_694_4_5,camarasaurus lentus,"","{694,4,5,""Camarasaurus lentus""}",,1,1
+1109503,overlappingpdfs.139367.pdf.task,species,TAXON_DOC_overlappingpdfs.139367.pdf.task_153_3_4,canis occidentalis,"","{153,3,4,""C. occidentalis""}",,1,1
+1402841,overlappingpdfs.132334.pdf.task,species,TAXON_DOC_overlappingpdfs.132334.pdf.task_515_3_4,pondaungimys anomaluropsis,"","{515,3,4,""Pondaungimys anomaluropsis""}",,1,0.994
+1125938,overlappingpdfs.136253.pdf.task,genus,TAXON_DOC_overlappingpdfs.136253.pdf.task_242_5_5,semitubina,"","{242,5,5,Semitubina}",,1,1
+1370877,overlappingpdfs.132315.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132315.pdf.task_261_11_11,oviraptorinae,"","{261,11,11,Oviraptorinae}",,1,1
+838120,overlappingpdfs.131153.pdf.task,phylum,TAXON_DOC_overlappingpdfs.131153.pdf.task_375_27_27,echinodermata,"","{375,27,27,Echinodermata}",,1,1
+1085551,overlappingpdfs.136699.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136699.pdf.task_438_3_3,rhombopora,"","{438,3,3,Rhombopora}",,1,0.996
+1058791,overlappingpdfs.138083.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138083.pdf.task_568_30_30,mastodon,"","{568,30,30,Mastodon}",,1,0.996
+1412216,overlappingpdfs.132176.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132176.pdf.task_1802_8_8,annelida,"","{1802,8,8,Annelida}",,1,1
+1240063,overlappingpdfs.132779.pdf.task,family,TAXON_DOC_overlappingpdfs.132779.pdf.task_170_25_25,syrphidae,"","{170,25,25,Syrphidae}",,1,0.999
+937246,overlappingpdfs.131160.pdf.task,species,TAXON_DOC_overlappingpdfs.131160.pdf.task_69_19_20,labrocuspis nodosa,"","{69,19,20,""L. nodosa""}",,1,1
+876712,overlappingpdfs.138465.pdf.task,species,TAXON_DOC_overlappingpdfs.138465.pdf.task_3111_8_9,myophoria vulgaris,"","{3111,8,9,""M. vulgaris""}",,1,1
+1156871,overlappingpdfs.132577.pdf.task,genus,TAXON_DOC_overlappingpdfs.132577.pdf.task_1329_3_3,aulocetus,"","{1329,3,3,Aulocetus}",,1,1
+922847,overlappingpdfs.132965.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132965.pdf.task_363_9_9,neosauropoda,"","{363,9,9,Neosauropoda}",,1,1
+805614,overlappingpdfs.138578.pdf.task,genus,TAXON_DOC_overlappingpdfs.138578.pdf.task_2478_8_8,nucula,"","{2478,8,8,Nucula}",,1,1
+1169631,overlappingpdfs.1397.pdf.task,family,TAXON_DOC_overlappingpdfs.1397.pdf.task_294_12_12,dinodontidae,"","{294,12,12,Dinodontidae}",,1,1
+1156528,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_2878_1_1,viverra,"","{2878,1,1,Viverra}",,1,1
+997543,overlappingpdfs.138859.pdf.task,species,TAXON_DOC_overlappingpdfs.138859.pdf.task_2740_40_41,megadyptes antipodes,"","{2740,40,41,""Megadyptes antipodes""}",,1,0.996
+1283141,overlappingpdfs.132630.pdf.task,genus,TAXON_DOC_overlappingpdfs.132630.pdf.task_133_94_94,dolichosaurus,"","{133,94,94,Dolichosaurus}",,1,1
+1430825,overlappingpdfs.138482.pdf.task,genus,TAXON_DOC_overlappingpdfs.138482.pdf.task_205_0_0,palaeobates,"","{205,0,0,Palaeobates}",,1,1
+1422300,overlappingpdfs.133442.pdf.task,family,TAXON_DOC_overlappingpdfs.133442.pdf.task_313_3_3,astartidae,"","{313,3,3,Astartidae}",,1,1
+1413957,overlappingpdfs.132198.pdf.task,genus,TAXON_DOC_overlappingpdfs.132198.pdf.task_177_1_1,hydrobius,"","{177,1,1,Hydrobius}",,1,0.996
+921993,overlappingpdfs.132936.pdf.task,order,TAXON_DOC_overlappingpdfs.132936.pdf.task_985_4_4,crocodilia,"","{985,4,4,Crocodilia}",,1,1
+1215360,overlappingpdfs.138538.pdf.task,genus,TAXON_DOC_overlappingpdfs.138538.pdf.task_49_1_1,schizostylus,"","{49,1,1,Schizostylus}",,1,1
+1239810,overlappingpdfs.132779.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132779.pdf.task_69_45_45,bombinae,"","{69,45,45,Bombinae}",,1,1
+1143770,overlappingpdfs.133025.pdf.task,genus,TAXON_DOC_overlappingpdfs.133025.pdf.task_945_16_16,pinna,"","{945,16,16,Pinna}",,1,1
+871870,overlappingpdfs.138465.pdf.task,genus,TAXON_DOC_overlappingpdfs.138465.pdf.task_2994_4_4,trigonodus,"","{2994,4,4,Trigonodus}",,1,0.996
+1003513,overlappingpdfs.132761.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132761.pdf.task_733_6_6,brachiopoda,"","{733,6,6,Brachiopoda}",,1,1
+1199575,overlappingpdfs.132685.pdf.task,family,TAXON_DOC_overlappingpdfs.132685.pdf.task_339_6_6,pholcidae,"","{339,6,6,Pholcidae}",,1,1
+976712,overlappingpdfs.138426.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138426.pdf.task_3588_28_28,tylopoda,"","{3588,28,28,Tylopoda}",,1,1
+831544,overlappingpdfs.1373.pdf.task,species,TAXON_DOC_overlappingpdfs.1373.pdf.task_116_202_203,rutiodon carolinensis,"","{116,202,203,""Rutiodon carolinensis""}",,1,0.929
+1212000,overlappingpdfs.132301.pdf.task,genus,TAXON_DOC_overlappingpdfs.132301.pdf.task_803_16_16,argentina,"","{803,16,16,Argentina}",,1,0.996
+882990,overlappingpdfs.138384.pdf.task,order,TAXON_DOC_overlappingpdfs.138384.pdf.task_3449_14_14,chiroptera,"","{3449,14,14,Chiroptera}",,1,1
+812808,overlappingpdfs.138578.pdf.task,species,TAXON_DOC_overlappingpdfs.138578.pdf.task_3578_0_1,nuculites posthumus,"","{3578,0,1,""N. posthumus""}",,1,1
+1048572,overlappingpdfs.133027.pdf.task,genus,TAXON_DOC_overlappingpdfs.133027.pdf.task_1129_1_1,scytalocrinus,"","{1129,1,1,Scytalocrinus}",,1,1
+1266382,overlappingpdfs.138313.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138313.pdf.task_2074_0_0,strophodonta,"","{2074,0,0,Strophodonta}",,1,1
+888124,overlappingpdfs.138428.pdf.task,genus,TAXON_DOC_overlappingpdfs.138428.pdf.task_329_8_8,pareora,"","{329,8,8,Pareora}",,1,1
+1423544,overlappingpdfs.135.pdf.task,genus,TAXON_DOC_overlappingpdfs.135.pdf.task_572_17_17,augustasaurus,"","{572,17,17,Augustasaurus}",,1,1
+1300738,overlappingpdfs.137935.pdf.task,family,TAXON_DOC_overlappingpdfs.137935.pdf.task_3370_10_10,anguidae,"","{3370,10,10,Anguidae}",,1,0.996
+1034222,overlappingpdfs.138755.pdf.task,species,TAXON_DOC_overlappingpdfs.138755.pdf.task_2205_0_1,eubaculites latecarinatus,"","{2205,0,1,""Eubaculites latecarinatus""}",,1,1
+1179340,overlappingpdfs.132463.pdf.task,family,TAXON_DOC_overlappingpdfs.132463.pdf.task_244_7_7,pinheirodontidae,"","{244,7,7,Pinheirodontidae}",,1,1
+914074,overlappingpdfs.132274.pdf.task,species,TAXON_DOC_overlappingpdfs.132274.pdf.task_1111_11_12,caretta caretta,"","{1111,11,12,""Caretta caretta""}",,1,1
+1368261,overlappingpdfs.138010.pdf.task,species,TAXON_DOC_overlappingpdfs.138010.pdf.task_909_9_10,ptilodus gracilis,"","{909,9,10,""Ptilodus gracilis""}",,1,1
+1335866,overlappingpdfs.135587.pdf.task,genus,TAXON_DOC_overlappingpdfs.135587.pdf.task_218_11_11,watsonella,"","{218,11,11,Watsonella}",,1,1
+852598,overlappingpdfs.132551.pdf.task,genus,TAXON_DOC_overlappingpdfs.132551.pdf.task_1469_3_3,homalodotherium,"","{1469,3,3,Homalodotherium}",,1,1
+979195,overlappingpdfs.138573.pdf.task,species,TAXON_DOC_overlappingpdfs.138573.pdf.task_4497_0_1,nannippus ingenuus,"","{4497,0,1,""Nannippus ingenuus""}",,1,1
+1334726,overlappingpdfs.132951.pdf.task,species,TAXON_DOC_overlappingpdfs.132951.pdf.task_918_23_24,spathobatis bugesiacus,"","{918,23,24,""Spathobatis bugesiacus""}",,1,1
+1428524,overlappingpdfs.133058.pdf.task,family,TAXON_DOC_overlappingpdfs.133058.pdf.task_267_21_21,titanosauridae,"","{267,21,21,Titanosauridae}",,1,1
+1238224,overlappingpdfs.139324.pdf.task,species,TAXON_DOC_overlappingpdfs.139324.pdf.task_70_18_19,allognathosuchus wartheni,"","{70,18,19,""A. wartheni""}",,1,1
+833678,overlappingpdfs.131153.pdf.task,species,TAXON_DOC_overlappingpdfs.131153.pdf.task_221_14_15,pterotocrinus depressus,"","{221,14,15,""P. depressus""}",,1,1
+827924,overlappingpdfs.136715.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136715.pdf.task_206_23_23,warburgella,"","{206,23,23,Warburgella}",,1,1
+1202828,overlappingpdfs.130593.pdf.task,genus,TAXON_DOC_overlappingpdfs.130593.pdf.task_539_23_23,trochomorpha,"","{539,23,23,Trochomorpha}",,1,0.996
+818851,overlappingpdfs.136715.pdf.task,genus,TAXON_DOC_overlappingpdfs.136715.pdf.task_134_20_20,iridistrophia,"","{134,20,20,Iridistrophia}",,1,0.986
+1326755,overlappingpdfs.135557.pdf.task,genus,TAXON_DOC_overlappingpdfs.135557.pdf.task_184_14_14,chusenophyllum,"","{184,14,14,Chusenophyllum}",,1,0.996
+1256789,overlappingpdfs.137213.pdf.task,genus,TAXON_DOC_overlappingpdfs.137213.pdf.task_14797_0_0,retepora,"","{14797,0,0,Retepora}",,1,1
+908013,overlappingpdfs.132744.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132744.pdf.task_72_3_3,pholadomya,"","{72,3,3,Pholadomya}",,1,1
+1057187,overlappingpdfs.138083.pdf.task,genus,TAXON_DOC_overlappingpdfs.138083.pdf.task_6737_0_0,india,"","{6737,0,0,India}",,1,1
+1114673,overlappingpdfs.139367.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.139367.pdf.task_180_0_0,arctotherium,"","{180,0,0,Arctotherium}",,1,1
+959297,overlappingpdfs.136450.pdf.task,species,TAXON_DOC_overlappingpdfs.136450.pdf.task_596_1_2,gennaeocrinus eucharis,"","{596,1,2,""Gennaeocrinus eucharis""}",,1,1
+965942,overlappingpdfs.131561.pdf.task,genus,TAXON_DOC_overlappingpdfs.131561.pdf.task_646_0_0,productella,"","{646,0,0,Productella}",,1,1
+1126376,overlappingpdfs.138000.pdf.task,species,TAXON_DOC_overlappingpdfs.138000.pdf.task_935_24_25,testudo demissa,"","{935,24,25,""T. demissa""}",,1,1
+1233750,overlappingpdfs.131702.pdf.task,genus,TAXON_DOC_overlappingpdfs.131702.pdf.task_514_12_12,kalbyella,"","{514,12,12,Kalbyella}",,1,0.999
+1281242,overlappingpdfs.138012.pdf.task,genus,TAXON_DOC_overlappingpdfs.138012.pdf.task_1278_2_2,erpetosaurus,"","{1278,2,2,Erpetosaurus}",,1,1
+837006,overlappingpdfs.138679.pdf.task,genus,TAXON_DOC_overlappingpdfs.138679.pdf.task_2951_38_38,mexico,"","{2951,38,38,Mexico}",,1,1
+796281,overlappingpdfs.133081.pdf.task,class,TAXON_DOC_overlappingpdfs.133081.pdf.task_457_3_3,reptilia,"","{457,3,3,Reptilia}",,1,1
+1387442,overlappingpdfs.133545.pdf.task,species,TAXON_DOC_overlappingpdfs.133545.pdf.task_261_46_47,martinia glabra,"","{261,46,47,""Martinia glabra""}",,1,0.996
+1043501,overlappingpdfs.136947.pdf.task,genus,TAXON_DOC_overlappingpdfs.136947.pdf.task_657_8_8,plumulites,"","{657,8,8,Plumulites}",,1,0.996
+1404435,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_3831_3_3,phacops,"","{3831,3,3,Phacops}",,1,0.995
+1033834,overlappingpdfs.138434.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138434.pdf.task_1028_3_3,angyomphalus,"","{1028,3,3,Angyomphalus}",,1,0.996
+871215,overlappingpdfs.138384.pdf.task,species,TAXON_DOC_overlappingpdfs.138384.pdf.task_2753_10_11,prolimnocyon atavus,"","{2753,10,11,""Prolimnocyon atavus""}",,1,0.996
+1414950,overlappingpdfs.132176.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.132176.pdf.task_1442_1_1,modiomorphoidea,"","{1442,1,1,MODIOMORPHOIDEA}",,1,1
+818858,overlappingpdfs.132485.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132485.pdf.task_729_0_0,alligatoroidea,"","{729,0,0,Alligatoroidea}",,1,1
+812222,overlappingpdfs.133081.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.133081.pdf.task_417_8_8,amphibia,"","{417,8,8,Amphibia}",,1,1
+1246752,overlappingpdfs.130588.pdf.task,class,TAXON_DOC_overlappingpdfs.130588.pdf.task_6_12_12,graptolithina,"","{6,12,12,Graptolithina}",,1,1
+1352973,overlappingpdfs.133108.pdf.task,species,TAXON_DOC_overlappingpdfs.133108.pdf.task_202_19_20,dicellograptus complanatus,"","{202,19,20,""Dicellograptus complanatus""}",,1,0.996
+1032145,overlappingpdfs.132216.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132216.pdf.task_645_30_30,ornithopoda,"","{645,30,30,Ornithopoda}",,1,1
+1289858,overlappingpdfs.132370.pdf.task,species,TAXON_DOC_overlappingpdfs.132370.pdf.task_471_0_1,ero longitarsus,"","{471,0,1,""Ero longitarsus""}",,1,1
+1076143,overlappingpdfs.138678.pdf.task,genus,TAXON_DOC_overlappingpdfs.138678.pdf.task_5565_6_6,eufriesea,"","{5565,6,6,Eufriesea}",,1,1
+896733,overlappingpdfs.138334.pdf.task,species,TAXON_DOC_overlappingpdfs.138334.pdf.task_2297_9_10,helohyus plicodon,"","{2297,9,10,""Helohyus plicodon""}",,1,1
+1140934,overlappingpdfs.132699.pdf.task,species,TAXON_DOC_overlappingpdfs.132699.pdf.task_979_8_9,diplodocus longus,"","{979,8,9,""D. longus""}",,1,1
+999999,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_2534_14_14,cynodesmus,"","{2534,14,14,Cynodesmus}",,1,1
+1136563,overlappingpdfs.138385.pdf.task,family,TAXON_DOC_overlappingpdfs.138385.pdf.task_2483_15_15,amblysominae,"","{2483,15,15,Amblysominae}",,1,1
+850480,overlappingpdfs.132418.pdf.task,genus,TAXON_DOC_overlappingpdfs.132418.pdf.task_442_3_3,uarbryichthys,"","{442,3,3,Uarbryichthys}",,1,1
+922378,overlappingpdfs.132275.pdf.task,genus,TAXON_DOC_overlappingpdfs.132275.pdf.task_127_22_22,terocrinus,"","{127,22,22,Terocrinus}",,1,1
+865369,overlappingpdfs.132529.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132529.pdf.task_298_8_8,temnospondyli,"","{298,8,8,Temnospondyli}",,1,1
+941922,overlappingpdfs.132913.pdf.task,species,TAXON_DOC_overlappingpdfs.132913.pdf.task_231_0_1,pollicina corniculum,"","{231,0,1,""Pollicina corniculum""}",,1,1
+1267090,overlappingpdfs.132441.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132441.pdf.task_88_29_29,gumillinae,"","{88,29,29,Gumillinae}",,1,1
+945248,overlappingpdfs.132382.pdf.task,family,TAXON_DOC_overlappingpdfs.132382.pdf.task_770_15_15,palaeontinidae,"","{770,15,15,Palaeontinidae}",,1,0.996
+956421,overlappingpdfs.133013.pdf.task,genus,TAXON_DOC_overlappingpdfs.133013.pdf.task_66_10_10,cheirogaster,"","{66,10,10,Cheirogaster}",,1,0.996
+1076738,overlappingpdfs.131655.pdf.task,species,TAXON_DOC_overlappingpdfs.131655.pdf.task_313_0_1,maoristrophia banksi,"","{313,0,1,""Maoristrophia banksi""}",,1,1
+983211,overlappingpdfs.133275.pdf.task,species,TAXON_DOC_overlappingpdfs.133275.pdf.task_65_0_1,protaster salteri,"","{65,0,1,""Protaster salteri""}",,1,1
+801569,overlappingpdfs.138578.pdf.task,species,TAXON_DOC_overlappingpdfs.138578.pdf.task_394_4_5,paracyclas rugosa,"","{394,4,5,""Paracyclas rugosa""}",,1,0.973
+923637,overlappingpdfs.138026.pdf.task,genus,TAXON_DOC_overlappingpdfs.138026.pdf.task_1012_13_13,dugong,"","{1012,13,13,Dugong}",,1,0.996
+865756,overlappingpdfs.138318.pdf.task,genus,TAXON_DOC_overlappingpdfs.138318.pdf.task_901_3_3,tapinotomaria,"","{901,3,3,Tapinotomaria}",,1,1
+838279,overlappingpdfs.138679.pdf.task,species,TAXON_DOC_overlappingpdfs.138679.pdf.task_1993_11_12,prionotropis woollgari,"","{1993,11,12,""P. woollgari""}",,1,1
+1071629,overlappingpdfs.132764.pdf.task,genus,TAXON_DOC_overlappingpdfs.132764.pdf.task_554_4_4,ferganocephale,"","{554,4,4,Ferganocephale}",,1,1
+841398,overlappingpdfs.136623.pdf.task,species,TAXON_DOC_overlappingpdfs.136623.pdf.task_264_6_7,trochus profundus,"","{264,6,7,""Trochus profundus""}",,1,1
+812274,overlappingpdfs.132972.pdf.task,genus,TAXON_DOC_overlappingpdfs.132972.pdf.task_18_32_32,argentina,"","{18,32,32,Argentina}",,1,1
+1406400,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_5982_12_12,gerastos,"","{5982,12,12,Gerastos}",,1,1
+970873,overlappingpdfs.138426.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138426.pdf.task_1354_6_6,synthetoceratinae,"","{1354,6,6,SYNTHETOCERATINAE}",,1,1
+1010621,overlappingpdfs.138644.pdf.task,tribe,TAXON_DOC_overlappingpdfs.138644.pdf.task_1343_18_18,tachydromiini,"","{1343,18,18,Tachydromiini}",,1,0.995
+871700,overlappingpdfs.138384.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138384.pdf.task_4352_10_10,mammalia,"","{4352,10,10,Mammalia}",,1,1
+1431086,overlappingpdfs.138482.pdf.task,genus,TAXON_DOC_overlappingpdfs.138482.pdf.task_881_7_7,alberta,"","{881,7,7,Alberta}",,1,1
+818129,overlappingpdfs.132874.pdf.task,genus,TAXON_DOC_overlappingpdfs.132874.pdf.task_723_0_0,tetrasauropus,"","{723,0,0,Tetrasauropus}",,1,0.999
+1250212,overlappingpdfs.137683.pdf.task,genus,TAXON_DOC_overlappingpdfs.137683.pdf.task_57_19_19,brachyceratops,"","{57,19,19,Brachyceratops}",,1,1
+1005134,overlappingpdfs.138622.pdf.task,species,TAXON_DOC_overlappingpdfs.138622.pdf.task_4972_0_1,ectopocynus intermedius,"","{4972,0,1,""Ectopocynus intermedius""}",,1,1
+841590,overlappingpdfs.132418.pdf.task,genus,TAXON_DOC_overlappingpdfs.132418.pdf.task_592_16_16,mexico,"","{592,16,16,Mexico}",,1,1
+1089720,overlappingpdfs.132440.pdf.task,class,TAXON_DOC_overlappingpdfs.132440.pdf.task_1295_1_1,chondrichthyes,"","{1295,1,1,Chondrichthyes}",,1,1
+975250,overlappingpdfs.132990.pdf.task,species,TAXON_DOC_overlappingpdfs.132990.pdf.task_979_0_1,polonospongia devonica,"","{979,0,1,""Polonospongia devonica""}",,1,1
+931205,overlappingpdfs.138761.pdf.task,species,TAXON_DOC_overlappingpdfs.138761.pdf.task_3649_20_21,baptornis advenus,"","{3649,20,21,""Baptornis advenus""}",,1,1
+1098775,overlappingpdfs.132567.pdf.task,genus,TAXON_DOC_overlappingpdfs.132567.pdf.task_502_0_0,cladopora,"","{502,0,0,Cladopora}",,1,0.996
+1156647,overlappingpdfs.131626.pdf.task,species,TAXON_DOC_overlappingpdfs.131626.pdf.task_257_49_50,astartella concentrica,"","{257,49,50,""Astartella concentrica""}",,1,1
+839343,overlappingpdfs.138593.pdf.task,genus,TAXON_DOC_overlappingpdfs.138593.pdf.task_1619_9_9,claudius,"","{1619,9,9,Claudius}",,1,1
+1000498,overlappingpdfs.136130.pdf.task,genus,TAXON_DOC_overlappingpdfs.136130.pdf.task_21_61_61,cupido,"","{21,61,61,Cupido}",,1,0.987
+1363119,overlappingpdfs.133089.pdf.task,genus,TAXON_DOC_overlappingpdfs.133089.pdf.task_1524_24_24,columbia,"","{1524,24,24,Columbia}",,1,0.996
+962568,overlappingpdfs.138438.pdf.task,genus,TAXON_DOC_overlappingpdfs.138438.pdf.task_1736_0_0,dyseohyus,"","{1736,0,0,Dyseohyus}",,1,1
+856782,overlappingpdfs.132191.pdf.task,species,TAXON_DOC_overlappingpdfs.132191.pdf.task_298_9_10,sunnaginia imbricata,"","{298,9,10,""S. imbricata""}",,1,1
+1227882,overlappingpdfs.132527.pdf.task,genus,TAXON_DOC_overlappingpdfs.132527.pdf.task_126_55_55,galesaurus,"","{126,55,55,Galesaurus}",,1,0.996
+1275927,overlappingpdfs.132435.pdf.task,genus,TAXON_DOC_overlappingpdfs.132435.pdf.task_18_28_28,posidonia,"","{18,28,28,Posidonia}",,1,0.996
+938993,overlappingpdfs.131000.pdf.task,genus,TAXON_DOC_overlappingpdfs.131000.pdf.task_362_20_20,nicholsonella,"","{362,20,20,Nicholsonella}",,1,1
+1149958,overlappingpdfs.132241.pdf.task,genus,TAXON_DOC_overlappingpdfs.132241.pdf.task_179_0_0,stenopterygius,"","{179,0,0,Stenopterygius}",,1,1
+881951,overlappingpdfs.138465.pdf.task,genus,TAXON_DOC_overlappingpdfs.138465.pdf.task_844_5_5,victoria,"","{844,5,5,Victoria}",,1,1
+876270,overlappingpdfs.132698.pdf.task,genus,TAXON_DOC_overlappingpdfs.132698.pdf.task_254_36_36,datta,"","{254,36,36,Datta}",,1,1
+1259275,overlappingpdfs.132517.pdf.task,genus,TAXON_DOC_overlappingpdfs.132517.pdf.task_11_4_4,carcassonnella,"","{11,4,4,Carcassonnella}",,1,1
+1049153,overlappingpdfs.132367.pdf.task,genus,TAXON_DOC_overlappingpdfs.132367.pdf.task_135_38_38,epicelia,"","{135,38,38,Epicelia}",,1,1
+1232323,overlappingpdfs.138572.pdf.task,genus,TAXON_DOC_overlappingpdfs.138572.pdf.task_3415_4_4,mecysmauchenius,"","{3415,4,4,Mecysmauchenius}",,1,1
+1435524,overlappingpdfs.138024.pdf.task,species,TAXON_DOC_overlappingpdfs.138024.pdf.task_214_16_17,palaeopython sardus,"","{214,16,17,""Palaeopython sardus""}",,1,1
+1065471,overlappingpdfs.138678.pdf.task,genus,TAXON_DOC_overlappingpdfs.138678.pdf.task_154_18_18,ctenoplectrella,"","{154,18,18,Ctenoplectrella}",,1,0.948
+1079519,overlappingpdfs.132930.pdf.task,genus,TAXON_DOC_overlappingpdfs.132930.pdf.task_580_14_14,ernietta,"","{580,14,14,Ernietta}",,1,1
+1112309,overlappingpdfs.132999.pdf.task,genus,TAXON_DOC_overlappingpdfs.132999.pdf.task_173_0_0,palmatolepis,"","{173,0,0,Palmatolepis}",,1,1
+892623,overlappingpdfs.138709.pdf.task,genus,TAXON_DOC_overlappingpdfs.138709.pdf.task_49_1_1,koniaryctes,"","{49,1,1,Koniaryctes}",,1,1
+1365866,overlappingpdfs.133114.pdf.task,genus,TAXON_DOC_overlappingpdfs.133114.pdf.task_586_7_7,poecilia,"","{586,7,7,Poecilia}",,1,1
+1069906,overlappingpdfs.138388.pdf.task,family,TAXON_DOC_overlappingpdfs.138388.pdf.task_1945_74_74,atherinidae,"","{1945,74,74,Atherinidae}",,1,0.946
+1310469,overlappingpdfs.131017.pdf.task,genus,TAXON_DOC_overlappingpdfs.131017.pdf.task_240_0_0,maikhanella,"","{240,0,0,Maikhanella}",,1,0.999
+1195055,overlappingpdfs.133075.pdf.task,class,TAXON_DOC_overlappingpdfs.133075.pdf.task_1882_7_7,ostracoda,"","{1882,7,7,Ostracoda}",,1,1
+911048,overlappingpdfs.132995.pdf.task,order,TAXON_DOC_overlappingpdfs.132995.pdf.task_689_6_6,eupantotheria,"","{689,6,6,Eupantotheria}",,1,1
+1312767,overlappingpdfs.137349.pdf.task,genus,TAXON_DOC_overlappingpdfs.137349.pdf.task_4_1_1,glyptotherium,"","{4,1,1,GLYPTOTHERIUM}",,1,1
+1350665,overlappingpdfs.132873.pdf.task,genus,TAXON_DOC_overlappingpdfs.132873.pdf.task_747_7_7,sphenozamites,"","{747,7,7,Sphenozamites}",,1,1
+1172652,overlappingpdfs.132162.pdf.task,genus,TAXON_DOC_overlappingpdfs.132162.pdf.task_653_6_6,china,"","{653,6,6,China}",,1,1
+922499,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_4513_34_34,ichthyornis,"","{4513,34,34,Ichthyornis}",,1,1
+948219,overlappingpdfs.132109.pdf.task,superorder,TAXON_DOC_overlappingpdfs.132109.pdf.task_454_2_2,neuropterida,"","{454,2,2,Neuropterida}",,1,0.996
+1445912,overlappingpdfs.132928.pdf.task,family,TAXON_DOC_overlappingpdfs.132928.pdf.task_74_7_7,pemphicidae,"","{74,7,7,Pemphicidae}",,1,0.995
+1271902,overlappingpdfs.132435.pdf.task,genus,TAXON_DOC_overlappingpdfs.132435.pdf.task_802_6_6,china,"","{802,6,6,China}",,1,1
+1259002,overlappingpdfs.132742.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132742.pdf.task_1158_31_31,balaenula,"","{1158,31,31,Balaenula}",,1,0.994
+1027352,overlappingpdfs.133026.pdf.task,order,TAXON_DOC_overlappingpdfs.133026.pdf.task_426_5_5,pteropoda,"","{426,5,5,Pteropoda}",,1,0.996
+1209733,overlappingpdfs.138538.pdf.task,suborder,TAXON_DOC_overlappingpdfs.138538.pdf.task_1949_8_8,phacopina,"","{1949,8,8,Phacopina}",,1,0.996
+1394061,overlappingpdfs.133545.pdf.task,genus,TAXON_DOC_overlappingpdfs.133545.pdf.task_1159_8_8,tornquistia,"","{1159,8,8,Tornquistia}",,1,0.996
+1174751,overlappingpdfs.138407.pdf.task,genus,TAXON_DOC_overlappingpdfs.138407.pdf.task_3982_44_44,microsyops,"","{3982,44,44,Microsyops}",,1,1
+984026,overlappingpdfs.138573.pdf.task,genus,TAXON_DOC_overlappingpdfs.138573.pdf.task_2261_14_14,cormohipparion,"","{2261,14,14,Cormohipparion}",,1,1
+830982,overlappingpdfs.138679.pdf.task,species,TAXON_DOC_overlappingpdfs.138679.pdf.task_3770_0_1,prionocyclus germari,"","{3770,0,1,""Prionocyclus germari""}",,1,1
+1092863,overlappingpdfs.133007.pdf.task,genus,TAXON_DOC_overlappingpdfs.133007.pdf.task_91_12_12,thaumastognathus,"","{91,12,12,Thaumastognathus}",,1,1
+1330993,overlappingpdfs.136353.pdf.task,genus,TAXON_DOC_overlappingpdfs.136353.pdf.task_459_10_10,pachythecella,"","{459,10,10,Pachythecella}",,1,1
+924862,overlappingpdfs.132510.pdf.task,genus,TAXON_DOC_overlappingpdfs.132510.pdf.task_19_21_21,palaeopsittacus,"","{19,21,21,Palaeopsittacus}",,1,0.996
+816637,overlappingpdfs.133077.pdf.task,class,TAXON_DOC_overlappingpdfs.133077.pdf.task_1386_4_4,chondrichthyes,"","{1386,4,4,Chondrichthyes}",,1,1
+1329453,overlappingpdfs.132602.pdf.task,species,TAXON_DOC_overlappingpdfs.132602.pdf.task_753_16_17,warendja encorensis,"","{753,16,17,""W. encorensis""}",,1,1
+900401,overlappingpdfs.130370.pdf.task,family,TAXON_DOC_overlappingpdfs.130370.pdf.task_208_15_15,araxoceratidae,"","{208,15,15,Araxoceratidae}",,1,1
+1036342,overlappingpdfs.132120.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132120.pdf.task_31_13_13,plesiosauria,"","{31,13,13,Plesiosauria}",,1,1
+1050143,overlappingpdfs.133027.pdf.task,genus,TAXON_DOC_overlappingpdfs.133027.pdf.task_707_1_1,abactinocrinites,"","{707,1,1,ABACTINOCRINITES}",,1,1
+834107,overlappingpdfs.136141.pdf.task,genus,TAXON_DOC_overlappingpdfs.136141.pdf.task_535_14_14,archaeocrinus,"","{535,14,14,Archaeocrinus}",,1,0.999
+1432622,overlappingpdfs.132354.pdf.task,genus,TAXON_DOC_overlappingpdfs.132354.pdf.task_713_0_0,trilobites,"","{713,0,0,Trilobites}",,1,1
+1001831,overlappingpdfs.138622.pdf.task,genus,TAXON_DOC_overlappingpdfs.138622.pdf.task_4298_0_0,paraenhydrocyon,"","{4298,0,0,Paraenhydrocyon}",,1,1
+973917,overlappingpdfs.132990.pdf.task,genus,TAXON_DOC_overlappingpdfs.132990.pdf.task_44_8_8,devonoscyphia,"","{44,8,8,Devonoscyphia}",,1,1
+872626,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_6298_18_18,cimolestes,"","{6298,18,18,Cimolestes}",,1,0.988
+1405896,overlappingpdfs.132198.pdf.task,species,TAXON_DOC_overlappingpdfs.132198.pdf.task_407_10_11,nilssonia sturii,"","{407,10,11,""Nilssonia sturii""}",,1,1
+1320793,overlappingpdfs.138877.pdf.task,genus,TAXON_DOC_overlappingpdfs.138877.pdf.task_65_20_20,amazonia,"","{65,20,20,Amazonia}",,1,1
+1063811,overlappingpdfs.138388.pdf.task,family,TAXON_DOC_overlappingpdfs.138388.pdf.task_1938_7_7,bregmacerotidae,"","{1938,7,7,Bregmacerotidae}",,1,0.999
+1137548,overlappingpdfs.131614.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.131614.pdf.task_129_0_0,atrypa,"","{129,0,0,ATRYPA}",,1,0.999
+1126971,overlappingpdfs.132834.pdf.task,genus,TAXON_DOC_overlappingpdfs.132834.pdf.task_929_2_2,tethys,"","{929,2,2,Tethys}",,1,1
+1223259,overlappingpdfs.130595.pdf.task,genus,TAXON_DOC_overlappingpdfs.130595.pdf.task_675_1_1,parvamussium,"","{675,1,1,Parvamussium}",,1,1
+981466,overlappingpdfs.132702.pdf.task,genus,TAXON_DOC_overlappingpdfs.132702.pdf.task_757_0_0,columbia,"","{757,0,0,Columbia}",,1,1
+1353044,overlappingpdfs.133261.pdf.task,species,TAXON_DOC_overlappingpdfs.133261.pdf.task_164_7_8,yanosteus boi,"","{164,7,8,""Yanosteus boi""}",,1,1
+1268814,overlappingpdfs.132570.pdf.task,species,TAXON_DOC_overlappingpdfs.132570.pdf.task_122_0_1,xenoposeidon proneneukos,"","{122,0,1,""Xenoposeidon proneneukos""}",,1,1
+1076170,overlappingpdfs.138678.pdf.task,family,TAXON_DOC_overlappingpdfs.138678.pdf.task_6931_11_11,sphecidae,"","{6931,11,11,Sphecidae}",,1,0.996
+1091930,overlappingpdfs.132516.pdf.task,genus,TAXON_DOC_overlappingpdfs.132516.pdf.task_290_7_7,vendoconularia,"","{290,7,7,Vendoconularia}",,1,0.997
+804670,overlappingpdfs.131850.pdf.task,genus,TAXON_DOC_overlappingpdfs.131850.pdf.task_180_22_22,arctostrea,"","{180,22,22,Arctostrea}",,1,0.996
+1173278,overlappingpdfs.138519.pdf.task,genus,TAXON_DOC_overlappingpdfs.138519.pdf.task_5133_0_0,eucastor,"","{5133,0,0,Eucastor}",,1,1
+1368998,overlappingpdfs.1329.pdf.task,order,TAXON_DOC_overlappingpdfs.1329.pdf.task_388_11_11,perciformes,"","{388,11,11,Perciformes}",,1,1
+1078960,overlappingpdfs.138678.pdf.task,species,TAXON_DOC_overlappingpdfs.138678.pdf.task_102_2_3,apis palmnickenensis,"","{102,2,3,""A. palmnickenensis""}",,1,0.964
+1048494,overlappingpdfs.1362.pdf.task,genus,TAXON_DOC_overlappingpdfs.1362.pdf.task_65_8_8,delphinoidea,"","{65,8,8,DELPHINOIDEA}",,1,0.996
+1085008,overlappingpdfs.138613.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138613.pdf.task_108_5_5,aphodiinae,"","{108,5,5,Aphodiinae}",,1,0.996
+888442,overlappingpdfs.138709.pdf.task,genus,TAXON_DOC_overlappingpdfs.138709.pdf.task_664_8_8,montana,"","{664,8,8,Montana}",,1,1
+882778,overlappingpdfs.133068.pdf.task,family,TAXON_DOC_overlappingpdfs.133068.pdf.task_382_7_7,gnaphosidae,"","{382,7,7,Gnaphosidae}",,1,1
+1008505,overlappingpdfs.138859.pdf.task,species,TAXON_DOC_overlappingpdfs.138859.pdf.task_967_32_33,palaeeudyptes antarcticus,"","{967,32,33,""Palaeeudyptes antarcticus""}",,1,1
+1236088,overlappingpdfs.132923.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132923.pdf.task_652_13_13,muraenosaurus,"","{652,13,13,Muraenosaurus}",,1,1
+1090011,overlappingpdfs.138613.pdf.task,species,TAXON_DOC_overlappingpdfs.138613.pdf.task_4189_9_10,mesojassula marginata,"","{4189,9,10,""Mesojassula marginata""}",,1,0.996
+1148470,overlappingpdfs.133044.pdf.task,genus,TAXON_DOC_overlappingpdfs.133044.pdf.task_56_12_12,stigmatoa,"","{56,12,12,Stigmatoa}",,1,1
+1087759,overlappingpdfs.138222.pdf.task,species,TAXON_DOC_overlappingpdfs.138222.pdf.task_745_0_1,cimomia wylliei,"","{745,0,1,""Cimomia wylliei""}",,1,1
+829756,overlappingpdfs.138679.pdf.task,species,TAXON_DOC_overlappingpdfs.138679.pdf.task_1082_2_3,collignoniceras vermilionense,"","{1082,2,3,""Collignoniceras vermilionense""}",,1,1
+1321175,overlappingpdfs.138877.pdf.task,species,TAXON_DOC_overlappingpdfs.138877.pdf.task_742_38_39,aotus trivirgatus,"","{742,38,39,""Aotus trivirgatus""}",,1,0.999
+904284,overlappingpdfs.138745.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.138745.pdf.task_3101_13_13,glires,"","{3101,13,13,Glires}",,1,1
+1324734,overlappingpdfs.133102.pdf.task,subclass,TAXON_DOC_overlappingpdfs.133102.pdf.task_71_1_1,lissamphibia,"","{71,1,1,LISSAMPHIBIA}",,1,1
+854338,overlappingpdfs.138593.pdf.task,genus,TAXON_DOC_overlappingpdfs.138593.pdf.task_3271_10_10,carettochelys,"","{3271,10,10,Carettochelys}",,1,1
+989313,overlappingpdfs.133406.pdf.task,genus,TAXON_DOC_overlappingpdfs.133406.pdf.task_507_2_2,lochriea,"","{507,2,2,Lochriea}",,1,1
+1022087,overlappingpdfs.137776.pdf.task,genus,TAXON_DOC_overlappingpdfs.137776.pdf.task_685_4_4,struthiomimus,"","{685,4,4,Struthiomimus}",,1,1
+1216941,overlappingpdfs.132301.pdf.task,species,TAXON_DOC_overlappingpdfs.132301.pdf.task_612_4_5,cenechoia paramillensis,"","{612,4,5,""C. paramillensis""}",,1,1
+1008477,overlappingpdfs.138622.pdf.task,species,TAXON_DOC_overlappingpdfs.138622.pdf.task_4053_0_1,osbornodon iamonensis,"","{4053,0,1,""Osbornodon iamonensis""}",,1,0.999
+1419862,overlappingpdfs.137150.pdf.task,species,TAXON_DOC_overlappingpdfs.137150.pdf.task_495_0_1,phoca maculata,"","{495,0,1,""Phoca maculata""}",,1,1
+1281233,overlappingpdfs.138012.pdf.task,genus,TAXON_DOC_overlappingpdfs.138012.pdf.task_42_1_1,spondylerpeton,"","{42,1,1,Spondylerpeton}",,1,1
+877721,overlappingpdfs.138465.pdf.task,genus,TAXON_DOC_overlappingpdfs.138465.pdf.task_805_14_14,victoria,"","{805,14,14,Victoria}",,1,1
+908804,overlappingpdfs.130827.pdf.task,genus,TAXON_DOC_overlappingpdfs.130827.pdf.task_535_0_1,pterotheca,"","{535,0,1,Pterotheca}",,1,1
+857497,overlappingpdfs.132118.pdf.task,genus,TAXON_DOC_overlappingpdfs.132118.pdf.task_700_2_2,sinica,"","{700,2,2,Sinica}",,1,1
+883481,overlappingpdfs.133024.pdf.task,genus,TAXON_DOC_overlappingpdfs.133024.pdf.task_181_9_9,diatryma,"","{181,9,9,Diatryma}",,1,1
+903846,overlappingpdfs.138745.pdf.task,species,TAXON_DOC_overlappingpdfs.138745.pdf.task_2864_14_15,eoungulatum kudukensis,"","{2864,14,15,""Eoungulatum kudukensis""}",,1,0.993
+1019981,overlappingpdfs.138434.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138434.pdf.task_422_0_0,carinaropsis,"","{422,0,0,Carinaropsis}",,1,1
+1383753,overlappingpdfs.138239.pdf.task,genus,TAXON_DOC_overlappingpdfs.138239.pdf.task_1712_8_8,proadinotherium,"","{1712,8,8,Proadinotherium}",,1,1
+911591,overlappingpdfs.130827.pdf.task,genus,TAXON_DOC_overlappingpdfs.130827.pdf.task_294_1_1,pterotheca,"","{294,1,1,Pterotheca}",,1,0.999
+1368933,overlappingpdfs.135462.pdf.task,genus,TAXON_DOC_overlappingpdfs.135462.pdf.task_362_2_2,mexico,"","{362,2,2,Mexico}",,1,1
+899637,overlappingpdfs.137951.pdf.task,genus,TAXON_DOC_overlappingpdfs.137951.pdf.task_2657_5_5,parahippus,"","{2657,5,5,Parahippus}",,1,1
+800069,overlappingpdfs.138578.pdf.task,genus,TAXON_DOC_overlappingpdfs.138578.pdf.task_2478_26_26,nucula,"","{2478,26,26,Nucula}",,1,1
+1429367,overlappingpdfs.132714.pdf.task,genus,TAXON_DOC_overlappingpdfs.132714.pdf.task_318_7_7,glottidia,"","{318,7,7,Glottidia}",,1,1
+1379959,overlappingpdfs.137339.pdf.task,species,TAXON_DOC_overlappingpdfs.137339.pdf.task_434_0_1,erisichthe dimidiata,"","{434,0,1,""Erisichthe dimidiata""}",,1,1
+1026446,overlappingpdfs.138658.pdf.task,species,TAXON_DOC_overlappingpdfs.138658.pdf.task_1959_3_4,cryphaeus jonesi,"","{1959,3,4,""Cryphaeus jonesi""}",,1,1
+844942,overlappingpdfs.132418.pdf.task,genus,TAXON_DOC_overlappingpdfs.132418.pdf.task_29_17_17,notagogus,"","{29,17,17,Notagogus}",,1,1
+904119,overlappingpdfs.130370.pdf.task,order,TAXON_DOC_overlappingpdfs.130370.pdf.task_81_22_22,ceratitida,"","{81,22,22,Ceratitida}",,1,1
+1115769,overlappingpdfs.132999.pdf.task,genus,TAXON_DOC_overlappingpdfs.132999.pdf.task_336_0_0,mesotaxis,"","{336,0,0,Mesotaxis}",,1,1
+1209212,overlappingpdfs.132961.pdf.task,genus,TAXON_DOC_overlappingpdfs.132961.pdf.task_225_0_0,hypsophlebia,"","{225,0,0,Hypsophlebia}",,1,1
+1437962,overlappingpdfs.133101.pdf.task,genus,TAXON_DOC_overlappingpdfs.133101.pdf.task_537_5_5,dromiciops,"","{537,5,5,Dromiciops}",,1,1
+1153678,overlappingpdfs.137545.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.137545.pdf.task_1309_2_2,mammalia,"","{1309,2,2,Mammalia}",,1,1
+1340896,overlappingpdfs.132025.pdf.task,genus,TAXON_DOC_overlappingpdfs.132025.pdf.task_689_0_0,xenusion,"","{689,0,0,Xenusion}",,1,1
+1215786,overlappingpdfs.136143.pdf.task,species,TAXON_DOC_overlappingpdfs.136143.pdf.task_249_19_20,nemaster discoidea,"","{249,19,20,""Nemaster discoidea""}",,1,0.996
+1445589,overlappingpdfs.138272.pdf.task,genus,TAXON_DOC_overlappingpdfs.138272.pdf.task_3754_0_0,columbia,"","{3754,0,0,Columbia}",,1,0.999
+1030373,overlappingpdfs.138658.pdf.task,species,TAXON_DOC_overlappingpdfs.138658.pdf.task_3325_16_17,greenops grabaui,"","{3325,16,17,""G. grabaui""}",,1,1
+1276510,overlappingpdfs.132282.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132282.pdf.task_760_1_1,brachiopoda,"","{760,1,1,Brachiopoda}",,1,1
+999789,overlappingpdfs.138622.pdf.task,species,TAXON_DOC_overlappingpdfs.138622.pdf.task_4769_6_7,caedocyon tedfordi,"","{4769,6,7,""Caedocyon tedfordi""}",,1,0.999
+874467,overlappingpdfs.131884.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.131884.pdf.task_695_1_1,bellerophon,"","{695,1,1,Bellerophon}",,1,1
+818269,overlappingpdfs.132931.pdf.task,suborder,TAXON_DOC_overlappingpdfs.132931.pdf.task_224_22_22,dinosauria,"","{224,22,22,Dinosauria}",,1,1
+1091511,overlappingpdfs.137289.pdf.task,species,TAXON_DOC_overlappingpdfs.137289.pdf.task_2044_0_1,lagenorhynchus obliquidens,"","{2044,0,1,""LAGENORHYNCHUS obliquidens""}",,1,1
+795962,overlappingpdfs.138365.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138365.pdf.task_1316_0_0,palaeolaginae,"","{1316,0,0,PALAEOLAGINAE}",,1,1
+1382516,overlappingpdfs.137559.pdf.task,species,TAXON_DOC_overlappingpdfs.137559.pdf.task_30_19_20,tarsius spectrum,"","{30,19,20,""Tarsius spectrum""}",,1,1
+1095061,overlappingpdfs.138613.pdf.task,family,TAXON_DOC_overlappingpdfs.138613.pdf.task_1630_11_11,ephemerellidae,"","{1630,11,11,Ephemerellidae}",,1,1
+1243453,overlappingpdfs.135738.pdf.task,class,TAXON_DOC_overlappingpdfs.135738.pdf.task_316_23_23,crinoidea,"","{316,23,23,Crinoidea}",,1,0.999
+1001775,overlappingpdfs.134.pdf.task,species,TAXON_DOC_overlappingpdfs.134.pdf.task_333_15_16,troodon formosus,"","{333,15,16,""Troodon formosus""}",,1,1
+1242752,overlappingpdfs.130588.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.130588.pdf.task_41_12_12,plectograptus,"","{41,12,12,Plectograptus}",,1,1
+1417969,overlappingpdfs.135.pdf.task,genus,TAXON_DOC_overlappingpdfs.135.pdf.task_443_27_27,pistosaurus,"","{443,27,27,Pistosaurus}",,1,0.996
+1167016,overlappingpdfs.132622.pdf.task,genus,TAXON_DOC_overlappingpdfs.132622.pdf.task_940_20_20,rigalites,"","{940,20,20,Rigalites}",,1,1
+895439,overlappingpdfs.138334.pdf.task,genus,TAXON_DOC_overlappingpdfs.138334.pdf.task_2017_17_17,tillomys,"","{2017,17,17,Tillomys}",,1,1
+1183760,overlappingpdfs.132210.pdf.task,species,TAXON_DOC_overlappingpdfs.132210.pdf.task_128_0_1,hauffiosaurus tomistomimus,"","{128,0,1,""H. tomistomimus""}",,1,1
+883092,overlappingpdfs.131884.pdf.task,genus,TAXON_DOC_overlappingpdfs.131884.pdf.task_885_39_39,productella,"","{885,39,39,Productella}",,1,1
+1316294,overlappingpdfs.138877.pdf.task,species,TAXON_DOC_overlappingpdfs.138877.pdf.task_1602_44_45,callicebus torquatus,"","{1602,44,45,""Callicebus torquatus""}",,1,0.996
+847915,overlappingpdfs.132191.pdf.task,species,TAXON_DOC_overlappingpdfs.132191.pdf.task_373_21_22,sunnaginia imbricata,"","{373,21,22,""Sunnaginia imbricata""}",,1,1
+1365208,overlappingpdfs.138605.pdf.task,genus,TAXON_DOC_overlappingpdfs.138605.pdf.task_304_16_16,plateosaurus,"","{304,16,16,Plateosaurus}",,1,1
+1026385,overlappingpdfs.138940.pdf.task,genus,TAXON_DOC_overlappingpdfs.138940.pdf.task_89_12_12,hesperopithecus,"","{89,12,12,Hesperopithecus}",,1,1
+1424989,overlappingpdfs.137150.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.137150.pdf.task_275_0_0,glires,"","{275,0,0,Glires}",,1,1
+825425,overlappingpdfs.138230.pdf.task,genus,TAXON_DOC_overlappingpdfs.138230.pdf.task_644_27_27,euparkeria,"","{644,27,27,Euparkeria}",,1,1
+1157863,overlappingpdfs.132241.pdf.task,genus,TAXON_DOC_overlappingpdfs.132241.pdf.task_961_0_0,excalibosaurus,"","{961,0,0,Excalibosaurus}",,1,1
+1287440,overlappingpdfs.133618.pdf.task,genus,TAXON_DOC_overlappingpdfs.133618.pdf.task_636_8_8,virginia,"","{636,8,8,Virginia}",,1,1
+1325671,overlappingpdfs.131508.pdf.task,genus,TAXON_DOC_overlappingpdfs.131508.pdf.task_230_21_21,thecidellina,"","{230,21,21,Thecidellina}",,1,1
+973258,overlappingpdfs.132925.pdf.task,genus,TAXON_DOC_overlappingpdfs.132925.pdf.task_967_39_39,skenidioides,"","{967,39,39,Skenidioides}",,1,0.996
+1272154,overlappingpdfs.132282.pdf.task,genus,TAXON_DOC_overlappingpdfs.132282.pdf.task_150_7_7,clarkella,"","{150,7,7,Clarkella}",,1,1
+1390869,overlappingpdfs.138540.pdf.task,genus,TAXON_DOC_overlappingpdfs.138540.pdf.task_327_11_11,moropus,"","{327,11,11,Moropus}",,1,0.999
+835185,overlappingpdfs.138679.pdf.task,genus,TAXON_DOC_overlappingpdfs.138679.pdf.task_3504_0_0,paratype,"","{3504,0,0,Paratype}",,1,1
+1305435,overlappingpdfs.138601.pdf.task,genus,TAXON_DOC_overlappingpdfs.138601.pdf.task_3163_24_24,drosophila,"","{3163,24,24,Drosophila}",,1,1
+1062755,overlappingpdfs.138678.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138678.pdf.task_3351_6_6,electrapis,"","{3351,6,6,Electrapis}",,1,1
+1401841,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_4509_0_0,cyrtodechenella,"","{4509,0,0,Cyrtodechenella}",,1,1
+1167433,overlappingpdfs.138329.pdf.task,species,TAXON_DOC_overlappingpdfs.138329.pdf.task_2381_12_13,astrangia haimei,"","{2381,12,13,""Astrangia haimei""}",,1,1
+1172864,overlappingpdfs.137936.pdf.task,species,TAXON_DOC_overlappingpdfs.137936.pdf.task_37_2_3,youngina capensis,"","{37,2,3,""Youngina capensis""}",,1,1
+989038,overlappingpdfs.137583.pdf.task,order,TAXON_DOC_overlappingpdfs.137583.pdf.task_233_3_3,coleoptera,"","{233,3,3,Coleoptera}",,1,1
+1329836,overlappingpdfs.132304.pdf.task,genus,TAXON_DOC_overlappingpdfs.132304.pdf.task_378_12_12,china,"","{378,12,12,CHINA}",,1,0.996
+1374054,overlappingpdfs.132360.pdf.task,genus,TAXON_DOC_overlappingpdfs.132360.pdf.task_416_33_33,opisoma,"","{416,33,33,Opisoma}",,1,1
+989504,overlappingpdfs.133406.pdf.task,genus,TAXON_DOC_overlappingpdfs.133406.pdf.task_305_3_3,bradyina,"","{305,3,3,Bradyina}",,1,1
+1288508,overlappingpdfs.137935.pdf.task,genus,TAXON_DOC_overlappingpdfs.137935.pdf.task_796_8_8,lacerta,"","{796,8,8,Lacerta}",,1,1
+1435104,overlappingpdfs.133047.pdf.task,genus,TAXON_DOC_overlappingpdfs.133047.pdf.task_280_10_10,actinostroma,"","{280,10,10,Actinostroma}",,1,1
+1016681,overlappingpdfs.138859.pdf.task,genus,TAXON_DOC_overlappingpdfs.138859.pdf.task_837_28_28,platydyptes,"","{837,28,28,Platydyptes}",,1,0.95
+837582,overlappingpdfs.135412.pdf.task,family,TAXON_DOC_overlappingpdfs.135412.pdf.task_14_36_36,hamulinidae,"","{14,36,36,Hamulinidae}",,1,1
+814818,overlappingpdfs.133077.pdf.task,genus,TAXON_DOC_overlappingpdfs.133077.pdf.task_990_16_16,amblypterus,"","{990,16,16,Amblypterus}",,1,1
+1368089,overlappingpdfs.135332.pdf.task,genus,TAXON_DOC_overlappingpdfs.135332.pdf.task_374_44_44,chlidonophora,"","{374,44,44,Chlidonophora}",,1,0.996
+1134626,overlappingpdfs.131351.pdf.task,genus,TAXON_DOC_overlappingpdfs.131351.pdf.task_167_0_0,hebellum,"","{167,0,0,Hebellum}",,1,1
+962010,overlappingpdfs.132168.pdf.task,family,TAXON_DOC_overlappingpdfs.132168.pdf.task_17_19_19,macrobaenidae,"","{17,19,19,Macrobaenidae}",,1,0.993
+830170,overlappingpdfs.1373.pdf.task,genus,TAXON_DOC_overlappingpdfs.1373.pdf.task_686_16_16,arizona,"","{686,16,16,Arizona}",,1,1
+1191970,overlappingpdfs.132361.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132361.pdf.task_191_17_17,selenimyalina,"","{191,17,17,Selenimyalina}",,1,1
+1258134,overlappingpdfs.137213.pdf.task,genus,TAXON_DOC_overlappingpdfs.137213.pdf.task_14550_0_0,orthonota,"","{14550,0,0,Orthonota}",,1,1
+813837,overlappingpdfs.138375.pdf.task,genus,TAXON_DOC_overlappingpdfs.138375.pdf.task_546_21_21,solemya,"","{546,21,21,Solemya}",,1,0.994
+1403336,overlappingpdfs.138624.pdf.task,genus,TAXON_DOC_overlappingpdfs.138624.pdf.task_1979_13_13,schizoproetus,"","{1979,13,13,Schizoproetus}",,1,1
+877285,overlappingpdfs.138384.pdf.task,species,TAXON_DOC_overlappingpdfs.138384.pdf.task_2924_20_21,entomodon camptus,"","{2924,20,21,""Entomodon camptus""}",,1,1
+1048967,overlappingpdfs.138435.pdf.task,genus,TAXON_DOC_overlappingpdfs.138435.pdf.task_1144_6_6,icarosaurus,"","{1144,6,6,Icarosaurus}",,1,1
+1052318,overlappingpdfs.132367.pdf.task,genus,TAXON_DOC_overlappingpdfs.132367.pdf.task_510_27_27,kotlaia,"","{510,27,27,Kotlaia}",,1,1
+1290467,overlappingpdfs.1300.pdf.task,genus,TAXON_DOC_overlappingpdfs.1300.pdf.task_203_4_4,saurocephalus,"","{203,4,4,Saurocephalus}",,1,1
+928492,overlappingpdfs.138761.pdf.task,species,TAXON_DOC_overlappingpdfs.138761.pdf.task_587_5_6,ichthyornis dispar,"","{587,5,6,""Ichthyornis dispar""}",,1,1
+845652,overlappingpdfs.132858.pdf.task,genus,TAXON_DOC_overlappingpdfs.132858.pdf.task_720_37_37,ichthyostega,"","{720,37,37,Ichthyostega}",,1,1
+1278739,overlappingpdfs.132630.pdf.task,genus,TAXON_DOC_overlappingpdfs.132630.pdf.task_524_4_4,adriosaurus,"","{524,4,4,Adriosaurus}",,1,1
+1014380,overlappingpdfs.138859.pdf.task,genus,TAXON_DOC_overlappingpdfs.138859.pdf.task_148_4_4,paraptenodytes,"","{148,4,4,Paraptenodytes}",,1,1
+1345576,overlappingpdfs.133108.pdf.task,genus,TAXON_DOC_overlappingpdfs.133108.pdf.task_490_21_21,misius,"","{490,21,21,Misius}",,1,1
+1335800,overlappingpdfs.138632.pdf.task,species,TAXON_DOC_overlappingpdfs.138632.pdf.task_4551_0_1,bradypus variegatus,"","{4551,0,1,""Bradypus variegatus""}",,1,1
+1395606,overlappingpdfs.132829.pdf.task,genus,TAXON_DOC_overlappingpdfs.132829.pdf.task_681_3_3,douvillaster,"","{681,3,3,Douvillaster}",,1,1
+1278303,overlappingpdfs.132630.pdf.task,class,TAXON_DOC_overlappingpdfs.132630.pdf.task_966_4_4,reptilia,"","{966,4,4,Reptilia}",,1,1
+984659,overlappingpdfs.133316.pdf.task,genus,TAXON_DOC_overlappingpdfs.133316.pdf.task_913_11_11,china,"","{913,11,11,China}",,1,1
+1075691,overlappingpdfs.132706.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132706.pdf.task_921_9_9,geikiidae,"","{921,9,9,Geikiidae}",,1,1
+898132,overlappingpdfs.131522.pdf.task,genus,TAXON_DOC_overlappingpdfs.131522.pdf.task_274_6_6,matherella,"","{274,6,6,Matherella}",,1,1
+906834,overlappingpdfs.137444.pdf.task,genus,TAXON_DOC_overlappingpdfs.137444.pdf.task_1179_0_0,orthocentrus,"","{1179,0,0,Orthocentrus}",,1,1
+930781,overlappingpdfs.138761.pdf.task,genus,TAXON_DOC_overlappingpdfs.138761.pdf.task_1200_9_9,ichthyornis,"","{1200,9,9,Ichthyornis}",,1,1
+1427735,overlappingpdfs.137601.pdf.task,genus,TAXON_DOC_overlappingpdfs.137601.pdf.task_1621_12_12,nevada,"","{1621,12,12,Nevada}",,1,1
+1359619,overlappingpdfs.132899.pdf.task,genus,TAXON_DOC_overlappingpdfs.132899.pdf.task_1558_19_19,tonopahella,"","{1558,19,19,Tonopahella}",,1,1
+1041017,overlappingpdfs.132120.pdf.task,family,TAXON_DOC_overlappingpdfs.132120.pdf.task_22_7_7,pliosauridae,"","{22,7,7,Pliosauridae}",,1,0.996
+1305261,overlappingpdfs.138601.pdf.task,genus,TAXON_DOC_overlappingpdfs.138601.pdf.task_5185_27_27,hirtodrosophila,"","{5185,27,27,Hirtodrosophila}",,1,1
+810213,overlappingpdfs.138578.pdf.task,genus,TAXON_DOC_overlappingpdfs.138578.pdf.task_4979_0_0,grammysia,"","{4979,0,0,Grammysia}",,1,1
+1432811,overlappingpdfs.132512.pdf.task,species,TAXON_DOC_overlappingpdfs.132512.pdf.task_390_0_1,alocolytoceras dorcadis,"","{390,0,1,""Alocolytoceras dorcadis""}",,1,1
+981421,overlappingpdfs.132746.pdf.task,genus,TAXON_DOC_overlappingpdfs.132746.pdf.task_60_29_29,china,"","{60,29,29,China}",,1,0.997
+916556,overlappingpdfs.137444.pdf.task,species,TAXON_DOC_overlappingpdfs.137444.pdf.task_1377_0_1,putorius frenatus,"","{1377,0,1,""Putorius frenatus""}",,1,1
+1306845,overlappingpdfs.132971.pdf.task,genus,TAXON_DOC_overlappingpdfs.132971.pdf.task_698_1_1,eoradiolites,"","{698,1,1,Eoradiolites}",,1,1
+1318581,overlappingpdfs.132893.pdf.task,genus,TAXON_DOC_overlappingpdfs.132893.pdf.task_207_0_0,osteopygis,"","{207,0,0,Osteopygis}",,1,1
+1354102,overlappingpdfs.1375.pdf.task,genus,TAXON_DOC_overlappingpdfs.1375.pdf.task_915_19_19,china,"","{915,19,19,China}",,1,1
+1403143,overlappingpdfs.132244.pdf.task,genus,TAXON_DOC_overlappingpdfs.132244.pdf.task_264_2_2,dinnetherium,"","{264,2,2,Dinnetherium}",,1,1
+1003287,overlappingpdfs.132444.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132444.pdf.task_886_1_1,mollusca,"","{886,1,1,Mollusca}",,1,1
+962676,overlappingpdfs.1334.pdf.task,genus,TAXON_DOC_overlappingpdfs.1334.pdf.task_55_0_0,borealosuchus,"","{55,0,0,Borealosuchus}",,1,1
+1030431,overlappingpdfs.138658.pdf.task,species,TAXON_DOC_overlappingpdfs.138658.pdf.task_3645_5_6,deloops haasi,"","{3645,5,6,""D. haasi""}",,1,1
+888942,overlappingpdfs.138709.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.138709.pdf.task_192_14_14,tenrecoidea,"","{192,14,14,Tenrecoidea}",,1,0.999
+1312540,overlappingpdfs.138601.pdf.task,family,TAXON_DOC_overlappingpdfs.138601.pdf.task_149_0_0,drosophilidae,"","{149,0,0,DROSOPHILIDAE}",,1,0.996
+820967,overlappingpdfs.138375.pdf.task,species,TAXON_DOC_overlappingpdfs.138375.pdf.task_2482_25_26,cyrtorostra sexradiata,"","{2482,25,26,""C. sexradiata""}",,1,0.999
+1371157,overlappingpdfs.132661.pdf.task,species,TAXON_DOC_overlappingpdfs.132661.pdf.task_99_0_1,producta analoga,"","{99,0,1,""Producta analoga""}",,1,1
+1397124,overlappingpdfs.138540.pdf.task,genus,TAXON_DOC_overlappingpdfs.138540.pdf.task_1760_0_0,dyseohyus,"","{1760,0,0,Dyseohyus}",,1,1
+909316,overlappingpdfs.137444.pdf.task,species,TAXON_DOC_overlappingpdfs.137444.pdf.task_75_0_1,eriocampa wheeleri,"","{75,0,1,""Eriocampa wheeleri""}",,1,1
+947022,overlappingpdfs.132130.pdf.task,genus,TAXON_DOC_overlappingpdfs.132130.pdf.task_263_8_8,carcharodon,"","{263,8,8,Carcharodon}",,1,1
+808603,overlappingpdfs.132972.pdf.task,genus,TAXON_DOC_overlappingpdfs.132972.pdf.task_83_0_0,curviarculia,"","{83,0,0,Curviarculia}",,1,1
+1126305,overlappingpdfs.132785.pdf.task,species,TAXON_DOC_overlappingpdfs.132785.pdf.task_187_3_4,homogalax namadicus,"","{187,3,4,""H. namadicus""}",,1,0.996
+1232560,overlappingpdfs.138572.pdf.task,genus,TAXON_DOC_overlappingpdfs.138572.pdf.task_2214_13_13,archaea,"","{2214,13,13,Archaea}",,1,1
+889916,overlappingpdfs.138709.pdf.task,genus,TAXON_DOC_overlappingpdfs.138709.pdf.task_1597_8_8,leptictis,"","{1597,8,8,Leptictis}",,1,1
+970622,overlappingpdfs.138426.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138426.pdf.task_2299_5_5,synthetoceratinae,"","{2299,5,5,SYNTHETOCERATINAE}",,1,1
+1182259,overlappingpdfs.138393.pdf.task,genus,TAXON_DOC_overlappingpdfs.138393.pdf.task_1269_0_0,chinlea,"","{1269,0,0,Chinlea}",,1,1
+973054,overlappingpdfs.132925.pdf.task,genus,TAXON_DOC_overlappingpdfs.132925.pdf.task_694_3_3,lissatrypa,"","{694,3,3,Lissatrypa}",,1,0.996
+798200,overlappingpdfs.138578.pdf.task,species,TAXON_DOC_overlappingpdfs.138578.pdf.task_2884_0_1,nuculites beushauseni,"","{2884,0,1,""Nuculites beushauseni""}",,1,1
+1175061,overlappingpdfs.138407.pdf.task,genus,TAXON_DOC_overlappingpdfs.138407.pdf.task_6496_0_0,microsyops,"","{6496,0,0,Microsyops}",,1,0.995
+1431641,overlappingpdfs.132354.pdf.task,genus,TAXON_DOC_overlappingpdfs.132354.pdf.task_455_3_3,lasarchopyge,"","{455,3,3,Lasarchopyge}",,1,1
+1155185,overlappingpdfs.132069.pdf.task,species,TAXON_DOC_overlappingpdfs.132069.pdf.task_271_24_25,brongniartella platynota,"","{271,24,25,""Brongniartella platynota""}",,1,1
+1389105,overlappingpdfs.132960.pdf.task,genus,TAXON_DOC_overlappingpdfs.132960.pdf.task_509_23_23,ceratosaurus,"","{509,23,23,Ceratosaurus}",,1,0.996
+1273764,overlappingpdfs.135522.pdf.task,genus,TAXON_DOC_overlappingpdfs.135522.pdf.task_31_16_16,elliotsmithia,"","{31,16,16,Elliotsmithia}",,1,0.996
+1182815,overlappingpdfs.132210.pdf.task,species,TAXON_DOC_overlappingpdfs.132210.pdf.task_1042_12_13,meyerasaurus victor,"","{1042,12,13,""Meyerasaurus victor""}",,1,1
+1389599,overlappingpdfs.133545.pdf.task,genus,TAXON_DOC_overlappingpdfs.133545.pdf.task_1188_27_27,paramarginatia,"","{1188,27,27,Paramarginatia}",,1,1
+1031451,overlappingpdfs.138434.pdf.task,family,TAXON_DOC_overlappingpdfs.138434.pdf.task_1472_1_1,neritopsidae,"","{1472,1,1,NERITOPSIDAE}",,1,1
+1427883,overlappingpdfs.132985.pdf.task,family,TAXON_DOC_overlappingpdfs.132985.pdf.task_463_22_22,salticidae,"","{463,22,22,Salticidae}",,1,1
+955302,overlappingpdfs.138671.pdf.task,tribe,TAXON_DOC_overlappingpdfs.138671.pdf.task_1919_2_2,augochlorini,"","{1919,2,2,AUGOCHLORINI}",,1,1
+918810,overlappingpdfs.131419.pdf.task,genus,TAXON_DOC_overlappingpdfs.131419.pdf.task_319_25_25,palaeosmilia,"","{319,25,25,Palaeosmilia}",,1,0.999
+1121351,overlappingpdfs.133117.pdf.task,species,TAXON_DOC_overlappingpdfs.133117.pdf.task_603_8_9,glottidia pyramidata,"","{603,8,9,""G. pyramidata""}",,1,1
+1310172,overlappingpdfs.132140.pdf.task,species,TAXON_DOC_overlappingpdfs.132140.pdf.task_760_5_6,doswellia kaltenbachi,"","{760,5,6,""Doswellia kaltenbachi""}",,1,0.994
+1099811,overlappingpdfs.136772.pdf.task,family,TAXON_DOC_overlappingpdfs.136772.pdf.task_70_6_6,porocrinidae,"","{70,6,6,Porocrinidae}",,1,1
+1441024,overlappingpdfs.133080.pdf.task,genus,TAXON_DOC_overlappingpdfs.133080.pdf.task_319_5_5,arizona,"","{319,5,5,Arizona}",,1,0.996
+904668,overlappingpdfs.137951.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.137951.pdf.task_121_24_24,dromomeryx,"","{121,24,24,Dromomeryx}",,1,1
+1280907,overlappingpdfs.137637.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.137637.pdf.task_11_11_11,dicynodon,"","{11,11,11,Dicynodon}",,1,1
+1302939,overlappingpdfs.132756.pdf.task,genus,TAXON_DOC_overlappingpdfs.132756.pdf.task_1034_24_24,waipatia,"","{1034,24,24,Waipatia}",,1,0.996
+857226,overlappingpdfs.132846.pdf.task,genus,TAXON_DOC_overlappingpdfs.132846.pdf.task_475_4_4,china,"","{475,4,4,China}",,1,1
+1435077,overlappingpdfs.132985.pdf.task,species,TAXON_DOC_overlappingpdfs.132985.pdf.task_56_0_1,vectaraneus yulei,"","{56,0,1,""Vectaraneus yulei""}",,1,1
+983490,overlappingpdfs.133316.pdf.task,genus,TAXON_DOC_overlappingpdfs.133316.pdf.task_788_21_21,russia,"","{788,21,21,Russia}",,1,1
+1333055,overlappingpdfs.138632.pdf.task,family,TAXON_DOC_overlappingpdfs.138632.pdf.task_6503_3_3,myrmecophagidae,"","{6503,3,3,Myrmecophagidae}",,1,0.996
+907926,overlappingpdfs.132393.pdf.task,genus,TAXON_DOC_overlappingpdfs.132393.pdf.task_587_24_24,protuberum,"","{587,24,24,Protuberum}",,1,1
+1031032,overlappingpdfs.138434.pdf.task,species,TAXON_DOC_overlappingpdfs.138434.pdf.task_953_12_13,bembexia sulcomarginata,"","{953,12,13,""B. sulcomarginata""}",,1,1
+1212914,overlappingpdfs.138538.pdf.task,species,TAXON_DOC_overlappingpdfs.138538.pdf.task_1093_2_3,deltacephalaspis retrospina,"","{1093,2,3,""Deltacephalaspis retrospina""}",,1,1
+897299,overlappingpdfs.132905.pdf.task,genus,TAXON_DOC_overlappingpdfs.132905.pdf.task_312_0_0,anabarella,"","{312,0,0,Anabarella}",,1,1
+1427224,overlappingpdfs.132481.pdf.task,genus,TAXON_DOC_overlappingpdfs.132481.pdf.task_324_14_14,phthinosaurus,"","{324,14,14,Phthinosaurus}",,1,1
+919291,overlappingpdfs.132995.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132995.pdf.task_807_13_13,ungulatomorpha,"","{807,13,13,Ungulatomorpha}",,1,1
+1093166,overlappingpdfs.132963.pdf.task,genus,TAXON_DOC_overlappingpdfs.132963.pdf.task_214_0_0,chiniquodon,"","{214,0,0,Chiniquodon}",,1,1
+1252617,overlappingpdfs.133034.pdf.task,genus,TAXON_DOC_overlappingpdfs.133034.pdf.task_187_12_12,priohybodus,"","{187,12,12,Priohybodus}",,1,1
+1049828,overlappingpdfs.138174.pdf.task,genus,TAXON_DOC_overlappingpdfs.138174.pdf.task_3237_20_20,mactra,"","{3237,20,20,Mactra}",,1,1
+949014,overlappingpdfs.138671.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138671.pdf.task_3380_52_52,megachilinae,"","{3380,52,52,Megachilinae}",,1,0.996
+1296204,overlappingpdfs.132756.pdf.task,genus,TAXON_DOC_overlappingpdfs.132756.pdf.task_1158_8_8,prosqualodon,"","{1158,8,8,Prosqualodon}",,1,1
+1260462,overlappingpdfs.132441.pdf.task,family,TAXON_DOC_overlappingpdfs.132441.pdf.task_679_10_10,myrmeleontidae,"","{679,10,10,Myrmeleontidae}",,1,1
+843397,overlappingpdfs.138593.pdf.task,species,TAXON_DOC_overlappingpdfs.138593.pdf.task_2960_16_17,trionyx nigricans,"","{2960,16,17,""Trionyx nigricans""}",,1,1
+907746,overlappingpdfs.130210.pdf.task,species,TAXON_DOC_overlappingpdfs.130210.pdf.task_169_5_6,isarcicella isarcica,"","{169,5,6,""Isarcicella isarcica""}",,1,0.999
+1101632,overlappingpdfs.132479.pdf.task,genus,TAXON_DOC_overlappingpdfs.132479.pdf.task_344_13_13,ornithomimus,"","{344,13,13,Ornithomimus}",,1,1
+935477,overlappingpdfs.132965.pdf.task,genus,TAXON_DOC_overlappingpdfs.132965.pdf.task_363_7_7,haplocanthosaurus,"","{363,7,7,Haplocanthosaurus}",,1,0.999
+1426580,overlappingpdfs.132481.pdf.task,family,TAXON_DOC_overlappingpdfs.132481.pdf.task_186_31_31,lycosuchidae,"","{186,31,31,Lycosuchidae}",,1,0.985
+1226711,overlappingpdfs.138572.pdf.task,genus,TAXON_DOC_overlappingpdfs.138572.pdf.task_447_7_7,afrarchaea,"","{447,7,7,Afrarchaea}",,1,1
+1231983,overlappingpdfs.132655.pdf.task,species,TAXON_DOC_overlappingpdfs.132655.pdf.task_209_1_2,gobiconodon hoburensis,"","{209,1,2,""G. hoburensis""}",,1,1
+1011456,overlappingpdfs.132093.pdf.task,order,TAXON_DOC_overlappingpdfs.132093.pdf.task_1851_5_5,agnostida,"","{1851,5,5,Agnostida}",,1,1
+813431,overlappingpdfs.138450.pdf.task,genus,TAXON_DOC_overlappingpdfs.138450.pdf.task_419_11_11,eubaena,"","{419,11,11,Eubaena}",,1,1
+956293,overlappingpdfs.138438.pdf.task,species,TAXON_DOC_overlappingpdfs.138438.pdf.task_803_29_30,cynorca proterva,"","{803,29,30,""Cynorca proterva""}",,1,1
+850516,overlappingpdfs.138449.pdf.task,genus,TAXON_DOC_overlappingpdfs.138449.pdf.task_2234_0_0,cimolomys,"","{2234,0,0,Cimolomys}",,1,1
+1350333,overlappingpdfs.132899.pdf.task,genus,TAXON_DOC_overlappingpdfs.132899.pdf.task_1291_8_8,nevada,"","{1291,8,8,Nevada}",,1,0.996
+1048119,overlappingpdfs.133027.pdf.task,order,TAXON_DOC_overlappingpdfs.133027.pdf.task_400_11_11,taxocrinida,"","{400,11,11,TAXOCRINIDA}",,1,0.996
+999699,overlappingpdfs.138644.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.138644.pdf.task_12_29_29,microphorinae,"","{12,29,29,Microphorinae}",,1,0.992
+851575,overlappingpdfs.138593.pdf.task,genus,TAXON_DOC_overlappingpdfs.138593.pdf.task_2678_9_9,trionyx,"","{2678,9,9,Trionyx}",,1,0.999
+1314902,overlappingpdfs.138601.pdf.task,genus,TAXON_DOC_overlappingpdfs.138601.pdf.task_2280_21_21,rhinoleucophenga,"","{2280,21,21,Rhinoleucophenga}",,1,0.996
+860594,overlappingpdfs.136172.pdf.task,genus,TAXON_DOC_overlappingpdfs.136172.pdf.task_142_9_9,endothyranopsis,"","{142,9,9,Endothyranopsis}",,1,0.995
+802652,overlappingpdfs.132385.pdf.task,genus,TAXON_DOC_overlappingpdfs.132385.pdf.task_601_19_19,chile,"","{601,19,19,Chile}",,1,0.996
+1098541,overlappingpdfs.132101.pdf.task,genus,TAXON_DOC_overlappingpdfs.132101.pdf.task_292_4_4,sinodiscus,"","{292,4,4,Sinodiscus}",,1,0.996
+1314591,overlappingpdfs.137950.pdf.task,genus,TAXON_DOC_overlappingpdfs.137950.pdf.task_408_5_5,trichopterella,"","{408,5,5,Trichopterella}",,1,1
+1199630,overlappingpdfs.132955.pdf.task,species,TAXON_DOC_overlappingpdfs.132955.pdf.task_1580_0_1,pseudopalatus buceros,"","{1580,0,1,""Pseudopalatus buceros""}",,1,1
+1328418,overlappingpdfs.136839.pdf.task,genus,TAXON_DOC_overlappingpdfs.136839.pdf.task_653_5_5,neopilina,"","{653,5,5,Neopilina}",,1,1
+1067402,overlappingpdfs.138388.pdf.task,family,TAXON_DOC_overlappingpdfs.138388.pdf.task_1961_9_9,sclerogenidae,"","{1961,9,9,Sclerogenidae}",,1,1
+1033077,overlappingpdfs.132348.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132348.pdf.task_1993_2_2,crustacea,"","{1993,2,2,Crustacea}",,1,0.999
+840814,overlappingpdfs.136623.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.136623.pdf.task_244_7_7,euomphalopterus,"","{244,7,7,Euomphalopterus}",,1,1
+1075306,overlappingpdfs.133099.pdf.task,genus,TAXON_DOC_overlappingpdfs.133099.pdf.task_1125_4_4,olenus,"","{1125,4,4,Olenus}",,1,0.996
+1288567,overlappingpdfs.138462.pdf.task,genus,TAXON_DOC_overlappingpdfs.138462.pdf.task_517_30_30,dosinia,"","{517,30,30,Dosinia}",,1,0.996
+1326107,overlappingpdfs.135478.pdf.task,genus,TAXON_DOC_overlappingpdfs.135478.pdf.task_170_12_12,wellesaurus,"","{170,12,12,Wellesaurus}",,1,0.996
+923646,overlappingpdfs.138026.pdf.task,genus,TAXON_DOC_overlappingpdfs.138026.pdf.task_2048_12_12,dugong,"","{2048,12,12,Dugong}",,1,1
+1250050,overlappingpdfs.132583.pdf.task,suborder,TAXON_DOC_overlappingpdfs.132583.pdf.task_962_1_1,dinosauria,"","{962,1,1,Dinosauria}",,1,1
+875027,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_3020_6_6,oxyaena,"","{3020,6,6,Oxyaena}",,1,1
+1048330,overlappingpdfs.139713.pdf.task,suborder,TAXON_DOC_overlappingpdfs.139713.pdf.task_718_0_0,entelonychia,"","{718,0,0,ENTELONYCHIA}",,1,1
+1122807,overlappingpdfs.133117.pdf.task,genus,TAXON_DOC_overlappingpdfs.133117.pdf.task_135_20_20,russia,"","{135,20,20,Russia}",,1,0.994
+864530,overlappingpdfs.138318.pdf.task,genus,TAXON_DOC_overlappingpdfs.138318.pdf.task_2470_0_0,euconospira,"","{2470,0,0,EUCONOSPIRA}",,1,1
+1178130,overlappingpdfs.138519.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.138519.pdf.task_5042_3_3,hipparion,"","{5042,3,3,Hipparion}",,1,1
+1062361,overlappingpdfs.131.pdf.task,genus,TAXON_DOC_overlappingpdfs.131.pdf.task_143_10_10,compsognathus,"","{143,10,10,Compsognathus}",,1,1
+1100691,overlappingpdfs.137289.pdf.task,genus,TAXON_DOC_overlappingpdfs.137289.pdf.task_154_14_14,phoca,"","{154,14,14,Phoca}",,1,1
+1250264,overlappingpdfs.132583.pdf.task,genus,TAXON_DOC_overlappingpdfs.132583.pdf.task_1350_0_0,trias,"","{1350,0,0,Trias}",,1,1
+812444,overlappingpdfs.138365.pdf.task,species,TAXON_DOC_overlappingpdfs.138365.pdf.task_2410_37_38,cynodesmus minor,"","{2410,37,38,""C. minor""}",,1,0.996
+1227716,overlappingpdfs.132655.pdf.task,family,TAXON_DOC_overlappingpdfs.132655.pdf.task_127_9_9,gobiconodontidae,"","{127,9,9,Gobiconodontidae}",,1,0.984
+1128553,overlappingpdfs.132834.pdf.task,species,TAXON_DOC_overlappingpdfs.132834.pdf.task_695_1_2,albaillella indensis,"","{695,1,2,""Albaillella indensis""}",,1,1
+1152210,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_3216_3_3,ornithorhynchus,"","{3216,3,3,Ornithorhynchus}",,1,1
+1247672,overlappingpdfs.132634.pdf.task,family,TAXON_DOC_overlappingpdfs.132634.pdf.task_405_28_28,peramelidae,"","{405,28,28,Peramelidae}",,1,0.959
+1110372,overlappingpdfs.138834.pdf.task,infraorder,TAXON_DOC_overlappingpdfs.138834.pdf.task_2236_4_4,coelurosauria,"","{2236,4,4,Coelurosauria}",,1,1
+1357892,overlappingpdfs.132899.pdf.task,genus,TAXON_DOC_overlappingpdfs.132899.pdf.task_212_0_0,oryctocephalus,"","{212,0,0,Oryctocephalus}",,1,1
+1125769,overlappingpdfs.138000.pdf.task,species,TAXON_DOC_overlappingpdfs.138000.pdf.task_689_5_6,testudo insolitus,"","{689,5,6,""Testudo insolitus""}",,1,1
+1425316,overlappingpdfs.133442.pdf.task,family,TAXON_DOC_overlappingpdfs.133442.pdf.task_303_7_7,limidae,"","{303,7,7,Limidae}",,1,1
+965389,overlappingpdfs.132454.pdf.task,genus,TAXON_DOC_overlappingpdfs.132454.pdf.task_8_23_23,cyamodus,"","{8,23,23,Cyamodus}",,1,1
+1153681,overlappingpdfs.137545.pdf.task,genus,TAXON_DOC_overlappingpdfs.137545.pdf.task_1556_26_26,lemur,"","{1556,26,26,Lemur}",,1,1
+871834,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_6299_27_27,deltatherium,"","{6299,27,27,Deltatherium}",,1,0.991
+1140974,overlappingpdfs.138385.pdf.task,species,TAXON_DOC_overlappingpdfs.138385.pdf.task_269_18_19,propalaeosinopa albertensis,"","{269,18,19,""P. albertensis""}",,1,1
+1353679,overlappingpdfs.135630.pdf.task,species,TAXON_DOC_overlappingpdfs.135630.pdf.task_82_4_5,solenopora gotlandica,"","{82,4,5,""S. gotlandica""}",,1,1
+1380317,overlappingpdfs.135517.pdf.task,genus,TAXON_DOC_overlappingpdfs.135517.pdf.task_198_9_9,gresslya,"","{198,9,9,Gresslya}",,1,0.995
+991134,overlappingpdfs.132319.pdf.task,class,TAXON_DOC_overlappingpdfs.132319.pdf.task_679_4_4,reptilia,"","{679,4,4,Reptilia}",,1,1
+837777,overlappingpdfs.136141.pdf.task,species,TAXON_DOC_overlappingpdfs.136141.pdf.task_45_5_6,ectenocrinus geniculatus,"","{45,5,6,""Ectenocrinus geniculatus""}",,1,1
+1197879,overlappingpdfs.133075.pdf.task,family,TAXON_DOC_overlappingpdfs.133075.pdf.task_1194_11_11,hapalopleuridae,"","{1194,11,11,Hapalopleuridae}",,1,0.996
+997029,overlappingpdfs.138644.pdf.task,species,TAXON_DOC_overlappingpdfs.138644.pdf.task_1974_0_1,electrosania cretica,"","{1974,0,1,""Electrosania cretica""}",,1,0.996
+810750,overlappingpdfs.131850.pdf.task,suborder,TAXON_DOC_overlappingpdfs.131850.pdf.task_244_13_13,productidina,"","{244,13,13,Productidina}",,1,1
+1239065,overlappingpdfs.132753.pdf.task,class,TAXON_DOC_overlappingpdfs.132753.pdf.task_2001_3_3,hexactinellida,"","{2001,3,3,Hexactinellida}",,1,1
+1167283,overlappingpdfs.132608.pdf.task,species,TAXON_DOC_overlappingpdfs.132608.pdf.task_250_5_6,dollosuchus dixoni,"","{250,5,6,""Dollosuchus dixoni""}",,1,1
+1450582,overlappingpdfs.138665.pdf.task,genus,TAXON_DOC_overlappingpdfs.138665.pdf.task_2344_24_24,eoxanta,"","{2344,24,24,Eoxanta}",,1,1
+1355259,overlappingpdfs.132451.pdf.task,genus,TAXON_DOC_overlappingpdfs.132451.pdf.task_51_44_44,deinonychus,"","{51,44,44,Deinonychus}",,1,0.996
+1033001,overlappingpdfs.138658.pdf.task,genus,TAXON_DOC_overlappingpdfs.138658.pdf.task_4060_35_35,comura,"","{4060,35,35,Comura}",,1,1
+1194283,overlappingpdfs.132627.pdf.task,subfamily,TAXON_DOC_overlappingpdfs.132627.pdf.task_404_8_8,cantacaderinae,"","{404,8,8,Cantacaderinae}",,1,0.996
+1258250,overlappingpdfs.137213.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.137213.pdf.task_13930_0_0,cyrtina,"","{13930,0,0,Cyrtina}",,1,1
+884063,overlappingpdfs.137537.pdf.task,genus,TAXON_DOC_overlappingpdfs.137537.pdf.task_682_0_0,orthriocorisa,"","{682,0,0,Orthriocorisa}",,1,1
+1421955,overlappingpdfs.132621.pdf.task,family,TAXON_DOC_overlappingpdfs.132621.pdf.task_677_7_7,semionotidae,"","{677,7,7,Semionotidae}",,1,1
+1223048,overlappingpdfs.130595.pdf.task,genus,TAXON_DOC_overlappingpdfs.130595.pdf.task_275_4_4,parvamussium,"","{275,4,4,Parvamussium}",,1,1
+908689,overlappingpdfs.132173.pdf.task,order,TAXON_DOC_overlappingpdfs.132173.pdf.task_714_12_12,polyplacophora,"","{714,12,12,Polyplacophora}",,1,1
+1419448,overlappingpdfs.132481.pdf.task,species,TAXON_DOC_overlappingpdfs.132481.pdf.task_186_33_34,lycosuchus vanderrieti,"","{186,33,34,""Lycosuchus vanderrieti""}",,1,0.987
+1433361,overlappingpdfs.138482.pdf.task,genus,TAXON_DOC_overlappingpdfs.138482.pdf.task_1211_5_5,lombardia,"","{1211,5,5,Lombardia}",,1,1
+1140017,overlappingpdfs.138385.pdf.task,genus,TAXON_DOC_overlappingpdfs.138385.pdf.task_1988_17_17,erinaceolus,"","{1988,17,17,Erinaceolus}",,1,1
+900351,overlappingpdfs.138745.pdf.task,genus,TAXON_DOC_overlappingpdfs.138745.pdf.task_3218_2_2,murtoilestes,"","{3218,2,2,Murtoilestes}",,1,0.999
+1127814,overlappingpdfs.130490.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.130490.pdf.task_148_0_0,ammonites,"","{148,0,0,Ammonites}",,1,1
+1070479,overlappingpdfs.1336.pdf.task,family,TAXON_DOC_overlappingpdfs.1336.pdf.task_419_14_14,wynyardiidae,"","{419,14,14,Wynyardiidae}",,1,0.996
+1031789,overlappingpdfs.138434.pdf.task,species,TAXON_DOC_overlappingpdfs.138434.pdf.task_459_0_1,sinuitina brevilineatus,"","{459,0,1,""Sinuitina brevilineatus""}",,1,1
+1251867,overlappingpdfs.133113.pdf.task,species,TAXON_DOC_overlappingpdfs.133113.pdf.task_114_11_12,camera lucida,"","{114,11,12,""Camera lucida""}",,1,1
+1171426,overlappingpdfs.133020.pdf.task,genus,TAXON_DOC_overlappingpdfs.133020.pdf.task_226_0_0,ogbinia,"","{226,0,0,Ogbinia}",,1,1
+810503,overlappingpdfs.132385.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.132385.pdf.task_167_14_14,miltha,"","{167,14,14,Miltha}",,1,0.996
+965582,overlappingpdfs.138438.pdf.task,genus,TAXON_DOC_overlappingpdfs.138438.pdf.task_95_6_6,cynorca,"","{95,6,6,Cynorca}",,1,0.996
+1140860,overlappingpdfs.135100.pdf.task,species,TAXON_DOC_overlappingpdfs.135100.pdf.task_436_4_5,neusticemys neuquina,"","{436,4,5,""N. neuquina""}",,1,1
+1421118,overlappingpdfs.137150.pdf.task,genus,TAXON_DOC_overlappingpdfs.137150.pdf.task_569_0_0,mustela,"","{569,0,0,Mustela}",,1,0.996
+1120268,overlappingpdfs.133023.pdf.task,class,TAXON_DOC_overlappingpdfs.133023.pdf.task_680_9_9,pisces,"","{680,9,9,Pisces}",,1,1
+859213,overlappingpdfs.131201.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.131201.pdf.task_199_0_0,platyceras,"","{199,0,0,Platyceras}",,1,1
+1364025,overlappingpdfs.135245.pdf.task,species,TAXON_DOC_overlappingpdfs.135245.pdf.task_208_3_4,diacanthaspis trippi,"","{208,3,4,""D. trippi""}",,1,1
+1163238,overlappingpdfs.132482.pdf.task,genus,TAXON_DOC_overlappingpdfs.132482.pdf.task_948_14_14,dipteronotus,"","{948,14,14,Dipteronotus}",,1,1
+932066,overlappingpdfs.132275.pdf.task,family,TAXON_DOC_overlappingpdfs.132275.pdf.task_63_19_19,isocrinidae,"","{63,19,19,Isocrinidae}",,1,1
+1401640,overlappingpdfs.133311.pdf.task,genus,TAXON_DOC_overlappingpdfs.133311.pdf.task_940_15_15,china,"","{940,15,15,China}",,1,1
+1306524,overlappingpdfs.138601.pdf.task,genus,TAXON_DOC_overlappingpdfs.138601.pdf.task_2255_4_4,rhinoleucophenga,"","{2255,4,4,Rhinoleucophenga}",,1,1
+882490,overlappingpdfs.138384.pdf.task,species,TAXON_DOC_overlappingpdfs.138384.pdf.task_544_6_7,avunculus didelphodonti,"","{544,6,7,""Avunculus didelphodonti""}",,1,1
+819645,overlappingpdfs.132980.pdf.task,genus,TAXON_DOC_overlappingpdfs.132980.pdf.task_255_30_30,tritheledon,"","{255,30,30,Tritheledon}",,1,1
+997121,overlappingpdfs.138622.pdf.task,species,TAXON_DOC_overlappingpdfs.138622.pdf.task_5544_0_1,enhydrocyon pahinsintewakpa,"","{5544,0,1,""Enhydrocyon pahinsintewakpa""}",,1,1
+1363038,overlappingpdfs.133063.pdf.task,genus,TAXON_DOC_overlappingpdfs.133063.pdf.task_1509_1_1,tretaspis,"","{1509,1,1,Tretaspis}",,1,1
+1321221,overlappingpdfs.138165.pdf.task,genus,TAXON_DOC_overlappingpdfs.138165.pdf.task_55_7_7,rutiodon,"","{55,7,7,Rutiodon}",,1,1
+1108098,overlappingpdfs.138001.pdf.task,subphylum,TAXON_DOC_overlappingpdfs.138001.pdf.task_63_11_11,pelmatozoa,"","{63,11,11,Pelmatozoa}",,1,1
+1323787,overlappingpdfs.135557.pdf.task,subgenus,TAXON_DOC_overlappingpdfs.135557.pdf.task_206_12_12,iranophyllum,"","{206,12,12,Iranophyllum}",,1,0.996
+1005285,overlappingpdfs.138644.pdf.task,genus,TAXON_DOC_overlappingpdfs.138644.pdf.task_1363_0_0,mesoplatypalpus,"","{1363,0,0,MESOPLATYPALPUS}",,1,1
+1056919,overlappingpdfs.1336.pdf.task,species,TAXON_DOC_overlappingpdfs.1336.pdf.task_258_0_1,priscakoala lucyturnbullae,"","{258,0,1,""Priscakoala lucyturnbullae""}",,1,1
+1069560,overlappingpdfs.138678.pdf.task,family,TAXON_DOC_overlappingpdfs.138678.pdf.task_256_1_1,andrenidae,"","{256,1,1,ANDRENIDAE}",,1,0.996
+1100788,overlappingpdfs.138613.pdf.task,superfamily,TAXON_DOC_overlappingpdfs.138613.pdf.task_1191_27_27,heptagenioidea,"","{1191,27,27,Heptagenioidea}",,1,0.995
+958358,overlappingpdfs.132397.pdf.task,unranked clade,TAXON_DOC_overlappingpdfs.132397.pdf.task_785_11_11,mesoeucrocodylia,"","{785,11,11,Mesoeucrocodylia}",,1,1
+869663,overlappingpdfs.138384.pdf.task,genus,TAXON_DOC_overlappingpdfs.138384.pdf.task_3923_12_12,solenodon,"","{3923,12,12,Solenodon}",,1,0.996
+1113246,overlappingpdfs.138531.pdf.task,genus,TAXON_DOC_overlappingpdfs.138531.pdf.task_1025_3_3,megazostrodon,"","{1025,3,3,Megazostrodon}",,1,1
+1007431,overlappingpdfs.138859.pdf.task,genus,TAXON_DOC_overlappingpdfs.138859.pdf.task_199_18_18,icadyptes,"","{199,18,18,Icadyptes}",,1,0.996

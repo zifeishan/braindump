@@ -1,0 +1,501 @@
+id,docid,type,eid1,eid2,entity1,entity2,is_correct
+1529758,overlappingpdfs.131250.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131250.pdf.task_143_1_1,TIME_DOC_overlappingpdfs.131250.pdf.task_143_33_33,tollhouse mudstone,Asbian|339.40000|336.00000,f
+1503780,overlappingpdfs.138407.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138407.pdf.task_1094_10_11,TIME_DOC_overlappingpdfs.138407.pdf.task_1094_5_5,fort union formation,Torrejonian|63.30000|61.70000,f
+1491685,overlappingpdfs.132101.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132101.pdf.task_19_49_50,TIME_DOC_overlappingpdfs.132101.pdf.task_19_48_48,shuijingtuo formation,Cambrian|541.00000|485.40000,f
+1528420,overlappingpdfs.132658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132658.pdf.task_15_3_3,ROCK_DOC_overlappingpdfs.132658.pdf.task_15_11_12,sphenodontia,caturrita formation,f
+1515952,overlappingpdfs.132570.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132570.pdf.task_828_5_5,TIME_DOC_overlappingpdfs.132570.pdf.task_828_9_9,cloverly formation,Cretaceous|145.00000|66.00000,f
+1527679,overlappingpdfs.132745.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132745.pdf.task_112_31_32,TIME_DOC_overlappingpdfs.132745.pdf.task_112_29_30,sudair shale formation,Early Triassic|251.0000|245.0000,f
+1518575,overlappingpdfs.138462.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138462.pdf.task_2558_21_21,ROCK_DOC_overlappingpdfs.138462.pdf.task_2558_6_6,enaliarctos,hill sand,f
+1517483,overlappingpdfs.132380.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132380.pdf.task_541_22_24,TIME_DOC_overlappingpdfs.132380.pdf.task_541_26_26,virgin hills formation,Frasnian|382.70000|372.20000,f
+1455099,overlappingpdfs.132009.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132009.pdf.task_207_31_31,TIME_DOC_overlappingpdfs.132009.pdf.task_207_13_13,vvenlock shale,Leintwardine|421.30000|419.20000,f
+1469399,overlappingpdfs.132921.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132921.pdf.task_797_8_8,TIME_DOC_overlappingpdfs.132921.pdf.task_797_12_13,great oolite,Middle Jurassic|175.6000|161.2000,f
+1529125,overlappingpdfs.135361.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135361.pdf.task_78_9_10,TIME_DOC_overlappingpdfs.135361.pdf.task_78_1_1,iil formation,Permian|298.90000|252.17000,f
+1465841,overlappingpdfs.132215.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132215.pdf.task_11_11_11,TIME_DOC_overlappingpdfs.132215.pdf.task_11_19_19,peterborough member,Oxfordian|163.50000|157.30000,f
+1485622,overlappingpdfs.138658.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138658.pdf.task_3203_25_25,TIME_DOC_overlappingpdfs.138658.pdf.task_3203_19_19,hamilton group,Tioughniogan|391.8000|385.3000,f
+1457174,overlappingpdfs.136141.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136141.pdf.task_349_26_27,TIME_DOC_overlappingpdfs.136141.pdf.task_349_2_3,lorraine group,Late Ordovician|460.9000|443.7000,f
+1478930,overlappingpdfs.133316.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133316.pdf.task_167_8_9,TIME_DOC_overlappingpdfs.133316.pdf.task_167_15_15,midhnab member,Changhsingian|254.17000|252.17000,f
+1500741,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_5160_32_32,ROCK_DOC_overlappingpdfs.138519.pdf.task_5160_24_24,aphelops,type member,f
+1492841,overlappingpdfs.131227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131227.pdf.task_582_12_12,ROCK_DOC_overlappingpdfs.131227.pdf.task_582_12_13,striispirifer,striispirifer community group,f
+1513949,overlappingpdfs.132504.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132504.pdf.task_159_20_20,TIME_DOC_overlappingpdfs.132504.pdf.task_159_1_1,shaximiao formation,Jurassic|201.30000|145.00000,f
+1496959,overlappingpdfs.132230.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132230.pdf.task_67_51_51,ROCK_DOC_overlappingpdfs.132230.pdf.task_67_1_2,hemiptera,crato formation,f
+1452330,overlappingpdfs.138365.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138365.pdf.task_935_10_10,ROCK_DOC_overlappingpdfs.138365.pdf.task_935_7_7,forma,harrison formation,f
+1463974,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_163_46_46,TIME_DOC_overlappingpdfs.138465.pdf.task_163_24_24,walnut formation,Permian|298.90000|252.17000,f
+1464176,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_2453_0_2,TIME_DOC_overlappingpdfs.138465.pdf.task_2453_4_4,bone spring limestone formation,Leonardian|280.000|270.600,f
+1452563,overlappingpdfs.132547.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132547.pdf.task_443_44_44,TIME_DOC_overlappingpdfs.132547.pdf.task_443_49_49,nodular member,Elton|422.90000|421.30000,f
+1536450,overlappingpdfs.136471.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136471.pdf.task_864_13_13,TIME_DOC_overlappingpdfs.136471.pdf.task_864_12_13,river group,Black River|460.900|457.500,f
+1519174,overlappingpdfs.135858.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135858.pdf.task_382_4_6,TIME_DOC_overlappingpdfs.135858.pdf.task_382_24_24,monastery creek phosphorite formation,Templetonian|513.00000|507.00000,f
+1487858,overlappingpdfs.130651.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130651.pdf.task_273_4_4,TIME_DOC_overlappingpdfs.130651.pdf.task_273_7_7,doushantuo formation,Chadian|345.30000|345.00000,f
+1466969,overlappingpdfs.133017.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133017.pdf.task_253_6_6,ROCK_DOC_overlappingpdfs.133017.pdf.task_253_10_10,chilopoda,crato formations,f
+1527517,overlappingpdfs.132226.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132226.pdf.task_33_16_18,TIME_DOC_overlappingpdfs.132226.pdf.task_33_5_5,laksarska nova ves formation,Burdigalian|20.44000|15.97000,f
+1518513,overlappingpdfs.132648.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132648.pdf.task_564_4_4,ROCK_DOC_overlappingpdfs.132648.pdf.task_564_13_13,agriopleura,shuaiba formation,f
+1455543,overlappingpdfs.1390.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1390.pdf.task_27_16_17,TIME_DOC_overlappingpdfs.1390.pdf.task_27_19_19,tlayua formation,Albian|113.00000|100.50000,f
+1493214,overlappingpdfs.138170.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138170.pdf.task_661_13_13,ROCK_DOC_overlappingpdfs.138170.pdf.task_661_18_18,palaeospheniscus,deseado formation,f
+1520963,overlappingpdfs.132593.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132593.pdf.task_132_0_0,ROCK_DOC_overlappingpdfs.132593.pdf.task_132_0_0,angiospermae,angiospermae group,f
+1487875,overlappingpdfs.132367.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132367.pdf.task_1068_26_27,TIME_DOC_overlappingpdfs.132367.pdf.task_1068_7_7,episkopi formation,Roadian|272.30000|268.80000,f
+1471173,overlappingpdfs.139.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.139.pdf.task_415_16_16,TIME_DOC_overlappingpdfs.139.pdf.task_415_10_10,oldman formation,Judithian|83.50000|70.60000,f
+1458309,overlappingpdfs.132551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132551.pdf.task_990_8_8,ROCK_DOC_overlappingpdfs.132551.pdf.task_990_19_20,mammalia,pisco formation,f
+1517471,overlappingpdfs.132630.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132630.pdf.task_921_13_13,TIME_DOC_overlappingpdfs.132630.pdf.task_921_6_7,kuwajima formation,Early Cretaceous|145.5000|99.6000,f
+1460273,overlappingpdfs.132551.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132551.pdf.task_358_34_34,TIME_DOC_overlappingpdfs.132551.pdf.task_358_41_42,honda formation,Middle Miocene|15.9700|11.6080,f
+1514644,overlappingpdfs.132522.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132522.pdf.task_1312_3_3,TIME_DOC_overlappingpdfs.132522.pdf.task_1312_9_10,shihtzupu formation,Middle Ordovician|471.8000|460.9000,f
+1519711,overlappingpdfs.132756.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132756.pdf.task_32_12_12,TIME_DOC_overlappingpdfs.132756.pdf.task_32_18_19,calvert formation,Middle Miocene|15.9700|11.6080,f
+1517678,overlappingpdfs.136577.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136577.pdf.task_262_20_20,TIME_DOC_overlappingpdfs.136577.pdf.task_262_12_12,dundee formation,Ditton|416.00000|412.30000,f
+1467121,overlappingpdfs.130827.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130827.pdf.task_294_1_1,ROCK_DOC_overlappingpdfs.130827.pdf.task_294_5_8,pterotheca,wether law linn formation,f
+1498624,overlappingpdfs.132716.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132716.pdf.task_125_13_14,TIME_DOC_overlappingpdfs.132716.pdf.task_125_3_4,sinbad limestone member,Early Triassic|251.0000|245.0000,f
+1454303,overlappingpdfs.132980.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132980.pdf.task_21_49_49,ROCK_DOC_overlappingpdfs.132980.pdf.task_21_45_46,argentina,los colorados formation,f
+1492782,overlappingpdfs.136807.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136807.pdf.task_73_1_2,TIME_DOC_overlappingpdfs.136807.pdf.task_73_7_7,geneseo shale,Genesee|388.10000|376.10000,f
+1464212,overlappingpdfs.135664.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135664.pdf.task_314_13_13,TIME_DOC_overlappingpdfs.135664.pdf.task_314_12_12,meishucun formation,Cambrian|541.00000|485.40000,f
+1503317,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_5443_11_12,TIME_DOC_overlappingpdfs.138519.pdf.task_5443_19_19,sheep creek formation,Hemingfordian|20.43000|15.97000,f
+1517411,overlappingpdfs.130801.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130801.pdf.task_35_8_11,TIME_DOC_overlappingpdfs.130801.pdf.task_35_22_23,late iurassic sundance formation,Late Jurassic|161.2000|145.5000,f
+1504180,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_864_9_9,TIME_DOC_overlappingpdfs.138519.pdf.task_864_19_19,creek ash,Barstovian|15.97000|13.60000,f
+1470269,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_464_47_47,ROCK_DOC_overlappingpdfs.132470.pdf.task_464_40_42,arizona,owl rock formation,f
+1499697,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_316_31_31,ROCK_DOC_overlappingpdfs.138393.pdf.task_316_9_10,arizona,santa rosa sandstone,f
+1521740,overlappingpdfs.136931.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136931.pdf.task_439_28_28,TIME_DOC_overlappingpdfs.136931.pdf.task_439_27_27,limestone formation,Wenlock|433.40000|427.40000,f
+1479511,overlappingpdfs.132759.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132759.pdf.task_795_4_4,TIME_DOC_overlappingpdfs.132759.pdf.task_795_0_0,bighorn dolomite,Ordovician|485.40000|443.40000,f
+1496984,overlappingpdfs.132230.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132230.pdf.task_449_43_43,ROCK_DOC_overlappingpdfs.132230.pdf.task_449_22_24,mesoraphidia,purbeck limestone group,f
+1457116,overlappingpdfs.130330.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130330.pdf.task_109_6_7,TIME_DOC_overlappingpdfs.130330.pdf.task_109_13_13,gosau group,Eocene|56.00000|33.90000,f
+1534271,overlappingpdfs.1357.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1357.pdf.task_214_0_0,TIME_DOC_overlappingpdfs.1357.pdf.task_214_13_13,mazateron formation,MP15|48.60000|40.40000,f
+1468421,overlappingpdfs.132987.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132987.pdf.task_189_19_19,ROCK_DOC_overlappingpdfs.132987.pdf.task_189_5_6,hedstroemia,kalstad limestone formation,f
+1479306,overlappingpdfs.138573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138573.pdf.task_4860_31_31,TIME_DOC_overlappingpdfs.138573.pdf.task_4860_45_45,florida sand,Blancan|4.90000|1.80000,f
+1498946,overlappingpdfs.136334.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136334.pdf.task_56_6_7,TIME_DOC_overlappingpdfs.136334.pdf.task_56_4_5,craighead limestone formation,Late Ordovician|460.9000|443.7000,f
+1456964,overlappingpdfs.138679.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138679.pdf.task_1020_21_22,TIME_DOC_overlappingpdfs.138679.pdf.task_1020_16_16,carlile shale,Turonian|93.90000|89.80000,f
+1488340,overlappingpdfs.138083.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138083.pdf.task_857_4_5,ROCK_DOC_overlappingpdfs.138083.pdf.task_857_7_7,paramynodon birmanicus,pondaung sandstones,f
+1511626,overlappingpdfs.130816.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130816.pdf.task_50_20_20,TIME_DOC_overlappingpdfs.130816.pdf.task_50_11_11,waynesville formation,Richmondian|449.50000|443.70000,f
+1524372,overlappingpdfs.132609.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132609.pdf.task_447_11_12,TIME_DOC_overlappingpdfs.132609.pdf.task_447_9_10,iudith river group,Late Cretaceous|99.6000|65.5000,f
+1526151,overlappingpdfs.133063.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133063.pdf.task_1602_18_19,ROCK_DOC_overlappingpdfs.133063.pdf.task_1602_28_28,tretaspis ceryx,raheen formation,f
+1528189,overlappingpdfs.13405.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.13405.pdf.task_1132_21_21,ROCK_DOC_overlappingpdfs.13405.pdf.task_1132_39_39,belemnites,oxford clay,f
+1496023,overlappingpdfs.132206.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132206.pdf.task_822_1_2,TIME_DOC_overlappingpdfs.132206.pdf.task_822_11_11,grey shales member,Toarcian|182.70000|174.10000,f
+1523430,overlappingpdfs.132581.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132581.pdf.task_224_11_11,TIME_DOC_overlappingpdfs.132581.pdf.task_224_25_25,limestone formation,Wenlock|433.40000|427.40000,f
+1533528,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_4453_0_2,TIME_DOC_overlappingpdfs.138624.pdf.task_4453_6_6,ferron point formation,Givetian|387.70000|382.70000,f
+1533202,overlappingpdfs.132684.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132684.pdf.task_84_13_14,TIME_DOC_overlappingpdfs.132684.pdf.task_84_23_23,leidapo member,Anisian|247.20000|242.00000,f
+1525048,overlappingpdfs.132657.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132657.pdf.task_17_34_34,ROCK_DOC_overlappingpdfs.132657.pdf.task_17_10_10,mesolyda,sogul formation,f
+1509597,overlappingpdfs.132862.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132862.pdf.task_1397_1_1,TIME_DOC_overlappingpdfs.132862.pdf.task_1397_0_0,formation formation,Pilton|376.10000|353.80000,f
+1486538,overlappingpdfs.138658.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138658.pdf.task_1702_26_27,TIME_DOC_overlappingpdfs.138658.pdf.task_1702_29_30,hamilton group,Middle Devonian|397.5000|385.3000,f
+1505854,overlappingpdfs.132487.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132487.pdf.task_67_0_2,TIME_DOC_overlappingpdfs.132487.pdf.task_67_4_4,punta negra formation,Devonian|419.20000|358.90000,f
+1455482,overlappingpdfs.138450.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138450.pdf.task_414_12_13,TIME_DOC_overlappingpdfs.138450.pdf.task_414_10_11,hell creek formation,Late Cretaceous|99.6000|65.5000,f
+1451345,overlappingpdfs.132385.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132385.pdf.task_366_47_47,ROCK_DOC_overlappingpdfs.132385.pdf.task_366_9_9,fimbria,claremont formation,f
+1514367,overlappingpdfs.132302.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132302.pdf.task_182_8_8,TIME_DOC_overlappingpdfs.132302.pdf.task_182_20_20,candeleros formation,Coniacian|89.80000|86.30000,f
+1495041,overlappingpdfs.132401.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132401.pdf.task_262_41_42,TIME_DOC_overlappingpdfs.132401.pdf.task_262_9_9,oxford clay,Kimmeridgian|157.30000|152.10000,f
+1469344,overlappingpdfs.132965.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132965.pdf.task_635_26_26,TIME_DOC_overlappingpdfs.132965.pdf.task_635_17_17,kuwajima formation,Neocomian|145.00000|130.00000,f
+1497843,overlappingpdfs.132789.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132789.pdf.task_65_4_4,ROCK_DOC_overlappingpdfs.132789.pdf.task_65_9_9,platemys,london clay,f
+1474984,overlappingpdfs.138707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138707.pdf.task_2588_9_9,TIME_DOC_overlappingpdfs.138707.pdf.task_2588_3_3,day formation,Hemingfordian|20.43000|15.97000,f
+1511849,overlappingpdfs.133113.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133113.pdf.task_41_0_0,ROCK_DOC_overlappingpdfs.133113.pdf.task_41_9_11,dastilbe,nova olinda member,f
+1526367,overlappingpdfs.135414.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135414.pdf.task_10_5_5,ROCK_DOC_overlappingpdfs.135414.pdf.task_10_25_25,champsosaurus,montana group,f
+1467924,overlappingpdfs.1341.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1341.pdf.task_47_41_41,TIME_DOC_overlappingpdfs.1341.pdf.task_47_43_43,marys formations,Miocene|23.03000|5.33300,f
+1524362,overlappingpdfs.132304.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132304.pdf.task_283_0_1,TIME_DOC_overlappingpdfs.132304.pdf.task_283_4_5,daohugou formation,Middle Jurassic|175.6000|161.2000,f
+1456328,overlappingpdfs.130330.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130330.pdf.task_200_2_2,ROCK_DOC_overlappingpdfs.130330.pdf.task_200_8_8,cunnolites,hofergraben member,f
+1475562,overlappingpdfs.138707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138707.pdf.task_1920_7_7,TIME_DOC_overlappingpdfs.138707.pdf.task_1920_34_34,canyon member,Richmond|449.50000|445.60000,f
+1485650,overlappingpdfs.138434.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138434.pdf.task_1018_22_22,TIME_DOC_overlappingpdfs.138434.pdf.task_1018_51_51,solsville member,Devonian|419.20000|358.90000,f
+1468706,overlappingpdfs.133045.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133045.pdf.task_739_6_6,ROCK_DOC_overlappingpdfs.133045.pdf.task_739_11_11,reptilia,ischigualasto formation,f
+1486316,overlappingpdfs.138755.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138755.pdf.task_3896_3_3,TIME_DOC_overlappingpdfs.138755.pdf.task_3896_1_1,pamunkey group,Tertiary|66.00000|2.58800,f
+1487515,overlappingpdfs.132367.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132367.pdf.task_111_11_13,TIME_DOC_overlappingpdfs.132367.pdf.task_111_25_25,road canyon formation,Capitanian|265.10000|259.90000,f
+1488976,overlappingpdfs.133099.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133099.pdf.task_1297_8_9,TIME_DOC_overlappingpdfs.133099.pdf.task_1297_2_3,cow head group,Late Cambrian|501.0000|488.3000,f
+1472397,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_304_44_44,ROCK_DOC_overlappingpdfs.138438.pdf.task_304_19_20,merriamoceros,barstow formation,f
+1455163,overlappingpdfs.136070.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136070.pdf.task_490_19_19,TIME_DOC_overlappingpdfs.136070.pdf.task_490_22_22,gower formation,Silurian|443.40000|419.20000,f
+1452719,overlappingpdfs.132547.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132547.pdf.task_132_7_7,TIME_DOC_overlappingpdfs.132547.pdf.task_132_6_6,limestone formation,Wenlock|433.40000|427.40000,f
+1503043,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_196_17_17,TIME_DOC_overlappingpdfs.138519.pdf.task_196_47_48,murphy member,Late Miocene|11.6080|5.3320,f
+1485653,overlappingpdfs.133026.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133026.pdf.task_21_13_15,TIME_DOC_overlappingpdfs.133026.pdf.task_21_17_17,antelope valley formation,Ordovician|485.40000|443.40000,f
+1488678,overlappingpdfs.138168.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138168.pdf.task_1559_0_0,ROCK_DOC_overlappingpdfs.138168.pdf.task_1559_42_43,leptopleuron,lossiemouth beds formation,f
+1518330,overlappingpdfs.132859.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132859.pdf.task_68_45_45,ROCK_DOC_overlappingpdfs.132859.pdf.task_68_24_24,habrosaurus,lance formation,f
+1486091,overlappingpdfs.138658.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138658.pdf.task_3034_12_13,TIME_DOC_overlappingpdfs.138658.pdf.task_3034_0_0,hamilton group,Pragian|410.80000|407.60000,f
+1451258,overlappingpdfs.138365.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138365.pdf.task_577_17_17,ROCK_DOC_overlappingpdfs.138365.pdf.task_577_1_2,merychyus,rosebud formation formation,f
+1513982,overlappingpdfs.132522.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132522.pdf.task_32_49_49,TIME_DOC_overlappingpdfs.132522.pdf.task_32_19_19,changwu formation,Ashgill|449.50000|443.70000,f
+1492546,overlappingpdfs.132663.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132663.pdf.task_426_10_10,TIME_DOC_overlappingpdfs.132663.pdf.task_426_31_31,takena formation,Aptian|125.00000|113.00000,f
+1522049,overlappingpdfs.131661.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131661.pdf.task_427_11_11,ROCK_DOC_overlappingpdfs.131661.pdf.task_427_28_28,foraminifera,forteau formation,f
+1514271,overlappingpdfs.132096.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132096.pdf.task_574_23_23,TIME_DOC_overlappingpdfs.132096.pdf.task_574_29_29,khuff formation,Wordian|268.80000|265.10000,f
+1500002,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_5367_38_38,ROCK_DOC_overlappingpdfs.138519.pdf.task_5367_16_16,dinohippus,east sand,f
+1526762,overlappingpdfs.133108.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133108.pdf.task_207_26_26,ROCK_DOC_overlappingpdfs.133108.pdf.task_207_32_33,eospirigerina,kulunbulak formation,f
+1514103,overlappingpdfs.132777.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132777.pdf.task_173_10_11,TIME_DOC_overlappingpdfs.132777.pdf.task_173_7_7,zheltyaki member,Volkhov|471.80000|468.10000,f
+1534919,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_3752_47_48,TIME_DOC_overlappingpdfs.138624.pdf.task_3752_51_51,norway point formation,Tioughniogan|391.8000|385.3000,f
+1504153,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_69_6_7,TIME_DOC_overlappingpdfs.138519.pdf.task_69_13_13,sheep creek formation,Hemingfordian|20.43000|15.97000,f
+1487550,overlappingpdfs.130651.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130651.pdf.task_787_23_24,TIME_DOC_overlappingpdfs.130651.pdf.task_787_22_22,doushantuo formation,Sinian|635.00000|541.00000,f
+1487927,overlappingpdfs.132666.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132666.pdf.task_838_11_11,TIME_DOC_overlappingpdfs.132666.pdf.task_838_8_8,chinle group,Carnian|237.00000|228.00000,f
+1516007,overlappingpdfs.138424.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138424.pdf.task_405_19_19,TIME_DOC_overlappingpdfs.138424.pdf.task_405_23_23,gashato formation,Paleocene|66.00000|56.00000,f
+1482898,overlappingpdfs.138622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138622.pdf.task_1504_9_10,TIME_DOC_overlappingpdfs.138622.pdf.task_1504_21_21,john day formation,Arikareean|30.80000|20.43000,f
+1470848,overlappingpdfs.132786.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132786.pdf.task_68_27_28,TIME_DOC_overlappingpdfs.132786.pdf.task_68_20_20,rhenish main coal,Miocene|23.03000|5.33300,f
+1482460,overlappingpdfs.132093.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132093.pdf.task_1332_35_36,TIME_DOC_overlappingpdfs.132093.pdf.task_1332_47_47,virgin hills formation,Frasnian|382.70000|372.20000,f
+1508036,overlappingpdfs.135620.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135620.pdf.task_282_17_18,TIME_DOC_overlappingpdfs.135620.pdf.task_282_15_16,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1497489,overlappingpdfs.132577.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132577.pdf.task_679_8_8,TIME_DOC_overlappingpdfs.132577.pdf.task_679_7_7,calvert formation,Miocene|23.03000|5.33300,f
+1515870,overlappingpdfs.132707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132707.pdf.task_63_6_6,TIME_DOC_overlappingpdfs.132707.pdf.task_63_2_2,bastion formation,Cambrian|541.00000|485.40000,f
+1526877,overlappingpdfs.133063.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133063.pdf.task_2374_4_4,TIME_DOC_overlappingpdfs.133063.pdf.task_2374_3_3,balclatchie group,Ordovician|485.40000|443.40000,f
+1467758,overlappingpdfs.1327.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1327.pdf.task_95_5_6,TIME_DOC_overlappingpdfs.1327.pdf.task_95_24_24,anembalemba member,Maastrichtian|72.10000|66.00000,f
+1485452,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_2218_8_8,ROCK_DOC_overlappingpdfs.138755.pdf.task_2218_19_19,pinna,monmouth group,f
+1494221,overlappingpdfs.132401.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132401.pdf.task_300_18_18,ROCK_DOC_overlappingpdfs.132401.pdf.task_300_36_36,steneosaurus,oxford clay,f
+1470059,overlappingpdfs.132470.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132470.pdf.task_777_4_4,ROCK_DOC_overlappingpdfs.132470.pdf.task_777_8_8,vancleavea,forest formation,f
+1485804,overlappingpdfs.138755.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138755.pdf.task_1501_24_24,TIME_DOC_overlappingpdfs.138755.pdf.task_1501_19_19,maastricht formation,Maastrichtian|72.10000|66.00000,f
+1533961,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_4003_8_9,TIME_DOC_overlappingpdfs.138624.pdf.task_4003_17_17,keokuk limestone formation,Mississippian|358.90000|323.20000,f
+1473016,overlappingpdfs.138438.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138438.pdf.task_362_43_43,TIME_DOC_overlappingpdfs.138438.pdf.task_362_27_29_PART_1,calvert formation,Hemingfordian|20.43000|15.97000,f
+1473157,overlappingpdfs.138438.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138438.pdf.task_255_28_29,TIME_DOC_overlappingpdfs.138438.pdf.task_255_44_44,john day formation,Arikareean|30.80000|20.43000,f
+1517703,overlappingpdfs.130801.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130801.pdf.task_340_28_29,TIME_DOC_overlappingpdfs.130801.pdf.task_340_30_31,usa formation,Late Jurassic|161.2000|145.5000,f
+1491505,overlappingpdfs.133007.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133007.pdf.task_45_27_28,TIME_DOC_overlappingpdfs.133007.pdf.task_45_40_40,headon hill formation,MP18|37.20000|33.90000,f
+1503619,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_2286_38_39,TIME_DOC_overlappingpdfs.138519.pdf.task_2286_5_5,snake creek formation,Tertiary|66.00000|2.58800,f
+1494770,overlappingpdfs.132751.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132751.pdf.task_1640_4_4,TIME_DOC_overlappingpdfs.132751.pdf.task_1640_3_3,shihtzupu formation,Ordovician|485.40000|443.40000,f
+1497314,overlappingpdfs.132069.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132069.pdf.task_279_10_11,TIME_DOC_overlappingpdfs.132069.pdf.task_279_23_23,cystoid limestone formation,Ashgillian|449.50000|443.70000,f
+1534270,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_2498_4_4,TIME_DOC_overlappingpdfs.138624.pdf.task_2498_8_8,onondaga formation,Southwoodian|397.5000|391.8000,f
+1455711,overlappingpdfs.138679.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138679.pdf.task_2596_0_0,ROCK_DOC_overlappingpdfs.138679.pdf.task_2596_16_17,prionocyclus,carlile shale,f
+1530202,overlappingpdfs.130900.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130900.pdf.task_71_2_2,ROCK_DOC_overlappingpdfs.130900.pdf.task_71_16_17,michelinia,bullockpark bay dolomite,f
+1507996,overlappingpdfs.130551.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130551.pdf.task_711_10_11,TIME_DOC_overlappingpdfs.130551.pdf.task_711_6_6,reefton group,Devonian|419.20000|358.90000,f
+1455098,overlappingpdfs.138450.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138450.pdf.task_1708_15_15,TIME_DOC_overlappingpdfs.138450.pdf.task_1708_13_14,oldman formation,Late Cretaceous|99.6000|65.5000,f
+1494103,overlappingpdfs.132969.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132969.pdf.task_1167_4_5,TIME_DOC_overlappingpdfs.132969.pdf.task_1167_8_10_PART_0,tata limestone formation,Aptian|125.00000|113.00000,f
+1481445,overlappingpdfs.132444.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132444.pdf.task_76_70_70,ROCK_DOC_overlappingpdfs.132444.pdf.task_76_96_97,tectarius,warak formation,f
+1533307,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_5775_15_15,TIME_DOC_overlappingpdfs.138624.pdf.task_5775_25_25,limestone formation,Cazenovian|391.90000|383.70000,f
+1528009,overlappingpdfs.138605.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138605.pdf.task_6329_7_7,ROCK_DOC_overlappingpdfs.138605.pdf.task_6329_20_21,ophiacodon,belle plains formations,f
+1481934,overlappingpdfs.1395.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1395.pdf.task_931_6_6,ROCK_DOC_overlappingpdfs.1395.pdf.task_931_10_11,alligatoroidea,kirtland formation,f
+1508233,overlappingpdfs.133073.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133073.pdf.task_778_4_4,TIME_DOC_overlappingpdfs.133073.pdf.task_778_11_11,dulankara formation,Ashgill|449.50000|443.70000,f
+1460097,overlappingpdfs.132551.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132551.pdf.task_131_40_40,TIME_DOC_overlappingpdfs.132551.pdf.task_131_51_51,honda formation,Laventan|13.80000|11.80000,f
+1498577,overlappingpdfs.132622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132622.pdf.task_567_8_9,TIME_DOC_overlappingpdfs.132622.pdf.task_567_6_7,val gardena sandstone,Late Permian|260.4000|251.0000,f
+1460171,overlappingpdfs.130698.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130698.pdf.task_402_5_6,TIME_DOC_overlappingpdfs.130698.pdf.task_402_8_9,bromide formation,Middle Ordovician|471.8000|460.9000,f
+1459831,overlappingpdfs.132551.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132551.pdf.task_794_5_5,ROCK_DOC_overlappingpdfs.132551.pdf.task_794_0_0,chile,mallin formation,f
+1534645,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_2944_26_26,TIME_DOC_overlappingpdfs.138624.pdf.task_2944_13_13,schoharie grit,Emsian|407.60000|393.30000,f
+1494454,overlappingpdfs.132401.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132401.pdf.task_937_2_2,ROCK_DOC_overlappingpdfs.132401.pdf.task_937_19_19,metriorhynchidae,within group,f
+1496737,overlappingpdfs.133044.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133044.pdf.task_1058_0_1,ROCK_DOC_overlappingpdfs.133044.pdf.task_1058_9_9,palaeadotes,mariner group,f
+1455971,overlappingpdfs.1373.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1373.pdf.task_720_24_24,ROCK_DOC_overlappingpdfs.1373.pdf.task_720_17_17,arizona,sonsela member,f
+1489911,overlappingpdfs.132963.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132963.pdf.task_322_21_21,ROCK_DOC_overlappingpdfs.132963.pdf.task_322_20_20,chiniquodon,ischigualasto formation,f
+1516683,overlappingpdfs.132630.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132630.pdf.task_649_15_15,ROCK_DOC_overlappingpdfs.132630.pdf.task_649_19_19,squamata,english chalk,f
+1491507,overlappingpdfs.132303.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132303.pdf.task_509_15_16,TIME_DOC_overlappingpdfs.132303.pdf.task_509_19_19,santana formations,Cretaceous|145.00000|66.00000,f
+1514366,overlappingpdfs.1372.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1372.pdf.task_563_20_21,TIME_DOC_overlappingpdfs.1372.pdf.task_563_16_16,dinosaur park formation,Campanian|83.60000|72.10000,f
+1514018,overlappingpdfs.132283.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132283.pdf.task_1853_6_7,TIME_DOC_overlappingpdfs.132283.pdf.task_1853_5_5,doushantuo formation,Neoproterozoic|1000.00000|541.00000,f
+1497313,overlappingpdfs.132771.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132771.pdf.task_53_9_9,TIME_DOC_overlappingpdfs.132771.pdf.task_53_21_21,cazals formation,Tithonian|152.10000|145.00000,f
+1536749,overlappingpdfs.130697.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130697.pdf.task_17_16_17,TIME_DOC_overlappingpdfs.130697.pdf.task_17_14_15,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1515686,overlappingpdfs.132435.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132435.pdf.task_594_35_35,ROCK_DOC_overlappingpdfs.132435.pdf.task_594_7_8,eocaudina,zhuganpo formation,f
+1517223,overlappingpdfs.136788.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136788.pdf.task_174_39_39,ROCK_DOC_overlappingpdfs.136788.pdf.task_174_10_10,craspedobolbina,main ash,f
+1533562,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_2494_0_2,TIME_DOC_overlappingpdfs.138624.pdf.task_2494_11_11,formosa reef limestone formation,Eifelian|393.30000|387.70000,f
+1485662,overlappingpdfs.130805.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130805.pdf.task_674_32_34,TIME_DOC_overlappingpdfs.130805.pdf.task_674_25_25,big clifty formation,Mississippian|358.90000|323.20000,f
+1473039,overlappingpdfs.132919.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132919.pdf.task_624_35_35,TIME_DOC_overlappingpdfs.132919.pdf.task_624_26_27,otter sandstone,Middle Triassic|245.0000|228.0000,f
+1531246,overlappingpdfs.135583.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135583.pdf.task_593_21_21,TIME_DOC_overlappingpdfs.135583.pdf.task_593_20_20,doushantuo formation,Sinian|635.00000|541.00000,f
+1465951,overlappingpdfs.132736.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132736.pdf.task_130_10_10,TIME_DOC_overlappingpdfs.132736.pdf.task_130_7_7,phosphorite member,Cambrian|541.00000|485.40000,f
+1489445,overlappingpdfs.131.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131.pdf.task_38_7_8,TIME_DOC_overlappingpdfs.131.pdf.task_38_1_2,maevarano formation,Late Cretaceous|99.6000|65.5000,f
+1501136,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_855_46_46,ROCK_DOC_overlappingpdfs.138519.pdf.task_855_28_28,pliohippus,creek ash,f
+1465767,overlappingpdfs.132840.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132840.pdf.task_1142_8_8,TIME_DOC_overlappingpdfs.132840.pdf.task_1142_0_1,marcellus formation,Middle Devonian|397.5000|385.3000,f
+1529096,overlappingpdfs.132661.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132661.pdf.task_1464_25_26,TIME_DOC_overlappingpdfs.132661.pdf.task_1464_0_0,joe formation,Tournaisian|358.90000|346.70000,f
+1534306,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_5808_7_7,TIME_DOC_overlappingpdfs.138624.pdf.task_5808_29_29,limestone formation,Taghanic|388.10000|383.70000,f
+1471432,overlappingpdfs.132180.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132180.pdf.task_42_60_60,TIME_DOC_overlappingpdfs.132180.pdf.task_42_26_27,bringo shale,Middle Jurassic|175.6000|161.2000,f
+1464877,overlappingpdfs.137951.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.137951.pdf.task_2510_8_8,ROCK_DOC_overlappingpdfs.137951.pdf.task_2510_5_6,aphelops,creek beds formation,f
+1497631,overlappingpdfs.133016.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133016.pdf.task_130_25_25,ROCK_DOC_overlappingpdfs.133016.pdf.task_130_0_0,chile,apeleg formation,f
+1518267,overlappingpdfs.138462.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138462.pdf.task_497_0_0,ROCK_DOC_overlappingpdfs.138462.pdf.task_497_4_4,mollusca,hill sand,f
+1516352,overlappingpdfs.1391.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1391.pdf.task_48_20_21,TIME_DOC_overlappingpdfs.1391.pdf.task_48_31_32,cabral formation,Middle Triassic|245.0000|228.0000,f
+1515112,overlappingpdfs.1391.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1391.pdf.task_48_0_1,ROCK_DOC_overlappingpdfs.1391.pdf.task_48_33_35,procolophon pricei,santa maria formation,f
+1479204,overlappingpdfs.138573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138573.pdf.task_2651_8_8,TIME_DOC_overlappingpdfs.138573.pdf.task_2651_18_18,olcott formation,Clarendonian|13.60000|10.30000,f
+1479456,overlappingpdfs.132702.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132702.pdf.task_630_9_10,TIME_DOC_overlappingpdfs.132702.pdf.task_630_4_5,namurungule formation,Late Miocene|11.6080|5.3320,f
+1457192,overlappingpdfs.131777.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131777.pdf.task_31_29_30,TIME_DOC_overlappingpdfs.131777.pdf.task_31_1_1,briery gap sandstone,Famennian|372.20000|358.90000,f
+1469539,overlappingpdfs.132965.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132965.pdf.task_42_17_18,TIME_DOC_overlappingpdfs.132965.pdf.task_42_9_9,miyako group,Cretaceous|145.00000|66.00000,f
+1460114,overlappingpdfs.132858.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132858.pdf.task_984_15_15,TIME_DOC_overlappingpdfs.132858.pdf.task_984_40_40,calciferous sandstone,Tournaisian|358.90000|346.70000,f
+1467132,overlappingpdfs.132964.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132964.pdf.task_292_23_23,ROCK_DOC_overlappingpdfs.132964.pdf.task_292_32_34,paradoxides,alum shale formation,f
+1509512,overlappingpdfs.132527.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132527.pdf.task_1578_0_1,TIME_DOC_overlappingpdfs.132527.pdf.task_1578_8_8,kayenta formation,Sinemurian|199.30000|190.80000,f
+1491249,overlappingpdfs.1346.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1346.pdf.task_67_17_17,TIME_DOC_overlappingpdfs.1346.pdf.task_67_19_20,burnside formation,Late Eocene|37.2000|33.9000,f
+1509962,overlappingpdfs.132453.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132453.pdf.task_306_18_19,TIME_DOC_overlappingpdfs.132453.pdf.task_306_12_12,iiufotang formation,Cretaceous|145.00000|66.00000,f
+1534998,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_5479_0_0,TIME_DOC_overlappingpdfs.138624.pdf.task_5479_5_5,moscow formation,Givetian|387.70000|382.70000,f
+1457229,overlappingpdfs.138679.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138679.pdf.task_1747_11_11,TIME_DOC_overlappingpdfs.138679.pdf.task_1747_15_15,carlile shale,Mesozoic|252.17000|66.00000,f
+1488981,overlappingpdfs.138083.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138083.pdf.task_1532_0_0,TIME_DOC_overlappingpdfs.138083.pdf.task_1532_3_4,pondaung sandstones,Late Eocene|37.2000|33.9000,f
+1472325,overlappingpdfs.132919.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132919.pdf.task_35_25_26,ROCK_DOC_overlappingpdfs.132919.pdf.task_35_12_13,anisodontosaurus greeri,otter sandstone,f
+1535297,overlappingpdfs.131277.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131277.pdf.task_649_2_2,ROCK_DOC_overlappingpdfs.131277.pdf.task_649_17_17,stricklandia,myren member,f
+1519306,overlappingpdfs.1300.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1300.pdf.task_175_9_10,TIME_DOC_overlappingpdfs.1300.pdf.task_175_7_8,nanaimo group,Late Cretaceous|99.6000|65.5000,f
+1526171,overlappingpdfs.133122.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133122.pdf.task_828_1_1,ROCK_DOC_overlappingpdfs.133122.pdf.task_828_8_9,muraenosaurus,oxford clay,f
+1512577,overlappingpdfs.130192.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130192.pdf.task_154_28_28,TIME_DOC_overlappingpdfs.130192.pdf.task_154_30_30,group group,Lockportian|428.20000|422.90000,f
+1537752,overlappingpdfs.138272.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138272.pdf.task_512_1_2,TIME_DOC_overlappingpdfs.138272.pdf.task_512_19_19,bone spring formation,Leonardian|280.000|270.600,f
+1479475,overlappingpdfs.133316.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133316.pdf.task_73_21_21,TIME_DOC_overlappingpdfs.133316.pdf.task_73_30_30,werfen formation,Changhsingian|254.17000|252.17000,f
+1457090,overlappingpdfs.138679.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138679.pdf.task_1369_29_31,TIME_DOC_overlappingpdfs.138679.pdf.task_1369_38_38,turner sandy member,Turonian|93.90000|89.80000,f
+1521735,overlappingpdfs.136931.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136931.pdf.task_462_59_59,TIME_DOC_overlappingpdfs.136931.pdf.task_462_36_36,limestone formation,Wenlock|433.40000|427.40000,f
+1485845,overlappingpdfs.132689.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132689.pdf.task_269_12_13,TIME_DOC_overlappingpdfs.132689.pdf.task_269_17_17,allingham formation,Pliocene|5.33300|2.58800,f
+1462678,overlappingpdfs.132895.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132895.pdf.task_377_0_0,TIME_DOC_overlappingpdfs.132895.pdf.task_377_4_4,pavillon member,Telychian|438.50000|433.40000,f
+1511357,overlappingpdfs.132836.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132836.pdf.task_512_11_12,TIME_DOC_overlappingpdfs.132836.pdf.task_512_2_3,windjana limestone formation,Late Devonian|385.3000|359.2000,f
+1510201,overlappingpdfs.132098.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132098.pdf.task_32_12_12,ROCK_DOC_overlappingpdfs.132098.pdf.task_32_19_21,hiscobeccus,cape calhoun formation,f
+1496715,overlappingpdfs.132762.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132762.pdf.task_173_8_8,ROCK_DOC_overlappingpdfs.132762.pdf.task_173_3_4,argentina,asfalto formation,f
+1496448,overlappingpdfs.132134.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132134.pdf.task_259_20_21,TIME_DOC_overlappingpdfs.132134.pdf.task_259_18_19,phra wihan formation,Middle Jurassic|175.6000|161.2000,f
+1534026,overlappingpdfs.132.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132.pdf.task_66_43_43,TIME_DOC_overlappingpdfs.132.pdf.task_66_16_16,romualdo member,Albian|113.00000|100.50000,f
+1465293,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_5_0_0,ROCK_DOC_overlappingpdfs.132215.pdf.task_5_9_9,peloneustes,peterborough member,f
+1494002,overlappingpdfs.132785.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132785.pdf.task_321_8_9,TIME_DOC_overlappingpdfs.132785.pdf.task_321_17_18,bumban member,Early Eocene|55.8000|48.6000,f
+1454516,overlappingpdfs.132874.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132874.pdf.task_813_25_26,TIME_DOC_overlappingpdfs.132874.pdf.task_813_24_24,navajo sandstone,Jurassic|201.30000|145.00000,f
+1507890,overlappingpdfs.130410.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130410.pdf.task_486_7_7,TIME_DOC_overlappingpdfs.130410.pdf.task_486_5_5,shaiwa group,Permian|298.90000|252.17000,f
+1519175,overlappingpdfs.138462.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138462.pdf.task_2213_11_12,TIME_DOC_overlappingpdfs.138462.pdf.task_2213_9_10,round mountain silt,Late Miocene|11.6080|5.3320,f
+1484066,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_2038_8_8,ROCK_DOC_overlappingpdfs.138755.pdf.task_2038_11_11,pinna,tinton formation,f
+1494167,overlappingpdfs.131219.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131219.pdf.task_407_0_0,ROCK_DOC_overlappingpdfs.131219.pdf.task_407_9_11,anomalocrinus,grant lake formation,f
+1503533,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_211_34_34,TIME_DOC_overlappingpdfs.138519.pdf.task_211_47_47,creek ash,Barstovian|15.97000|13.60000,f
+1516483,overlappingpdfs.132317.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132317.pdf.task_902_32_32,ROCK_DOC_overlappingpdfs.132317.pdf.task_902_29_30,arizona,sonsela member,f
+1485748,overlappingpdfs.133475.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133475.pdf.task_778_7_7,TIME_DOC_overlappingpdfs.133475.pdf.task_778_5_6,yixian formation,Early Cretaceous|145.5000|99.6000,f
+1523083,overlappingpdfs.132893.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132893.pdf.task_212_14_14,TIME_DOC_overlappingpdfs.132893.pdf.task_212_18_18,navesink greensand,Maastrichtian|72.10000|66.00000,f
+1513963,overlappingpdfs.130182.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130182.pdf.task_95_5_5,TIME_DOC_overlappingpdfs.130182.pdf.task_95_0_0,rupasca member,Ordovician|485.40000|443.40000,f
+1455892,overlappingpdfs.132695.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132695.pdf.task_14_9_9,ROCK_DOC_overlappingpdfs.132695.pdf.task_14_15_16,ophthalmosauria,loon river formation,f
+1494016,overlappingpdfs.132785.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132785.pdf.task_291_8_10,TIME_DOC_overlappingpdfs.132785.pdf.task_291_12_12,naran bulak formation,Bumbanian|55.80000|48.60000,f
+1470840,overlappingpdfs.132913.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132913.pdf.task_244_21_21,TIME_DOC_overlappingpdfs.132913.pdf.task_244_27_27,shelve formation,Abereiddian|466.00000|460.90000,f
+1452899,overlappingpdfs.132547.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132547.pdf.task_945_22_23,TIME_DOC_overlappingpdfs.132547.pdf.task_945_21_21,limestone formation,Wenlock|433.40000|427.40000,f
+1460789,overlappingpdfs.132895.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132895.pdf.task_504_5_5,ROCK_DOC_overlappingpdfs.132895.pdf.task_504_2_3,eocoelia,thornloe formation,f
+1503871,overlappingpdfs.138407.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138407.pdf.task_5164_4_4,TIME_DOC_overlappingpdfs.138407.pdf.task_5164_7_7,huerfano formation,Eocene|56.00000|33.90000,f
+1529988,overlappingpdfs.130900.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130900.pdf.task_34_61_61,ROCK_DOC_overlappingpdfs.130900.pdf.task_34_27_28,chonetes,bullockpark bay dolomite,f
+1464048,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_1404_11_12,TIME_DOC_overlappingpdfs.138465.pdf.task_1404_7_7,elwy group,Silurian|443.40000|419.20000,f
+1493788,overlappingpdfs.132723.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132723.pdf.task_535_25_25,TIME_DOC_overlappingpdfs.132723.pdf.task_535_6_7,santana formation,Early Cretaceous|145.5000|99.6000,f
+1467742,overlappingpdfs.132393.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132393.pdf.task_985_11_11,TIME_DOC_overlappingpdfs.132393.pdf.task_985_4_5,newark supergroup,Late Triassic|228.0000|199.6000,f
+1493916,overlappingpdfs.132785.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132785.pdf.task_259_10_11,TIME_DOC_overlappingpdfs.132785.pdf.task_259_15_16,willwood formation,Early Eocene|55.8000|48.6000,f
+1472134,overlappingpdfs.132130.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132130.pdf.task_762_14_14,TIME_DOC_overlappingpdfs.132130.pdf.task_762_13_13,senhata formation,Neogene|23.03000|2.58800,f
+1482858,overlappingpdfs.138622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138622.pdf.task_6877_179_179,TIME_DOC_overlappingpdfs.138622.pdf.task_6877_182_182,white ash,Whitneyan|33.30000|30.80000,f
+1532996,overlappingpdfs.138453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138453.pdf.task_1683_0_0,ROCK_DOC_overlappingpdfs.138453.pdf.task_1683_13_15,phacops,mile dam formation,f
+1514563,overlappingpdfs.136319.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136319.pdf.task_334_23_23,TIME_DOC_overlappingpdfs.136319.pdf.task_334_21_22,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1494086,overlappingpdfs.133117.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133117.pdf.task_133_10_11,TIME_DOC_overlappingpdfs.133117.pdf.task_133_6_7,ulgase formation,Late Cambrian|501.0000|488.3000,f
+1536494,overlappingpdfs.132985.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132985.pdf.task_27_13_15,TIME_DOC_overlappingpdfs.132985.pdf.task_27_11_12,bembridge marls member,Late Eocene|37.2000|33.9000,f
+1511160,overlappingpdfs.132634.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132634.pdf.task_670_30_31,TIME_DOC_overlappingpdfs.132634.pdf.task_670_26_26,point formation,Pliocene|5.33300|2.58800,f
+1506125,overlappingpdfs.132301.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132301.pdf.task_803_16_16,ROCK_DOC_overlappingpdfs.132301.pdf.task_803_7_7,argentina,zorra formation,f
+1523271,overlappingpdfs.136624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136624.pdf.task_119_14_15,TIME_DOC_overlappingpdfs.136624.pdf.task_119_35_35,coonigan formation,Ordian|516.00000|513.00000,f
+1475403,overlappingpdfs.138707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138707.pdf.task_661_0_1,TIME_DOC_overlappingpdfs.138707.pdf.task_661_22_22,balm creek member,Richmond|449.50000|445.60000,f
+1535621,overlappingpdfs.133442.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133442.pdf.task_426_28_28,TIME_DOC_overlappingpdfs.133442.pdf.task_426_31_32_PART_0,mula member,Valanginian|139.80000|132.90000,f
+1523516,overlappingpdfs.132592.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132592.pdf.task_109_1_2,TIME_DOC_overlappingpdfs.132592.pdf.task_109_7_7,tugulu group,Aptian|125.00000|113.00000,f
+1496292,overlappingpdfs.133137.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133137.pdf.task_308_1_2,TIME_DOC_overlappingpdfs.133137.pdf.task_308_0_0,simsima formation,Maastrichtian|72.10000|66.00000,f
+1511919,overlappingpdfs.132709.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132709.pdf.task_518_2_2,ROCK_DOC_overlappingpdfs.132709.pdf.task_518_9_11,crocodilia,umm himar formation,f
+1466012,overlappingpdfs.132196.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132196.pdf.task_75_56_57,TIME_DOC_overlappingpdfs.132196.pdf.task_75_26_26,chubut group,Miocene|23.03000|5.33300,f
+1485958,overlappingpdfs.138658.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138658.pdf.task_2706_14_15,TIME_DOC_overlappingpdfs.138658.pdf.task_2706_6_6,hamilton group,Givetian|387.70000|382.70000,f
+1529002,overlappingpdfs.135332.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135332.pdf.task_432_26_26,TIME_DOC_overlappingpdfs.135332.pdf.task_432_35_35,shidazhai formation,Wuchiapingian|259.90000|254.17000,f
+1511215,overlappingpdfs.130492.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130492.pdf.task_426_14_16,TIME_DOC_overlappingpdfs.130492.pdf.task_426_23_23,hell creek formation,Ludlow|427.40000|423.00000,f
+1499141,overlappingpdfs.138393.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138393.pdf.task_1621_15_15,ROCK_DOC_overlappingpdfs.138393.pdf.task_1621_0_0,dictyopyge,newark group,f
+1534847,overlappingpdfs.132741.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132741.pdf.task_316_9_10,TIME_DOC_overlappingpdfs.132741.pdf.task_316_12_12,folkeslunda formation,Llanvirn|466.00000|460.90000,f
+1530865,overlappingpdfs.135723.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135723.pdf.task_438_37_37,ROCK_DOC_overlappingpdfs.135723.pdf.task_438_12_13,pteraichnus,sundance formation,f
+1501932,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_5470_3_3,ROCK_DOC_overlappingpdfs.138519.pdf.task_5470_14_15,aphelops,johnson member,f
+1508606,overlappingpdfs.132453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132453.pdf.task_469_8_8,ROCK_DOC_overlappingpdfs.132453.pdf.task_469_14_15,pterosauria,iiufotang formation,f
+1516218,overlappingpdfs.132282.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132282.pdf.task_154_74_75,TIME_DOC_overlappingpdfs.132282.pdf.task_154_77_77,dashaba formation,Darriwilian|467.30000|458.40000,f
+1515641,overlappingpdfs.132435.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132435.pdf.task_601_30_30,ROCK_DOC_overlappingpdfs.132435.pdf.task_601_13_14,metapolygnathus,xiaowa formation,f
+1466260,overlappingpdfs.138334.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138334.pdf.task_1170_44_44,TIME_DOC_overlappingpdfs.138334.pdf.task_1170_27_28,bridger formation,Middle Eocene|48.6000|37.2000,f
+1514228,overlappingpdfs.131707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131707.pdf.task_627_0_0,TIME_DOC_overlappingpdfs.131707.pdf.task_627_3_3,river formation,Niagaran|443.40000|422.90000,f
+1531272,overlappingpdfs.135723.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135723.pdf.task_19_5_5,TIME_DOC_overlappingpdfs.135723.pdf.task_19_3_4,morrison formation,Late Jurassic|161.2000|145.5000,f
+1512429,overlappingpdfs.130192.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130192.pdf.task_235_15_16,TIME_DOC_overlappingpdfs.130192.pdf.task_235_8_8,bertie formation,Salina|422.90000|419.20000,f
+1482691,overlappingpdfs.135881.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135881.pdf.task_405_23_23,TIME_DOC_overlappingpdfs.135881.pdf.task_405_16_16,turkana group,Pliocene|5.33300|2.58800,f
+1462896,overlappingpdfs.132529.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132529.pdf.task_84_13_13,TIME_DOC_overlappingpdfs.132529.pdf.task_84_2_2,rasto formation,Permian|298.90000|252.17000,f
+1470728,overlappingpdfs.132180.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132180.pdf.task_72_14_15,TIME_DOC_overlappingpdfs.132180.pdf.task_72_33_33,precipice sandstone,Toarcian|182.70000|174.10000,f
+1498704,overlappingpdfs.132622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132622.pdf.task_1536_10_10,TIME_DOC_overlappingpdfs.132622.pdf.task_1536_5_6,chinle group,Late Triassic|228.0000|199.6000,f
+1454635,overlappingpdfs.136070.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136070.pdf.task_373_31_32,TIME_DOC_overlappingpdfs.136070.pdf.task_373_34_35,waldron shale,Late Silurian|422.9000|416.0000,f
+1517668,overlappingpdfs.132630.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132630.pdf.task_123_6_7,TIME_DOC_overlappingpdfs.132630.pdf.task_123_5_5,kuwajima formation,Neocomian|145.00000|130.00000,f
+1466208,overlappingpdfs.132840.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132840.pdf.task_297_8_8,TIME_DOC_overlappingpdfs.132840.pdf.task_297_12_12,hsiangyang formation,Llanvirn|466.00000|460.90000,f
+1490886,overlappingpdfs.132440.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132440.pdf.task_270_0_1,ROCK_DOC_overlappingpdfs.132440.pdf.task_270_14_16,hybodus obtusus,forest marble formation,f
+1537622,overlappingpdfs.138665.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138665.pdf.task_2781_16_17,TIME_DOC_overlappingpdfs.138665.pdf.task_2781_14_15,djadokhta formation,Late Cretaceous|99.6000|65.5000,f
+1508496,overlappingpdfs.132527.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132527.pdf.task_1191_9_9,ROCK_DOC_overlappingpdfs.132527.pdf.task_1191_18_19,lystrosaurus,karoo supergroup,f
+1470960,overlappingpdfs.132359.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132359.pdf.task_63_12_13,TIME_DOC_overlappingpdfs.132359.pdf.task_63_2_2,ahbach formation,Givetian|387.70000|382.70000,f
+1473187,overlappingpdfs.132919.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132919.pdf.task_375_4_5,TIME_DOC_overlappingpdfs.132919.pdf.task_375_10_11,sherwood sandstone group,Middle Triassic|245.0000|228.0000,f
+1462282,overlappingpdfs.133092.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133092.pdf.task_16_129_129,TIME_DOC_overlappingpdfs.133092.pdf.task_16_127_128,soom shale,Late Ordovician|460.9000|443.7000,f
+1487373,overlappingpdfs.136082.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136082.pdf.task_266_5_5,ROCK_DOC_overlappingpdfs.136082.pdf.task_266_8_9,bivalvia,solsville member,f
+1484012,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_3453_8_8,ROCK_DOC_overlappingpdfs.138755.pdf.task_3453_14_15,pinna,tinton formation,f
+1451437,overlappingpdfs.138365.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138365.pdf.task_931_4_4,ROCK_DOC_overlappingpdfs.138365.pdf.task_931_0_0,palaeolagus,sharps formation,f
+1471063,overlappingpdfs.132896.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132896.pdf.task_130_15_16,TIME_DOC_overlappingpdfs.132896.pdf.task_130_12_12,morrison formation,Kimmeridgian|157.30000|152.10000,f
+1523366,overlappingpdfs.130860.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130860.pdf.task_606_7_7,TIME_DOC_overlappingpdfs.130860.pdf.task_606_15_16,bootenall member,Late Pleistocene|1.8060|0.0781,f
+1523469,overlappingpdfs.130860.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130860.pdf.task_287_14_16,TIME_DOC_overlappingpdfs.130860.pdf.task_287_18_18,cape burney member,Pleistocene|2.58800|0.01170,f
+1470893,overlappingpdfs.132180.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132180.pdf.task_665_15_15,TIME_DOC_overlappingpdfs.132180.pdf.task_665_7_7,kojareena sandstone,Bajocian|170.30000|168.30000,f
+1482079,overlappingpdfs.132093.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132093.pdf.task_1601_9_11,TIME_DOC_overlappingpdfs.132093.pdf.task_1601_8_8,virgin hills formation,Frasnian|382.70000|372.20000,f
+1523005,overlappingpdfs.132893.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132893.pdf.task_397_9_9,TIME_DOC_overlappingpdfs.132893.pdf.task_397_8_8,moreno formation,Cretaceous|145.00000|66.00000,f
+1497398,overlappingpdfs.132230.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132230.pdf.task_7_34_35,TIME_DOC_overlappingpdfs.132230.pdf.task_7_30_30,crato formation,Barremian|129.40000|125.00000,f
+1530247,overlappingpdfs.133545.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133545.pdf.task_1102_26_26,ROCK_DOC_overlappingpdfs.133545.pdf.task_1102_6_6,dictyoclostus,naxin group,f
+1509995,overlappingpdfs.132862.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132862.pdf.task_1166_12_12,TIME_DOC_overlappingpdfs.132862.pdf.task_1166_11_11,formation formation,Pilton|376.10000|353.80000,f
+1501115,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4759_9_9,ROCK_DOC_overlappingpdfs.138519.pdf.task_4759_19_20,moropus,virgin valley formation,f
+1471312,overlappingpdfs.132535.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132535.pdf.task_606_4_4,TIME_DOC_overlappingpdfs.132535.pdf.task_606_3_3,research group,Tertiary|66.00000|2.58800,f
+1482283,overlappingpdfs.138859.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138859.pdf.task_951_24_26,TIME_DOC_overlappingpdfs.138859.pdf.task_951_22_23,blanche point formation,Late Eocene|37.2000|33.9000,f
+1472760,overlappingpdfs.1334.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1334.pdf.task_619_2_2,ROCK_DOC_overlappingpdfs.1334.pdf.task_619_9_9,reptilia,nacimiento formation,f
+1516201,overlappingpdfs.132282.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132282.pdf.task_808_5_6,TIME_DOC_overlappingpdfs.132282.pdf.task_808_10_11,kuniutan formation,Middle Ordovician|471.8000|460.9000,f
+1536686,overlappingpdfs.138482.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138482.pdf.task_1006_4_5,TIME_DOC_overlappingpdfs.138482.pdf.task_1006_5_7_PART_1,thaynes formation,Spathian|251.30000|247.20000,f
+1502559,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4844_24_25,ROCK_DOC_overlappingpdfs.138519.pdf.task_4844_19_20,cranioceras unicornis,olcott formation,f
+1470200,overlappingpdfs.132845.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132845.pdf.task_588_0_0,ROCK_DOC_overlappingpdfs.132845.pdf.task_588_9_10,xinjiangchelys,qigu formation,f
+1507198,overlappingpdfs.133445.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133445.pdf.task_59_11_11,TIME_DOC_overlappingpdfs.133445.pdf.task_59_22_22,jagiiel formation,Maastrichtian|72.10000|66.00000,f
+1485868,overlappingpdfs.132612.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132612.pdf.task_868_8_8,TIME_DOC_overlappingpdfs.132612.pdf.task_868_1_1,moorowie formation,Cambrian|541.00000|485.40000,f
+1475950,overlappingpdfs.138044.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138044.pdf.task_72_39_40,TIME_DOC_overlappingpdfs.138044.pdf.task_72_14_15,iren dabasu formation,Late Cretaceous|99.6000|65.5000,f
+1523027,overlappingpdfs.130860.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130860.pdf.task_226_12_13,TIME_DOC_overlappingpdfs.130860.pdf.task_226_16_17,cape burney member,Late Pleistocene|1.8060|0.0781,f
+1457580,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_3113_13_13,ROCK_DOC_overlappingpdfs.138449.pdf.task_3113_6_6,alphadon,river formation,f
+1524295,overlappingpdfs.136551.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136551.pdf.task_15_18_19,TIME_DOC_overlappingpdfs.136551.pdf.task_15_14_14,kuibis quartzite,Precambrian|4000.0000|542.0000,f
+1496188,overlappingpdfs.132134.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132134.pdf.task_334_2_2,TIME_DOC_overlappingpdfs.132134.pdf.task_334_0_1,jiulongshan formation,Middle Jurassic|175.6000|161.2000,f
+1485337,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_3407_0_0,ROCK_DOC_overlappingpdfs.138658.pdf.task_3407_13_13,greenops,moscow formation,f
+1500548,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_155_55_55,ROCK_DOC_overlappingpdfs.138519.pdf.task_155_7_7,mammalia,creek ash,f
+1467406,overlappingpdfs.132173.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132173.pdf.task_650_7_7,TIME_DOC_overlappingpdfs.132173.pdf.task_650_5_6,silica formation,Middle Devonian|397.5000|385.3000,f
+1465984,overlappingpdfs.132736.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132736.pdf.task_103_18_18,TIME_DOC_overlappingpdfs.132736.pdf.task_103_24_24,xishanblaq formation,Cambrian|541.00000|485.40000,f
+1482490,overlappingpdfs.136130.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136130.pdf.task_21_61_62,TIME_DOC_overlappingpdfs.136130.pdf.task_21_34_34,cupido limestone formation,Albian|113.00000|100.50000,f
+1517947,overlappingpdfs.135515.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135515.pdf.task_738_33_33,ROCK_DOC_overlappingpdfs.135515.pdf.task_738_24_25,zygopleura,imo formation,f
+1467556,overlappingpdfs.131419.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131419.pdf.task_528_7_9,TIME_DOC_overlappingpdfs.131419.pdf.task_528_22_24_PART_1,red hill oolite,Triassic|252.17000|201.30000,f
+1536831,overlappingpdfs.133058.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133058.pdf.task_35_14_15,TIME_DOC_overlappingpdfs.133058.pdf.task_35_18_19,english lias group,Late Triassic|228.0000|199.6000,f
+1467992,overlappingpdfs.133017.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133017.pdf.task_60_17_18,TIME_DOC_overlappingpdfs.133017.pdf.task_60_16_16,crato formation,Cretaceous|145.00000|66.00000,f
+1457362,overlappingpdfs.138679.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138679.pdf.task_4538_5_6,TIME_DOC_overlappingpdfs.138679.pdf.task_4538_0_0,woodbine formation,Cenomanian|100.50000|93.90000,f
+1482176,overlappingpdfs.138622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138622.pdf.task_3562_8_10,TIME_DOC_overlappingpdfs.138622.pdf.task_3562_2_2,skull ridge member,Barstovian|15.97000|13.60000,f
+1489218,overlappingpdfs.132254.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132254.pdf.task_14_11_11,TIME_DOC_overlappingpdfs.132254.pdf.task_14_21_21,crato formation,Aptian|125.00000|113.00000,f
+1496497,overlappingpdfs.132134.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132134.pdf.task_64_17_18,TIME_DOC_overlappingpdfs.132134.pdf.task_64_16_16,crato formation,Aptian|125.00000|113.00000,f
+1503960,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_2291_17_18,TIME_DOC_overlappingpdfs.138519.pdf.task_2291_66_66,snake creek formation,Tertiary|66.00000|2.58800,f
+1455621,overlappingpdfs.132009.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132009.pdf.task_625_11_11,TIME_DOC_overlappingpdfs.132009.pdf.task_625_10_10,limestone formation,Wenlock|433.40000|427.40000,f
+1500981,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_5041_0_0,ROCK_DOC_overlappingpdfs.138519.pdf.task_5041_27_28,neohipparion,snake creek formation,f
+1454085,overlappingpdfs.131592.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131592.pdf.task_191_8_8,ROCK_DOC_overlappingpdfs.131592.pdf.task_191_13_15,mammalia,hell creek formation,f
+1519128,overlappingpdfs.138462.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138462.pdf.task_74_17_17,TIME_DOC_overlappingpdfs.138462.pdf.task_74_10_10,vaqueros formation,Arikareean|30.80000|20.43000,f
+1482625,overlappingpdfs.131694.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131694.pdf.task_451_9_9,TIME_DOC_overlappingpdfs.131694.pdf.task_451_3_3,rochester shale,Silurian|443.40000|419.20000,f
+1473555,overlappingpdfs.1334.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1334.pdf.task_350_17_19,TIME_DOC_overlappingpdfs.1334.pdf.task_350_13_13,black peaks formation,Paleocene|66.00000|56.00000,f
+1488957,overlappingpdfs.132764.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132764.pdf.task_720_10_11,TIME_DOC_overlappingpdfs.132764.pdf.task_720_7_7,toutunhe formation,Oxfordian|163.50000|157.30000,f
+1504976,overlappingpdfs.132660.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132660.pdf.task_637_7_9,TIME_DOC_overlappingpdfs.132660.pdf.task_637_15_16,sharon springs member,Late Cretaceous|99.6000|65.5000,f
+1500905,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_2311_20_20,ROCK_DOC_overlappingpdfs.138519.pdf.task_2311_35_35,merychippus,olcott formation,f
+1473062,overlappingpdfs.132919.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132919.pdf.task_620_34_34,TIME_DOC_overlappingpdfs.132919.pdf.task_620_41_41,sandstone formation,Anisian|247.20000|242.00000,f
+1517686,overlappingpdfs.130764.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130764.pdf.task_52_18_18,TIME_DOC_overlappingpdfs.130764.pdf.task_52_11_11,panton formation,Ordian|516.00000|513.00000,f
+1509424,overlappingpdfs.132862.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132862.pdf.task_1064_1_1,TIME_DOC_overlappingpdfs.132862.pdf.task_1064_3_3,formation formation,Pilton|376.10000|353.80000,f
+1462268,overlappingpdfs.132406.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132406.pdf.task_917_6_7,TIME_DOC_overlappingpdfs.132406.pdf.task_917_5_5,calvert formation,Miocene|23.03000|5.33300,f
+1522998,overlappingpdfs.131179.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131179.pdf.task_59_17_18,TIME_DOC_overlappingpdfs.131179.pdf.task_59_24_24,ahmar formation,Emsian|407.60000|393.30000,f
+1482805,overlappingpdfs.138622.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138622.pdf.task_3563_10_10,TIME_DOC_overlappingpdfs.138622.pdf.task_3563_18_18,barstow formation,Barstovian|15.97000|13.60000,f
+1504108,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_195_18_18,TIME_DOC_overlappingpdfs.138519.pdf.task_195_6_6,creek ash,Barstovian|15.97000|13.60000,f
+1534021,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_4492_9_9,TIME_DOC_overlappingpdfs.138624.pdf.task_4492_11_11,limestone formation,Eifelian|393.30000|387.70000,f
+1491206,overlappingpdfs.132479.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132479.pdf.task_20_6_7,TIME_DOC_overlappingpdfs.132479.pdf.task_20_14_14,dinosaur park formation,Mesozoic|252.17000|66.00000,f
+1536331,overlappingpdfs.138482.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138482.pdf.task_1082_27_27,ROCK_DOC_overlappingpdfs.138482.pdf.task_1082_9_9,boreosomus,siltstone member,f
+1493091,overlappingpdfs.131227.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.131227.pdf.task_582_12_12,ROCK_DOC_overlappingpdfs.131227.pdf.task_582_0_2,striispirifer,skenidioides community group,f
+1485976,overlappingpdfs.132120.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132120.pdf.task_7_29_29,TIME_DOC_overlappingpdfs.132120.pdf.task_7_33_33,kimmeridge clay,Kimmeridgian|157.30000|152.10000,f
+1464228,overlappingpdfs.132122.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132122.pdf.task_773_4_5,TIME_DOC_overlappingpdfs.132122.pdf.task_773_3_3,purbeck group,Berriasian|145.00000|139.80000,f
+1509573,overlappingpdfs.132453.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132453.pdf.task_9_8_10,TIME_DOC_overlappingpdfs.132453.pdf.task_9_11_11,nova olinda member,Cretaceous|145.00000|66.00000,f
+1516271,overlappingpdfs.132457.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132457.pdf.task_862_5_6,TIME_DOC_overlappingpdfs.132457.pdf.task_862_23_23,waipara greensand,Paleocene|66.00000|56.00000,f
+1527731,overlappingpdfs.132745.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132745.pdf.task_112_31_32,TIME_DOC_overlappingpdfs.132745.pdf.task_112_1_2,sudair shale formation,Early Triassic|251.0000|245.0000,f
+1464619,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_1534_4_4,TIME_DOC_overlappingpdfs.138465.pdf.task_1534_2_2,grandeur member,Permian|298.90000|252.17000,f
+1479563,overlappingpdfs.133406.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133406.pdf.task_1862_11_12,TIME_DOC_overlappingpdfs.133406.pdf.task_1862_16_18_PART_1,windsor group,Brigantian|336.00000|326.40000,f
+1479603,overlappingpdfs.132575.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132575.pdf.task_1576_3_4,TIME_DOC_overlappingpdfs.132575.pdf.task_1576_15_15,atarque sandstone member,Turonian|93.90000|89.80000,f
+1527481,overlappingpdfs.133063.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133063.pdf.task_1083_4_6,TIME_DOC_overlappingpdfs.133063.pdf.task_1083_3_3,knockerk house sandstone member,Caradoc|460.90000|449.50000,f
+1462155,overlappingpdfs.132064.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132064.pdf.task_189_35_36,TIME_DOC_overlappingpdfs.132064.pdf.task_189_10_10,halla beds formation,Jaagarahu|428.20000|422.90000,f
+1523131,overlappingpdfs.135478.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135478.pdf.task_5_23_25,TIME_DOC_overlappingpdfs.135478.pdf.task_5_21_21,north american moenkopi formation,Buntsandstein|265.00000|252.30000,f
+1480185,overlappingpdfs.135881.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135881.pdf.task_300_22_22,ROCK_DOC_overlappingpdfs.135881.pdf.task_300_17_17,dasyatis,turkana group,f
+1488278,overlappingpdfs.132764.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132764.pdf.task_688_15_15,ROCK_DOC_overlappingpdfs.132764.pdf.task_688_13_14,amphibia,qigu formation,f
+1494963,overlappingpdfs.133129.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133129.pdf.task_384_2_4,TIME_DOC_overlappingpdfs.133129.pdf.task_384_1_1,cleveland ironstone formation,Pliensbachian|190.80000|182.70000,f
+1504472,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_738_20_22,TIME_DOC_overlappingpdfs.138519.pdf.task_738_31_31,snake creek formation,Clarendonian|13.60000|10.30000,f
+1458379,overlappingpdfs.138449.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138449.pdf.task_490_32_32,ROCK_DOC_overlappingpdfs.138449.pdf.task_490_41_41,tancredia,foremost sandstone,f
+1488995,overlappingpdfs.132764.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132764.pdf.task_1045_13_13,TIME_DOC_overlappingpdfs.132764.pdf.task_1045_6_7,kuwajima formation,Early Cretaceous|145.5000|99.6000,f
+1475309,overlappingpdfs.132572.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132572.pdf.task_46_11_11,TIME_DOC_overlappingpdfs.132572.pdf.task_46_18_18,yixian formation,Cretaceous|145.00000|66.00000,f
+1530893,overlappingpdfs.133545.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133545.pdf.task_301_13_13,ROCK_DOC_overlappingpdfs.133545.pdf.task_301_43_44,orthotetes,kongtaiaikengou formation,f
+1504127,overlappingpdfs.132298.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132298.pdf.task_601_9_9,TIME_DOC_overlappingpdfs.132298.pdf.task_601_27_27,isalo group,Ladinian|242.00000|237.00000,f
+1514630,overlappingpdfs.132096.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132096.pdf.task_487_12_12,TIME_DOC_overlappingpdfs.132096.pdf.task_487_6_6,haushi group,Guadalupian|272.30000|259.90000,f
+1491376,overlappingpdfs.130183.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130183.pdf.task_366_8_8,TIME_DOC_overlappingpdfs.130183.pdf.task_366_7_7,quilon formation,Burdigalian|20.44000|15.97000,f
+1519599,overlappingpdfs.135515.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135515.pdf.task_961_12_12,TIME_DOC_overlappingpdfs.135515.pdf.task_961_17_17,imo formation,Chesterian|339.40000|318.10000,f
+1533236,overlappingpdfs.138453.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138453.pdf.task_2028_10_11,TIME_DOC_overlappingpdfs.138453.pdf.task_2028_25_25,cedar valley formation,Taghanic|388.10000|383.70000,f
+1454291,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_721_24_24,ROCK_DOC_overlappingpdfs.132874.pdf.task_721_6_6,otozoum,mercia mudstone,f
+1517646,overlappingpdfs.132317.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132317.pdf.task_976_11_12,TIME_DOC_overlappingpdfs.132317.pdf.task_976_9_10,maleri formation,Late Triassic|228.0000|199.6000,f
+1516296,overlappingpdfs.1391.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1391.pdf.task_527_13_14,TIME_DOC_overlappingpdfs.1391.pdf.task_527_8_8,newark supergroup,Triassic|252.17000|201.30000,f
+1504037,overlappingpdfs.13975.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.13975.pdf.task_1333_26_26,TIME_DOC_overlappingpdfs.13975.pdf.task_1333_56_56,great oolite,Miocene|23.03000|5.33300,f
+1528797,overlappingpdfs.135332.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135332.pdf.task_432_42_43,TIME_DOC_overlappingpdfs.135332.pdf.task_432_38_39,heshan formation,Late Permian|260.4000|251.0000,f
+1476023,overlappingpdfs.132925.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132925.pdf.task_784_4_5,TIME_DOC_overlappingpdfs.132925.pdf.task_784_7_7,paprieniai formation,Sheinwoodian|433.40000|430.50000,f
+1503462,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_1074_5_5,TIME_DOC_overlappingpdfs.138519.pdf.task_1074_2_3,creek ash,Late Miocene|11.6080|5.3320,f
+1460842,overlappingpdfs.132363.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132363.pdf.task_36_5_5,ROCK_DOC_overlappingpdfs.132363.pdf.task_36_5_5,eohalobia,eohalobia group,f
+1490264,overlappingpdfs.132567.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132567.pdf.task_1822_0_0,ROCK_DOC_overlappingpdfs.132567.pdf.task_1822_13_14,arthrostylidae,stony mountain formation,f
+1528638,overlappingpdfs.133114.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133114.pdf.task_671_10_11,TIME_DOC_overlappingpdfs.133114.pdf.task_671_8_9,klondike mountain formation,Middle Eocene|48.6000|37.2000,f
+1523977,overlappingpdfs.132524.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132524.pdf.task_748_7_7,ROCK_DOC_overlappingpdfs.132524.pdf.task_748_6_7,posidonia,iurassic posidonia shale,f
+1476217,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3805_2_3,ROCK_DOC_overlappingpdfs.138573.pdf.task_3805_15_16,neohipparion eurystyle,ogallala group,f
+1514629,overlappingpdfs.1372.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1372.pdf.task_893_10_11,TIME_DOC_overlappingpdfs.1372.pdf.task_893_11_13_PART_1,bearpaw formation,Maastrichtian|72.10000|66.00000,f
+1460393,overlappingpdfs.138449.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138449.pdf.task_105_19_19,TIME_DOC_overlappingpdfs.138449.pdf.task_105_5_5,bearpaw shale,Campanian|83.60000|72.10000,f
+1515946,overlappingpdfs.132435.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132435.pdf.task_439_19_19,TIME_DOC_overlappingpdfs.132435.pdf.task_439_18_18,cassian formation,Carnian|237.00000|228.00000,f
+1460087,overlappingpdfs.132858.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132858.pdf.task_945_1_2,TIME_DOC_overlappingpdfs.132858.pdf.task_945_27_27,horton bluff formation,Tournaisian|358.90000|346.70000,f
+1523534,overlappingpdfs.132592.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132592.pdf.task_109_1_1,TIME_DOC_overlappingpdfs.132592.pdf.task_109_4_5,tugulu group,Early Cretaceous|145.5000|99.6000,f
+1537840,overlappingpdfs.138272.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138272.pdf.task_427_0_1,TIME_DOC_overlappingpdfs.138272.pdf.task_427_10_10,victorio peak member,Leonardian|280.000|270.600,f
+1523398,overlappingpdfs.136624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136624.pdf.task_11_17_18,TIME_DOC_overlappingpdfs.136624.pdf.task_11_1_2,kalby clay,Middle Cambrian|513.0000|501.0000,f
+1476341,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_4990_3_4,ROCK_DOC_overlappingpdfs.138573.pdf.task_4990_18_19,nannippus peninsulatus,david formation,f
+1520117,overlappingpdfs.132531.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132531.pdf.task_42_55_56,ROCK_DOC_overlappingpdfs.132531.pdf.task_42_48_49,trigonia schwarzi,nerinea beds formation,f
+1455399,overlappingpdfs.130847.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130847.pdf.task_600_8_8,TIME_DOC_overlappingpdfs.130847.pdf.task_600_11_12,hamilton group,Middle Devonian|397.5000|385.3000,f
+1504213,overlappingpdfs.138407.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138407.pdf.task_3755_43_44,TIME_DOC_overlappingpdfs.138407.pdf.task_3755_14_14,bridger formation,Wasatchian|55.80000|50.30000,f
+1519176,overlappingpdfs.132859.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132859.pdf.task_313_28_28,TIME_DOC_overlappingpdfs.132859.pdf.task_313_43_43,kaiparowits formation,Maastrichtian|72.10000|66.00000,f
+1470999,overlappingpdfs.132180.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132180.pdf.task_42_52_52,TIME_DOC_overlappingpdfs.132180.pdf.task_42_50_50,colalura sandstone,Bajocian|170.30000|168.30000,f
+1463846,overlappingpdfs.132629.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132629.pdf.task_163_27_28,ROCK_DOC_overlappingpdfs.132629.pdf.task_163_10_10,palaeoscyllium formosum,wessex formation,f
+1474367,overlappingpdfs.130556.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130556.pdf.task_388_21_21,ROCK_DOC_overlappingpdfs.130556.pdf.task_388_18_19,arizona,moenkopi formation,f
+1499217,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_5041_0_0,ROCK_DOC_overlappingpdfs.138519.pdf.task_5041_27_29,neohipparion,snake creek formation,f
+1496240,overlappingpdfs.132206.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132206.pdf.task_1470_11_11,TIME_DOC_overlappingpdfs.132206.pdf.task_1470_9_9,great oolite,Toarcian|182.70000|174.10000,f
+1466590,overlappingpdfs.132964.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132964.pdf.task_422_18_18,ROCK_DOC_overlappingpdfs.132964.pdf.task_422_23_25,paradoxides,alum shale formation,f
+1483799,overlappingpdfs.133475.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133475.pdf.task_74_12_12,ROCK_DOC_overlappingpdfs.133475.pdf.task_74_3_3,rhamphorhynchidae,yixian formation,f
+1512512,overlappingpdfs.136756.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136756.pdf.task_39_8_9,TIME_DOC_overlappingpdfs.136756.pdf.task_39_3_3,penn yan member,Genesee|388.10000|376.10000,f
+1460331,overlappingpdfs.132858.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132858.pdf.task_1255_5_5,TIME_DOC_overlappingpdfs.132858.pdf.task_1255_1_1,ducabrook formation,Carboniferous|358.90000|298.90000,f
+1508246,overlappingpdfs.135620.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135620.pdf.task_21_0_0,TIME_DOC_overlappingpdfs.135620.pdf.task_21_3_3,eburgess shale,Cambrian|541.00000|485.40000,f
+1528705,overlappingpdfs.131246.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131246.pdf.task_332_13_14,TIME_DOC_overlappingpdfs.131246.pdf.task_332_16_17,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1515904,overlappingpdfs.132435.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132435.pdf.task_1150_8_9,TIME_DOC_overlappingpdfs.132435.pdf.task_1150_3_4,aghdarband group,Middle Triassic|245.0000|228.0000,f
+1460467,overlappingpdfs.138449.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138449.pdf.task_3461_22_22,TIME_DOC_overlappingpdfs.138449.pdf.task_3461_0_0,river formation,Paleocene|66.00000|56.00000,f
+1464075,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_1157_26_27,TIME_DOC_overlappingpdfs.138465.pdf.task_1157_23_23,road canyon formation,Leonardian|280.000|270.600,f
+1467766,overlappingpdfs.130827.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130827.pdf.task_207_31_31,TIME_DOC_overlappingpdfs.130827.pdf.task_207_2_2,linn formation,Ordovician|485.40000|443.40000,f
+1474982,overlappingpdfs.130556.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130556.pdf.task_56_13_13,TIME_DOC_overlappingpdfs.130556.pdf.task_56_9_9,volpriehausen formation,Buntsandstein|265.00000|252.30000,f
+1484548,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_1244_21_21,ROCK_DOC_overlappingpdfs.138755.pdf.task_1244_13_14,pinna,basal hornerstown formation,f
+1532550,overlappingpdfs.133311.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133311.pdf.task_446_26_26,ROCK_DOC_overlappingpdfs.133311.pdf.task_446_4_5,clarkina,black stripe formation,f
+1529788,overlappingpdfs.132534.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132534.pdf.task_180_84_85,TIME_DOC_overlappingpdfs.132534.pdf.task_180_8_8,british penarth group,Jurassic|201.30000|145.00000,f
+1462220,overlappingpdfs.136114.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136114.pdf.task_31_34_34,TIME_DOC_overlappingpdfs.136114.pdf.task_31_33_33,ameki formation,Eocene|56.00000|33.90000,f
+1487923,overlappingpdfs.135573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135573.pdf.task_731_13_14,TIME_DOC_overlappingpdfs.135573.pdf.task_731_12_12,oxford clay,Jurassic|201.30000|145.00000,f
+1504039,overlappingpdfs.138519.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138519.pdf.task_2549_1_1,TIME_DOC_overlappingpdfs.138519.pdf.task_2549_7_7,creek ash,Barstovian|15.97000|13.60000,f
+1537660,overlappingpdfs.132928.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132928.pdf.task_26_4_4,TIME_DOC_overlappingpdfs.132928.pdf.task_26_21_21,scalpa sandstone,Pliensbachian|190.80000|182.70000,f
+1453075,overlappingpdfs.132569.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132569.pdf.task_38_13_13,TIME_DOC_overlappingpdfs.132569.pdf.task_38_16_17,omingonde formation,Middle Triassic|245.0000|228.0000,f
+1530336,overlappingpdfs.133545.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133545.pdf.task_1102_45_45,ROCK_DOC_overlappingpdfs.133545.pdf.task_1102_6_6,brachythyris,naxin group,f
+1490083,overlappingpdfs.138613.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138613.pdf.task_123_29_29,ROCK_DOC_overlappingpdfs.138613.pdf.task_123_13_13,homoptera,santana formation,f
+1500072,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4285_11_11,ROCK_DOC_overlappingpdfs.138519.pdf.task_4285_45_46,merychippus,sheep creek formation,f
+1484677,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_941_3_3,ROCK_DOC_overlappingpdfs.138755.pdf.task_941_21_21,cribroperidinium,hornerstown formation,f
+1533764,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_3537_0_0,TIME_DOC_overlappingpdfs.138624.pdf.task_3537_8_8,wanakah shale,Givetian|387.70000|382.70000,f
+1482183,overlappingpdfs.132321.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132321.pdf.task_84_10_11,TIME_DOC_overlappingpdfs.132321.pdf.task_84_4_5,pisco formation,Early Pliocene|5.3320|3.6000,f
+1470716,overlappingpdfs.139.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.139.pdf.task_599_15_17,TIME_DOC_overlappingpdfs.139.pdf.task_599_4_4,straight cliffs formation,Turonian|93.90000|89.80000,f
+1487320,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_978_9_9,ROCK_DOC_overlappingpdfs.132666.pdf.task_978_6_6,arizona,chinle group,f
+1514528,overlappingpdfs.131707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131707.pdf.task_646_5_6,TIME_DOC_overlappingpdfs.131707.pdf.task_646_9_9,beech river formation,Niagaran|443.40000|422.90000,f
+1527562,overlappingpdfs.136473.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136473.pdf.task_536_19_20,TIME_DOC_overlappingpdfs.136473.pdf.task_536_1_2,great estuarine group,Late Jurassic|161.2000|145.5000,f
+1531557,overlappingpdfs.138540.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138540.pdf.task_1745_25_26,TIME_DOC_overlappingpdfs.138540.pdf.task_1745_11_11,kinnick formation,Hemingfordian|20.43000|15.97000,f
+1489014,overlappingpdfs.132687.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132687.pdf.task_58_28_29,TIME_DOC_overlappingpdfs.132687.pdf.task_58_26_26,kaub formation,Emsian|407.60000|393.30000,f
+1462237,overlappingpdfs.135551.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135551.pdf.task_15_14_15,TIME_DOC_overlappingpdfs.135551.pdf.task_15_13_13,quadersandstein member,Cenomanian|100.50000|93.90000,f
+1504178,overlappingpdfs.135105.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135105.pdf.task_339_7_9,TIME_DOC_overlappingpdfs.135105.pdf.task_339_5_6,batu raja formation,Early Miocene|23.0300|15.9700,f
+1512524,overlappingpdfs.130192.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130192.pdf.task_235_25_27,TIME_DOC_overlappingpdfs.130192.pdf.task_235_8_8,bass islands formation,Salina|422.90000|419.20000,f
+1498791,overlappingpdfs.132716.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132716.pdf.task_95_16_18,TIME_DOC_overlappingpdfs.132716.pdf.task_95_20_20,sinbad limestone member,Olenekian|251.20000|247.20000,f
+1512355,overlappingpdfs.135252.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135252.pdf.task_796_25_25,TIME_DOC_overlappingpdfs.135252.pdf.task_796_18_18,gosau group,Santonian|86.30000|83.60000,f
+1455356,overlappingpdfs.138375.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138375.pdf.task_81_27_27,TIME_DOC_overlappingpdfs.138375.pdf.task_81_24_26_PART_1,age group,Capitanian|265.10000|259.90000,f
+1462250,overlappingpdfs.131458.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131458.pdf.task_323_0_0,TIME_DOC_overlappingpdfs.131458.pdf.task_323_3_4,range formation,Late Cambrian|501.0000|488.3000,f
+1489298,overlappingpdfs.132706.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132706.pdf.task_692_8_8,TIME_DOC_overlappingpdfs.132706.pdf.task_692_11_11,kawinga formation,Tatarian|268.00000|252.30000,f
+1519597,overlappingpdfs.132473.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132473.pdf.task_1108_5_6,TIME_DOC_overlappingpdfs.132473.pdf.task_1108_25_26,adamantina formation,Late Cretaceous|99.6000|65.5000,f
+1521583,overlappingpdfs.136931.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136931.pdf.task_439_28_28,TIME_DOC_overlappingpdfs.136931.pdf.task_439_15_15,limestone formation,Elton|422.90000|421.30000,f
+1470772,overlappingpdfs.132896.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132896.pdf.task_205_30_31,TIME_DOC_overlappingpdfs.132896.pdf.task_205_14_14,iren dabasu formation,Cenomanian|100.50000|93.90000,f
+1514026,overlappingpdfs.132096.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132096.pdf.task_574_1_1,TIME_DOC_overlappingpdfs.132096.pdf.task_574_31_31,limestone formation,Guadalupian|272.30000|259.90000,f
+1485380,overlappingpdfs.138755.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138755.pdf.task_274_23_23,ROCK_DOC_overlappingpdfs.138755.pdf.task_274_18_18,pinna,tinton formation,f
+1465250,overlappingpdfs.132215.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132215.pdf.task_117_0_0,ROCK_DOC_overlappingpdfs.132215.pdf.task_117_15_15,pliosaurus,oxford clay,f
+1515968,overlappingpdfs.1391.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.1391.pdf.task_48_20_20,TIME_DOC_overlappingpdfs.1391.pdf.task_48_31_32,cabral formation,Middle Triassic|245.0000|228.0000,f
+1511178,overlappingpdfs.136050.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136050.pdf.task_33_8_8,TIME_DOC_overlappingpdfs.136050.pdf.task_33_7_7,mickwitzia sandstone,Cambrian|541.00000|485.40000,f
+1516279,overlappingpdfs.132570.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132570.pdf.task_27_14_16,TIME_DOC_overlappingpdfs.132570.pdf.task_27_19_19,hastings beds group,Cretaceous|145.00000|66.00000,f
+1524216,overlappingpdfs.132304.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132304.pdf.task_66_12_13,TIME_DOC_overlappingpdfs.132304.pdf.task_66_16_16,karabastau formation,Karatau|1050.00000|635.00000,f
+1468019,overlappingpdfs.132678.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132678.pdf.task_700_14_14,TIME_DOC_overlappingpdfs.132678.pdf.task_700_13_13,catskill formation,Famennian|372.20000|358.90000,f
+1516037,overlappingpdfs.130925.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130925.pdf.task_27_27_28,TIME_DOC_overlappingpdfs.130925.pdf.task_27_14_14,oread formation,Pennsylvanian|323.20000|298.90000,f
+1455432,overlappingpdfs.138450.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138450.pdf.task_438_15_17,TIME_DOC_overlappingpdfs.138450.pdf.task_438_13_14,hell creek formation,Late Cretaceous|99.6000|65.5000,f
+1486213,overlappingpdfs.138658.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138658.pdf.task_4857_4_5,TIME_DOC_overlappingpdfs.138658.pdf.task_4857_3_3,traverse group,Devonian|419.20000|358.90000,f
+1468244,overlappingpdfs.135114.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135114.pdf.task_218_24_24,TIME_DOC_overlappingpdfs.135114.pdf.task_218_23_23,group group,Lockport|428.20000|422.90000,f
+1502200,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4844_24_25,ROCK_DOC_overlappingpdfs.138519.pdf.task_4844_19_19,cranioceras unicornis,olcott formation,f
+1475011,overlappingpdfs.132521.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132521.pdf.task_39_1_2,TIME_DOC_overlappingpdfs.132521.pdf.task_39_6_6,hallstatt limestone formation,Permian|298.90000|252.17000,f
+1509479,overlappingpdfs.132923.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132923.pdf.task_423_43_43,TIME_DOC_overlappingpdfs.132923.pdf.task_423_14_15,oxford clay,Early Jurassic|199.6000|175.6000,f
+1529312,overlappingpdfs.135104.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135104.pdf.task_1066_13_13,ROCK_DOC_overlappingpdfs.135104.pdf.task_1066_2_4,argentina,santa rosita formation,f
+1497428,overlappingpdfs.136168.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136168.pdf.task_332_13_13,TIME_DOC_overlappingpdfs.136168.pdf.task_332_16_17,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1474844,overlappingpdfs.138044.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138044.pdf.task_638_4_4,ROCK_DOC_overlappingpdfs.138044.pdf.task_638_23_23,lambeosaurinae,dabasu formation,f
+1468808,overlappingpdfs.132987.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132987.pdf.task_190_31_31,ROCK_DOC_overlappingpdfs.132987.pdf.task_190_10_10,hedstroemia,hedstroemia group,f
+1507871,overlappingpdfs.130410.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130410.pdf.task_432_26_27,TIME_DOC_overlappingpdfs.130410.pdf.task_432_47_47,shidazhai formation,Changhsingian|254.17000|252.17000,f
+1534494,overlappingpdfs.138624.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138624.pdf.task_2555_1_1,TIME_DOC_overlappingpdfs.138624.pdf.task_2555_5_5,limestone formation,Eifelian|393.30000|387.70000,f
+1489037,overlappingpdfs.138678.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138678.pdf.task_3286_20_21,TIME_DOC_overlappingpdfs.138678.pdf.task_3286_15_16,eckfelder maar formation,Middle Eocene|48.6000|37.2000,f
+1511167,overlappingpdfs.130456.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130456.pdf.task_380_13_13,TIME_DOC_overlappingpdfs.130456.pdf.task_380_16_16,uhangri formation,Cretaceous|145.00000|66.00000,f
+1528237,overlappingpdfs.132315.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132315.pdf.task_727_4_4,ROCK_DOC_overlappingpdfs.132315.pdf.task_727_10_10,dinosauria,nemegt formations,f
+1479319,overlappingpdfs.138573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138573.pdf.task_3876_19_19,TIME_DOC_overlappingpdfs.138573.pdf.task_3876_23_23,ogallala group,Hemphillian|10.30000|4.90000,f
+1485762,overlappingpdfs.133475.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133475.pdf.task_416_23_23,TIME_DOC_overlappingpdfs.133475.pdf.task_416_16_18_PART_1,daohugou member,Middle Jurassic|175.6000|161.2000,f
+1472537,overlappingpdfs.132353.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132353.pdf.task_403_14_14,ROCK_DOC_overlappingpdfs.132353.pdf.task_403_5_6,argentina,la amarga formation,f
+1517423,overlappingpdfs.132748.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132748.pdf.task_206_5_5,TIME_DOC_overlappingpdfs.132748.pdf.task_206_3_3,muhua formation,Tournaisian|358.90000|346.70000,f
+1454044,overlappingpdfs.132874.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132874.pdf.task_721_21_21,ROCK_DOC_overlappingpdfs.132874.pdf.task_721_6_7,pseudotetrasauropus,mercia mudstone,f
+1471705,overlappingpdfs.132130.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132130.pdf.task_435_11_12,ROCK_DOC_overlappingpdfs.132130.pdf.task_435_16_16,isurus escheri,delden member,f
+1496145,overlappingpdfs.138385.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138385.pdf.task_2624_7_8,TIME_DOC_overlappingpdfs.138385.pdf.task_2624_4_4,runningwater formation,Hemingfordian|20.43000|15.97000,f
+1464186,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_2676_7_7,TIME_DOC_overlappingpdfs.138465.pdf.task_2676_4_4,grandeur member,Leonardian|280.000|270.600,f
+1536883,overlappingpdfs.136567.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.136567.pdf.task_47_4_4,TIME_DOC_overlappingpdfs.136567.pdf.task_47_20_20,laborcita formation,Wolfcamp|296.40000|268.00000,f
+1452908,overlappingpdfs.138578.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138578.pdf.task_8301_10_10,TIME_DOC_overlappingpdfs.138578.pdf.task_8301_8_9,silica formation,Middle Devonian|397.5000|385.3000,f
+1498820,overlappingpdfs.133070.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133070.pdf.task_95_0_0,TIME_DOC_overlappingpdfs.133070.pdf.task_95_4_4,kamthi formations,Triassic|252.17000|201.30000,f
+1479669,overlappingpdfs.138573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138573.pdf.task_4599_4_5,TIME_DOC_overlappingpdfs.138573.pdf.task_4599_10_10,ogallala group,Sherman|457.50000|454.00000,f
+1489656,overlappingpdfs.136699.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.136699.pdf.task_260_2_2,ROCK_DOC_overlappingpdfs.136699.pdf.task_260_30_30,platyrachella,mallow member,f
+1460386,overlappingpdfs.132883.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132883.pdf.task_821_24_25,TIME_DOC_overlappingpdfs.132883.pdf.task_821_33_33,maokouan jusi formation,Wuchiapingian|259.90000|254.17000,f
+1517837,overlappingpdfs.132380.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132380.pdf.task_159_12_14,TIME_DOC_overlappingpdfs.132380.pdf.task_159_4_4,virgin hills formation,Frasnian|382.70000|372.20000,f
+1521249,overlappingpdfs.132593.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132593.pdf.task_13_6_6,TIME_DOC_overlappingpdfs.132593.pdf.task_13_0_0,amarilla formation,Coniacian|89.80000|86.30000,f
+1479390,overlappingpdfs.138573.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138573.pdf.task_5701_5_6,TIME_DOC_overlappingpdfs.138573.pdf.task_5701_9_9,clarendon beds formation,Clarendonian|13.60000|10.30000,f
+1510307,overlappingpdfs.133053.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.133053.pdf.task_695_20_20,ROCK_DOC_overlappingpdfs.133053.pdf.task_695_27_27,treptichnus,brevik formation,f
+1477303,overlappingpdfs.138573.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138573.pdf.task_3473_3_3,ROCK_DOC_overlappingpdfs.138573.pdf.task_3473_1_4,costa,ucmp contra costa group,f
+1486798,overlappingpdfs.132666.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132666.pdf.task_679_7_8,ROCK_DOC_overlappingpdfs.132666.pdf.task_679_19_19,trilophosaurus buettneri,forest formation,f
+1475872,overlappingpdfs.132925.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132925.pdf.task_601_4_5,TIME_DOC_overlappingpdfs.132925.pdf.task_601_7_7,neris formation,Ludfordian|425.60000|423.00000,f
+1519251,overlappingpdfs.132473.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132473.pdf.task_4_8_8,TIME_DOC_overlappingpdfs.132473.pdf.task_4_14_15,marilia formation,Late Cretaceous|99.6000|65.5000,f
+1510133,overlappingpdfs.130816.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.130816.pdf.task_410_5_5,ROCK_DOC_overlappingpdfs.130816.pdf.task_410_9_9,pachydiscus,krasnoyarka formation,f
+1484702,overlappingpdfs.138658.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138658.pdf.task_4347_8_8,ROCK_DOC_overlappingpdfs.138658.pdf.task_4347_11_12,trilobita,bokkeveld group,f
+1464032,overlappingpdfs.138465.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138465.pdf.task_3692_3_4,TIME_DOC_overlappingpdfs.138465.pdf.task_3692_0_0,china tank member,Word|268.00000|265.00000,f
+1506950,overlappingpdfs.132293.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132293.pdf.task_300_17_17,TIME_DOC_overlappingpdfs.132293.pdf.task_300_71_72,kota formation,Middle Jurassic|175.6000|161.2000,f
+1466109,overlappingpdfs.133094.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133094.pdf.task_746_5_6,TIME_DOC_overlappingpdfs.133094.pdf.task_746_1_1,mckay group,Ordovician|485.40000|443.40000,f
+1455290,overlappingpdfs.132009.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132009.pdf.task_276_8_8,TIME_DOC_overlappingpdfs.132009.pdf.task_276_14_14,overlying formations,Elton|422.90000|421.30000,f
+1469444,overlappingpdfs.132275.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132275.pdf.task_519_28_28,TIME_DOC_overlappingpdfs.132275.pdf.task_519_13_14,qingyan formation,Middle Triassic|245.0000|228.0000,f
+1528882,overlappingpdfs.135361.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.135361.pdf.task_344_35_36,TIME_DOC_overlappingpdfs.135361.pdf.task_344_19_19,sinbad limestone formation,Griesbachian|252.17000|251.30000,f
+1456791,overlappingpdfs.130330.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130330.pdf.task_683_15_16,TIME_DOC_overlappingpdfs.130330.pdf.task_683_14_15,visby beds formation,Lower Visby|436.000|428.200,f
+1451002,overlappingpdfs.132972.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132972.pdf.task_276_20_20,ROCK_DOC_overlappingpdfs.132972.pdf.task_276_9_10,argentina,mealla formation,f
+1516047,overlappingpdfs.132435.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132435.pdf.task_810_12_13,TIME_DOC_overlappingpdfs.132435.pdf.task_810_7_7,xiaowa formation,Carnian|237.00000|228.00000,f
+1470774,overlappingpdfs.131000.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131000.pdf.task_26_1_1,TIME_DOC_overlappingpdfs.131000.pdf.task_26_5_5,kanosh shale,Arenig|478.60000|466.00000,f
+1472099,overlappingpdfs.131382.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131382.pdf.task_580_17_18,TIME_DOC_overlappingpdfs.131382.pdf.task_580_13_13,arisaig group,Silurian|443.40000|419.20000,f
+1532974,overlappingpdfs.138453.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138453.pdf.task_648_9_9,ROCK_DOC_overlappingpdfs.138453.pdf.task_648_17_18,trinodus,edinburgh formation,f
+1515157,overlappingpdfs.1391.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.1391.pdf.task_48_0_1,ROCK_DOC_overlappingpdfs.1391.pdf.task_48_20_20,procolophon pricei,cabral formation,f
+1502415,overlappingpdfs.138519.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138519.pdf.task_4340_17_17,ROCK_DOC_overlappingpdfs.138519.pdf.task_4340_12_13,pliohippus,johnson member,f
+1493825,overlappingpdfs.138170.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138170.pdf.task_2337_19_19,TIME_DOC_overlappingpdfs.138170.pdf.task_2337_14_14,patagonian formation,Miocene|23.03000|5.33300,f
+1455421,overlappingpdfs.132009.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132009.pdf.task_9_9_9,TIME_DOC_overlappingpdfs.132009.pdf.task_9_21_21,vvenlock shale,Wenlock|433.40000|427.40000,f
+1491311,overlappingpdfs.130183.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.130183.pdf.task_339_7_9,TIME_DOC_overlappingpdfs.130183.pdf.task_339_5_6,batu raja formation,Early Miocene|23.0300|15.9700,f
+1455597,overlappingpdfs.138375.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138375.pdf.task_34_0_0,TIME_DOC_overlappingpdfs.138375.pdf.task_34_2_2,age group,Triassic|252.17000|201.30000,f
+1488938,overlappingpdfs.132650.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132650.pdf.task_4_11_11,TIME_DOC_overlappingpdfs.132650.pdf.task_4_10_10,crato formation,Cretaceous|145.00000|66.00000,f
+1496482,overlappingpdfs.138385.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138385.pdf.task_2964_7_8,TIME_DOC_overlappingpdfs.138385.pdf.task_2964_5_6,bridger formation,Middle Eocene|48.6000|37.2000,f
+1528757,overlappingpdfs.131246.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.131246.pdf.task_259_16_16,TIME_DOC_overlappingpdfs.131246.pdf.task_259_11_12,burgess shale,Middle Cambrian|513.0000|501.0000,f
+1475998,overlappingpdfs.138707.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.138707.pdf.task_357_62_63,TIME_DOC_overlappingpdfs.138707.pdf.task_357_5_6,john day formation,Early Miocene|23.0300|15.9700,f
+1515501,overlappingpdfs.132707.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132707.pdf.task_1102_4_4,ROCK_DOC_overlappingpdfs.132707.pdf.task_1102_0_1,brachiopoda,productus limestone formation,f
+1474207,overlappingpdfs.135476.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.135476.pdf.task_30_43_43,ROCK_DOC_overlappingpdfs.135476.pdf.task_30_18_18,hirnantia,skelgill shale,f
+1475000,overlappingpdfs.132925.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.132925.pdf.task_548_3_4,TIME_DOC_overlappingpdfs.132925.pdf.task_548_0_0,sesupe beds formation,Homerian|430.50000|427.40000,f
+1472364,overlappingpdfs.138438.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.138438.pdf.task_267_22_22,ROCK_DOC_overlappingpdfs.138438.pdf.task_267_29_30,merychippus,sheep creek formation,f
+1494851,overlappingpdfs.133129.pdf.task,FORMATION,ROCK_DOC_overlappingpdfs.133129.pdf.task_35_3_3,TIME_DOC_overlappingpdfs.133129.pdf.task_35_2_2,ravenscar group,Bathonian|168.30000|166.10000,f
+1508847,overlappingpdfs.132857.pdf.task,FORMATION,TAXON_DOC_overlappingpdfs.132857.pdf.task_680_71_71,ROCK_DOC_overlappingpdfs.132857.pdf.task_680_40_40,holaster,crown group,f

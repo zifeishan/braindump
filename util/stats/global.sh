@@ -12,13 +12,13 @@ OUTPUT_DIR=$1
 
 # -n: non-zero
 if [[ -n "$SENTENCE_TABLE" && -n "$SENTENCE_TABLE_DOC_ID_COLUMN" ]]; then
-	psql $DBNAME -c "
+	printf "* Number of documents: %d\n" `psql $DBNAME -c " COPY (
 		SELECT COUNT(DISTINCT $SENTENCE_TABLE_DOC_ID_COLUMN) AS number_of_documents
-		FROM $SENTENCE_TABLE;" > $OUTPUT_DIR/documents.txt
+		FROM $SENTENCE_TABLE ) TO STDOUT"` > $OUTPUT_DIR/documents.txt
 
-	psql $DBNAME -c "
+	printf "* Number of sentences: %d\n" `psql $DBNAME -c " COPY (
 		SELECT COUNT(*) AS number_of_sentences
-		FROM $SENTENCE_TABLE;" >> $OUTPUT_DIR/documents.txt
+		FROM $SENTENCE_TABLE ) TO STDOUT"` >> $OUTPUT_DIR/documents.txt
 fi
 
 # Allow a custom script for global stats

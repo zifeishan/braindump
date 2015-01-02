@@ -27,26 +27,31 @@ for ((verNumber=1; ;verNumber+=1)); do
   # if directory doesn't exist.
   if [ ! -d "$REPORT_DIR/$versionName" ]; then
     
-    echo "Saving into $REPORT_DIR/$versionName/"
+    echo "[`date`] Saving into $REPORT_DIR/$versionName/"
 
     mkdir -p $REPORT_DIR/$versionName/
     cd $REPORT_DIR/$versionName/
 
-    echo "Saving mapping with DeepDive output directory..."
-    ln -s $DD_THIS_OUTPUT_DIR ./dd-out
-    echo $DD_TIMESTAMP > ./dd-timestamp
+    # Skip if last DeepDive run is not finished
+    if [ -d $DD_THIS_OUTPUT_DIR/calibration ]; then
+      echo "[`date`] Saving mapping with DeepDive output directory..."
+      ln -s $DD_THIS_OUTPUT_DIR ./dd-out
+      echo $DD_TIMESTAMP > ./dd-timestamp
 
-    echo "Saving code..."
-    mkdir -p code
-    bash $UTIL_DIR/save.sh $APP_HOME ./code/
+      echo "[`date`] Saving code..."
+      mkdir -p code
+      bash $UTIL_DIR/save.sh $APP_HOME ./code/
 
-    echo "Saving calibration..."
-    cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+      echo "[`date`] Saving calibration..."
+      cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+    else
+      echo "WARNING: last deepdive run $DD_THIS_OUTPUT_DIR seems incomplete, skipping..."
+    fi
 
-    echo "Saving statistics..."  
+    echo "[`date`] Saving statistics..."  
     bash $UTIL_DIR/stats.sh $VARIABLE_TABLES $VARIABLE_COLUMNS $VARIABLE_WORDS_COLUMNS 
 
-    echo "Diffing against last version..."
+    echo "[`date`] Diffing against last version..."
     if [ $verNumber -gt 1 ]; then
       mkdir -p changes
       lastVersionName=v`printf "%05d" $(expr $verNumber - 1)`
@@ -54,14 +59,14 @@ for ((verNumber=1; ;verNumber+=1)); do
       bash $UTIL_DIR/diff.sh ../$lastVersionName/stats/ ./stats/ changes/stats.diff
     fi
 
-    echo "Saving features..."
+    echo "[`date`] Saving features..."
     mkdir -p features
 
     mkdir -p features/weights/
     bash $UTIL_DIR/feature/feature_weights.sh features/weights/
 
     num_features=${#FEATURE_TABLES[@]}
-    echo "Examining $num_features feature tables..."
+    echo "[`date`] Examining $num_features feature tables..."
     for (( i=0; i<${num_features}; i++ )); do
       table=${FEATURE_TABLES[$i]}
       column=${FEATURE_COLUMNS[$i]}
@@ -74,14 +79,14 @@ for ((verNumber=1; ;verNumber+=1)); do
       bash $UTIL_DIR/feature/feature_counts.sh $table $column features/counts/
     done
 
-    echo "Saving supervision & inference results..."
+    echo "[`date`] Saving supervision & inference results..."
     mkdir -p inference
     mkdir -p supervision
 
     if [[ -z "$SUPERVISION_SAMPLE_SCRIPT" ]]; then
       # Supervision sample script not set, use default
       num_variables=${#VARIABLE_TABLES[@]};
-      echo "Examining $num_variables variable tables...";
+      echo "[`date`] Examining $num_variables variable tables for supervision...";
       for (( i=0; i<${num_variables}; i++ )); do
         table=${VARIABLE_TABLES[$i]}
         column=${VARIABLE_COLUMNS[$i]}
@@ -98,9 +103,9 @@ for ((verNumber=1; ;verNumber+=1)); do
     fi
 
     if [[ -z "$INFERENCE_SAMPLE_SCRIPT" ]]; then
-      # Supervision sample script not set, use default
+      # Inference sample script not set, use default
       num_variables=${#VARIABLE_TABLES[@]};
-      echo "Examining $num_variables variable tables...";
+      echo "[`date`] Examining $num_variables variable tables for inference...";
       for (( i=0; i<${num_variables}; i++ )); do
         table=${VARIABLE_TABLES[$i]}
         column=${VARIABLE_COLUMNS[$i]}
@@ -113,7 +118,7 @@ for ((verNumber=1; ;verNumber+=1)); do
       bash $INFERENCE_SAMPLE_SCRIPT
     fi
 
-    echo "Generating README.md..."
+    echo "[`date`] Generating README.md..."
     bash $UTIL_DIR/generate_readme.sh $REPORT_DIR/$versionName/
 
     if [[ "$SEND_RESULT_WITH_GIT" = "true" ]]; then

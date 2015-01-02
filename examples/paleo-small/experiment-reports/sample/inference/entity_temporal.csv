@@ -1,0 +1,1001 @@
+id,docid,type,eid,entity,prov,is_correct,category,expectation
+305432,overlappingpdfs.139500.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139500.pdf.task_200_26_26,Tertiary|66.00000|2.58800,"{200,26,26,Tertiary}",,1,0.996
+307205,overlappingpdfs.132592.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132592.pdf.task_587_8_9,Early Cretaceous|145.5000|99.6000,"{587,8,9,""Early Cretaceous""}",,1,1
+273522,overlappingpdfs.133074.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133074.pdf.task_95_2_2,Cenomanian|100.50000|93.90000,"{95,2,2,Cenomanian}",,1,1
+251777,overlappingpdfs.137494.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137494.pdf.task_568_8_8,Oligocene|33.90000|23.03000,"{568,8,8,Oligocene}",,1,1
+323429,overlappingpdfs.136084.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136084.pdf.task_435_10_10,Ediacara|580.00000|541.00000,"{435,10,10,Ediacara}",,1,1
+213127,overlappingpdfs.132333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132333.pdf.task_629_14_14,Oxynotum|196.50000|189.60000,"{629,14,14,oxynotum}",,1,1
+231874,overlappingpdfs.138083.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138083.pdf.task_592_4_4,Pliocene|5.33300|2.58800,"{592,4,4,Pliocene}",,1,1
+327067,overlappingpdfs.132829.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132829.pdf.task_60_4_5,Early Cretaceous|145.5000|99.6000,"{60,4,5,""Early Cretaceous""}",,1,1
+340423,overlappingpdfs.133058.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133058.pdf.task_108_18_18,Hettangian|201.30000|199.30000,"{108,18,18,Hettangian}",,1,1
+197611,overlappingpdfs.132470.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132470.pdf.task_37_9_9,Triassic|252.17000|201.30000,"{37,9,9,Triassic}",,1,0.996
+331624,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_4722_19_19,Canadian|485.40000|468.10000,"{4722,19,19,Canadian}",,1,0.999
+238363,overlappingpdfs.132765.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132765.pdf.task_16_10_10,Triassic|252.17000|201.30000,"{16,10,10,Triassic}",,1,1
+194263,overlappingpdfs.132965.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132965.pdf.task_635_17_17,Neocomian|145.00000|130.00000,"{635,17,17,Neocomian}",,1,0.996
+301946,overlappingpdfs.138332.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138332.pdf.task_297_29_29,Oligocene|33.90000|23.03000,"{297,29,29,Oligocene}",,1,0.996
+274993,overlappingpdfs.132715.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132715.pdf.task_530_3_3,Vendian|635.00000|541.00000,"{530,3,3,Vendian}",,1,1
+156739,overlappingpdfs.132929.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132929.pdf.task_522_36_36,Barremian|129.40000|125.00000,"{522,36,36,Barremian}",,1,1
+179571,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_143_14_14,Permian|298.90000|252.17000,"{143,14,14,Permian}",,1,1
+326026,overlappingpdfs.132256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132256.pdf.task_601_24_24,Mesozoic|252.17000|66.00000,"{601,24,24,Mesozoic}",,1,1
+212692,overlappingpdfs.132333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132333.pdf.task_780_6_6,Pliensbachian|190.80000|182.70000,"{780,6,6,Pliensbachian}",,1,1
+337899,overlappingpdfs.133442.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133442.pdf.task_11_5_5,Hauterivian|132.90000|129.40000,"{11,5,5,Hauterivian}",,1,1
+220949,overlappingpdfs.132321.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132321.pdf.task_915_2_2,Pliocene|5.33300|2.58800,"{915,2,2,Pliocene}",,1,0.996
+330146,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_153_10_11,Middle Devonian|397.5000|385.3000,"{153,10,11,""Middle Devonian""}",,1,1
+165193,overlappingpdfs.133469.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133469.pdf.task_311_1_1,Cambrian|541.00000|485.40000,"{311,1,1,Cambrian}",,1,1
+234272,overlappingpdfs.135646.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135646.pdf.task_199_3_3,Parkinsoni|171.60000|167.70000,"{199,3,3,parkinsoni}",,1,1
+271423,overlappingpdfs.132487.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132487.pdf.task_98_5_5,Ordovician|485.40000|443.40000,"{98,5,5,Ordovician}",,1,0.996
+320707,overlappingpdfs.135462.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135462.pdf.task_333_10_10,Triassic|252.17000|201.30000,"{333,10,10,Triassic}",,1,1
+232432,overlappingpdfs.138678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138678.pdf.task_7314_3_3,Eocene|56.00000|33.90000,"{7314,3,3,Eocene}",,1,1
+194201,overlappingpdfs.132446.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132446.pdf.task_260_3_3,Eocene|56.00000|33.90000,"{260,3,3,Eocene}",,1,0.996
+336163,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_2120_28_28,Pragian|410.80000|407.60000,"{2120,28,28,Pragian}",,1,1
+277687,overlappingpdfs.1377.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1377.pdf.task_180_1_1,Cretaceous|145.00000|66.00000,"{180,1,1,CRETACEOUS}",,1,1
+268214,overlappingpdfs.133087.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133087.pdf.task_12_4_4,Campanian|83.60000|72.10000,"{12,4,4,Campanian}",,1,1
+320069,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_1736_3_3,Cretaceous|145.00000|66.00000,"{1736,3,3,Cretaceous}",,1,1
+220361,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_7076_13_13,Chadronian|37.20000|33.90000,"{7076,13,13,Chadronian}",,1,1
+194982,overlappingpdfs.132275.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132275.pdf.task_994_7_7,Smithian|251.30000|247.20000,"{994,7,7,Smithian}",,1,1
+293871,overlappingpdfs.132282.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132282.pdf.task_232_2_2,Floian|477.70000|470.00000,"{232,2,2,Floian}",,1,0.999
+197134,overlappingpdfs.132359.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132359.pdf.task_228_3_4,Middle Devonian|397.5000|385.3000,"{228,3,4,""Middle Devonian""}",,1,0.999
+256520,overlappingpdfs.136168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136168.pdf.task_283_2_3,Early Cambrian|542.0000|513.0000,"{283,2,3,""Early Cambrian""}",,1,0.999
+325187,overlappingpdfs.132534.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132534.pdf.task_40_0_0,Rhaetian|208.50000|201.30000,"{40,0,0,Rhaetian}",,1,0.996
+221176,overlappingpdfs.131694.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131694.pdf.task_101_4_4,Wenlockian|433.40000|427.40000,"{101,4,4,Wenlockian}",,1,1
+168459,overlappingpdfs.132551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132551.pdf.task_510_18_19,Middle Miocene|15.9700|11.6080,"{510,18,19,""middle Miocene""}",,1,1
+226332,overlappingpdfs.138658.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138658.pdf.task_1056_18_18,Cantabrian|311.45000|305.90000,"{1056,18,18,Cantabrian}",,1,1
+305198,overlappingpdfs.132386.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132386.pdf.task_590_17_17,Tertiary|66.00000|2.58800,"{590,17,17,Tertiary}",,1,1
+312295,overlappingpdfs.139600.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139600.pdf.task_503_35_35,Cretaceous|145.00000|66.00000,"{503,35,35,Cretaceous}",,1,1
+190890,overlappingpdfs.138085.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138085.pdf.task_670_21_21,Cretaceous|145.00000|66.00000,"{670,21,21,Cretaceous}",,1,1
+197197,overlappingpdfs.139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139.pdf.task_54_0_0,Albian|113.00000|100.50000,"{54,0,0,Albian}",,1,1
+335378,overlappingpdfs.132741.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132741.pdf.task_155_11_11,Arenig|478.60000|466.00000,"{155,11,11,Arenig}",,1,0.996
+260102,overlappingpdfs.135216.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135216.pdf.task_60_0_0,Dapingian|470.00000|467.30000,"{60,0,0,Dapingian}",,1,1
+206461,overlappingpdfs.138707.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138707.pdf.task_202_6_6,Richmond|449.50000|445.60000,"{202,6,6,Richmond}",,1,0.996
+170121,overlappingpdfs.132858.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132858.pdf.task_1343_2_2,Carboniferous|358.90000|298.90000,"{1343,2,2,Carboniferous}",,1,1
+306052,overlappingpdfs.136839.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136839.pdf.task_1179_8_8,Ordovician|485.40000|443.40000,"{1179,8,8,Ordovician}",,1,1
+188623,overlappingpdfs.135114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135114.pdf.task_179_7_7,Lockport|428.20000|422.90000,"{179,7,7,Lockport}",,1,0.996
+182419,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_1633_23_23,Oligocene|33.90000|23.03000,"{1633,23,23,Oligocene}",,1,0.999
+173708,overlappingpdfs.130145.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130145.pdf.task_602_16_16,Mesozoic|252.17000|66.00000,"{602,16,16,Mesozoic}",,1,0.999
+248514,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_636_10_10,Ordovician|485.40000|443.40000,"{636,10,10,Ordovician}",,1,1
+239672,overlappingpdfs.133007.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133007.pdf.task_45_40_40,MP18|37.20000|33.90000,"{45,40,40,MP18}",,1,0.996
+330088,overlappingpdfs.132.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132.pdf.task_673_0_0,Canadian|485.40000|468.10000,"{673,0,0,Canadian}",,1,1
+336264,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_5791_5_5,Taghanic|388.10000|383.70000,"{5791,5,5,Taghanic}",,1,0.996
+336153,overlappingpdfs.132684.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132684.pdf.task_203_0_0,Norian|228.00000|208.50000,"{203,0,0,Norian}",,1,1
+318000,overlappingpdfs.133261.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133261.pdf.task_398_3_3,Mesozoic|252.17000|66.00000,"{398,3,3,Mesozoic}",,1,1
+257099,overlappingpdfs.136380.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136380.pdf.task_243_4_4,Ordovician|485.40000|443.40000,"{243,4,4,Ordovician}",,1,1
+251147,overlappingpdfs.132508.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132508.pdf.task_140_29_29,Permian|298.90000|252.17000,"{140,29,29,Permian}",,1,1
+166892,overlappingpdfs.130662.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130662.pdf.task_81_11_11,Proterozoic|2500.00000|541.00000,"{81,11,11,Proterozoic}",,1,1
+335013,overlappingpdfs.136583.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136583.pdf.task_39_35_35,Cambrian|541.00000|485.40000,"{39,35,35,Cambrian}",,1,1
+199917,overlappingpdfs.132470.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132470.pdf.task_442_21_21,Norian|228.00000|208.50000,"{442,21,21,Norian}",,1,1
+248055,overlappingpdfs.132751.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132751.pdf.task_1405_3_3,Chazy|466.00000|457.50000,"{1405,3,3,Chazy}",,1,1
+234928,overlappingpdfs.132650.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132650.pdf.task_260_12_12,Aptian|125.00000|113.00000,"{260,12,12,Aptian}",,1,1
+255548,overlappingpdfs.131614.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131614.pdf.task_1204_45_45,Cambrian|541.00000|485.40000,"{1204,45,45,Cambrian}",,1,0.996
+322331,overlappingpdfs.1329.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1329.pdf.task_367_4_5,Late Oligocene|28.4000|23.0300,"{367,4,5,""late Oligocene""}",,1,1
+286387,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_158_0_0,Wenlock|433.40000|427.40000,"{158,0,0,Wenlock}",,1,1
+199999,overlappingpdfs.132180.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132180.pdf.task_17_0_0,Toarcian|182.70000|174.10000,"{17,0,0,Toarcian}",,1,1
+290609,overlappingpdfs.131707.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131707.pdf.task_329_4_4,Mississippian|358.90000|323.20000,"{329,4,4,Mississippian}",,1,1
+170851,overlappingpdfs.132191.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132191.pdf.task_79_24_24,Tommotian|530.00000|520.00000,"{79,24,24,Tommotian}",,1,1
+280286,overlappingpdfs.132923.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132923.pdf.task_554_10_10,Mesozoic|252.17000|66.00000,"{554,10,10,Mesozoic}",,1,1
+257780,overlappingpdfs.131626.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131626.pdf.task_16_22_22,Pennsylvanian|323.20000|298.90000,"{16,22,22,Pennsylvanian}",,1,1
+321890,overlappingpdfs.133091.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133091.pdf.task_455_8_9,Late Permian|260.4000|251.0000,"{455,8,9,""Upper Permian""}",,1,1
+311631,overlappingpdfs.136551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136551.pdf.task_54_7_7,Precambrian|4000.0000|542.0000,"{54,7,7,Precambrian}",,1,0.996
+289985,overlappingpdfs.132283.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132283.pdf.task_1648_2_3,Middle Cambrian|513.0000|501.0000,"{1648,2,3,""Middle Cambrian""}",,1,1
+233578,overlappingpdfs.131930.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131930.pdf.task_367_12_12,Carboniferous|358.90000|298.90000,"{367,12,12,Carboniferous}",,1,0.996
+229211,overlappingpdfs.136514.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136514.pdf.task_124_0_1,Late Cretaceous|99.6000|65.5000,"{124,0,1,""Upper Cretaceous""}",,1,1
+201273,overlappingpdfs.131319.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131319.pdf.task_21_22_22,Cambrian|541.00000|485.40000,"{21,22,22,Cambrian}",,1,0.999
+231646,overlappingpdfs.138083.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138083.pdf.task_514_27_27,Oligocene|33.90000|23.03000,"{514,27,27,Oligocene}",,1,0.999
+223581,overlappingpdfs.138526.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138526.pdf.task_91_3_4,Late Jurassic|161.2000|145.5000,"{91,3,4,""Late Jurassic""}",,1,1
+177294,overlappingpdfs.132895.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132895.pdf.task_44_12_13,Late Ordovician|460.9000|443.7000,"{44,12,13,""Upper Ordovician""}",,1,0.996
+276052,overlappingpdfs.132812.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132812.pdf.task_2383_0_1,Middle Jurassic|175.6000|161.2000,"{2383,0,1,""Middle Jurassic""}",,1,1
+226138,overlappingpdfs.138755.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138755.pdf.task_4558_9_9,Maastrichtian|72.10000|66.00000,"{4558,9,9,Maastrichtian}",,1,1
+271473,overlappingpdfs.130593.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130593.pdf.task_961_17_17,Chesterian|339.40000|318.10000,"{961,17,17,Chesterian}",,1,0.996
+199643,overlappingpdfs.132535.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132535.pdf.task_735_14_15,Early Eocene|55.8000|48.6000,"{735,14,15,""early Eocene""}",,1,1
+239869,overlappingpdfs.132817.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132817.pdf.task_22_41_42,Late Pliocene|3.6000|2.5880,"{22,41,42,""Late Pliocene""}",,1,1
+220966,overlappingpdfs.1333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1333.pdf.task_1290_10_10,Turonian|93.90000|89.80000,"{1290,10,10,Turonian}",,1,1
+180455,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_3409_21_21,Paleocene|66.00000|56.00000,"{3409,21,21,Paleocene}",,1,1
+287223,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_719_52_54_PART_1,Wenlock|433.40000|427.40000,"{719,52,54,Wenlock}",,1,1
+301658,overlappingpdfs.132309.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132309.pdf.task_343_12_13,Middle Eocene|48.6000|37.2000,"{343,12,13,""middle Eocene""}",,1,1
+327476,overlappingpdfs.132652.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132652.pdf.task_118_4_4,Aptian|125.00000|113.00000,"{118,4,4,Aptian}",,1,1
+301458,overlappingpdfs.133618.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133618.pdf.task_681_2_2,Miocene|23.03000|5.33300,"{681,2,2,Miocene}",,1,1
+271878,overlappingpdfs.132627.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132627.pdf.task_368_13_13,Cretaceous|145.00000|66.00000,"{368,13,13,Cretaceous}",,1,1
+221416,overlappingpdfs.130639.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130639.pdf.task_1_14_15,Early Cretaceous|145.5000|99.6000,"{1,14,15,""Early Cretaceous""}",,1,1
+310633,overlappingpdfs.132502.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132502.pdf.task_1231_0_0,Pliocene|5.33300|2.58800,"{1231,0,0,Pliocene}",,1,1
+262316,overlappingpdfs.13975.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13975.pdf.task_812_6_7,Late Silurian|422.9000|416.0000,"{812,6,7,""Upper Silurian""}",,1,1
+187137,overlappingpdfs.133128.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133128.pdf.task_160_10_10,Albian|113.00000|100.50000,"{160,10,10,Albian}",,1,0.996
+205405,overlappingpdfs.132498.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132498.pdf.task_1407_0_0,Ediacaran|635.00000|541.00000,"{1407,0,0,Ediacaran}",,1,1
+229541,overlappingpdfs.133096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133096.pdf.task_26_0_0,Paleozoic|541.00000|252.17000,"{26,0,0,Paleozoic}",,1,1
+342102,overlappingpdfs.132149.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132149.pdf.task_85_0_0,Cantabrian|311.45000|305.90000,"{85,0,0,Cantabrian}",,1,1
+236102,overlappingpdfs.1346.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1346.pdf.task_158_20_20,Whaingaroan|34.30000|27.30000,"{158,20,20,Whaingaroan}",,1,0.996
+212591,overlappingpdfs.1343.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1343.pdf.task_303_0_0,Albian|113.00000|100.50000,"{303,0,0,Albian}",,1,1
+277112,overlappingpdfs.133073.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133073.pdf.task_993_38_38,Ashgill|449.50000|443.70000,"{993,38,38,Ashgill}",,1,1
+338602,overlappingpdfs.135390.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135390.pdf.task_15_18_19,Late Triassic|228.0000|199.6000,"{15,18,19,""Late Triassic""}",,1,1
+296781,overlappingpdfs.132317.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132317.pdf.task_17_26_27,Late Triassic|228.0000|199.6000,"{17,26,27,""Late Triassic""}",,1,1
+288448,overlappingpdfs.138313.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138313.pdf.task_1474_11_11,Silurian|443.40000|419.20000,"{1474,11,11,Silurian}",,1,1
+279932,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_1876_8_8,Baggy|376.10000|360.70000,"{1876,8,8,Baggy}",,1,0.996
+179090,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_4201_0_1,Early Oligocene|33.9000|28.4000,"{4201,0,1,""Early Oligocene""}",,1,1
+290407,overlappingpdfs.130182.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130182.pdf.task_46_18_19,Early Ordovician|488.3000|471.8000,"{46,18,19,""Early Ordovician""}",,1,1
+302434,overlappingpdfs.138332.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138332.pdf.task_188_16_16,Pliocene|5.33300|2.58800,"{188,16,16,Pliocene}",,1,1
+324087,overlappingpdfs.135517.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135517.pdf.task_878_21_21,Pliensbachian|190.80000|182.70000,"{878,21,21,Pliensbachian}",,1,1
+282006,overlappingpdfs.132634.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132634.pdf.task_692_27_28,Late Pliocene|3.6000|2.5880,"{692,27,28,""late Pliocene""}",,1,1
+224234,overlappingpdfs.132195.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132195.pdf.task_2313_2_2,Devonian|419.20000|358.90000,"{2313,2,2,Devonian}",,1,1
+299115,overlappingpdfs.130439.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130439.pdf.task_524_3_5_PART_1,Triassic|252.17000|201.30000,"{524,3,5,Triassic}",,1,1
+251098,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_460_39_40,Late Ordovician|460.9000|443.7000,"{460,39,40,""Late Ordovician""}",,1,1
+205066,overlappingpdfs.132919.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132919.pdf.task_893_4_4,Triassic|252.17000|201.30000,"{893,4,4,TRIASSIC}",,1,1
+201510,overlappingpdfs.131382.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131382.pdf.task_10_19_19,Paleozoic|541.00000|252.17000,"{10,19,19,Paleozoic}",,1,1
+262598,overlappingpdfs.132162.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132162.pdf.task_24_1_1,Mesozoic|252.17000|66.00000,"{24,1,1,Mesozoic}",,1,1
+256982,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_1867_4_5,Middle Cambrian|513.0000|501.0000,"{1867,4,5,""Middle Cambrian""}",,1,1
+288853,overlappingpdfs.132522.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132522.pdf.task_263_14_14,Ashgill|449.50000|443.70000,"{263,14,14,Ashgill}",,1,1
+194725,overlappingpdfs.138761.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138761.pdf.task_5723_8_9,Late Cretaceous|99.6000|65.5000,"{5723,8,9,""Late Cretaceous""}",,1,1
+214572,overlappingpdfs.138573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138573.pdf.task_6931_0_0,Pliocene|5.33300|2.58800,"{6931,0,0,Pliocene}",,1,1
+162271,overlappingpdfs.132874.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132874.pdf.task_44_17_17,Mesozoic|252.17000|66.00000,"{44,17,17,Mesozoic}",,1,1
+214528,overlappingpdfs.132702.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132702.pdf.task_750_3_4,Late Miocene|11.6080|5.3320,"{750,3,4,""upper Miocene""}",,1,1
+301761,overlappingpdfs.130439.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130439.pdf.task_455_7_7,Triassic|252.17000|201.30000,"{455,7,7,Triassic}",,1,1
+278537,overlappingpdfs.132923.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132923.pdf.task_48_6_6,Haumurian|83.50000|66.00000,"{48,6,6,Haumurian}",,1,1
+227127,overlappingpdfs.138658.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138658.pdf.task_3486_35_35,Cazenovia|391.900|383.700,"{3486,35,35,Cazenovia}",,1,0.995
+336260,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_5277_0_1,Middle Devonian|397.5000|385.3000,"{5277,0,1,""Middle Devonian""}",,1,1
+242170,overlappingpdfs.131415.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131415.pdf.task_186_3_4,Late Cambrian|501.0000|488.3000,"{186,3,4,""Late Cambrian""}",,1,1
+204466,overlappingpdfs.133013.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133013.pdf.task_80_42_43,Late Pleistocene|1.8060|0.0781,"{80,42,43,""Late Pleistocene""}",,1,1
+271716,overlappingpdfs.136195.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136195.pdf.task_109_5_5,Devonian|419.20000|358.90000,"{109,5,5,Devonian}",,1,1
+204284,overlappingpdfs.132353.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132353.pdf.task_50_0_0,Coniacian|89.80000|86.30000,"{50,0,0,Coniacian}",,1,1
+306208,overlappingpdfs.132556.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132556.pdf.task_24_10_10,Mesozoic|252.17000|66.00000,"{24,10,10,Mesozoic}",,1,1
+326191,overlappingpdfs.133545.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133545.pdf.task_1076_0_0,Gzhelian|303.70000|298.90000,"{1076,0,0,Gzhelian}",,1,1
+260821,overlappingpdfs.135832.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135832.pdf.task_5_15_16,Early Jurassic|199.6000|175.6000,"{5,15,16,""Early Jurassic""}",,1,1
+335475,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_5806_9_9,Southwoodian|397.5000|391.8000,"{5806,9,9,Southwoodian}",,1,0.996
+254464,overlappingpdfs.131603.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131603.pdf.task_67_42_42,Paleozoic|541.00000|252.17000,"{67,42,42,Paleozoic}",,1,1
+267774,overlappingpdfs.132181.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132181.pdf.task_477_1_2,Early Cretaceous|145.5000|99.6000,"{477,1,2,""Early Cretaceous""}",,1,1
+309161,overlappingpdfs.135557.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135557.pdf.task_141_17_17,Carboniferous|358.90000|298.90000,"{141,17,17,Carboniferous}",,1,1
+222877,overlappingpdfs.138755.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138755.pdf.task_4790_21_21,Cretaceous|145.00000|66.00000,"{4790,21,21,Cretaceous}",,1,1
+229835,overlappingpdfs.133027.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133027.pdf.task_65_13_13,Pilton|376.10000|353.80000,"{65,13,13,Pilton}",,1,1
+205234,overlappingpdfs.131561.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131561.pdf.task_742_11_11,Devonian|419.20000|358.90000,"{742,11,11,Devonian}",,1,1
+296660,overlappingpdfs.131147.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131147.pdf.task_16_6_6,Tortonian|11.62000|7.24600,"{16,6,6,Tortonian}",,1,1
+231889,overlappingpdfs.135646.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135646.pdf.task_142_13_13,Turonian|93.90000|89.80000,"{142,13,13,Turonian}",,1,1
+207630,overlappingpdfs.132521.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132521.pdf.task_638_4_5,Late Triassic|228.0000|199.6000,"{638,4,5,""Upper Triassic""}",,1,1
+156328,overlappingpdfs.132547.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132547.pdf.task_838_37_37,Wenlock|433.40000|427.40000,"{838,37,37,Wenlock}",,1,0.996
+277830,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_2742_1_1,Famennian|372.20000|358.90000,"{2742,1,1,Famennian}",,1,1
+298588,overlappingpdfs.132536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132536.pdf.task_343_5_5,Ediacaran|635.00000|541.00000,"{343,5,5,Ediacaran}",,1,1
+256691,overlappingpdfs.132230.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132230.pdf.task_7_30_30,Barremian|129.40000|125.00000,"{7,30,30,Barremian}",,1,0.995
+199241,overlappingpdfs.132382.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132382.pdf.task_736_2_3,Middle Jurassic|175.6000|161.2000,"{736,2,3,""Middle Jurassic""}",,1,1
+256545,overlappingpdfs.132241.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132241.pdf.task_1114_6_6,Mesozoic|252.17000|66.00000,"{1114,6,6,Mesozoic}",,1,1
+187062,overlappingpdfs.133128.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133128.pdf.task_222_19_19,Hauterivian|132.90000|129.40000,"{222,19,19,Hauterivian}",,1,1
+313665,overlappingpdfs.133089.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133089.pdf.task_507_6_7,Middle Cambrian|513.0000|501.0000,"{507,6,7,""Middle Cambrian""}",,1,1
+331401,overlappingpdfs.133311.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133311.pdf.task_304_1_1,Lopingian|259.90000|252.17000,"{304,1,1,Lopingian}",,1,0.996
+256088,overlappingpdfs.132230.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132230.pdf.task_228_9_9,Barremian|129.40000|125.00000,"{228,9,9,Barremian}",,1,1
+158937,overlappingpdfs.138375.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138375.pdf.task_956_38_38,Guadalupian|272.30000|259.90000,"{956,38,38,Guadalupian}",,1,0.996
+337239,overlappingpdfs.133015.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133015.pdf.task_748_0_0,Tertiary|66.00000|2.58800,"{748,0,0,Tertiary}",,1,1
+277808,overlappingpdfs.132574.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132574.pdf.task_634_8_8,Carboniferous|358.90000|298.90000,"{634,8,8,Carboniferous}",,1,1
+269128,overlappingpdfs.1392.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1392.pdf.task_675_0_0,Pleistocene|2.58800|0.01170,"{675,0,0,Pleistocene}",,1,1
+254988,overlappingpdfs.135922.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135922.pdf.task_845_9_9,Ordovician|485.40000|443.40000,"{845,9,9,Ordovician}",,1,0.997
+291675,overlappingpdfs.132096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132096.pdf.task_2221_3_3,Paleozoic|541.00000|252.17000,"{2221,3,3,Paleozoic}",,1,1
+236836,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_6327_10_10,Cretaceous|145.00000|66.00000,"{6327,10,10,Cretaceous}",,1,1
+315725,overlappingpdfs.136473.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136473.pdf.task_347_26_27,Late Jurassic|161.2000|145.5000,"{347,26,27,""Upper Jurassic""}",,1,1
+238353,overlappingpdfs.132101.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132101.pdf.task_269_24_25,Stage 3|521.0000|515.0000,"{269,24,25,""stage 3""}",,1,1
+313870,overlappingpdfs.133108.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133108.pdf.task_195_30_30,Caradoc|460.90000|449.50000,"{195,30,30,Caradoc}",,1,1
+192555,overlappingpdfs.132744.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132744.pdf.task_449_15_15,Anisian|247.20000|242.00000,"{449,15,15,Anisian}",,1,1
+265605,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_4647_1_1,Cenozoic|66.00000|0.00000,"{4647,1,1,Cenozoic}",,1,1
+316952,overlappingpdfs.131528.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131528.pdf.task_877_6_6,Paleozoic|541.00000|252.17000,"{877,6,6,Paleozoic}",,1,1
+169000,overlappingpdfs.132551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132551.pdf.task_544_27_27,Pleistocene|2.58800|0.01170,"{544,27,27,Pleistocene}",,1,0.996
+298752,overlappingpdfs.138462.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138462.pdf.task_2150_52_52,Tertiary|66.00000|2.58800,"{2150,52,52,Tertiary}",,1,1
+179152,overlappingpdfs.131884.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131884.pdf.task_216_7_7,Sonyea|383.70000|376.10000,"{216,7,7,Sonyea}",,1,1
+262790,overlappingpdfs.132298.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132298.pdf.task_686_10_11,Late Triassic|228.0000|199.6000,"{686,10,11,""Late Triassic""}",,1,1
+304744,overlappingpdfs.137950.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137950.pdf.task_41_14_14,Jurassic|201.30000|145.00000,"{41,14,14,Jurassic}",,1,1
+271638,overlappingpdfs.135558.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135558.pdf.task_552_3_3,Cambrian|541.00000|485.40000,"{552,3,3,Cambrian}",,1,1
+178935,overlappingpdfs.131884.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131884.pdf.task_878_30_30,Sonyea|383.70000|376.10000,"{878,30,30,Sonyea}",,1,1
+162420,overlappingpdfs.132944.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132944.pdf.task_353_4_5,Early Cretaceous|145.5000|99.6000,"{353,4,5,""early Cretaceous""}",,1,0.996
+322973,overlappingpdfs.133021.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133021.pdf.task_79_4_4,Cretaceous|145.00000|66.00000,"{79,4,4,CRETACEOUS}",,1,1
+258225,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_1798_2_3,Late Cambrian|501.0000|488.3000,"{1798,2,3,""Late Cambrian""}",,1,1
+266194,overlappingpdfs.138459.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138459.pdf.task_367_2_2,Cretaceous|145.00000|66.00000,"{367,2,2,Cretaceous}",,1,1
+214533,overlappingpdfs.133275.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133275.pdf.task_35_17_17,Sandbian|458.40000|453.00000,"{35,17,17,Sandbian}",,1,1
+290435,overlappingpdfs.132096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132096.pdf.task_1901_15_15,Guadalupian|272.30000|259.90000,"{1901,15,15,Guadalupian}",,1,1
+175286,overlappingpdfs.132895.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132895.pdf.task_577_1_1,Llandovery|443.40000|433.40000,"{577,1,1,Llandovery}",,1,1
+310209,overlappingpdfs.138193.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138193.pdf.task_647_33_33,Pliocene|5.33300|2.58800,"{647,33,33,Pliocene}",,1,1
+240826,overlappingpdfs.130183.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130183.pdf.task_51_0_0,Miocene|23.03000|5.33300,"{51,0,0,Miocene}",,1,1
+227927,overlappingpdfs.133475.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133475.pdf.task_185_18_19,Early Cretaceous|145.5000|99.6000,"{185,18,19,""Early Cretaceous""}",,1,1
+173217,overlappingpdfs.132662.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132662.pdf.task_424_6_6,Arenigian|478.60000|468.10000,"{424,6,6,Arenigian}",,1,1
+324184,overlappingpdfs.132831.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132831.pdf.task_6_1_2,Middle Jurassic|175.6000|161.2000,"{6,1,2,""Middle Jurassic""}",,1,0.995
+212152,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_1076_0_0,Carboniferous|358.90000|298.90000,"{1076,0,0,Carboniferous}",,1,1
+270351,overlappingpdfs.132685.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132685.pdf.task_54_8_9,Late Cretaceous|99.6000|65.5000,"{54,8,9,""Late Cretaceous""}",,1,1
+192470,overlappingpdfs.132964.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132964.pdf.task_69_22_23,Middle Cambrian|513.0000|501.0000,"{69,22,23,""Middle Cambrian""}",,1,0.996
+239157,overlappingpdfs.132930.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132930.pdf.task_9_3_3,Ediacara|580.00000|541.00000,"{9,3,3,Ediacara}",,1,1
+324109,overlappingpdfs.132534.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132534.pdf.task_1582_1_1,Triassic|252.17000|201.30000,"{1582,1,1,Triassic}",,1,1
+222119,overlappingpdfs.132093.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132093.pdf.task_1662_0_2_PART_1,Famennian|372.20000|358.90000,"{1662,0,2,Famennian}",,1,1
+284047,overlappingpdfs.132098.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132098.pdf.task_1087_0_1,Late Ordovician|460.9000|443.7000,"{1087,0,1,""Late Ordovician""}",,1,1
+195768,overlappingpdfs.130956.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130956.pdf.task_30_11_11,Pridoli|423.00000|419.20000,"{30,11,11,Pridoli}",,1,1
+249037,overlappingpdfs.132751.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132751.pdf.task_318_9_9,Arenig|478.60000|466.00000,"{318,9,9,Arenig}",,1,1
+229554,overlappingpdfs.133027.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133027.pdf.task_1008_9_9,Pilton|376.10000|353.80000,"{1008,9,9,Pilton}",,1,1
+220167,overlappingpdfs.1395.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1395.pdf.task_107_36_36,Tertiary|66.00000|2.58800,"{107,36,36,Tertiary}",,1,0.999
+275359,overlappingpdfs.133121.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133121.pdf.task_315_14_14,Parkinsoni|171.60000|167.70000,"{315,14,14,parkinsoni}",,1,1
+198514,overlappingpdfs.132896.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132896.pdf.task_11_3_4,Late Jurassic|161.2000|145.5000,"{11,3,4,""Upper Jurassic""}",,1,1
+297151,overlappingpdfs.132380.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132380.pdf.task_765_19_19,Frasnian|382.70000|372.20000,"{765,19,19,Frasnian}",,1,1
+239561,overlappingpdfs.135067.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135067.pdf.task_29_63_63,Pliocene|5.33300|2.58800,"{29,63,63,Pliocene}",,1,1
+213937,overlappingpdfs.138573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138573.pdf.task_7031_6_6,Pliocene|5.33300|2.58800,"{7031,6,6,Pliocene}",,1,1
+193755,overlappingpdfs.132275.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132275.pdf.task_54_7_7,Anisian|247.20000|242.00000,"{54,7,7,Anisian}",,1,1
+184871,overlappingpdfs.132736.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132736.pdf.task_1032_23_23,Cambrian|541.00000|485.40000,"{1032,23,23,Cambrian}",,1,1
+298387,overlappingpdfs.132648.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132648.pdf.task_874_1_1,Aptian|125.00000|113.00000,"{874,1,1,Aptian}",,1,1
+279644,overlappingpdfs.1342.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1342.pdf.task_303_0_0,Santonian|86.30000|83.60000,"{303,0,0,Santonian}",,1,1
+183842,overlappingpdfs.132736.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132736.pdf.task_862_5_5,Cambrian|541.00000|485.40000,"{862,5,5,CAMBRIAN}",,1,1
+219161,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_3995_36_36,Hemingfordian|20.43000|15.97000,"{3995,36,36,Hemingfordian}",,1,0.996
+250063,overlappingpdfs.133129.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133129.pdf.task_771_3_3,Jurassic|201.30000|145.00000,"{771,3,3,Jurassic}",,1,1
+325550,overlappingpdfs.132102.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132102.pdf.task_130_6_6,Cambrian|541.00000|485.40000,"{130,6,6,Cambrian}",,1,1
+161392,overlappingpdfs.138450.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138450.pdf.task_2950_7_7,Paleocene|66.00000|56.00000,"{2950,7,7,Paleocene}",,1,1
+176685,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_838_6_6,Paleozoic|541.00000|252.17000,"{838,6,6,Paleozoic}",,1,1
+198666,overlappingpdfs.132180.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132180.pdf.task_720_0_0,Phanerozoic|541.00000|0.00000,"{720,0,0,Phanerozoic}",,1,1
+318943,overlappingpdfs.138010.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138010.pdf.task_24_2_2,Tertiary|66.00000|2.58800,"{24,2,2,TERTIARY}",,1,0.999
+323582,overlappingpdfs.138239.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138239.pdf.task_1661_12_12,Deseadan|29.00000|21.00000,"{1661,12,12,Deseadan}",,1,1
+226296,overlappingpdfs.133097.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133097.pdf.task_59_16_17,Late Paleocene|58.7000|55.8000,"{59,16,17,""late Paleocene""}",,1,1
+172868,overlappingpdfs.132662.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132662.pdf.task_29_15_15,Ordovician|485.40000|443.40000,"{29,15,15,Ordovician}",,1,1
+334418,overlappingpdfs.133005.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133005.pdf.task_873_25_25,Cambrian|541.00000|485.40000,"{873,25,25,Cambrian}",,1,1
+300912,overlappingpdfs.132648.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132648.pdf.task_695_54_54,Barremian|129.40000|125.00000,"{695,54,54,Barremian}",,1,0.999
+256369,overlappingpdfs.132230.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132230.pdf.task_581_0_1,Early Cretaceous|145.5000|99.6000,"{581,0,1,""Early Cretaceous""}",,1,1
+313842,overlappingpdfs.132657.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132657.pdf.task_27_9_10,Early Cretaceous|145.5000|99.6000,"{27,9,10,""Early Cretaceous""}",,1,1
+211219,overlappingpdfs.138573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138573.pdf.task_1082_17_17,Tertiary|66.00000|2.58800,"{1082,17,17,Tertiary}",,1,1
+325510,overlappingpdfs.132534.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132534.pdf.task_855_25_25,Psiloceras|201.30000|196.50000,"{855,25,25,Psiloceras}",,1,1
+286296,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_774_18_18,Ludlow|427.40000|423.00000,"{774,18,18,Ludlow}",,1,1
+308677,overlappingpdfs.131841.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131841.pdf.task_585_10_10,Chazyan|468.10000|460.90000,"{585,10,10,Chazyan}",,1,1
+186372,overlappingpdfs.132840.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132840.pdf.task_1561_19_19,Silurian|443.40000|419.20000,"{1561,19,19,Silurian}",,1,1
+325607,overlappingpdfs.133545.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133545.pdf.task_414_32_32,Bashkirian|323.20000|315.20000,"{414,32,32,Bashkirian}",,1,1
+236728,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_6770_19_19,Cretaceous|145.00000|66.00000,"{6770,19,19,Cretaceous}",,1,1
+264012,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_3842_13_13,Uintan|46.20000|40.40000,"{3842,13,13,Uintan}",,1,1
+229931,overlappingpdfs.133100.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133100.pdf.task_193_69_70,Middle Ordovician|471.8000|460.9000,"{193,69,70,""middle Ordovician""}",,1,1
+310962,overlappingpdfs.132502.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132502.pdf.task_1022_5_6,Late Miocene|11.6080|5.3320,"{1022,5,6,""LATE MIOCENE""}",,1,1
+312431,overlappingpdfs.130337.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130337.pdf.task_8_1_2,Middle Jurassic|175.6000|161.2000,"{8,1,2,""Middle Jurassic""}",,1,0.996
+335335,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_128_2_2,Southwoodian|397.5000|391.8000,"{128,2,2,Southwoodian}",,1,1
+229625,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_146_22_22,Lopingian|259.90000|252.17000,"{146,22,22,Lopingian}",,1,1
+185046,overlappingpdfs.132840.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132840.pdf.task_405_25_25,Llanvirn|466.00000|460.90000,"{405,25,25,Llanvirn}",,1,1
+169364,overlappingpdfs.131334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131334.pdf.task_519_17_17,Mesozoic|252.17000|66.00000,"{519,17,17,Mesozoic}",,1,1
+277437,overlappingpdfs.132501.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132501.pdf.task_85_1_1,Bucklandi|196.50000|189.60000,"{85,1,1,bucklandi}",,1,1
+188040,overlappingpdfs.138709.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138709.pdf.task_394_9_9,Chadronian|37.20000|33.90000,"{394,9,9,Chadronian}",,1,1
+227693,overlappingpdfs.132612.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132612.pdf.task_893_5_5,Ediacaran|635.00000|541.00000,"{893,5,5,Ediacaran}",,1,1
+190561,overlappingpdfs.132995.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132995.pdf.task_463_17_17,Jurassic|201.30000|145.00000,"{463,17,17,Jurassic}",,1,1
+242421,overlappingpdfs.1367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1367.pdf.task_31_9_9,Triassic|252.17000|201.30000,"{31,9,9,Triassic}",,1,0.997
+218211,overlappingpdfs.1395.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1395.pdf.task_666_0_0,Eocene|56.00000|33.90000,"{666,0,0,Eocene}",,1,1
+285282,overlappingpdfs.132098.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132098.pdf.task_764_3_3,Ordovician|485.40000|443.40000,"{764,3,3,Ordovician}",,1,1
+212217,overlappingpdfs.133046.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133046.pdf.task_56_0_0,Permian|298.90000|252.17000,"{56,0,0,Permian}",,1,1
+174542,overlappingpdfs.132064.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132064.pdf.task_18_48_48,Ohesaare|423.00000|419.20000,"{18,48,48,Ohesaare}",,1,1
+246179,overlappingpdfs.132749.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132749.pdf.task_227_5_5,Silurian|443.40000|419.20000,"{227,5,5,Silurian}",,1,1
+274095,overlappingpdfs.130952.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130952.pdf.task_387_15_15,Ordovician|485.40000|443.40000,"{387,15,15,Ordovician}",,1,1
+194005,overlappingpdfs.138761.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138761.pdf.task_952_2_4_PART_0,Cenomanian|100.50000|93.90000,"{952,2,4,Cenomanian}",,1,1
+236636,overlappingpdfs.138222.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138222.pdf.task_1101_4_4,Eocene|56.00000|33.90000,"{1101,4,4,EOCENE}",,1,1
+195763,overlappingpdfs.138761.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138761.pdf.task_4985_2_2,Cretaceous|145.00000|66.00000,"{4985,2,2,Cretaceous}",,1,1
+203793,overlappingpdfs.1334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1334.pdf.task_624_0_1,Late Cretaceous|99.6000|65.5000,"{624,0,1,""Late Cretaceous""}",,1,1
+172265,overlappingpdfs.138449.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138449.pdf.task_1621_10_11,Late Cretaceous|99.6000|65.5000,"{1621,10,11,""Upper Cretaceous""}",,1,1
+182930,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_478_4_4,Pleistocene|2.58800|0.01170,"{478,4,4,Pleistocene}",,1,1
+178732,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_4680_1_1,Cenozoic|66.00000|0.00000,"{4680,1,1,Cenozoic}",,1,0.999
+321310,overlappingpdfs.130959.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130959.pdf.task_281_9_10,Late Pliocene|3.6000|2.5880,"{281,9,10,""late Pliocene""}",,1,0.996
+223639,overlappingpdfs.132348.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132348.pdf.task_1560_9_9,Badenian|13.65000|12.70000,"{1560,9,9,Badenian}",,1,0.999
+236928,overlappingpdfs.132567.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132567.pdf.task_77_8_8,Caradocian|460.90000|449.50000,"{77,8,8,Caradocian}",,1,1
+207649,overlappingpdfs.133140.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133140.pdf.task_819_4_4,Cretaceous|145.00000|66.00000,"{819,4,4,CRETACEOUS}",,1,1
+318515,overlappingpdfs.135630.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135630.pdf.task_635_2_3,Late Devonian|385.3000|359.2000,"{635,2,3,""Upper Devonian""}",,1,1
+339838,overlappingpdfs.133047.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133047.pdf.task_1037_5_6,Early Cambrian|542.0000|513.0000,"{1037,5,6,""Early Cambrian""}",,1,1
+244935,overlappingpdfs.137113.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137113.pdf.task_346_5_5,Miocene|23.03000|5.33300,"{346,5,5,MIOCENE}",,1,1
+226564,overlappingpdfs.139275.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139275.pdf.task_31_24_25,Late Miocene|11.6080|5.3320,"{31,24,25,""Upper Miocene""}",,1,1
+208779,overlappingpdfs.130556.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130556.pdf.task_211_34_34,Anisian|247.20000|242.00000,"{211,34,34,Anisian}",,1,0.996
+233921,overlappingpdfs.131.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131.pdf.task_886_12_12,Albian|113.00000|100.50000,"{886,12,12,Albian}",,1,1
+227041,overlappingpdfs.138755.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138755.pdf.task_4790_21_21,Cretaceous|145.00000|66.00000,"{4790,21,21,Cretaceous}",,1,1
+183088,overlappingpdfs.138334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138334.pdf.task_390_5_6,Middle Eocene|48.6000|37.2000,"{390,5,6,""middle Eocene""}",,1,1
+173446,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_1487_6_6,Word|268.00000|265.00000,"{1487,6,6,Word}",,1,1
+183605,overlappingpdfs.133128.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133128.pdf.task_246_33_33,Turonian|93.90000|89.80000,"{246,33,33,Turonian}",,1,1
+309395,overlappingpdfs.133102.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133102.pdf.task_59_9_9,Aptian|125.00000|113.00000,"{59,9,9,Aptian}",,1,1
+169163,overlappingpdfs.135446.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135446.pdf.task_277_29_29,Cenozoic|66.00000|0.00000,"{277,29,29,Cenozoic}",,1,1
+156073,overlappingpdfs.132338.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132338.pdf.task_482_11_11,Bathonian|168.30000|166.10000,"{482,11,11,Bathonian}",,1,1
+316025,overlappingpdfs.132899.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132899.pdf.task_1844_7_7,Canadian|485.40000|468.10000,"{1844,7,7,Canadian}",,1,0.999
+166851,overlappingpdfs.130554.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130554.pdf.task_251_32_32,Silurian|443.40000|419.20000,"{251,32,32,Silurian}",,1,1
+284451,overlappingpdfs.133053.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133053.pdf.task_920_10_12_PART_1,Phanerozoic|541.00000|0.00000,"{920,10,12,Phanerozoic}",,1,1
+335741,overlappingpdfs.138453.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138453.pdf.task_1282_13_13,Eifelian|393.30000|387.70000,"{1282,13,13,Eifelian}",,1,1
+221616,overlappingpdfs.138859.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138859.pdf.task_1030_1_2,Late Eocene|37.2000|33.9000,"{1030,1,2,""late Eocene""}",,1,0.996
+311010,overlappingpdfs.131349.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131349.pdf.task_79_33_33,Eocene|56.00000|33.90000,"{79,33,33,Eocene}",,1,0.998
+265315,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_5914_4_4,Tertiary|66.00000|2.58800,"{5914,4,4,Tertiary}",,1,1
+341569,overlappingpdfs.133047.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133047.pdf.task_867_4_4,Carboniferous|358.90000|298.90000,"{867,4,4,Carboniferous}",,1,0.999
+340044,overlappingpdfs.132985.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132985.pdf.task_178_2_3,Late Eocene|37.2000|33.9000,"{178,2,3,""upper Eocene""}",,1,0.996
+196154,overlappingpdfs.132415.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132415.pdf.task_841_5_7_PART_0,Triassic|252.17000|201.30000,"{841,5,7,Triassic}",,1,1
+265654,overlappingpdfs.132463.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132463.pdf.task_542_0_0,Paleozoic|541.00000|252.17000,"{542,0,0,Paleozoic}",,1,1
+264484,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_2436_3_3,Clarendonian|13.60000|10.30000,"{2436,3,3,Clarendonian}",,1,0.996
+179617,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_4493_8_8,Eocene|56.00000|33.90000,"{4493,8,8,Eocene}",,1,0.996
+228854,overlappingpdfs.135573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135573.pdf.task_931_8_8,Precambrian|4000.0000|542.0000,"{931,8,8,Precambrian}",,1,1
+311888,overlappingpdfs.132502.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132502.pdf.task_1479_0_0,Pleistocene|2.58800|0.01170,"{1479,0,0,Pleistocene}",,1,1
+247875,overlappingpdfs.130623.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130623.pdf.task_592_21_22,Late Cambrian|501.0000|488.3000,"{592,21,22,""Upper Cambrian""}",,1,1
+283549,overlappingpdfs.130588.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130588.pdf.task_237_8_8,Wenlock|433.40000|427.40000,"{237,8,8,Wenlock}",,1,1
+218965,overlappingpdfs.132444.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132444.pdf.task_478_28_28,Cretaceous|145.00000|66.00000,"{478,28,28,Cretaceous}",,1,1
+337928,overlappingpdfs.135390.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135390.pdf.task_458_16_16,Triassic|252.17000|201.30000,"{458,16,16,Triassic}",,1,1
+296267,overlappingpdfs.138012.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138012.pdf.task_1594_5_5,Pennsylvanian|323.20000|298.90000,"{1594,5,5,Pennsylvanian}",,1,1
+275338,overlappingpdfs.130410.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130410.pdf.task_148_5_5,Lopingian|259.90000|252.17000,"{148,5,5,Lopingian}",,1,1
+296815,overlappingpdfs.136670.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136670.pdf.task_40_18_18,Silurian|443.40000|419.20000,"{40,18,18,Silurian}",,1,1
+266467,overlappingpdfs.130468.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130468.pdf.task_491_16_17,Late Triassic|228.0000|199.6000,"{491,16,17,""Upper Triassic""}",,1,1
+319889,overlappingpdfs.135361.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135361.pdf.task_409_21_22,Late Permian|260.4000|251.0000,"{409,21,22,""Upper Permian""}",,1,0.999
+335744,overlappingpdfs.132684.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132684.pdf.task_224_4_4,Norian|228.00000|208.50000,"{224,4,4,Norian}",,1,1
+202408,overlappingpdfs.136978.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136978.pdf.task_293_8_9,Early Cambrian|542.0000|513.0000,"{293,8,9,""Early Cambrian""}",,1,1
+221103,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_7178_127_127,Orellan|33.90000|33.30000,"{7178,127,127,Orellan}",,1,1
+201303,overlappingpdfs.136149.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136149.pdf.task_608_7_7,Devonian|419.20000|358.90000,"{608,7,7,Devonian}",,1,1
+305094,overlappingpdfs.136931.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136931.pdf.task_447_6_6,Elton|422.90000|421.30000,"{447,6,6,Elton}",,1,1
+333866,overlappingpdfs.133311.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133311.pdf.task_37_81_81,Wuchiapingian|259.90000|254.17000,"{37,81,81,Wuchiapingian}",,1,1
+294574,overlappingpdfs.132282.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132282.pdf.task_175_22_22,Dawan|478.60000|468.10000,"{175,22,22,Dawan}",,1,0.999
+211439,overlappingpdfs.1376.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1376.pdf.task_1389_7_8,Late Cretaceous|99.6000|65.5000,"{1389,7,8,""Upper Cretaceous""}",,1,1
+255330,overlappingpdfs.132970.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132970.pdf.task_466_29_29,Santonian|86.30000|83.60000,"{466,29,29,Santonian}",,1,0.998
+253686,overlappingpdfs.131614.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131614.pdf.task_220_0_0,Devonian|419.20000|358.90000,"{220,0,0,Devonian}",,1,1
+253420,overlappingpdfs.138385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138385.pdf.task_1620_25_26,Early Eocene|55.8000|48.6000,"{1620,25,26,""early Eocene""}",,1,1
+323607,overlappingpdfs.132534.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132534.pdf.task_1419_9_9,Hettangian|201.30000|199.30000,"{1419,9,9,Hettangian}",,1,1
+298079,overlappingpdfs.130439.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130439.pdf.task_323_28_28,Wordian|268.80000|265.10000,"{323,28,28,Wordian}",,1,1
+181283,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_2966_8_8,Triassic|252.17000|201.30000,"{2966,8,8,Triassic}",,1,0.996
+214316,overlappingpdfs.138573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138573.pdf.task_3293_12_12,Clarendonian|13.60000|10.30000,"{3293,12,12,Clarendonian}",,1,0.996
+235979,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_6767_14_14,Cretaceous|145.00000|66.00000,"{6767,14,14,Cretaceous}",,1,0.999
+336657,overlappingpdfs.132690.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132690.pdf.task_246_0_1,Late Miocene|11.6080|5.3320,"{246,0,1,""LATE MIOCENE""}",,1,1
+182997,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_774_38_38,Miocene|23.03000|5.33300,"{774,38,38,Miocene}",,1,1
+200650,overlappingpdfs.13358.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13358.pdf.task_656_14_14,Eocene|56.00000|33.90000,"{656,14,14,eocene}",,1,1
+345923,overlappingpdfs.132928.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132928.pdf.task_49_3_3,Jurassic|201.30000|145.00000,"{49,3,3,JURASSIC}",,1,1
+322718,overlappingpdfs.133091.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133091.pdf.task_483_2_2,Permian|298.90000|252.17000,"{483,2,2,Permian}",,1,1
+309605,overlappingpdfs.136839.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136839.pdf.task_300_25_26,Early Ordovician|488.3000|471.8000,"{300,25,26,""Early Ordovician""}",,1,1
+230822,overlappingpdfs.136082.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136082.pdf.task_266_3_4,Middle Devonian|397.5000|385.3000,"{266,3,4,""Middle Devonian""}",,1,0.996
+327134,overlappingpdfs.132256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132256.pdf.task_465_7_8,Early Cambrian|542.0000|513.0000,"{465,7,8,""Early Cambrian""}",,1,1
+334689,overlappingpdfs.1357.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1357.pdf.task_483_16_16,MP11|48.60000|40.40000,"{483,16,16,MP11}",,1,1
+239746,overlappingpdfs.1346.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1346.pdf.task_171_21_22,Late Oligocene|28.4000|23.0300,"{171,21,22,""late Oligocene""}",,1,0.996
+185621,overlappingpdfs.132736.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132736.pdf.task_1319_3_4,Early Cambrian|542.0000|513.0000,"{1319,3,4,""Early Cambrian""}",,1,1
+171970,overlappingpdfs.132146.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132146.pdf.task_474_13_13,Devonian|419.20000|358.90000,"{474,13,13,Devonian}",,1,1
+209129,overlappingpdfs.131128.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131128.pdf.task_537_5_5,Cambrian|541.00000|485.40000,"{537,5,5,Cambrian}",,1,1
+162556,overlappingpdfs.132944.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132944.pdf.task_343_0_0,Canadian|485.40000|468.10000,"{343,0,0,Canadian}",,1,1
+341584,overlappingpdfs.130697.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130697.pdf.task_557_7_8,Middle Cambrian|513.0000|501.0000,"{557,7,8,""Middle Cambrian""}",,1,0.996
+167499,overlappingpdfs.131777.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131777.pdf.task_358_15_15,Silurian|443.40000|419.20000,"{358,15,15,Silurian}",,1,1
+310365,overlappingpdfs.132304.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132304.pdf.task_425_49_49,Jurassic|201.30000|145.00000,"{425,49,49,Jurassic}",,1,0.996
+245796,overlappingpdfs.138170.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138170.pdf.task_90_15_15,Oligocene|33.90000|23.03000,"{90,15,15,Oligocene}",,1,1
+231207,overlappingpdfs.136082.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136082.pdf.task_29_6_6,Silurian|443.40000|419.20000,"{29,6,6,Silurian}",,1,0.999
+242894,overlappingpdfs.132663.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132663.pdf.task_418_24_24,Cretaceous|145.00000|66.00000,"{418,24,24,Cretaceous}",,1,1
+332167,overlappingpdfs.132198.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132198.pdf.task_200_13_14,Late Triassic|228.0000|199.6000,"{200,13,14,""Upper Triassic""}",,1,1
+245474,overlappingpdfs.138170.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138170.pdf.task_1752_16_16,Miocene|23.03000|5.33300,"{1752,16,16,Miocene}",,1,0.999
+165688,overlappingpdfs.135412.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135412.pdf.task_1_3_3,Barremian|129.40000|125.00000,"{1,3,3,Barremian}",,1,1
+207597,overlappingpdfs.138426.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138426.pdf.task_3587_11_11,Clarendonian|13.60000|10.30000,"{3587,11,11,Clarendonian}",,1,1
+301393,overlappingpdfs.132536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132536.pdf.task_611_14_14,Cambrian|541.00000|485.40000,"{611,14,14,Cambrian}",,1,1
+241574,overlappingpdfs.136483.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136483.pdf.task_26_10_10,Frasnian|382.70000|372.20000,"{26,10,10,Frasnian}",,1,1
+241206,overlappingpdfs.136807.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136807.pdf.task_511_30_30,Paleozoic|541.00000|252.17000,"{511,30,30,Paleozoic}",,1,1
+321805,overlappingpdfs.135361.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135361.pdf.task_31_6_6,Griesbachian|252.17000|251.30000,"{31,6,6,Griesbachian}",,1,1
+306068,overlappingpdfs.135478.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135478.pdf.task_23_9_9,Triassic|252.17000|201.30000,"{23,9,9,Triassic}",,1,1
+233726,overlappingpdfs.132764.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132764.pdf.task_737_24_24,Jurassic|201.30000|145.00000,"{737,24,24,Jurassic}",,1,1
+199857,overlappingpdfs.132845.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132845.pdf.task_599_4_4,Jurassic|201.30000|145.00000,"{599,4,4,JURASSIC}",,1,1
+183105,overlappingpdfs.132736.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132736.pdf.task_1407_0_0,Precambrian|4000.0000|542.0000,"{1407,0,0,Precambrian}",,1,1
+251554,overlappingpdfs.136361.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136361.pdf.task_27_14_15,Late Ordovician|460.9000|443.7000,"{27,14,15,""Upper Ordovician""}",,1,0.999
+200574,overlappingpdfs.130635.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130635.pdf.task_516_3_3,Artinskian|290.10000|279.30000,"{516,3,3,Artinskian}",,1,1
+290056,overlappingpdfs.132742.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132742.pdf.task_435_16_16,Pliocene|5.33300|2.58800,"{435,16,16,Pliocene}",,1,1
+228524,overlappingpdfs.133027.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133027.pdf.task_1780_4_6_PART_0,Late Devonian|385.3000|359.2000,"{1780,4,6,""Upper Devonian""}",,1,1
+287097,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_707_15_15,Llandovery|443.40000|433.40000,"{707,15,15,Llandovery}",,1,1
+268448,overlappingpdfs.133304.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133304.pdf.task_70_3_4,Late Cretaceous|99.6000|65.5000,"{70,3,4,""Upper Cretaceous""}",,1,0.996
+153966,overlappingpdfs.1304.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1304.pdf.task_186_14_14,Pu2|66.00000|63.30000,"{186,14,14,Pu2}",,1,1
+306380,overlappingpdfs.131885.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131885.pdf.task_1056_8_8,Paleozoic|541.00000|252.17000,"{1056,8,8,Paleozoic}",,1,1
+176973,overlappingpdfs.136114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136114.pdf.task_320_14_14,Albian|113.00000|100.50000,"{320,14,14,Albian}",,1,0.996
+173073,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_3117_0_0,Word|268.00000|265.00000,"{3117,0,0,Word}",,1,1
+260315,overlappingpdfs.138329.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138329.pdf.task_978_9_9,Pleistocene|2.58800|0.01170,"{978,9,9,Pleistocene}",,1,0.999
+342298,overlappingpdfs.130697.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130697.pdf.task_53_33_33,Cambrian|541.00000|485.40000,"{53,33,33,Cambrian}",,1,1
+236208,overlappingpdfs.132440.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132440.pdf.task_1134_8_9,Middle Jurassic|175.6000|161.2000,"{1134,8,9,""Middle Jurassic""}",,1,0.999
+275674,overlappingpdfs.133073.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133073.pdf.task_1401_3_4,Late Ordovician|460.9000|443.7000,"{1401,3,4,""Upper Ordovician""}",,1,1
+268764,overlappingpdfs.131917.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131917.pdf.task_36_4_4,Precambrian|4000.0000|542.0000,"{36,4,4,Precambrian}",,1,1
+176763,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_773_2_2,Leonardian|280.000|270.600,"{773,2,2,Leonardian}",,1,1
+201954,overlappingpdfs.132130.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132130.pdf.task_426_4_5,Middle Miocene|15.9700|11.6080,"{426,4,5,""Middle Miocene""}",,1,1
+294899,overlappingpdfs.136069.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136069.pdf.task_57_19_20,Late Miocene|11.6080|5.3320,"{57,19,20,""Upper Miocene""}",,1,1
+243979,overlappingpdfs.136807.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136807.pdf.task_158_0_1,Late Devonian|385.3000|359.2000,"{158,0,1,""Upper Devonian""}",,1,1
+262262,overlappingpdfs.13975.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13975.pdf.task_685_12_12,Permian|298.90000|252.17000,"{685,12,12,Permian}",,1,1
+180888,overlappingpdfs.132197.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132197.pdf.task_698_2_3,Late Jurassic|161.2000|145.5000,"{698,2,3,""Upper Jurassic""}",,1,1
+158479,overlappingpdfs.132272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132272.pdf.task_18_10_11,Middle Eocene|48.6000|37.2000,"{18,10,11,""middle Eocene""}",,1,1
+158149,overlappingpdfs.132009.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132009.pdf.task_285_27_27,Wenlock|433.40000|427.40000,"{285,27,27,Wenlock}",,1,0.996
+296422,overlappingpdfs.136577.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136577.pdf.task_24_18_18,Devonian|419.20000|358.90000,"{24,18,18,Devonian}",,1,1
+191016,overlappingpdfs.135378.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135378.pdf.task_25_8_9,Late Cretaceous|99.6000|65.5000,"{25,8,9,""Upper Cretaceous""}",,1,1
+210936,overlappingpdfs.133060.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133060.pdf.task_591_0_0,Ordovician|485.40000|443.40000,"{591,0,0,Ordovician}",,1,1
+237812,overlappingpdfs.132888.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132888.pdf.task_884_6_7,Late Jurassic|161.2000|145.5000,"{884,6,7,""Upper Jurassic""}",,1,1
+223214,overlappingpdfs.132689.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132689.pdf.task_230_58_59,Early Miocene|23.0300|15.9700,"{230,58,59,""early Miocene""}",,1,1
+157011,overlappingpdfs.132385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132385.pdf.task_19_12_12,Mesozoic|252.17000|66.00000,"{19,12,12,Mesozoic}",,1,1
+248493,overlappingpdfs.132401.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132401.pdf.task_1498_0_2_PART_0,Callovian|166.10000|163.50000,"{1498,0,2,Callovian}",,1,1
+344615,overlappingpdfs.132555.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132555.pdf.task_1056_67_67,Givetian|387.70000|382.70000,"{1056,67,67,Givetian}",,1,1
+330507,overlappingpdfs.133311.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133311.pdf.task_193_11_11,Lopingian|259.90000|252.17000,"{193,11,11,Lopingian}",,1,0.999
+261069,overlappingpdfs.135216.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135216.pdf.task_196_23_23,Ordovician|485.40000|443.40000,"{196,23,23,Ordovician}",,1,1
+301572,overlappingpdfs.132536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132536.pdf.task_776_2_3,Late Ordovician|460.9000|443.7000,"{776,2,3,""Late Ordovician""}",,1,1
+214851,overlappingpdfs.132702.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132702.pdf.task_190_15_15,Miocene|23.03000|5.33300,"{190,15,15,Miocene}",,1,1
+292899,overlappingpdfs.132457.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132457.pdf.task_106_14_14,Danian|66.00000|61.60000,"{106,14,14,Danian}",,1,1
+219083,overlappingpdfs.138644.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138644.pdf.task_2984_29_29,Cretaceous|145.00000|66.00000,"{2984,29,29,Cretaceous}",,1,1
+330664,overlappingpdfs.132684.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132684.pdf.task_514_15_16,Early Permian|299.0000|270.6000,"{514,15,16,""Early Permian""}",,1,1
+337145,overlappingpdfs.131277.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131277.pdf.task_748_16_16,Silurian|443.40000|419.20000,"{748,16,16,Silurian}",,1,1
+207404,overlappingpdfs.138426.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138426.pdf.task_2562_3_3,Barstovian|15.97000|13.60000,"{2562,3,3,Barstovian}",,1,1
+265171,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_2916_1_1,Hemphillian|10.30000|4.90000,"{2916,1,1,Hemphillian}",,1,1
+209030,overlappingpdfs.131209.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131209.pdf.task_15_24_24,Clinton|439.00000|426.20000,"{15,24,24,Clinton}",,1,1
+288570,overlappingpdfs.1383.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1383.pdf.task_73_48_48,Cenozoic|66.00000|0.00000,"{73,48,48,Cenozoic}",,1,1
+319533,overlappingpdfs.135332.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135332.pdf.task_505_6_6,Permian|298.90000|252.17000,"{505,6,6,Permian}",,1,1
+236751,overlappingpdfs.132303.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132303.pdf.task_530_7_7,Mesozoic|252.17000|66.00000,"{530,7,7,Mesozoic}",,1,1
+155020,overlappingpdfs.138365.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138365.pdf.task_88_1_1,Tertiary|66.00000|2.58800,"{88,1,1,Tertiary}",,1,0.996
+233641,overlappingpdfs.138678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138678.pdf.task_3067_4_5,Late Cretaceous|99.6000|65.5000,"{3067,4,5,""Late Cretaceous""}",,1,1
+324263,overlappingpdfs.1399.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1399.pdf.task_626_0_1,Late Jurassic|161.2000|145.5000,"{626,0,1,""Upper Jurassic""}",,1,1
+173033,overlappingpdfs.132064.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132064.pdf.task_167_9_9,Eke|421.30000|419.20000,"{167,9,9,Eke}",,1,1
+283025,overlappingpdfs.132843.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132843.pdf.task_461_12_12,Turonian|93.90000|89.80000,"{461,12,12,Turonian}",,1,1
+210425,overlappingpdfs.132759.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132759.pdf.task_34_0_0,Silurian|443.40000|419.20000,"{34,0,0,Silurian}",,1,0.996
+277025,overlappingpdfs.133073.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133073.pdf.task_1188_0_1,Late Ordovician|460.9000|443.7000,"{1188,0,1,""Late Ordovician""}",,1,1
+314269,overlappingpdfs.133089.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133089.pdf.task_540_16_16,Cambrian|541.00000|485.40000,"{540,16,16,Cambrian}",,1,1
+229404,overlappingpdfs.136947.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136947.pdf.task_749_9_10,Middle Ordovician|471.8000|460.9000,"{749,9,10,""Middle Ordovician""}",,1,1
+270344,overlappingpdfs.1381.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1381.pdf.task_227_7_7,Zanclean|5.33300|3.60000,"{227,7,7,Zanclean}",,1,1
+303863,overlappingpdfs.136931.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136931.pdf.task_407_50_50,Wenlock|433.40000|427.40000,"{407,50,50,Wenlock}",,1,0.996
+262971,overlappingpdfs.13975.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13975.pdf.task_680_1_1,Permian|298.90000|252.17000,"{680,1,1,Permian}",,1,1
+252059,overlappingpdfs.132488.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132488.pdf.task_66_6_6,Turonian|93.90000|89.80000,"{66,6,6,Turonian}",,1,1
+321165,overlappingpdfs.135361.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135361.pdf.task_294_4_4,Permian|298.90000|252.17000,"{294,4,4,Permian}",,1,1
+246758,overlappingpdfs.138170.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138170.pdf.task_2684_14_15,Early Tertiary|65.5000|33.9000,"{2684,14,15,""early Tertiary""}",,1,1
+182608,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_1537_11_11,Oligocene|33.90000|23.03000,"{1537,11,11,Oligocene}",,1,1
+241802,overlappingpdfs.130294.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130294.pdf.task_212_16_16,Ordovician|485.40000|443.40000,"{212,16,16,Ordovician}",,1,1
+315447,overlappingpdfs.135630.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135630.pdf.task_364_14_14,Cretaceous|145.00000|66.00000,"{364,14,14,Cretaceous}",,1,1
+300910,overlappingpdfs.132648.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132648.pdf.task_18_10_10,Aptian|125.00000|113.00000,"{18,10,10,Aptian}",,1,1
+231198,overlappingpdfs.133052.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133052.pdf.task_552_8_8,Priabonian|38.00000|33.90000,"{552,8,8,Priabonian}",,1,1
+216030,overlappingpdfs.133316.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133316.pdf.task_1177_10_11,Late Permian|260.4000|251.0000,"{1177,10,11,""Late Permian""}",,1,1
+306805,overlappingpdfs.132556.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132556.pdf.task_227_0_0,Cretaceous|145.00000|66.00000,"{227,0,0,Cretaceous}",,1,1
+293136,overlappingpdfs.132282.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132282.pdf.task_32_8_8,Darriwilian|467.30000|458.40000,"{32,8,8,Darriwilian}",,1,1
+293489,overlappingpdfs.132282.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132282.pdf.task_824_7_7,Canadian|485.40000|468.10000,"{824,7,7,Canadian}",,1,1
+184428,overlappingpdfs.138428.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138428.pdf.task_370_12_12,Duntroonian|27.30000|25.20000,"{370,12,12,Duntroonian}",,1,1
+199166,overlappingpdfs.132535.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132535.pdf.task_571_26_26,Ypresian|56.00000|47.80000,"{571,26,26,Ypresian}",,1,1
+184881,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_1666_2_2,Pliocene|5.33300|2.58800,"{1666,2,2,Pliocene}",,1,1
+257417,overlappingpdfs.132230.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132230.pdf.task_7_15_15,Cretaceous|145.00000|66.00000,"{7,15,15,Cretaceous}",,1,0.996
+199420,overlappingpdfs.139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139.pdf.task_1049_6_6,Jurassic|201.30000|145.00000,"{1049,6,6,Jurassic}",,1,1
+335350,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_3637_3_3,Cazenovian|391.90000|383.70000,"{3637,3,3,Cazenovian}",,1,0.996
+340621,overlappingpdfs.132985.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132985.pdf.task_113_2_3,Late Eocene|37.2000|33.9000,"{113,2,3,""upper Eocene""}",,1,0.996
+174341,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_3052_0_0,Word|268.00000|265.00000,"{3052,0,0,Word}",,1,1
+165410,overlappingpdfs.136141.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136141.pdf.task_385_15_15,Maysvillian|452.00000|449.50000,"{385,15,15,Maysvillian}",,1,1
+231406,overlappingpdfs.138174.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138174.pdf.task_4522_5_5,Tertiary|66.00000|2.58800,"{4522,5,5,Tertiary}",,1,1
+252892,overlappingpdfs.138385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138385.pdf.task_1934_0_2_PART_3,Late Miocene|11.6080|5.3320,"{1934,0,2,""late Miocene""}",,1,1
+181514,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_69_37_37,Permian|298.90000|252.17000,"{69,37,37,Permian}",,1,1
+300866,overlappingpdfs.132536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132536.pdf.task_493_76_77,Middle Cambrian|513.0000|501.0000,"{493,76,77,""Middle Cambrian""}",,1,0.999
+299259,overlappingpdfs.1300.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1300.pdf.task_142_17_18,Late Cretaceous|99.6000|65.5000,"{142,17,18,""Late Cretaceous""}",,1,1
+313409,overlappingpdfs.133108.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133108.pdf.task_1660_7_8,Middle Ordovician|471.8000|460.9000,"{1660,7,8,""middle Ordovician""}",,1,0.996
+308114,overlappingpdfs.131885.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131885.pdf.task_511_11_11,Ordovician|485.40000|443.40000,"{511,11,11,Ordovician}",,1,1
+158586,overlappingpdfs.138375.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138375.pdf.task_841_30_30,Word|268.00000|265.00000,"{841,30,30,Word}",,1,1
+194139,overlappingpdfs.138026.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138026.pdf.task_2361_11_12,Middle Tertiary|33.9000|23.0300,"{2361,11,12,""Middle Tertiary""}",,1,1
+264784,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_203_59_59,Miocene|23.03000|5.33300,"{203,59,59,Miocene}",,1,0.996
+191433,overlappingpdfs.130210.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130210.pdf.task_929_7_7,Triassic|252.17000|201.30000,"{929,7,7,Triassic}",,1,1
+176349,overlappingpdfs.131201.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131201.pdf.task_282_11_11,Paleozoic|541.00000|252.17000,"{282,11,11,Paleozoic}",,1,1
+325500,overlappingpdfs.132358.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132358.pdf.task_158_4_4,Callovian|166.10000|163.50000,"{158,4,4,Callovian}",,1,1
+339288,overlappingpdfs.138482.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138482.pdf.task_1006_5_7_PART_1,Spathian|251.30000|247.20000,"{1006,5,7,Spathian}",,1,0.996
+307629,overlappingpdfs.132581.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132581.pdf.task_9_5_5,Silurian|443.40000|419.20000,"{9,5,5,Silurian}",,1,1
+336050,overlappingpdfs.133311.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133311.pdf.task_612_7_8,Late Permian|260.4000|251.0000,"{612,7,8,""Late Permian""}",,1,1
+344425,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_2472_6_6,Permian|298.90000|252.17000,"{2472,6,6,Permian}",,1,1
+312559,overlappingpdfs.132502.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132502.pdf.task_26_14_14,Neogene|23.03000|2.58800,"{26,14,14,Neogene}",,1,1
+167317,overlappingpdfs.133124.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133124.pdf.task_504_2_2,Cambrian|541.00000|485.40000,"{504,2,2,Cambrian}",,1,1
+309617,overlappingpdfs.131885.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131885.pdf.task_311_7_7,Mesozoic|252.17000|66.00000,"{311,7,7,Mesozoic}",,1,1
+248845,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_389_21_21,Trentonian|460.90000|449.50000,"{389,21,21,Trentonian}",,1,1
+304584,overlappingpdfs.132971.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132971.pdf.task_900_46_46,Albian|113.00000|100.50000,"{900,46,46,Albian}",,1,0.995
+322662,overlappingpdfs.135332.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135332.pdf.task_508_17_17,Wuchiapingian|259.90000|254.17000,"{508,17,17,Wuchiapingian}",,1,1
+257264,overlappingpdfs.133062.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133062.pdf.task_613_10_12_PART_1,Permian|298.90000|252.17000,"{613,10,12,Permian}",,1,1
+218938,overlappingpdfs.138644.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138644.pdf.task_2969_35_35,Cretaceous|145.00000|66.00000,"{2969,35,35,Cretaceous}",,1,1
+198531,overlappingpdfs.131000.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131000.pdf.task_776_4_4,Cambrian|541.00000|485.40000,"{776,4,4,Cambrian}",,1,1
+202379,overlappingpdfs.136149.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136149.pdf.task_361_6_6,Canadian|485.40000|468.10000,"{361,6,6,Canadian}",,1,1
+256601,overlappingpdfs.132241.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132241.pdf.task_974_22_22,Jurassic|201.30000|145.00000,"{974,22,22,Jurassic}",,1,1
+212150,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_781_1_1,Carboniferous|358.90000|298.90000,"{781,1,1,Carboniferous}",,1,1
+303868,overlappingpdfs.137950.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137950.pdf.task_77_26_26,Jurassic|201.30000|145.00000,"{77,26,26,Jurassic}",,1,1
+163846,overlappingpdfs.131777.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131777.pdf.task_11_13_13,Frasnian|382.70000|372.20000,"{11,13,13,Frasnian}",,1,1
+173364,overlappingpdfs.132730.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132730.pdf.task_125_17_18,Early Cretaceous|145.5000|99.6000,"{125,17,18,""Early Cretaceous""}",,1,0.996
+172484,overlappingpdfs.132064.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132064.pdf.task_50_31_31,Ohesaare|423.00000|419.20000,"{50,31,31,Ohesaare}",,1,1
+213073,overlappingpdfs.133046.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133046.pdf.task_487_19_19,Triassic|252.17000|201.30000,"{487,19,19,Triassic}",,1,1
+277476,overlappingpdfs.1342.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1342.pdf.task_320_0_1_PART_1,Campanian|83.60000|72.10000,"{320,0,1,Campanian}",,1,1
+165958,overlappingpdfs.138679.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138679.pdf.task_744_27_27,Cretaceous|145.00000|66.00000,"{744,27,27,Cretaceous}",,1,1
+329110,overlappingpdfs.136583.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136583.pdf.task_378_5_5,Cambrian|541.00000|485.40000,"{378,5,5,Cambrian}",,1,1
+169466,overlappingpdfs.132793.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132793.pdf.task_384_15_15,Cretaceous|145.00000|66.00000,"{384,15,15,Cretaceous}",,1,1
+250145,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_18_3_4,Late Ordovician|460.9000|443.7000,"{18,3,4,""Late Ordovician""}",,1,1
+158663,overlappingpdfs.133077.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133077.pdf.task_244_7_7,Stephanian|306.95000|298.90000,"{244,7,7,Stephanian}",,1,1
+227219,overlappingpdfs.136443.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136443.pdf.task_190_1_1,Proterozoic|2500.00000|541.00000,"{190,1,1,Proterozoic}",,1,1
+276496,overlappingpdfs.130410.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130410.pdf.task_547_16_16,Changhsingian|254.17000|252.17000,"{547,16,16,Changhsingian}",,1,1
+223232,overlappingpdfs.136021.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136021.pdf.task_378_5_5,Leonard|290.10000|268.00000,"{378,5,5,Leonard}",,1,1
+157084,overlappingpdfs.132929.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132929.pdf.task_440_16_16,Barremian|129.40000|125.00000,"{440,16,16,Barremian}",,1,1
+265739,overlappingpdfs.131917.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131917.pdf.task_788_11_11,Dresbachian|501.00000|485.40000,"{788,11,11,Dresbachian}",,1,1
+257548,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_97_12_12,Cambrian|541.00000|485.40000,"{97,12,12,Cambrian}",,1,1
+191368,overlappingpdfs.131239.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131239.pdf.task_30_24_24,Silurian|443.40000|419.20000,"{30,24,24,Silurian}",,1,0.999
+318267,overlappingpdfs.1353.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1353.pdf.task_58_38_38,Cenozoic|66.00000|0.00000,"{58,38,38,Cenozoic}",,1,1
+211407,overlappingpdfs.132702.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132702.pdf.task_585_1_2,Late Miocene|11.6080|5.3320,"{585,1,2,""Late Miocene""}",,1,1
+198765,overlappingpdfs.131000.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131000.pdf.task_84_14_14,Ibex|189.60000|183.00000,"{84,14,14,Ibex}",,1,0.996
+232468,overlappingpdfs.138678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138678.pdf.task_5740_15_15,Paleocene|66.00000|56.00000,"{5740,15,15,Paleocene}",,1,1
+306145,overlappingpdfs.130763.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130763.pdf.task_41_4_4,Pleistocene|2.58800|0.01170,"{41,4,4,Pleistocene}",,1,1
+251285,overlappingpdfs.130623.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130623.pdf.task_30_19_20,Westphalian B|314.600|314.600,"{30,19,20,""Westphalian B""}",,1,1
+311325,overlappingpdfs.132951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132951.pdf.task_1045_5_5,Kimmeridgian|157.30000|152.10000,"{1045,5,5,Kimmeridgian}",,1,1
+308590,overlappingpdfs.135188.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135188.pdf.task_536_13_13,Jurassic|201.30000|145.00000,"{536,13,13,Jurassic}",,1,1
+172925,overlappingpdfs.133500.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133500.pdf.task_209_10_11,Late Cretaceous|99.6000|65.5000,"{209,10,11,""Late Cretaceous""}",,1,1
+155350,overlappingpdfs.138578.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138578.pdf.task_111_9_9,Devonian|419.20000|358.90000,"{111,9,9,Devonian}",,1,1
+158657,overlappingpdfs.138450.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138450.pdf.task_186_58_59,Late Cretaceous|99.6000|65.5000,"{186,58,59,""Upper Cretaceous""}",,1,1
+239695,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_5243_32_32,Cretaceous|145.00000|66.00000,"{5243,32,32,Cretaceous}",,1,1
+300496,overlappingpdfs.132756.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132756.pdf.task_952_8_8,Tertiary|66.00000|2.58800,"{952,8,8,Tertiary}",,1,1
+257151,overlappingpdfs.132069.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132069.pdf.task_17_0_0,Ashgillian|449.50000|443.70000,"{17,0,0,ASHGILLIAN}",,1,1
+319287,overlappingpdfs.131246.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131246.pdf.task_368_0_0,Silurian|443.40000|419.20000,"{368,0,0,Silurian}",,1,1
+248762,overlappingpdfs.132751.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132751.pdf.task_1057_1_2,Early Ordovician|488.3000|471.8000,"{1057,1,2,""early Ordovician""}",,1,1
+218869,overlappingpdfs.138644.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138644.pdf.task_3398_9_9,Jurassic|201.30000|145.00000,"{3398,9,9,Jurassic}",,1,1
+154561,overlappingpdfs.138578.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138578.pdf.task_4039_3_5_PART_0,Siegenian|412.30000|409.10000,"{4039,3,5,Siegenian}",,1,1
+194195,overlappingpdfs.132987.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132987.pdf.task_635_2_4_PART_2,Ordovician|485.40000|443.40000,"{635,2,4,Ordovician}",,1,1
+326400,overlappingpdfs.132829.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132829.pdf.task_1248_15_15,Albian|113.00000|100.50000,"{1248,15,15,Albian}",,1,1
+245542,overlappingpdfs.132675.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132675.pdf.task_34_5_6,Late Cretaceous|99.6000|65.5000,"{34,5,6,""Upper Cretaceous""}",,1,0.996
+305088,overlappingpdfs.131905.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131905.pdf.task_574_15_15,Carboniferous|358.90000|298.90000,"{574,15,15,Carboniferous}",,1,1
+325382,overlappingpdfs.138239.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138239.pdf.task_2046_7_7,Eocene|56.00000|33.90000,"{2046,7,7,Eocene}",,1,1
+208408,overlappingpdfs.135476.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135476.pdf.task_470_17_17,Hirnantian|445.20000|443.40000,"{470,17,17,Hirnantian}",,1,1
+320028,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_1695_3_3,Paleogene|66.00000|23.03000,"{1695,3,3,Paleogene}",,1,0.996
+339258,overlappingpdfs.135939.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135939.pdf.task_795_10_10,Meishucunian|541.00000|516.00000,"{795,10,10,Meishucunian}",,1,1
+335197,overlappingpdfs.132455.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132455.pdf.task_44_29_29,Tithonian|152.10000|145.00000,"{44,29,29,Tithonian}",,1,0.996
+261005,overlappingpdfs.135216.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135216.pdf.task_255_1_1,Ordovician|485.40000|443.40000,"{255,1,1,Ordovician}",,1,1
+168423,overlappingpdfs.132858.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132858.pdf.task_13_7_8,Late Devonian|385.3000|359.2000,"{13,7,8,""Late Devonian""}",,1,1
+239205,overlappingpdfs.136699.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136699.pdf.task_99_20_20,Sonyea|383.70000|376.10000,"{99,20,20,Sonyea}",,1,1
+262453,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_4276_19_19,Cretaceous|145.00000|66.00000,"{4276,19,19,Cretaceous}",,1,1
+290390,overlappingpdfs.132522.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132522.pdf.task_1100_1_2,Middle Ordovician|471.8000|460.9000,"{1100,1,2,""Middle Ordovician""}",,1,1
+233454,overlappingpdfs.138168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138168.pdf.task_1531_17_18,Middle Triassic|245.0000|228.0000,"{1531,17,18,""Middle Triassic""}",,1,1
+198072,overlappingpdfs.132535.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132535.pdf.task_660_5_6,Early Eocene|55.8000|48.6000,"{660,5,6,""early Eocene""}",,1,1
+285348,overlappingpdfs.132098.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132098.pdf.task_734_10_11,Late Ordovician|460.9000|443.7000,"{734,10,11,""Upper Ordovician""}",,1,0.996
+260989,overlappingpdfs.132622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132622.pdf.task_167_10_10,Triassic|252.17000|201.30000,"{167,10,10,Triassic}",,1,1
+219955,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_1215_1_1,Whitneyan|33.30000|30.80000,"{1215,1,1,Whitneyan}",,1,0.996
+279638,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_1416_6_6,Pilton|376.10000|353.80000,"{1416,6,6,Pilton}",,1,1
+309059,overlappingpdfs.135557.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135557.pdf.task_281_7_7,Permian|298.90000|252.17000,"{281,7,7,Permian}",,1,1
+201791,overlappingpdfs.132659.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132659.pdf.task_17_42_42,Jurassic|201.30000|145.00000,"{17,42,42,Jurassic}",,1,0.996
+280785,overlappingpdfs.132527.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132527.pdf.task_1670_88_88,Induan|252.17000|251.20000,"{1670,88,88,Induan}",,1,1
+226973,overlappingpdfs.132348.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132348.pdf.task_562_25_25,Badenian|13.65000|12.70000,"{562,25,25,Badenian}",,1,0.999
+198370,overlappingpdfs.132180.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132180.pdf.task_409_12_13,Early Jurassic|199.6000|175.6000,"{409,12,13,""Early Jurassic""}",,1,1
+218301,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_4042_22_22,Arikareean|30.80000|20.43000,"{4042,22,22,Arikareean}",,1,0.996
+309096,overlappingpdfs.133102.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133102.pdf.task_358_4_5,Middle Jurassic|175.6000|161.2000,"{358,4,5,""Middle Jurassic""}",,1,1
+213798,overlappingpdfs.132333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132333.pdf.task_245_4_4,Pliensbachian|190.80000|182.70000,"{245,4,4,PLIENSBACHIAN}",,1,1
+233887,overlappingpdfs.138083.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138083.pdf.task_345_31_31,Oligocene|33.90000|23.03000,"{345,31,31,Oligocene}",,1,0.996
+182691,overlappingpdfs.132736.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132736.pdf.task_1031_11_11,Meishucunian|541.00000|516.00000,"{1031,11,11,Meishucunian}",,1,1
+335888,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_6322_3_4,Middle Devonian|397.5000|385.3000,"{6322,3,4,""Middle Devonian""}",,1,1
+223527,overlappingpdfs.138658.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138658.pdf.task_1211_0_1,Middle Devonian|397.5000|385.3000,"{1211,0,1,""Middle Devonian""}",,1,1
+210392,overlappingpdfs.1343.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1343.pdf.task_401_17_18,Early Cretaceous|145.5000|99.6000,"{401,17,18,""Early Cretaceous""}",,1,1
+260843,overlappingpdfs.132789.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132789.pdf.task_818_1_1,Jurassic|201.30000|145.00000,"{818,1,1,Jurassic}",,1,1
+218514,overlappingpdfs.132093.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132093.pdf.task_1564_35_35,Frasnian|382.70000|372.20000,"{1564,35,35,Frasnian}",,1,1
+284527,overlappingpdfs.132836.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132836.pdf.task_114_28_28,Frasnian|382.70000|372.20000,"{114,28,28,Frasnian}",,1,0.999
+250917,overlappingpdfs.132401.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132401.pdf.task_1559_3_4,Middle Jurassic|175.6000|161.2000,"{1559,3,4,""Middle Jurassic""}",,1,1
+180936,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_4093_7_9_PART_0,Early Eocene|55.8000|48.6000,"{4093,7,9,""early Eocene""}",,1,1
+278081,overlappingpdfs.135584.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135584.pdf.task_93_26_26,Atdabanian|520.00000|516.00000,"{93,26,26,Atdabanian}",,1,0.999
+325928,overlappingpdfs.135583.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135583.pdf.task_597_0_0,Precambrian|4000.0000|542.0000,"{597,0,0,Precambrian}",,1,1
+318325,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_2049_6_7,Middle Ordovician|471.8000|460.9000,"{2049,6,7,""middle Ordovician""}",,1,1
+228797,overlappingpdfs.133027.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133027.pdf.task_60_20_20,Famennian|372.20000|358.90000,"{60,20,20,Famennian}",,1,1
+306943,overlappingpdfs.132893.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132893.pdf.task_2_2_2,Tertiary|66.00000|2.58800,"{2,2,2,TERTIARY}",,1,1
+292858,overlappingpdfs.132282.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132282.pdf.task_855_3_3,Ordovician|485.40000|443.40000,"{855,3,3,Ordovician}",,1,1
+179001,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_691_3_3,Wasatchian|55.80000|50.30000,"{691,3,3,Wasatchian}",,1,1
+316267,overlappingpdfs.133108.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133108.pdf.task_1450_20_20,Ordovician|485.40000|443.40000,"{1450,20,20,Ordovician}",,1,1
+238297,overlappingpdfs.132479.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132479.pdf.task_691_7_7,Cretaceous|145.00000|66.00000,"{691,7,7,Cretaceous}",,1,1
+207785,overlappingpdfs.133140.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133140.pdf.task_717_4_4,Aptian|125.00000|113.00000,"{717,4,4,Aptian}",,1,1
+342731,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_1664_2_2,Leonardian|280.000|270.600,"{1664,2,2,Leonardian}",,1,1
+271142,overlappingpdfs.133127.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133127.pdf.task_826_24_25,Late Eocene|37.2000|33.9000,"{826,24,25,""Upper Eocene""}",,1,1
+213430,overlappingpdfs.133316.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133316.pdf.task_1211_0_2_PART_1,Triassic|252.17000|201.30000,"{1211,0,2,Triassic}",,1,0.999
+225798,overlappingpdfs.132195.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132195.pdf.task_604_3_4,Late Devonian|385.3000|359.2000,"{604,3,4,""Late Devonian""}",,1,0.999
+298316,overlappingpdfs.133618.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133618.pdf.task_616_4_4,Miocene|23.03000|5.33300,"{616,4,4,Miocene}",,1,1
+203992,overlappingpdfs.132498.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132498.pdf.task_1626_0_0,Cambrian|541.00000|485.40000,"{1626,0,0,Cambrian}",,1,1
+190383,overlappingpdfs.135536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135536.pdf.task_114_13_13,Campanian|83.60000|72.10000,"{114,13,13,Campanian}",,1,1
+234353,overlappingpdfs.131655.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131655.pdf.task_479_0_0,Brecon|412.30000|391.90000,"{479,0,0,Brecon}",,1,1
+230572,overlappingpdfs.133100.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133100.pdf.task_190_22_22,Caradoc|460.90000|449.50000,"{190,22,22,Caradoc}",,1,1
+282907,overlappingpdfs.132634.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132634.pdf.task_386_8_9,Early Pleistocene|2.5880|1.8060,"{386,8,9,""early Pleistocene""}",,1,0.996
+341401,overlappingpdfs.138482.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138482.pdf.task_1392_0_0,Triassic|252.17000|201.30000,"{1392,0,0,Triassic}",,1,1
+326055,overlappingpdfs.135600.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135600.pdf.task_50_23_24,Middle Ordovician|471.8000|460.9000,"{50,23,24,""Middle Ordovician""}",,1,0.996
+231055,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_122_14_14,Guadalupian|272.30000|259.90000,"{122,14,14,Guadalupian}",,1,1
+324954,overlappingpdfs.132202.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132202.pdf.task_49_13_14,Late Jurassic|161.2000|145.5000,"{49,13,14,""Late Jurassic""}",,1,0.996
+258324,overlappingpdfs.137.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137.pdf.task_87_9_9,Pleistocene|2.58800|0.01170,"{87,9,9,Pleistocene}",,1,1
+338610,overlappingpdfs.132481.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132481.pdf.task_455_12_12,Permian|298.90000|252.17000,"{455,12,12,Permian}",,1,1
+194598,overlappingpdfs.132987.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132987.pdf.task_116_24_25,Late Ordovician|460.9000|443.7000,"{116,24,25,""Late Ordovician""}",,1,1
+279209,overlappingpdfs.132857.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132857.pdf.task_861_4_4,Tertiary|66.00000|2.58800,"{861,4,4,Tertiary}",,1,1
+242850,overlappingpdfs.136483.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136483.pdf.task_792_16_17,Late Devonian|385.3000|359.2000,"{792,16,17,""Upper Devonian""}",,1,1
+226431,overlappingpdfs.132612.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132612.pdf.task_612_32_33,Middle Cambrian|513.0000|501.0000,"{612,32,33,""Middle Cambrian""}",,1,1
+300155,overlappingpdfs.137935.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137935.pdf.task_4236_0_1_PART_1,Carboniferous|358.90000|298.90000,"{4236,0,1,Carboniferous}",,1,1
+334622,overlappingpdfs.132.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132.pdf.task_90_37_37,Albian|113.00000|100.50000,"{90,37,37,Albian}",,1,0.996
+236012,overlappingpdfs.132479.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132479.pdf.task_289_40_41,Early Cretaceous|145.5000|99.6000,"{289,40,41,""Early Cretaceous""}",,1,1
+272523,overlappingpdfs.133074.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133074.pdf.task_5_11_11,Albian|113.00000|100.50000,"{5,11,11,Albian}",,1,1
+258710,overlappingpdfs.136168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136168.pdf.task_50_37_37,Cambrian|541.00000|485.40000,"{50,37,37,Cambrian}",,1,1
+343547,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_2848_12_12,Permian|298.90000|252.17000,"{2848,12,12,Permian}",,1,1
+322835,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_947_4_4,Cretaceous|145.00000|66.00000,"{947,4,4,CRETACEOUS}",,1,1
+173310,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_3603_18_18,Leonard|290.10000|268.00000,"{3603,18,18,Leonard}",,1,1
+229037,overlappingpdfs.133100.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133100.pdf.task_190_14_14,Aurelucian|460.90000|457.50000,"{190,14,14,Aurelucian}",,1,1
+198086,overlappingpdfs.132470.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132470.pdf.task_462_1_1,Triassic|252.17000|201.30000,"{462,1,1,TRIASSIC}",,1,1
+242849,overlappingpdfs.136483.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136483.pdf.task_791_5_5,Devonian|419.20000|358.90000,"{791,5,5,Devonian}",,1,1
+230161,overlappingpdfs.138435.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138435.pdf.task_1374_21_21,Jurassic|201.30000|145.00000,"{1374,21,21,Jurassic}",,1,1
+276891,overlappingpdfs.133121.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133121.pdf.task_123_16_16,Albian|113.00000|100.50000,"{123,16,16,Albian}",,1,1
+161327,overlappingpdfs.138375.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138375.pdf.task_1062_13_13,Triassic|252.17000|201.30000,"{1062,13,13,Triassic}",,1,1
+279061,overlappingpdfs.132574.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132574.pdf.task_20_8_8,Mississippian|358.90000|323.20000,"{20,8,8,Mississippian}",,1,1
+273530,overlappingpdfs.133012.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133012.pdf.task_59_20_20,Tertiary|66.00000|2.58800,"{59,20,20,Tertiary}",,1,1
+239054,overlappingpdfs.132567.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132567.pdf.task_1785_4_5,Late Ordovician|460.9000|443.7000,"{1785,4,5,""Upper Ordovician""}",,1,1
+273327,overlappingpdfs.133012.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133012.pdf.task_490_13_13,MN10|9.70000|8.70000,"{490,13,13,MN10}",,1,1
+233575,overlappingpdfs.138168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138168.pdf.task_1444_6_6,Triassic|252.17000|201.30000,"{1444,6,6,Triassic}",,1,1
+316610,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_1833_30_30,Longvillian|457.50000|455.80000,"{1833,30,30,Longvillian}",,1,1
+265261,overlappingpdfs.139215.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139215.pdf.task_8_30_30,Paleocene|66.00000|56.00000,"{8,30,30,Paleocene}",,1,1
+313373,overlappingpdfs.132855.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132855.pdf.task_215_6_6,Eocene|56.00000|33.90000,"{215,6,6,Eocene}",,1,1
+317062,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_328_6_6,Arenig|478.60000|466.00000,"{328,6,6,Arenig}",,1,1
+216017,overlappingpdfs.131040.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131040.pdf.task_504_4_4,Cambrian|541.00000|485.40000,"{504,4,4,Cambrian}",,1,1
+234008,overlappingpdfs.138678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138678.pdf.task_499_2_3,Middle Eocene|48.6000|37.2000,"{499,2,3,""middle Eocene""}",,1,1
+222236,overlappingpdfs.138859.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138859.pdf.task_1164_6_7,Early Miocene|23.0300|15.9700,"{1164,6,7,""early Miocene""}",,1,1
+216201,overlappingpdfs.1376.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1376.pdf.task_1259_5_5,Aptian|125.00000|113.00000,"{1259,5,5,Aptian}",,1,1
+342473,overlappingpdfs.132555.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132555.pdf.task_1053_138_138,Pridoli|423.00000|419.20000,"{1053,138,138,Pridoli}",,1,1
+197816,overlappingpdfs.132180.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132180.pdf.task_528_0_0,Cretaceous|145.00000|66.00000,"{528,0,0,Cretaceous}",,1,0.999
+299647,overlappingpdfs.135858.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135858.pdf.task_284_9_10,Late Cambrian|501.0000|488.3000,"{284,9,10,""Upper Cambrian""}",,1,1
+308116,overlappingpdfs.131885.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131885.pdf.task_512_0_1,Late Devonian|385.3000|359.2000,"{512,0,1,""Upper Devonian""}",,1,1
+285239,overlappingpdfs.130849.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130849.pdf.task_13_1_2,Late Miocene|11.6080|5.3320,"{13,1,2,""late Miocene""}",,1,1
+275787,overlappingpdfs.132715.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132715.pdf.task_710_8_8,Ediacaran|635.00000|541.00000,"{710,8,8,Ediacaran}",,1,1
+265860,overlappingpdfs.133304.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133304.pdf.task_80_7_7,Santonian|86.30000|83.60000,"{80,7,7,Santonian}",,1,1
+206356,overlappingpdfs.1371.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1371.pdf.task_609_10_10,Paleocene|66.00000|56.00000,"{609,10,10,Paleocene}",,1,1
+175656,overlappingpdfs.132976.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132976.pdf.task_13_23_23,Neogene|23.03000|2.58800,"{13,23,23,Neogene}",,1,0.996
+213249,overlappingpdfs.132575.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132575.pdf.task_401_52_52,Cenomanian|100.50000|93.90000,"{401,52,52,Cenomanian}",,1,1
+291725,overlappingpdfs.132096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132096.pdf.task_2186_7_7,Permian|298.90000|252.17000,"{2186,7,7,Permian}",,1,1
+184494,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_4017_13_13,Tertiary|66.00000|2.58800,"{4017,13,13,Tertiary}",,1,1
+218157,overlappingpdfs.132093.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132093.pdf.task_1598_16_16,Famennian|372.20000|358.90000,"{1598,16,16,Famennian}",,1,0.999
+247261,overlappingpdfs.132749.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132749.pdf.task_1355_7_7,Silurian|443.40000|419.20000,"{1355,7,7,Silurian}",,1,1
+297869,overlappingpdfs.135515.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135515.pdf.task_977_11_11,Mississippian|358.90000|323.20000,"{977,11,11,Mississippian}",,1,0.996
+287365,overlappingpdfs.133034.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133034.pdf.task_24_65_65,Kimmeridgian|157.30000|152.10000,"{24,65,65,Kimmeridgian}",,1,1
+238303,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_438_15_15,Precambrian|4000.0000|542.0000,"{438,15,15,Precambrian}",,1,0.995
+244786,overlappingpdfs.132749.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132749.pdf.task_1434_14_14,Silurian|443.40000|419.20000,"{1434,14,14,Silurian}",,1,0.996
+256665,overlappingpdfs.133062.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133062.pdf.task_436_9_10,Middle Triassic|245.0000|228.0000,"{436,9,10,""Middle Triassic""}",,1,1
+208927,overlappingpdfs.138707.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138707.pdf.task_1767_29_29,Richmond|449.50000|445.60000,"{1767,29,29,Richmond}",,1,0.995
+261598,overlappingpdfs.1397.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1397.pdf.task_378_16_17,Late Cretaceous|99.6000|65.5000,"{378,16,17,""Late Cretaceous""}",,1,1
+325020,overlappingpdfs.132358.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132358.pdf.task_129_5_5,Mesozoic|252.17000|66.00000,"{129,5,5,Mesozoic}",,1,1
+323753,overlappingpdfs.135104.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135104.pdf.task_943_0_0,Tremadocian|485.40000|477.70000,"{943,0,0,Tremadocian}",,1,1
+346131,overlappingpdfs.132555.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132555.pdf.task_1342_0_0,Silurian|443.40000|419.20000,"{1342,0,0,Silurian}",,1,1
+239690,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_590_8_8,Cretaceous|145.00000|66.00000,"{590,8,8,Cretaceous}",,1,1
+343115,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_992_6_6,Permian|298.90000|252.17000,"{992,6,6,Permian}",,1,1
+271863,overlappingpdfs.130661.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130661.pdf.task_19_7_7,Neoproterozoic|1000.00000|541.00000,"{19,7,7,Neoproterozoic}",,1,0.996
+260878,overlappingpdfs.135832.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135832.pdf.task_645_14_14,Triassic|252.17000|201.30000,"{645,14,14,Triassic}",,1,1
+227003,overlappingpdfs.135561.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135561.pdf.task_43_3_4,Early Cretaceous|145.5000|99.6000,"{43,3,4,""Early Cretaceous""}",,1,1
+204638,overlappingpdfs.132919.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132919.pdf.task_195_28_29,Middle Triassic|245.0000|228.0000,"{195,28,29,""Middle Triassic""}",,1,0.996
+243975,overlappingpdfs.136483.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136483.pdf.task_518_7_7,Devonian|419.20000|358.90000,"{518,7,7,Devonian}",,1,1
+298117,overlappingpdfs.132594.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132594.pdf.task_400_0_0,Canadian|485.40000|468.10000,"{400,0,0,Canadian}",,1,1
+256065,overlappingpdfs.132069.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132069.pdf.task_12_13_13,Ashgillian|449.50000|443.70000,"{12,13,13,Ashgillian}",,1,1
+294020,overlappingpdfs.135782.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135782.pdf.task_534_27_28,Late Pleistocene|1.8060|0.0781,"{534,27,28,""Upper Pleistocene""}",,1,0.996
+189171,overlappingpdfs.131419.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131419.pdf.task_90_1_1,Carboniferous|358.90000|298.90000,"{90,1,1,Carboniferous}",,1,1
+328942,overlappingpdfs.132455.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132455.pdf.task_781_11_11,Bathonian|168.30000|166.10000,"{781,11,11,Bathonian}",,1,1
+230778,overlappingpdfs.131551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131551.pdf.task_587_3_3,Jurassic|201.30000|145.00000,"{587,3,3,Jurassic}",,1,1
+157384,overlappingpdfs.138365.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138365.pdf.task_2280_5_6,Early Miocene|23.0300|15.9700,"{2280,5,6,""early Miocene""}",,1,0.996
+214811,overlappingpdfs.132333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132333.pdf.task_1174_11_11,Sinemurian|199.30000|190.80000,"{1174,11,11,Sinemurian}",,1,1
+247607,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_208_3_3,Ordovician|485.40000|443.40000,"{208,3,3,Ordovician}",,1,1
+301247,overlappingpdfs.132381.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132381.pdf.task_650_11_11,Tremadocian|485.40000|477.70000,"{650,11,11,Tremadocian}",,1,0.996
+284882,overlappingpdfs.135208.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135208.pdf.task_405_14_14,Carboniferous|358.90000|298.90000,"{405,14,14,Carboniferous}",,1,1
+272400,overlappingpdfs.133074.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133074.pdf.task_190_34_34,Cenomanian|100.50000|93.90000,"{190,34,34,Cenomanian}",,1,1
+239231,overlappingpdfs.138222.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138222.pdf.task_1539_1_1,Tertiary|66.00000|2.58800,"{1539,1,1,Tertiary}",,1,1
+268280,overlappingpdfs.132181.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132181.pdf.task_296_1_1,Mesozoic|252.17000|66.00000,"{296,1,1,Mesozoic}",,1,1
+162551,overlappingpdfs.132944.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132944.pdf.task_21_0_0,Valanginian|139.80000|132.90000,"{21,0,0,Valanginian}",,1,1
+212035,overlappingpdfs.138573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138573.pdf.task_6366_18_18,Clarendonian|13.60000|10.30000,"{6366,18,18,Clarendonian}",,1,1
+182444,overlappingpdfs.133094.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133094.pdf.task_474_20_21,Middle Ordovician|471.8000|460.9000,"{474,20,21,""middle Ordovician""}",,1,1
+264192,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_3046_0_0,Lutetian|47.80000|41.30000,"{3046,0,0,Lutetian}",,1,1
+211455,overlappingpdfs.133060.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133060.pdf.task_566_15_15,Ordovician|485.40000|443.40000,"{566,15,15,Ordovician}",,1,0.996
+203844,overlappingpdfs.132353.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132353.pdf.task_429_6_6,Albian|113.00000|100.50000,"{429,6,6,Albian}",,1,1
+218849,overlappingpdfs.132093.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132093.pdf.task_76_6_6,Famennian|372.20000|358.90000,"{76,6,6,Famennian}",,1,1
+240189,overlappingpdfs.132567.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132567.pdf.task_29_13_14,Late Ordovician|460.9000|443.7000,"{29,13,14,""Upper Ordovician""}",,1,0.996
+154089,overlappingpdfs.138578.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138578.pdf.task_708_88_89,Middle Devonian|397.5000|385.3000,"{708,88,89,""Middle Devonian""}",,1,1
+175220,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_4084_10_10,Leonard|290.10000|268.00000,"{4084,10,10,Leonard}",,1,1
+313356,overlappingpdfs.132701.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132701.pdf.task_128_6_6,Albian|113.00000|100.50000,"{128,6,6,Albian}",,1,1
+253126,overlappingpdfs.133025.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133025.pdf.task_162_2_2,Triassic|252.17000|201.30000,"{162,2,2,TRIASSIC}",,1,1
+206309,overlappingpdfs.132925.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132925.pdf.task_149_7_7,Silurian|443.40000|419.20000,"{149,7,7,Silurian}",,1,1
+154017,overlappingpdfs.132569.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132569.pdf.task_466_12_12,Triassic|252.17000|201.30000,"{466,12,12,Triassic}",,1,1
+254566,overlappingpdfs.133137.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133137.pdf.task_573_0_0,Maastrichtian|72.10000|66.00000,"{573,0,0,Maastrichtian}",,1,1
+227101,overlappingpdfs.138526.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138526.pdf.task_193_3_3,Jurassic|201.30000|145.00000,"{193,3,3,JURASSIC}",,1,1
+328056,overlappingpdfs.137880.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137880.pdf.task_11_5_5,Pleistocene|2.58800|0.01170,"{11,5,5,Pleistocene}",,1,0.998
+338147,overlappingpdfs.135390.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135390.pdf.task_102_9_9,Triassic|252.17000|201.30000,"{102,9,9,Triassic}",,1,1
+214061,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_1304_15_15,Carboniferous|358.90000|298.90000,"{1304,15,15,Carboniferous}",,1,1
+190015,overlappingpdfs.135114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135114.pdf.task_27_26_26,Niagaran|443.40000|422.90000,"{27,26,26,Niagaran}",,1,1
+293177,overlappingpdfs.135782.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135782.pdf.task_30_27_27,Pleistocene|2.58800|0.01170,"{30,27,27,Pleistocene}",,1,1
+251859,overlappingpdfs.138385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138385.pdf.task_1939_0_0,Miocene|23.03000|5.33300,"{1939,0,0,Miocene}",,1,1
+238924,overlappingpdfs.132567.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132567.pdf.task_173_21_21,Cincinnatian|452.50000|443.70000,"{173,21,21,Cincinnatian}",,1,1
+322744,overlappingpdfs.13016.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13016.pdf.task_99_26_26,Cretaceous|145.00000|66.00000,"{99,26,26,Cretaceous}",,1,1
+274885,overlappingpdfs.132935.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132935.pdf.task_339_5_5,Mesozoic|252.17000|66.00000,"{339,5,5,Mesozoic}",,1,1
+322298,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_1739_0_0,Cretaceous|145.00000|66.00000,"{1739,0,0,Cretaceous}",,1,1
+290298,overlappingpdfs.137213.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137213.pdf.task_13298_0_0,Miocene|23.03000|5.33300,"{13298,0,0,Miocene}",,1,1
+323587,overlappingpdfs.132831.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132831.pdf.task_520_18_18,Cretaceous|145.00000|66.00000,"{520,18,18,Cretaceous}",,1,0.999
+236220,overlappingpdfs.132516.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132516.pdf.task_81_29_29,Devonian|419.20000|358.90000,"{81,29,29,Devonian}",,1,0.999
+245996,overlappingpdfs.133117.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133117.pdf.task_84_7_7,Eocene|56.00000|33.90000,"{84,7,7,Eocene}",,1,1
+207208,overlappingpdfs.138707.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138707.pdf.task_1564_29_29,Hemingfordian|20.43000|15.97000,"{1564,29,29,Hemingfordian}",,1,1
+177984,overlappingpdfs.131884.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131884.pdf.task_842_14_14,Sonyea|383.70000|376.10000,"{842,14,14,Sonyea}",,1,1
+161654,overlappingpdfs.132874.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132874.pdf.task_602_11_11,Mesozoic|252.17000|66.00000,"{602,11,11,Mesozoic}",,1,1
+310276,overlappingpdfs.132025.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132025.pdf.task_14_24_24,Tommotian|530.00000|520.00000,"{14,24,24,Tommotian}",,1,1
+248958,overlappingpdfs.132751.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132751.pdf.task_662_15_15,Arenig|478.60000|466.00000,"{662,15,15,Arenig}",,1,1
+293606,overlappingpdfs.130217.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130217.pdf.task_74_35_36,Late Cretaceous|99.6000|65.5000,"{74,35,36,""Upper Cretaceous""}",,1,1
+255365,overlappingpdfs.131834.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131834.pdf.task_23_30_31,Late Devonian|385.3000|359.2000,"{23,30,31,""Upper Devonian""}",,1,1
+276072,overlappingpdfs.132953.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132953.pdf.task_296_2_2,Permian|298.90000|252.17000,"{296,2,2,Permian}",,1,1
+295480,overlappingpdfs.136069.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136069.pdf.task_357_16_17,Middle Miocene|15.9700|11.6080,"{357,16,17,""Middle Miocene""}",,1,1
+305355,overlappingpdfs.132593.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132593.pdf.task_964_9_10,Early Tertiary|65.5000|33.9000,"{964,9,10,""early Tertiary""}",,1,0.996
+198497,overlappingpdfs.139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139.pdf.task_748_17_18,Late Cretaceous|99.6000|65.5000,"{748,17,18,""Late Cretaceous""}",,1,1
+270067,overlappingpdfs.135895.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135895.pdf.task_230_12_12,Ashgillian|449.50000|443.70000,"{230,12,12,Ashgillian}",,1,0.996
+209997,overlappingpdfs.132521.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132521.pdf.task_421_2_2,Rhaetian|208.50000|201.30000,"{421,2,2,Rhaetian}",,1,0.999
+166494,overlappingpdfs.136141.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136141.pdf.task_342_47_47,Caradocian|460.90000|449.50000,"{342,47,47,Caradocian}",,1,1
+319288,overlappingpdfs.131246.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131246.pdf.task_370_6_6,Ordovician|485.40000|443.40000,"{370,6,6,Ordovician}",,1,1
+180812,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_5001_5_5,Oligocene|33.90000|23.03000,"{5001,5,5,Oligocene}",,1,1
+241509,overlappingpdfs.1367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1367.pdf.task_305_3_3,Mississippian|358.90000|323.20000,"{305,3,3,Mississippian}",,1,0.999
+230562,overlappingpdfs.131645.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131645.pdf.task_325_11_11,Permian|298.90000|252.17000,"{325,11,11,Permian}",,1,1
+313752,overlappingpdfs.135414.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135414.pdf.task_365_7_7,Paleocene|66.00000|56.00000,"{365,7,7,Paleocene}",,1,1
+214749,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_1278_9_9,Carboniferous|358.90000|298.90000,"{1278,9,9,Carboniferous}",,1,1
+248259,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_517_7_7,Hirnantian|445.20000|443.40000,"{517,7,7,Hirnantian}",,1,0.996
+156119,overlappingpdfs.138365.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138365.pdf.task_4679_2_2,Oligocene|33.90000|23.03000,"{4679,2,2,Oligocene}",,1,1
+343790,overlappingpdfs.138665.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138665.pdf.task_711_4_5,Late Cretaceous|99.6000|65.5000,"{711,4,5,""LATE CRETACEOUS""}",,1,1
+217604,overlappingpdfs.13691.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13691.pdf.task_206_41_41,Permian|298.90000|252.17000,"{206,41,41,Permian}",,1,1
+185018,overlappingpdfs.130370.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130370.pdf.task_33_6_6,Griesbachian|252.17000|251.30000,"{33,6,6,Griesbachian}",,1,1
+336880,overlappingpdfs.138447.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138447.pdf.task_170_23_23,Paleozoic|541.00000|252.17000,"{170,23,23,Paleozoic}",,1,1
+279925,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_1225_5_5,Pilton|376.10000|353.80000,"{1225,5,5,Pilton}",,1,1
+234666,overlappingpdfs.132236.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132236.pdf.task_803_17_18,Middle Eocene|48.6000|37.2000,"{803,17,18,""Middle Eocene""}",,1,0.996
+246364,overlappingpdfs.130178.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130178.pdf.task_494_8_8,Mesozoic|252.17000|66.00000,"{494,8,8,Mesozoic}",,1,1
+210580,overlappingpdfs.136337.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136337.pdf.task_301_17_17,Permian|298.90000|252.17000,"{301,17,17,Permian}",,1,1
+250277,overlappingpdfs.132401.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132401.pdf.task_2083_0_0,Kimmeridgian|157.30000|152.10000,"{2083,0,0,Kimmeridgian}",,1,1
+168801,overlappingpdfs.132551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132551.pdf.task_965_5_5,Friasian|16.30000|15.50000,"{965,5,5,Friasian}",,1,1
+195175,overlappingpdfs.138026.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138026.pdf.task_1380_2_2,Pleistocene|2.58800|0.01170,"{1380,2,2,Pleistocene}",,1,1
+283113,overlappingpdfs.132634.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132634.pdf.task_1235_1_1,Tertiary|66.00000|2.58800,"{1235,1,1,Tertiary}",,1,1
+223715,overlappingpdfs.138658.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138658.pdf.task_1906_10_10,Givetian|387.70000|382.70000,"{1906,10,10,Givetian}",,1,1
+320980,overlappingpdfs.138010.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138010.pdf.task_1412_5_5,Tertiary|66.00000|2.58800,"{1412,5,5,Tertiary}",,1,1
+336280,overlappingpdfs.1357.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1357.pdf.task_472_19_20,Early Eocene|55.8000|48.6000,"{472,19,20,""early Eocene""}",,1,1
+250729,overlappingpdfs.130623.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130623.pdf.task_292_0_0,Permian|298.90000|252.17000,"{292,0,0,Permian}",,1,1
+202275,overlappingpdfs.130635.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130635.pdf.task_135_13_13,Carboniferous|358.90000|298.90000,"{135,13,13,Carboniferous}",,1,1
+215201,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_242_5_5,Mississippian|358.90000|323.20000,"{242,5,5,Mississippian}",,1,1
+200982,overlappingpdfs.130635.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130635.pdf.task_503_12_12,Permian|298.90000|252.17000,"{503,12,12,Permian}",,1,1
+268624,overlappingpdfs.131917.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131917.pdf.task_80_2_2,Canadian|485.40000|468.10000,"{80,2,2,Canadian}",,1,1
+204874,overlappingpdfs.1334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1334.pdf.task_2_12_13,Late Cretaceous|99.6000|65.5000,"{2,12,13,""Late Cretaceous""}",,1,0.999
+192963,overlappingpdfs.135114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135114.pdf.task_134_1_1,Llandovery|443.40000|433.40000,"{134,1,1,LLANDOVERY}",,1,0.999
+260341,overlappingpdfs.135832.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135832.pdf.task_84_16_16,Triassic|252.17000|201.30000,"{84,16,16,Triassic}",,1,1
+285162,overlappingpdfs.133053.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133053.pdf.task_904_17_17,Ediacara|580.00000|541.00000,"{904,17,17,Ediacara}",,1,1
+316746,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_2243_5_6,Middle Ordovician|471.8000|460.9000,"{2243,5,6,""Middle Ordovician""}",,1,1
+256679,overlappingpdfs.136168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136168.pdf.task_50_37_37,Cambrian|541.00000|485.40000,"{50,37,37,Cambrian}",,1,1
+250621,overlappingpdfs.133129.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133129.pdf.task_827_7_8,Late Jurassic|161.2000|145.5000,"{827,7,8,""upper Jurassic""}",,1,1
+314749,overlappingpdfs.138123.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138123.pdf.task_507_23_23,Jurassic|201.30000|145.00000,"{507,23,23,Jurassic}",,1,1
+293220,overlappingpdfs.135782.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135782.pdf.task_534_27_28,Late Pleistocene|1.8060|0.0781,"{534,27,28,""Upper Pleistocene""}",,1,0.996
+295651,overlappingpdfs.133084.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133084.pdf.task_362_7_8,Late Cretaceous|99.6000|65.5000,"{362,7,8,""Upper Cretaceous""}",,1,1
+168211,overlappingpdfs.132894.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132894.pdf.task_1665_33_33,Kimmeridgian|157.30000|152.10000,"{1665,33,33,Kimmeridgian}",,1,1
+307213,overlappingpdfs.132602.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132602.pdf.task_719_5_6,Late Miocene|11.6080|5.3320,"{719,5,6,""LATE MIOCENE""}",,1,1
+342621,overlappingpdfs.132928.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132928.pdf.task_58_0_0,Hettangian|201.30000|199.30000,"{58,0,0,Hettangian}",,1,0.996
+254579,overlappingpdfs.138385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138385.pdf.task_1784_0_1,Late Paleocene|58.7000|55.8000,"{1784,0,1,""Late Paleocene""}",,1,1
+340566,overlappingpdfs.132714.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132714.pdf.task_337_20_21,Late Cretaceous|99.6000|65.5000,"{337,20,21,""Late Cretaceous""}",,1,1
+260722,overlappingpdfs.133070.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133070.pdf.task_25_5_5,Permian|298.90000|252.17000,"{25,5,5,Permian}",,1,1
+337782,overlappingpdfs.132481.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132481.pdf.task_352_0_0,Capitanian|265.10000|259.90000,"{352,0,0,Capitanian}",,1,1
+173939,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_261_8_8,Word|268.00000|265.00000,"{261,8,8,Word}",,1,1
+207212,overlappingpdfs.132521.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132521.pdf.task_822_1_1,Triassic|252.17000|201.30000,"{822,1,1,Triassic}",,1,1
+344925,overlappingpdfs.132555.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132555.pdf.task_808_10_10,Lochkovian|419.20000|410.80000,"{808,10,10,Lochkovian}",,1,1
+249775,overlappingpdfs.130490.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130490.pdf.task_436_0_0,Cretaceous|145.00000|66.00000,"{436,0,0,Cretaceous}",,1,1
+214866,overlappingpdfs.130708.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130708.pdf.task_28_14_14,Silurian|443.40000|419.20000,"{28,14,14,Silurian}",,1,1
+323012,overlappingpdfs.135104.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135104.pdf.task_89_0_1,Early Ordovician|488.3000|471.8000,"{89,0,1,""Early Ordovician""}",,1,0.996
+278483,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_2591_4_4,Famennien|383.70000|360.70000,"{2591,4,4,Famennien}",,1,1
+269592,overlappingpdfs.133127.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133127.pdf.task_1711_32_32,Miocene|23.03000|5.33300,"{1711,32,32,Miocene}",,1,1
+202387,overlappingpdfs.130635.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130635.pdf.task_93_14_14,Wuchiapingian|259.90000|254.17000,"{93,14,14,Wuchiapingian}",,1,1
+331185,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_3282_30_30,Emsian|407.60000|393.30000,"{3282,30,30,Emsian}",,1,1
+279869,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_314_12_12,Frasnian|382.70000|372.20000,"{314,12,12,Frasnian}",,1,1
+163517,overlappingpdfs.132009.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132009.pdf.task_414_26_26,Elton|422.90000|421.30000,"{414,26,26,Elton}",,1,1
+266347,overlappingpdfs.131917.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131917.pdf.task_50_0_0,Dresbachian|501.00000|485.40000,"{50,0,0,DRESBACHIAN}",,1,1
+314444,overlappingpdfs.132657.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132657.pdf.task_60_8_9,Middle Jurassic|175.6000|161.2000,"{60,8,9,""Middle Jurassic""}",,1,0.996
+239008,overlappingpdfs.138613.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138613.pdf.task_4441_7_7,Cretaceous|145.00000|66.00000,"{4441,7,7,Cretaceous}",,1,1
+307512,overlappingpdfs.132592.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132592.pdf.task_661_0_1,Early Cretaceous|145.5000|99.6000,"{661,0,1,""Early Cretaceous""}",,1,1
+176641,overlappingpdfs.132363.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132363.pdf.task_1067_7_7,Meishucunian|541.00000|516.00000,"{1067,7,7,Meishucunian}",,1,1
+157162,overlappingpdfs.138578.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138578.pdf.task_615_8_8,Emsian|407.60000|393.30000,"{615,8,8,Emsian}",,1,0.999
+219405,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_1504_21_21,Arikareean|30.80000|20.43000,"{1504,21,21,Arikareean}",,1,0.996
+342813,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_3046_5_5,Guadalupian|272.30000|259.90000,"{3046,5,5,Guadalupian}",,1,1
+313767,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_2390_2_2,Ordovician|485.40000|443.40000,"{2390,2,2,Ordovician}",,1,0.999
+173066,overlappingpdfs.132730.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132730.pdf.task_74_13_13,Aptian|125.00000|113.00000,"{74,13,13,Aptian}",,1,0.994
+233060,overlappingpdfs.138678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138678.pdf.task_502_35_35,Paleocene|66.00000|56.00000,"{502,35,35,Paleocene}",,1,0.999
+175811,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_343_17_17,Permian|298.90000|252.17000,"{343,17,17,Permian}",,1,1
+331842,overlappingpdfs.132176.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132176.pdf.task_2370_9_10,Early Triassic|251.0000|245.0000,"{2370,9,10,""Early Triassic""}",,1,1
+323317,overlappingpdfs.131250.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131250.pdf.task_5_21_21,Carboniferous|358.90000|298.90000,"{5,21,21,Carboniferous}",,1,1
+340014,overlappingpdfs.138965.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138965.pdf.task_60_4_4,Tertiary|66.00000|2.58800,"{60,4,4,TERTIARY}",,1,1
+184245,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_2963_6_6,Pliocene|5.33300|2.58800,"{2963,6,6,Pliocene}",,1,1
+258628,overlappingpdfs.132623.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132623.pdf.task_374_7_7,Triassic|252.17000|201.30000,"{374,7,7,Triassic}",,1,1
+250040,overlappingpdfs.136485.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136485.pdf.task_358_2_3,Late Ordovician|460.9000|443.7000,"{358,2,3,""Late Ordovician""}",,1,1
+181762,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_4389_4_4,Permian|298.90000|252.17000,"{4389,4,4,Permian}",,1,1
+168507,overlappingpdfs.132003.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132003.pdf.task_597_6_6,Ordovician|485.40000|443.40000,"{597,6,6,Ordovician}",,1,1
+226434,overlappingpdfs.132612.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132612.pdf.task_615_29_30,Middle Cambrian|513.0000|501.0000,"{615,29,30,""Middle Cambrian""}",,1,1
+173871,overlappingpdfs.138318.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138318.pdf.task_701_20_20,Permian|298.90000|252.17000,"{701,20,20,Permian}",,1,1
+341582,overlappingpdfs.136471.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136471.pdf.task_838_11_11,Wenlock|433.40000|427.40000,"{838,11,11,Wenlock}",,1,1
+205956,overlappingpdfs.138438.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138438.pdf.task_2850_11_11,Pliocene|5.33300|2.58800,"{2850,11,11,Pliocene}",,1,1
+276701,overlappingpdfs.137600.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137600.pdf.task_45_8_8,Cretaceous|145.00000|66.00000,"{45,8,8,Cretaceous}",,1,1
+240306,overlappingpdfs.132440.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132440.pdf.task_1128_17_17,Bathonian|168.30000|166.10000,"{1128,17,17,Bathonian}",,1,0.996
+250771,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_500_6_7,Late Ordovician|460.9000|443.7000,"{500,6,7,""Upper Ordovician""}",,1,1
+190962,overlappingpdfs.135114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135114.pdf.task_19_47_47,Homerian|430.50000|427.40000,"{19,47,47,Homerian}",,1,1
+186420,overlappingpdfs.133300.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133300.pdf.task_48_40_40,Maastrichtian|72.10000|66.00000,"{48,40,40,Maastrichtian}",,1,1
+182525,overlappingpdfs.132905.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132905.pdf.task_12_26_26,Cambrian|541.00000|485.40000,"{12,26,26,Cambrian}",,1,1
+165005,overlappingpdfs.130266.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130266.pdf.task_1_20_21,Early Cretaceous|145.5000|99.6000,"{1,20,21,""Early Cretaceous""}",,1,1
+294915,overlappingpdfs.136577.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136577.pdf.task_286_10_10,Pridoli|423.00000|419.20000,"{286,10,10,Pridoli}",,1,1
+325130,overlappingpdfs.132534.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132534.pdf.task_93_1_1,Jurassic|201.30000|145.00000,"{93,1,1,JURASSIC}",,1,1
+262635,overlappingpdfs.135105.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135105.pdf.task_456_9_9,Cenozoic|66.00000|0.00000,"{456,9,9,Cenozoic}",,1,1
+226365,overlappingpdfs.1305.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1305.pdf.task_298_4_4,Eocene|56.00000|33.90000,"{298,4,4,Eocene}",,1,1
+185429,overlappingpdfs.133094.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133094.pdf.task_58_2_2,Ordovician|485.40000|443.40000,"{58,2,2,ORDOVICIAN}",,1,1
+212451,overlappingpdfs.133406.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133406.pdf.task_1931_5_5,Visean|346.70000|330.90000,"{1931,5,5,Visean}",,1,1
+230701,overlappingpdfs.133100.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133100.pdf.task_1546_0_0,Caradocian|460.90000|449.50000,"{1546,0,0,Caradocian}",,1,1
+260072,overlappingpdfs.138329.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138329.pdf.task_1041_3_3,Pleistocene|2.58800|0.01170,"{1041,3,3,Pleistocene}",,1,1
+192405,overlappingpdfs.132678.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132678.pdf.task_817_1_1,Silurian|443.40000|419.20000,"{817,1,1,Silurian}",,1,1
+237756,overlappingpdfs.132440.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132440.pdf.task_607_22_22,Bathonian|168.30000|166.10000,"{607,22,22,Bathonian}",,1,1
+195939,overlappingpdfs.132936.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132936.pdf.task_139_14_14,Berriasian|145.00000|139.80000,"{139,14,14,Berriasian}",,1,0.996
+249921,overlappingpdfs.132508.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132508.pdf.task_218_4_4,Permian|298.90000|252.17000,"{218,4,4,PERMIAN}",,1,0.995
+215390,overlappingpdfs.131040.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131040.pdf.task_27_143_144,Middle Cambrian|513.0000|501.0000,"{27,143,144,""Middle Cambrian""}",,1,1
+255716,overlappingpdfs.132970.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132970.pdf.task_484_5_7_PART_1,Cretaceous|145.00000|66.00000,"{484,5,7,Cretaceous}",,1,1
+297665,overlappingpdfs.136670.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136670.pdf.task_1_4_4,Silurian|443.40000|419.20000,"{1,4,4,Silurian}",,1,1
+191437,overlappingpdfs.132227.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132227.pdf.task_666_4_4,Cretaceous|145.00000|66.00000,"{666,4,4,Cretaceous}",,1,1
+165035,overlappingpdfs.136141.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136141.pdf.task_984_19_21_PART_0,Silurian|443.40000|419.20000,"{984,19,21,Silurian}",,1,1
+288431,overlappingpdfs.132412.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132412.pdf.task_181_1_1,Ordovician|485.40000|443.40000,"{181,1,1,Ordovician}",,1,1
+164860,overlappingpdfs.138679.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138679.pdf.task_622_7_7,Turonian|93.90000|89.80000,"{622,7,7,Turonian}",,1,0.996
+231819,overlappingpdfs.132764.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132764.pdf.task_1213_2_2,Jurassic|201.30000|145.00000,"{1213,2,2,Jurassic}",,1,1
+165800,overlappingpdfs.136141.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136141.pdf.task_700_13_13,Ordovician|485.40000|443.40000,"{700,13,13,Ordovician}",,1,0.996
+224844,overlappingpdfs.132348.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132348.pdf.task_8_1_1,Messinian|7.24600|5.33300,"{8,1,1,MESSINIAN}",,1,0.996
+227475,overlappingpdfs.138658.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138658.pdf.task_1609_142_142,Tioughniogan|391.8000|385.3000,"{1609,142,142,Tioughniogan}",,1,1
+180026,overlappingpdfs.138384.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138384.pdf.task_2883_12_13,Middle Eocene|48.6000|37.2000,"{2883,12,13,""middle Eocene""}",,1,1
+197084,overlappingpdfs.139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139.pdf.task_1245_10_10,Albian|113.00000|100.50000,"{1245,10,10,Albian}",,1,1
+300585,overlappingpdfs.130439.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130439.pdf.task_21_0_0,Permian|298.90000|252.17000,"{21,0,0,Permian}",,1,1
+318470,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_1568_17_17,Soudleyan|457.50000|455.80000,"{1568,17,17,Soudleyan}",,1,0.996
+157966,overlappingpdfs.138365.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138365.pdf.task_5215_21_21,Miocene|23.03000|5.33300,"{5215,21,21,Miocene}",,1,1
+189769,overlappingpdfs.135536.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135536.pdf.task_198_0_0,Mesozoic|252.17000|66.00000,"{198,0,0,Mesozoic}",,1,1
+326789,overlappingpdfs.132256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132256.pdf.task_74_78_78,Ordovician|485.40000|443.40000,"{74,78,78,Ordovician}",,1,1
+320921,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_1108_10_11,Late Cretaceous|99.6000|65.5000,"{1108,10,11,""Upper Cretaceous""}",,1,1
+256073,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_1592_3_4,Late Cambrian|501.0000|488.3000,"{1592,3,4,""Late Cambrian""}",,1,1
+197769,overlappingpdfs.132470.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132470.pdf.task_175_6_6,Triassic|252.17000|201.30000,"{175,6,6,Triassic}",,1,1
+227826,overlappingpdfs.130724.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130724.pdf.task_87_6_6,Kimmeridgian|157.30000|152.10000,"{87,6,6,Kimmeridgian}",,1,1
+340975,overlappingpdfs.135939.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135939.pdf.task_787_7_7,Cambrian|541.00000|485.40000,"{787,7,7,Cambrian}",,1,1
+275594,overlappingpdfs.13034.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13034.pdf.task_47_71_71,Pliocene|5.33300|2.58800,"{47,71,71,Pliocene}",,1,1
+250864,overlappingpdfs.132401.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132401.pdf.task_1004_8_8,Aalenian|174.10000|170.30000,"{1004,8,8,Aalenian}",,1,1
+342194,overlappingpdfs.132149.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132149.pdf.task_629_7_7,Albian|113.00000|100.50000,"{629,7,7,Albian}",,1,1
+287333,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_261_27_27,Silurian|443.40000|419.20000,"{261,27,27,Silurian}",,1,1
+314683,overlappingpdfs.132745.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132745.pdf.task_15_0_0,Triassic|252.17000|201.30000,"{15,0,0,Triassic}",,1,0.996
+219065,overlappingpdfs.132093.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132093.pdf.task_1671_4_5,Late Devonian|385.3000|359.2000,"{1671,4,5,""Upper Devonian""}",,1,1
+310048,overlappingpdfs.135976.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135976.pdf.task_200_0_0,Jurassic|201.30000|145.00000,"{200,0,0,Jurassic}",,1,1
+162748,overlappingpdfs.132944.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132944.pdf.task_2_0_0,Cretaceous|145.00000|66.00000,"{2,0,0,CRETACEOUS}",,1,1
+259241,overlappingpdfs.138237.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138237.pdf.task_442_56_56,Oligocene|33.90000|23.03000,"{442,56,56,Oligocene}",,1,1
+260372,overlappingpdfs.132622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132622.pdf.task_1565_1_1,Triassic|252.17000|201.30000,"{1565,1,1,Triassic}",,1,1
+260476,overlappingpdfs.139843.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139843.pdf.task_64_10_10,Tertiary|66.00000|2.58800,"{64,10,10,Tertiary}",,1,0.996
+244123,overlappingpdfs.132490.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132490.pdf.task_148_20_20,Dienerian|252.17000|251.30000,"{148,20,20,Dienerian}",,1,1
+304166,overlappingpdfs.131017.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131017.pdf.task_632_9_9,Cambrian|541.00000|485.40000,"{632,9,9,Cambrian}",,1,1
+221974,overlappingpdfs.135881.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135881.pdf.task_17_7_7,Pliocene|5.33300|2.58800,"{17,7,7,Pliocene}",,1,0.996
+263183,overlappingpdfs.132463.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132463.pdf.task_493_9_10,Early Cretaceous|145.5000|99.6000,"{493,9,10,""Early Cretaceous""}",,1,1
+260147,overlappingpdfs.133016.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133016.pdf.task_54_18_18,Barremian|129.40000|125.00000,"{54,18,18,Barremian}",,1,1
+204054,overlappingpdfs.136450.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136450.pdf.task_1008_6_6,Devonian|419.20000|358.90000,"{1008,6,6,Devonian}",,1,1
+227614,overlappingpdfs.138755.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138755.pdf.task_1353_19_19,Campanian|83.60000|72.10000,"{1353,19,19,Campanian}",,1,1
+182277,overlappingpdfs.138428.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138428.pdf.task_357_5_5,Holocene|0.01170|0.00000,"{357,5,5,Holocene}",,1,1
+255441,overlappingpdfs.132206.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132206.pdf.task_884_9_9,Sinemurian|199.30000|190.80000,"{884,9,9,Sinemurian}",,1,1
+249506,overlappingpdfs.131219.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131219.pdf.task_583_9_9,Ashgillian|449.50000|443.70000,"{583,9,9,Ashgillian}",,1,1
+265574,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_4049_12_13,Early Tertiary|65.5000|33.9000,"{4049,12,13,""early Tertiary""}",,1,1
+323486,overlappingpdfs.138239.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138239.pdf.task_1762_17_17,Deseadan|29.00000|21.00000,"{1762,17,17,Deseadan}",,1,1
+295179,overlappingpdfs.132630.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132630.pdf.task_979_10_11,Early Cretaceous|145.5000|99.6000,"{979,10,11,""Early Cretaceous""}",,1,1
+277192,overlappingpdfs.132715.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132715.pdf.task_416_12_12,Silurian|443.40000|419.20000,"{416,12,12,Silurian}",,1,1
+224119,overlappingpdfs.136256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136256.pdf.task_528_7_7,Triassic|252.17000|201.30000,"{528,7,7,Triassic}",,1,1
+268726,overlappingpdfs.131917.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131917.pdf.task_145_29_29,Cambrian|541.00000|485.40000,"{145,29,29,Cambrian}",,1,1
+216909,overlappingpdfs.130708.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130708.pdf.task_31_18_18,Mesozoic|252.17000|66.00000,"{31,18,18,Mesozoic}",,1,1
+263824,overlappingpdfs.138407.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138407.pdf.task_3680_12_13,Early Tertiary|65.5000|33.9000,"{3680,12,13,""early Tertiary""}",,1,1
+220646,overlappingpdfs.138622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138622.pdf.task_1831_18_18,Arikareean|30.80000|20.43000,"{1831,18,18,Arikareean}",,1,1
+326918,overlappingpdfs.132829.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132829.pdf.task_1030_3_3,Tertiary|66.00000|2.58800,"{1030,3,3,Tertiary}",,1,0.999
+177964,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_63_17_17,Paleozoic|541.00000|252.17000,"{63,17,17,Paleozoic}",,1,1
+178344,overlappingpdfs.138465.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138465.pdf.task_1157_32_32,Guadalupian|272.30000|259.90000,"{1157,32,32,Guadalupian}",,1,1
+228896,overlappingpdfs.133027.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133027.pdf.task_41_12_12,Carboniferous|358.90000|298.90000,"{41,12,12,Carboniferous}",,1,1
+186943,overlappingpdfs.138709.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138709.pdf.task_2910_31_31,Wasatchian|55.80000|50.30000,"{2910,31,31,Wasatchian}",,1,1
+319617,overlappingpdfs.132360.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132360.pdf.task_1980_0_1,Late Cretaceous|99.6000|65.5000,"{1980,0,1,""Late Cretaceous""}",,1,1
+286240,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_246_24_24,Pridoli|423.00000|419.20000,"{246,24,24,Pridoli}",,1,1
+319752,overlappingpdfs.132584.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132584.pdf.task_48_4_5,Late Cretaceous|99.6000|65.5000,"{48,4,5,""Late Cretaceous""}",,1,1
+243628,overlappingpdfs.132490.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132490.pdf.task_1030_3_4,Early Triassic|251.0000|245.0000,"{1030,3,4,""Early Triassic""}",,1,1
+231446,overlappingpdfs.135573.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135573.pdf.task_570_3_4,Middle Cambrian|513.0000|501.0000,"{570,3,4,""Middle Cambrian""}",,1,1
+325570,overlappingpdfs.133545.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133545.pdf.task_230_39_39,Tournaisian|358.90000|346.70000,"{230,39,39,Tournaisian}",,1,1
+185188,overlappingpdfs.137951.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137951.pdf.task_2352_59_59,Oligocene|33.90000|23.03000,"{2352,59,59,Oligocene}",,1,1
+301290,overlappingpdfs.138462.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138462.pdf.task_2131_2_2,Oligocene|33.90000|23.03000,"{2131,2,2,Oligocene}",,1,1
+237013,overlappingpdfs.132440.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132440.pdf.task_133_5_5,Bathonian|168.30000|166.10000,"{133,5,5,Bathonian}",,1,1
+168795,overlappingpdfs.132551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132551.pdf.task_8_3_3,Laventan|13.80000|11.80000,"{8,3,3,Laventan}",,1,0.996
+173204,overlappingpdfs.132064.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132064.pdf.task_295_11_11,Silurian|443.40000|419.20000,"{295,11,11,Silurian}",,1,1
+344428,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_2980_2_2,Pennsylvanian|323.20000|298.90000,"{2980,2,2,Pennsylvanian}",,1,1
+194015,overlappingpdfs.138026.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138026.pdf.task_1576_26_26,Burdigalian|20.44000|15.97000,"{1576,26,26,Burdigalian}",,1,1
+297828,overlappingpdfs.13976.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13976.pdf.task_810_27_27,Miocene|23.03000|5.33300,"{810,27,27,Miocene}",,1,1
+241451,overlappingpdfs.136483.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136483.pdf.task_518_7_7,Devonian|419.20000|358.90000,"{518,7,7,Devonian}",,1,1
+328946,overlappingpdfs.133067.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133067.pdf.task_553_2_2,Carboniferous|358.90000|298.90000,"{553,2,2,Carboniferous}",,1,1
+219902,overlappingpdfs.132761.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132761.pdf.task_21_3_3,Asselian|298.90000|295.50000,"{21,3,3,Asselian}",,1,1
+168917,overlappingpdfs.139033.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139033.pdf.task_171_35_35,Oligocene|33.90000|23.03000,"{171,35,35,Oligocene}",,1,1
+241292,overlappingpdfs.138531.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138531.pdf.task_1719_8_8,Mesozoic|252.17000|66.00000,"{1719,8,8,Mesozoic}",,1,1
+242780,overlappingpdfs.131415.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131415.pdf.task_11_17_17,Permian|298.90000|252.17000,"{11,17,17,Permian}",,1,0.999
+228583,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_122_24_24,Lopingian|259.90000|252.17000,"{122,24,24,Lopingian}",,1,1
+280995,overlappingpdfs.132501.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132501.pdf.task_365_0_0,Canadian|485.40000|468.10000,"{365,0,0,Canadian}",,1,1
+227305,overlappingpdfs.130805.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130805.pdf.task_107_0_0,Mississippian|358.90000|323.20000,"{107,0,0,Mississippian}",,1,0.998
+239864,overlappingpdfs.132930.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132930.pdf.task_675_1_1,Precambrian|4000.0000|542.0000,"{675,1,1,Precambrian}",,1,1
+202341,overlappingpdfs.132974.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132974.pdf.task_67_1_1,Triassic|252.17000|201.30000,"{67,1,1,Triassic}",,1,1
+282372,overlappingpdfs.132634.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132634.pdf.task_702_33_33,Oligocene|33.90000|23.03000,"{702,33,33,Oligocene}",,1,0.998
+306750,overlappingpdfs.133102.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133102.pdf.task_660_4_4,Jurassic|201.30000|145.00000,"{660,4,4,Jurassic}",,1,1
+291309,overlappingpdfs.132096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132096.pdf.task_1092_29_29,Wordian|268.80000|265.10000,"{1092,29,29,Wordian}",,1,0.996
+258382,overlappingpdfs.136616.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136616.pdf.task_515_12_13,Middle Devonian|397.5000|385.3000,"{515,12,13,""Middle Devonian""}",,1,0.999
+206666,overlappingpdfs.132572.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132572.pdf.task_19_6_7,Early Cretaceous|145.5000|99.6000,"{19,6,7,""Early Cretaceous""}",,1,0.996
+246109,overlappingpdfs.131227.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131227.pdf.task_19_1_1,Emsian|407.60000|393.30000,"{19,1,1,Emsian}",,1,0.999
+326364,overlappingpdfs.132256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132256.pdf.task_619_18_19,Late Cambrian|501.0000|488.3000,"{619,18,19,""late Cambrian""}",,1,0.999
+190390,overlappingpdfs.138085.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138085.pdf.task_309_4_4,Eocene|56.00000|33.90000,"{309,4,4,Eocene}",,1,1
+205178,overlappingpdfs.1334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1334.pdf.task_367_2_2,Pliocene|5.33300|2.58800,"{367,2,2,Pliocene}",,1,1
+205437,overlappingpdfs.136450.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136450.pdf.task_779_5_5,Silurian|443.40000|419.20000,"{779,5,5,Silurian}",,1,0.996
+337536,overlappingpdfs.133442.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133442.pdf.task_611_1_1,Cretaceous|145.00000|66.00000,"{611,1,1,Cretaceous}",,1,1
+160346,overlappingpdfs.138375.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138375.pdf.task_4396_0_0,Cretaceous|145.00000|66.00000,"{4396,0,0,Cretaceous}",,1,1
+303621,overlappingpdfs.131017.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131017.pdf.task_881_31_33_PART_1,Cambrian|541.00000|485.40000,"{881,31,33,Cambrian}",,1,1
+307718,overlappingpdfs.135478.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135478.pdf.task_45_2_2,Triassic|252.17000|201.30000,"{45,2,2,Triassic}",,1,0.996
+330234,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_4688_2_3,Middle Devonian|397.5000|385.3000,"{4688,2,3,""MIDDLE DEVONIAN""}",,1,1
+260623,overlappingpdfs.132622.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132622.pdf.task_1346_9_9,Permian|298.90000|252.17000,"{1346,9,9,Permian}",,1,1
+272412,overlappingpdfs.132301.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132301.pdf.task_1247_33_33,Devonian|419.20000|358.90000,"{1247,33,33,Devonian}",,1,0.996
+232752,overlappingpdfs.133099.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133099.pdf.task_122_15_15,Cambrian|541.00000|485.40000,"{122,15,15,Cambrian}",,1,1
+205825,overlappingpdfs.132335.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132335.pdf.task_354_9_9,Eocene|56.00000|33.90000,"{354,9,9,EOCENE}",,1,1
+279005,overlappingpdfs.139324.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139324.pdf.task_11_62_64_PART_1,Tertiary|66.00000|2.58800,"{11,62,64,Tertiary}",,1,1
+218463,overlappingpdfs.134.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.134.pdf.task_656_18_19,Late Cretaceous|99.6000|65.5000,"{656,18,19,""Late Cretaceous""}",,1,1
+292815,overlappingpdfs.132457.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132457.pdf.task_1206_0_0,Tertiary|66.00000|2.58800,"{1206,0,0,Tertiary}",,1,1
+250042,overlappingpdfs.136485.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136485.pdf.task_358_5_5,Silurian|443.40000|419.20000,"{358,5,5,Silurian}",,1,1
+261823,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_2770_4_4,Cenozoic|66.00000|0.00000,"{2770,4,4,CENOZOIC}",,1,1
+283619,overlappingpdfs.138210.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138210.pdf.task_576_9_9,Jurassic|201.30000|145.00000,"{576,9,9,Jurassic}",,1,1
+325113,overlappingpdfs.138239.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138239.pdf.task_2048_9_9,Eocene|56.00000|33.90000,"{2048,9,9,Eocene}",,1,1
+254164,overlappingpdfs.132206.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132206.pdf.task_247_11_11,Levesquei|182.00000|175.60000,"{247,11,11,Levesquei}",,1,1
+230607,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_1241_11_11,Mesozoic|252.17000|66.00000,"{1241,11,11,Mesozoic}",,1,1
+265823,overlappingpdfs.138459.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138459.pdf.task_32_3_3,Tertiary|66.00000|2.58800,"{32,3,3,TERTIARY}",,1,1
+308731,overlappingpdfs.138954.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138954.pdf.task_531_4_4,Pleistocene|2.58800|0.01170,"{531,4,4,Pleistocene}",,1,1
+263772,overlappingpdfs.132162.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132162.pdf.task_209_3_4,Middle Jurassic|175.6000|161.2000,"{209,3,4,""Middle Jurassic""}",,1,0.996
+325984,overlappingpdfs.132652.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132652.pdf.task_716_0_0,Cretaceous|145.00000|66.00000,"{716,0,0,Cretaceous}",,1,1
+278476,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_1044_5_5,Famennian|372.20000|358.90000,"{1044,5,5,FAMENNIAN}",,1,1
+315953,overlappingpdfs.133063.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133063.pdf.task_43_0_0,Precambrian|4000.0000|542.0000,"{43,0,0,Precambrian}",,1,1
+273303,overlappingpdfs.133445.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133445.pdf.task_509_23_23,Maastrichtian|72.10000|66.00000,"{509,23,23,Maastrichtian}",,1,0.996
+281044,overlappingpdfs.132923.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132923.pdf.task_521_27_27,Paleocene|66.00000|56.00000,"{521,27,27,Paleocene}",,1,1
+180528,overlappingpdfs.132629.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132629.pdf.task_210_13_13,Portlandian|146.0000|142.0000,"{210,13,13,Portlandian}",,1,0.996
+199305,overlappingpdfs.132535.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132535.pdf.task_840_0_2_PART_3,Early Eocene|55.8000|48.6000,"{840,0,2,""early Eocene""}",,1,1
+241506,overlappingpdfs.133116.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133116.pdf.task_900_15_15,Cretaceous|145.00000|66.00000,"{900,15,15,Cretaceous}",,1,1
+286167,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_251_10_10,Sheinwoodian|433.40000|430.50000,"{251,10,10,Sheinwoodian}",,1,1
+234265,overlappingpdfs.133099.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133099.pdf.task_39_23_23,Ordovician|485.40000|443.40000,"{39,23,23,Ordovician}",,1,1
+281804,overlappingpdfs.139482.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139482.pdf.task_272_11_11,Oligocene|33.90000|23.03000,"{272,11,11,Oligocene}",,1,1
+228787,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_232_8_8,Permian|298.90000|252.17000,"{232,8,8,Permian}",,1,1
+202799,overlappingpdfs.132335.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132335.pdf.task_834_1_1,Eocene|56.00000|33.90000,"{834,1,1,Eocene}",,1,1
+252086,overlappingpdfs.138385.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138385.pdf.task_1975_0_2_PART_0,Late Miocene|11.6080|5.3320,"{1975,0,2,""Late Miocene""}",,1,1
+265659,overlappingpdfs.13975.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13975.pdf.task_372_7_7,Devonian|419.20000|358.90000,"{372,7,7,Devonian}",,1,1
+265839,overlappingpdfs.130468.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130468.pdf.task_203_12_12,Cretaceous|145.00000|66.00000,"{203,12,12,Cretaceous}",,1,1
+290588,overlappingpdfs.137213.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.137213.pdf.task_14001_0_0,Discites|171.60000|167.70000,"{14001,0,0,Discites}",,1,1
+319253,overlappingpdfs.133091.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133091.pdf.task_273_3_3,Permian|298.90000|252.17000,"{273,3,3,Permian}",,1,1
+234293,overlappingpdfs.132764.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132764.pdf.task_1219_2_2,Cretaceous|145.00000|66.00000,"{1219,2,2,Cretaceous}",,1,1
+209977,overlappingpdfs.132925.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132925.pdf.task_178_6_7,Late Silurian|422.9000|416.0000,"{178,6,7,""Upper Silurian""}",,1,0.996
+322772,overlappingpdfs.13405.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13405.pdf.task_1167_20_20,Tertiary|66.00000|2.58800,"{1167,20,20,tertiary}",,1,1
+164030,overlappingpdfs.136141.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136141.pdf.task_21_2_2,Permian|298.90000|252.17000,"{21,2,2,Permian}",,1,1
+188028,overlappingpdfs.132215.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132215.pdf.task_1143_13_13,Hettangian|201.30000|199.30000,"{1143,13,13,Hettangian}",,1,1
+326301,overlappingpdfs.133545.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133545.pdf.task_1069_15_15,Bashkirian|323.20000|315.20000,"{1069,15,15,Bashkirian}",,1,1
+256475,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_1506_0_0,Cambrian|541.00000|485.40000,"{1506,0,0,Cambrian}",,1,1
+191595,overlappingpdfs.132274.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132274.pdf.task_1154_0_0,LateTriassic|237.00000|201.30000,"{1154,0,0,LateTriassic}",,1,1
+188602,overlappingpdfs.132744.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132744.pdf.task_311_2_2,Triassic|252.17000|201.30000,"{311,2,2,Triassic}",,1,1
+339465,overlappingpdfs.136471.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136471.pdf.task_864_12_13,Black River|460.900|457.500,"{864,12,13,""Black River""}",,1,0.996
+174304,overlappingpdfs.132833.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132833.pdf.task_64_5_5,Cretaceous|145.00000|66.00000,"{64,5,5,Cretaceous}",,1,1
+177818,overlappingpdfs.135664.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135664.pdf.task_328_7_7,Cambrian|541.00000|485.40000,"{328,7,7,Cambrian}",,1,1
+262806,overlappingpdfs.132463.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132463.pdf.task_542_0_0,Paleozoic|541.00000|252.17000,"{542,0,0,Paleozoic}",,1,0.999
+201672,overlappingpdfs.13358.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13358.pdf.task_236_53_54,Late Eocene|37.2000|33.9000,"{236,53,54,""Upper Eocene""}",,1,1
+291351,overlappingpdfs.130182.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130182.pdf.task_1091_12_14_PART_1,Silurian|443.40000|419.20000,"{1091,12,14,Silurian}",,1,1
+198843,overlappingpdfs.139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139.pdf.task_839_0_0,Aptian|125.00000|113.00000,"{839,0,0,Aptian}",,1,1
+223184,overlappingpdfs.132612.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132612.pdf.task_957_9_10,Early Cambrian|542.0000|513.0000,"{957,9,10,""Early Cambrian""}",,1,1
+322062,overlappingpdfs.13016.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13016.pdf.task_41_20_20,Miocene|23.03000|5.33300,"{41,20,20,Miocene}",,1,1
+343190,overlappingpdfs.138272.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138272.pdf.task_551_29_29,Guadalupian|272.30000|259.90000,"{551,29,29,Guadalupian}",,1,1
+305589,overlappingpdfs.131661.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131661.pdf.task_1043_15_16,Late Triassic|228.0000|199.6000,"{1043,15,16,""Upper Triassic""}",,1,1
+239471,overlappingpdfs.132255.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132255.pdf.task_363_15_15,Cretaceous|145.00000|66.00000,"{363,15,15,Cretaceous}",,1,1
+167630,overlappingpdfs.131777.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131777.pdf.task_635_5_6,Late Devonian|385.3000|359.2000,"{635,5,6,""Upper Devonian""}",,1,1
+330789,overlappingpdfs.132455.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132455.pdf.task_170_10_10,Callovian|166.10000|163.50000,"{170,10,10,Callovian}",,1,1
+290887,overlappingpdfs.131707.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131707.pdf.task_1051_10_10,Kinderhookian|358.90000|353.80000,"{1051,10,10,Kinderhookian}",,1,1
+263903,overlappingpdfs.138519.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138519.pdf.task_1400_15_15,Pliocene|5.33300|2.58800,"{1400,15,15,Pliocene}",,1,0.996
+279879,overlappingpdfs.132862.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132862.pdf.task_2426_31_32,Middle Devonian|397.5000|385.3000,"{2426,31,32,""Middle Devonian""}",,1,0.999
+171233,overlappingpdfs.130698.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130698.pdf.task_249_7_8,Early Ordovician|488.3000|471.8000,"{249,7,8,""Early Ordovician""}",,1,1
+283425,overlappingpdfs.132054.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132054.pdf.task_221_0_0,Cambrian|541.00000|485.40000,"{221,0,0,CAMBRIAN}",,1,1
+197298,overlappingpdfs.132535.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132535.pdf.task_767_12_13,Early Eocene|55.8000|48.6000,"{767,12,13,""early Eocene""}",,1,0.999
+341469,overlappingpdfs.135939.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135939.pdf.task_667_8_8,Cambrian|541.00000|485.40000,"{667,8,8,Cambrian}",,1,1
+234811,overlappingpdfs.138388.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138388.pdf.task_1042_13_13,Tertiary|66.00000|2.58800,"{1042,13,13,Tertiary}",,1,1
+341422,overlappingpdfs.132934.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132934.pdf.task_304_0_0,Dienerian|252.17000|251.30000,"{304,0,0,Dienerian}",,1,1
+167445,overlappingpdfs.130266.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130266.pdf.task_3_25_26,Early Cretaceous|145.5000|99.6000,"{3,25,26,""Early Cretaceous""}",,1,1
+171492,overlappingpdfs.131334.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131334.pdf.task_297_20_20,Rhaetian|208.50000|201.30000,"{297,20,20,Rhaetian}",,1,1
+265915,overlappingpdfs.133087.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133087.pdf.task_44_2_2,Cretaceous|145.00000|66.00000,"{44,2,2,Cretaceous}",,1,1
+305083,overlappingpdfs.132971.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132971.pdf.task_1163_0_1_PART_1,Paleocene|66.00000|56.00000,"{1163,0,1,Paleocene}",,1,1
+267522,overlappingpdfs.132361.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132361.pdf.task_525_4_4,Permian|298.90000|252.17000,"{525,4,4,Permian}",,1,1
+266031,overlappingpdfs.132808.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132808.pdf.task_123_19_19,Jurassic|201.30000|145.00000,"{123,19,19,Jurassic}",,1,1
+217729,overlappingpdfs.1333.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1333.pdf.task_1297_8_9,Late Cretaceous|99.6000|65.5000,"{1297,8,9,""Upper Cretaceous""}",,1,1
+307526,overlappingpdfs.131661.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131661.pdf.task_113_7_7,Cambrian|541.00000|485.40000,"{113,7,7,Cambrian}",,1,1
+280042,overlappingpdfs.139324.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.139324.pdf.task_321_13_13,Cretaceous|145.00000|66.00000,"{321,13,13,Cretaceous}",,1,1
+189900,overlappingpdfs.135132.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135132.pdf.task_28_0_0,Permian|298.90000|252.17000,"{28,0,0,Permian}",,1,1
+199997,overlappingpdfs.132470.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132470.pdf.task_849_5_6,Late Triassic|228.0000|199.6000,"{849,5,6,""Late Triassic""}",,1,0.996
+203804,overlappingpdfs.132353.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132353.pdf.task_28_23_24,Early Cretaceous|145.5000|99.6000,"{28,23,24,""Early Cretaceous""}",,1,1
+305492,overlappingpdfs.135139.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135139.pdf.task_103_1_1,Quaternary|2.58800|0.00000,"{103,1,1,Quaternary}",,1,1
+276045,overlappingpdfs.131431.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131431.pdf.task_578_21_21,Danian|66.00000|61.60000,"{578,21,21,Danian}",,1,1
+323692,overlappingpdfs.133021.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133021.pdf.task_39_19_19,Aptian|125.00000|113.00000,"{39,19,19,Aptian}",,1,1
+228279,overlappingpdfs.132367.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132367.pdf.task_381_4_4,Wuchiapingian|259.90000|254.17000,"{381,4,4,WUCHIAPINGIAN}",,1,1
+337505,overlappingpdfs.135390.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135390.pdf.task_203_12_12,Cretaceous|145.00000|66.00000,"{203,12,12,Cretaceous}",,1,1
+271021,overlappingpdfs.138971.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138971.pdf.task_109_3_3,Eocene|56.00000|33.90000,"{109,3,3,Eocene}",,1,1
+295319,overlappingpdfs.131147.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131147.pdf.task_28_0_1,Late Miocene|11.6080|5.3320,"{28,0,1,""Upper Miocene""}",,1,1
+302519,overlappingpdfs.132550.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132550.pdf.task_76_8_9,Late Triassic|228.0000|199.6000,"{76,8,9,""Upper Triassic""}",,1,0.996
+158239,overlappingpdfs.138375.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138375.pdf.task_403_8_8,Triassic|252.17000|201.30000,"{403,8,8,Triassic}",,1,1
+199753,overlappingpdfs.132180.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132180.pdf.task_674_13_13,Jurassic|201.30000|145.00000,"{674,13,13,Jurassic}",,1,1
+174776,overlappingpdfs.131739.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131739.pdf.task_39_8_8,Ordovician|485.40000|443.40000,"{39,8,8,Ordovician}",,1,1
+300687,overlappingpdfs.13976.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.13976.pdf.task_144_78_78,Devonian|419.20000|358.90000,"{144,78,78,Devonian}",,1,1
+295530,overlappingpdfs.130636.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130636.pdf.task_851_4_4,Cambrian|541.00000|485.40000,"{851,4,4,Cambrian}",,1,1
+226424,overlappingpdfs.136256.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136256.pdf.task_285_5_5,Triassic|252.17000|201.30000,"{285,5,5,Triassic}",,1,1
+263109,overlappingpdfs.132463.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132463.pdf.task_762_8_8,Mesozoic|252.17000|66.00000,"{762,8,8,Mesozoic}",,1,0.996
+328611,overlappingpdfs.132102.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132102.pdf.task_422_5_5,Drumian|504.50000|500.50000,"{422,5,5,Drumian}",,1,1
+189809,overlappingpdfs.135473.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135473.pdf.task_740_3_3,Permian|298.90000|252.17000,"{740,3,3,Permian}",,1,1
+274903,overlappingpdfs.130595.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130595.pdf.task_459_8_8,Toarcian|182.70000|174.10000,"{459,8,8,Toarcian}",,1,1
+291168,overlappingpdfs.132096.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132096.pdf.task_58_4_4,Guadalupian|272.30000|259.90000,"{58,4,4,Guadalupian}",,1,1
+273295,overlappingpdfs.138538.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138538.pdf.task_1936_51_51,Silurian|443.40000|419.20000,"{1936,51,51,Silurian}",,1,1
+326170,overlappingpdfs.131208.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131208.pdf.task_397_8_9,Early Cretaceous|145.5000|99.6000,"{397,8,9,""Early Cretaceous""}",,1,1
+248335,overlappingpdfs.132751.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132751.pdf.task_1625_9_9,Ordovician|485.40000|443.40000,"{1625,9,9,Ordovician}",,1,1
+204510,overlappingpdfs.131561.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.131561.pdf.task_26_10_10,Frasnian|382.70000|372.20000,"{26,10,10,Frasnian}",,1,0.999
+265751,overlappingpdfs.133087.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133087.pdf.task_3_0_0,Cretaceous|145.00000|66.00000,"{3,0,0,CRETACEOUS}",,1,1
+274871,overlappingpdfs.130410.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130410.pdf.task_481_24_26_PART_1,Permian|298.90000|252.17000,"{481,24,26,Permian}",,1,1
+317988,overlappingpdfs.135414.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135414.pdf.task_439_6_6,Cretaceous|145.00000|66.00000,"{439,6,6,Cretaceous}",,1,1
+165941,overlappingpdfs.132505.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132505.pdf.task_513_7_7,Neocomian|145.00000|130.00000,"{513,7,7,Neocomian}",,1,1
+268534,overlappingpdfs.133018.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133018.pdf.task_201_2_2,Mesozoic|252.17000|66.00000,"{201,2,2,Mesozoic}",,1,1
+234681,overlappingpdfs.138168.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138168.pdf.task_1719_1_1,Triassic|252.17000|201.30000,"{1719,1,1,Triassic}",,1,1
+202036,overlappingpdfs.132974.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132974.pdf.task_1089_2_2,Triassic|252.17000|201.30000,"{1089,2,2,TRIASSIC}",,1,1
+304379,overlappingpdfs.136931.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136931.pdf.task_45_10_10,Wenlock|433.40000|427.40000,"{45,10,10,Wenlock}",,1,0.996
+309012,overlappingpdfs.136839.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136839.pdf.task_157_22_22,Paleozoic|541.00000|252.17000,"{157,22,22,Paleozoic}",,1,1
+171767,overlappingpdfs.132551.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132551.pdf.task_999_4_4,Deseadan|29.00000|21.00000,"{999,4,4,Deseadan}",,1,1
+223829,overlappingpdfs.1305.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.1305.pdf.task_282_4_5,Late Paleocene|58.7000|55.8000,"{282,4,5,""late Paleocene""}",,1,1
+169546,overlappingpdfs.138449.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138449.pdf.task_118_5_5,Campanian|83.60000|72.10000,"{118,5,5,Campanian}",,1,0.999
+316665,overlappingpdfs.132226.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132226.pdf.task_11_9_9,Miocene|23.03000|5.33300,"{11,9,9,Miocene}",,1,1
+295697,overlappingpdfs.132380.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132380.pdf.task_1013_3_3,Cambrian|541.00000|485.40000,"{1013,3,3,Cambrian}",,1,1
+191024,overlappingpdfs.135114.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.135114.pdf.task_109_14_14,Lockport|428.20000|422.90000,"{109,14,14,Lockport}",,1,0.996
+286490,overlappingpdfs.130286.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130286.pdf.task_348_18_18,Silurian|443.40000|419.20000,"{348,18,18,Silurian}",,1,1
+163934,overlappingpdfs.130554.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130554.pdf.task_21_18_18,Ordovician|485.40000|443.40000,"{21,18,18,Ordovician}",,1,1
+241742,overlappingpdfs.130294.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130294.pdf.task_166_9_9,Dapingian|470.00000|467.30000,"{166,9,9,Dapingian}",,1,1
+335274,overlappingpdfs.136763.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136763.pdf.task_39_11_11,Chazy|466.00000|457.50000,"{39,11,11,Chazy}",,1,1
+179804,overlappingpdfs.132698.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132698.pdf.task_458_1_2,Late Triassic|228.0000|199.6000,"{458,1,2,""Late Triassic""}",,1,1
+330174,overlappingpdfs.136763.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.136763.pdf.task_537_7_7,Chazyan|468.10000|460.90000,"{537,7,7,Chazyan}",,1,1
+195583,overlappingpdfs.138761.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138761.pdf.task_493_20_20,Word|268.00000|265.00000,"{493,20,20,word}",,1,1
+309592,overlappingpdfs.130226.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130226.pdf.task_190_0_1,Late Cretaceous|99.6000|65.5000,"{190,0,1,""Late Cretaceous""}",,1,1
+286991,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_821_5_5,Silurian|443.40000|419.20000,"{821,5,5,Silurian}",,1,1
+286631,overlappingpdfs.130192.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.130192.pdf.task_27_26_26,Niagaran|443.40000|422.90000,"{27,26,26,Niagaran}",,1,1
+278813,overlappingpdfs.132923.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.132923.pdf.task_102_30_30,Cretaceous|145.00000|66.00000,"{102,30,30,Cretaceous}",,1,0.996
+257605,overlappingpdfs.133044.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.133044.pdf.task_452_6_8_PART_1,Aksayan|498.50000|485.40000,"{452,6,8,Aksayan}",,1,1
+334977,overlappingpdfs.138624.pdf.task,INTERVAL,TIME_DOC_overlappingpdfs.138624.pdf.task_2612_56_56,Eifelian|393.30000|387.70000,"{2612,56,56,Eifelian}",,1,0.996

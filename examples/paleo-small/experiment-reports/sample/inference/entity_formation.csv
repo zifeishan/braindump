@@ -1,0 +1,1001 @@
+id,docid,type,eid,entity,prov,is_correct,category,expectation
+146212,overlappingpdfs.138453.pdf.task,member,ROCK_DOC_overlappingpdfs.138453.pdf.task_2325_0_1,frame member,"{2325,0,1,""Frame Member""}",,1,1
+861,overlappingpdfs.132532.pdf.task,formation,ROCK_DOC_overlappingpdfs.132532.pdf.task_44_5_5,niobrara formation,"{44,5,5,Niobrara}",,1,0.996
+136622,overlappingpdfs.131246.pdf.task,formation,ROCK_DOC_overlappingpdfs.131246.pdf.task_103_9_9,kinzers formation,"{103,9,9,Kinzers}",,1,0.996
+94927,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_1336_34_34,creek ash,"{1336,34,34,Creek}",,1,1
+105027,overlappingpdfs.131702.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131702.pdf.task_66_15_16,exsulans limestone formation,"{66,15,16,""Exsulans Limestone""}",,1,0.996
+152425,overlappingpdfs.132555.pdf.task,formation,ROCK_DOC_overlappingpdfs.132555.pdf.task_972_12_12,maquoketa formation,"{972,12,12,Maquoketa}",,1,0.996
+53326,overlappingpdfs.138573.pdf.task,beds,ROCK_DOC_overlappingpdfs.138573.pdf.task_3411_12_13,clarendon beds formation,"{3411,12,13,""Clarendon Beds""}",,1,0.996
+18971,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_131_11_11,oldman formation,"{131,11,11,Oldman}",,1,0.996
+115888,overlappingpdfs.135782.pdf.task,member,ROCK_DOC_overlappingpdfs.135782.pdf.task_148_1_2,cape bumey member,"{148,1,2,""Cape Bumey""}",,1,0.996
+46306,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_5_4_5,haystack valley member,"{5,4,5,""HAYSTACK VALLEY""}",,1,0.996
+81609,overlappingpdfs.133044.pdf.task,formation,ROCK_DOC_overlappingpdfs.133044.pdf.task_921_25_25,mila formation,"{921,25,25,Mila}",,1,0.996
+82981,overlappingpdfs.132622.pdf.task,formation,ROCK_DOC_overlappingpdfs.132622.pdf.task_773_3_5,los rastros formation,"{773,3,5,""Los Rastros Formation""}",,1,1
+10458,overlappingpdfs.138375.pdf.task,group,ROCK_DOC_overlappingpdfs.138375.pdf.task_903_4_4,age group,"{903,4,4,age}",,1,0.996
+32155,overlappingpdfs.135473.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135473.pdf.task_63_32_33,lankey limestone formation,"{63,32,33,""Lankey Limestone""}",,1,0.996
+93810,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_6095_27_27,wasatch formation,"{6095,27,27,Wasatch}",,1,0.996
+94116,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_320_45_45,east sand,"{320,45,45,east}",,1,1
+62855,overlappingpdfs.136256.pdf.task,formation,ROCK_DOC_overlappingpdfs.136256.pdf.task_198_28_30,liassic aramachay formation,"{198,28,30,""Liassic Aramachay Formation""}",,1,0.995
+113866,overlappingpdfs.132302.pdf.task,formation,ROCK_DOC_overlappingpdfs.132302.pdf.task_576_21_23,isalo iiib formation,"{576,21,23,""Isalo IIIb Formation""}",,1,0.996
+90149,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_3843_0_0,west sand,"{3843,0,0,West}",,1,1
+100124,overlappingpdfs.135558.pdf.task,shale,ROCK_DOC_overlappingpdfs.135558.pdf.task_97_4_4,maotianshan shale,"{97,4,4,Maotianshan}",,1,0.996
+30782,overlappingpdfs.130827.pdf.task,group,ROCK_DOC_overlappingpdfs.130827.pdf.task_416_10_11,mulloch hill group,"{416,10,11,""Mulloch Hill""}",,1,0.996
+47414,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1250_2_2,day formation,"{1250,2,2,Day}",,1,1
+138876,overlappingpdfs.135517.pdf.task,clay,ROCK_DOC_overlappingpdfs.135517.pdf.task_580_21_21,kimmeridge clay,"{580,21,21,Kimmeridge}",,1,0.995
+62278,overlappingpdfs.133097.pdf.task,formation,ROCK_DOC_overlappingpdfs.133097.pdf.task_1528_4_6,london clay formation,"{1528,4,6,""London Clay Formation""}",,1,0.999
+83746,overlappingpdfs.132622.pdf.task,formation,ROCK_DOC_overlappingpdfs.132622.pdf.task_1364_9_9,ischigualasto formation,"{1364,9,9,Ischigualasto}",,1,1
+93195,overlappingpdfs.138393.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138393.pdf.task_249_13_13,springdale sandstone,"{249,13,13,Springdale}",,1,1
+130693,overlappingpdfs.132745.pdf.task,formation,ROCK_DOC_overlappingpdfs.132745.pdf.task_15_6_6,khuff formation,"{15,6,6,Khuff}",,1,0.996
+49367,overlappingpdfs.138573.pdf.task,formation,ROCK_DOC_overlappingpdfs.138573.pdf.task_3615_13_15,ash hollow formation,"{3615,13,15,""Ash Hollow Formation""}",,1,0.996
+152019,overlappingpdfs.132458.pdf.task,formation,ROCK_DOC_overlappingpdfs.132458.pdf.task_26_15_17,purbeck limestone formation,"{26,15,17,""Purbeck Limestone Formation""}",,1,0.996
+91584,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1538_34_36,sheep creek formation,"{1538,34,36,""Sheep Creek Formation""}",,1,1
+2380,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_3053_7_7,formation formation,"{3053,7,7,formation}",,1,0.996
+49337,overlappingpdfs.133060.pdf.task,formation,ROCK_DOC_overlappingpdfs.133060.pdf.task_97_33_34,tabuk formation,"{97,33,34,""Tabuk Formation""}",,1,0.996
+138735,overlappingpdfs.132202.pdf.task,formations,ROCK_DOC_overlappingpdfs.132202.pdf.task_290_24_25,daohugou formations,"{290,24,25,""Daohugou Formations""}",,1,1
+98166,overlappingpdfs.132660.pdf.task,formation,ROCK_DOC_overlappingpdfs.132660.pdf.task_95_16_17,tamayama formation,"{95,16,17,""Tamayama Formation""}",,1,0.996
+132274,overlappingpdfs.136536.pdf.task,member,ROCK_DOC_overlappingpdfs.136536.pdf.task_212_11_11,seneca member,"{212,11,11,Seneca}",,1,1
+1837,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_615_5_5,harrison formation,"{615,5,5,Harrison}",,1,1
+19000,overlappingpdfs.138449.pdf.task,shale,ROCK_DOC_overlappingpdfs.138449.pdf.task_186_4_4,bearpaw shale,"{186,4,4,Bearpaw}",,1,0.994
+38129,overlappingpdfs.132353.pdf.task,formation,ROCK_DOC_overlappingpdfs.132353.pdf.task_478_8_10,iurassic morrison formation,"{478,8,10,""Iurassic Morrison Formation""}",,1,0.996
+50228,overlappingpdfs.133275.pdf.task,siltstone,ROCK_DOC_overlappingpdfs.133275.pdf.task_55_11_11,bryn siltstone,"{55,11,11,Bryn}",,1,0.996
+57626,overlappingpdfs.135988.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.135988.pdf.task_351_0_1,clifton down mudstone,"{351,0,1,""Clifton Down""}",,1,1
+52608,overlappingpdfs.133316.pdf.task,formation,ROCK_DOC_overlappingpdfs.133316.pdf.task_1069_5_5,bellerophon formation,"{1069,5,5,Bellerophon}",,1,0.995
+104642,overlappingpdfs.133073.pdf.task,member,ROCK_DOC_overlappingpdfs.133073.pdf.task_776_17_17,otar member,"{776,17,17,Otar}",,1,0.996
+133313,overlappingpdfs.136536.pdf.task,formation,ROCK_DOC_overlappingpdfs.136536.pdf.task_443_19_20,onondaga formation,"{443,19,20,""Onondaga Formation""}",,1,1
+116365,overlappingpdfs.132435.pdf.task,formation,ROCK_DOC_overlappingpdfs.132435.pdf.task_351_12_13,laishike formation,"{351,12,13,""Laishike Formation""}",,1,1
+70816,overlappingpdfs.130.pdf.task,group,ROCK_DOC_overlappingpdfs.130.pdf.task_406_21_21,neuquen group,"{406,21,21,Neuquen}",,1,0.996
+113857,overlappingpdfs.132283.pdf.task,formation,ROCK_DOC_overlappingpdfs.132283.pdf.task_436_11_12,gowers formation,"{436,11,12,""Gowers Formation""}",,1,1
+58813,overlappingpdfs.138622.pdf.task,beds,ROCK_DOC_overlappingpdfs.138622.pdf.task_6983_218_219,oreodon beds formation,"{6983,218,219,""Oreodon beds""}",,1,0.999
+12317,overlappingpdfs.130330.pdf.task,group,ROCK_DOC_overlappingpdfs.130330.pdf.task_690_11_11,gosau group,"{690,11,11,Gosau}",,1,1
+133919,overlappingpdfs.132745.pdf.task,member,ROCK_DOC_overlappingpdfs.132745.pdf.task_110_28_28,khartam member,"{110,28,28,Khartam}",,1,0.996
+8201,overlappingpdfs.138375.pdf.task,shale,ROCK_DOC_overlappingpdfs.138375.pdf.task_3645_14_14,gray shale,"{3645,14,14,gray}",,1,1
+123597,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_2462_6_7,pyramid hill sand,"{2462,6,7,""Pyramid Hill""}",,1,0.996
+119695,overlappingpdfs.132380.pdf.task,formation,ROCK_DOC_overlappingpdfs.132380.pdf.task_580_21_22,virgin hills formation,"{580,21,22,""Virgin Hills""}",,1,1
+126907,overlappingpdfs.131841.pdf.task,formation,ROCK_DOC_overlappingpdfs.131841.pdf.task_346_4_5,crown point formation,"{346,4,5,""Crown Point""}",,1,1
+100388,overlappingpdfs.138127.pdf.task,beds,ROCK_DOC_overlappingpdfs.138127.pdf.task_160_0_2,hell creek beds formation,"{160,0,2,""Hell Creek Beds""}",,1,1
+88547,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1535_1_2,sheep creek formation,"{1535,1,2,""Sheep Creek""}",,1,0.999
+50122,overlappingpdfs.133316.pdf.task,member,ROCK_DOC_overlappingpdfs.133316.pdf.task_730_5_5,tesero member,"{730,5,5,Tesero}",,1,1
+5425,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_2431_11_11,formation formation,"{2431,11,11,formation}",,1,0.996
+10293,overlappingpdfs.137499.pdf.task,formation,ROCK_DOC_overlappingpdfs.137499.pdf.task_13_4_5,wind river formation,"{13,4,5,""WIND RIVER""}",,1,0.996
+122714,overlappingpdfs.1300.pdf.task,group,ROCK_DOC_overlappingpdfs.1300.pdf.task_208_7_7,nanaimo group,"{208,7,7,Nanaimo}",,1,0.996
+69592,overlappingpdfs.132254.pdf.task,formation,ROCK_DOC_overlappingpdfs.132254.pdf.task_195_13_13,crato formation,"{195,13,13,Crato}",,1,1
+27719,overlappingpdfs.132840.pdf.task,formation,ROCK_DOC_overlappingpdfs.132840.pdf.task_29_9_9,hsiangyang formation,"{29,9,9,Hsiangyang}",,1,1
+42590,overlappingpdfs.138707.pdf.task,group,ROCK_DOC_overlappingpdfs.138707.pdf.task_742_2_3,picture gorge group,"{742,2,3,""Picture Gorge""}",,1,1
+68809,overlappingpdfs.138083.pdf.task,formation,ROCK_DOC_overlappingpdfs.138083.pdf.task_5663_18_18,siwalik formation,"{5663,18,18,Siwalik}",,1,1
+105003,overlappingpdfs.132527.pdf.task,formation,ROCK_DOC_overlappingpdfs.132527.pdf.task_1658_1_2,lufeng formation,"{1658,1,2,""Lufeng Formation""}",,1,0.996
+106078,overlappingpdfs.132527.pdf.task,formation,ROCK_DOC_overlappingpdfs.132527.pdf.task_1670_77_77,fremouw formation,"{1670,77,77,Fremouw}",,1,0.996
+88568,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1540_1_2,sheep creek formation,"{1540,1,2,""Sheep Creek""}",,1,1
+24477,overlappingpdfs.132698.pdf.task,member,ROCK_DOC_overlappingpdfs.132698.pdf.task_48_7_7,alplihorn member,"{48,7,7,Alplihorn}",,1,1
+46773,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_342_21_22,haystack valley member,"{342,21,22,""Haystack Valley""}",,1,1
+108636,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_479_84_85,stony mountain formation,"{479,84,85,""Stony Mountain""}",,1,1
+125647,overlappingpdfs.136931.pdf.task,formation,ROCK_DOC_overlappingpdfs.136931.pdf.task_422_6_6,limestone formation,"{422,6,6,Limestone}",,1,0.996
+46581,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_235_18_19,john day formation,"{235,18,19,""John Day""}",,1,1
+71032,overlappingpdfs.136387.pdf.task,shale,ROCK_DOC_overlappingpdfs.136387.pdf.task_741_31_31,burgess shale,"{741,31,31,Burgess}",,1,0.996
+104140,overlappingpdfs.130410.pdf.task,formation,ROCK_DOC_overlappingpdfs.130410.pdf.task_432_42_42,heshan formation,"{432,42,42,Heshan}",,1,0.996
+55982,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_6913_14_14,orella member,"{6913,14,14,Orella}",,1,1
+24690,overlappingpdfs.132438.pdf.task,formation,ROCK_DOC_overlappingpdfs.132438.pdf.task_27_23_24,green river formation,"{27,23,24,""Green River""}",,1,0.996
+36176,overlappingpdfs.132359.pdf.task,formation,ROCK_DOC_overlappingpdfs.132359.pdf.task_148_13_14,curten formation,"{148,13,14,""Curten Formation""}",,1,1
+60186,overlappingpdfs.138658.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138658.pdf.task_4129_127_129,thunder bay limestone formation,"{4129,127,129,""Thunder Bay Limestone""}",,1,1
+6138,overlappingpdfs.138578.pdf.task,member,ROCK_DOC_overlappingpdfs.138578.pdf.task_4489_21_21,solsville member,"{4489,21,21,Solsville}",,1,0.999
+128699,overlappingpdfs.133088.pdf.task,marble,ROCK_DOC_overlappingpdfs.133088.pdf.task_111_4_4,black marble,"{111,4,4,black}",,1,1
+85652,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_2361_7_8,murphy member,"{2361,7,8,""Murphy Member""}",,1,1
+138034,overlappingpdfs.132661.pdf.task,formation,ROCK_DOC_overlappingpdfs.132661.pdf.task_1464_25_25,joe formation,"{1464,25,25,Joe}",,1,0.996
+152127,overlappingpdfs.136991.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136991.pdf.task_27_52_53,kildare limestone formation,"{27,52,53,""Kildare Limestone""}",,1,1
+92056,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_3777_8_10,sheep creek formation,"{3777,8,10,""Sheep Creek Formation""}",,1,1
+22324,overlappingpdfs.132406.pdf.task,formation,ROCK_DOC_overlappingpdfs.132406.pdf.task_909_7_8,calvert formation,"{909,7,8,""Calvert Formation""}",,1,0.996
+117539,overlappingpdfs.135782.pdf.task,member,ROCK_DOC_overlappingpdfs.135782.pdf.task_487_15_16,cape burney member,"{487,15,16,""Cape Burney""}",,1,0.996
+81080,overlappingpdfs.136361.pdf.task,member,ROCK_DOC_overlappingpdfs.136361.pdf.task_97_10_11,gleesons limestone member,"{97,10,11,""Gleesons Limestone""}",,1,1
+41154,overlappingpdfs.130556.pdf.task,formation,ROCK_DOC_overlappingpdfs.130556.pdf.task_16_6_6,moenkopi formation,"{16,6,6,Moenkopi}",,1,1
+83337,overlappingpdfs.132482.pdf.task,formation,ROCK_DOC_overlappingpdfs.132482.pdf.task_211_19_19,cacheuta formation,"{211,19,19,Cacheuta}",,1,1
+89508,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_2448_4_4,laucomer member,"{2448,4,4,Laucomer}",,1,0.996
+68241,overlappingpdfs.133099.pdf.task,formation,ROCK_DOC_overlappingpdfs.133099.pdf.task_478_6_6,limestone formation,"{478,6,6,Limestone}",,1,0.996
+13231,overlappingpdfs.136141.pdf.task,formation,ROCK_DOC_overlappingpdfs.136141.pdf.task_700_9_11,ellis bay formation,"{700,9,11,""Ellis Bay Formation""}",,1,0.996
+150538,overlappingpdfs.131162.pdf.task,formation,ROCK_DOC_overlappingpdfs.131162.pdf.task_211_12_12,wheeler formation,"{211,12,12,Wheeler}",,1,0.995
+78279,overlappingpdfs.131219.pdf.task,member,ROCK_DOC_overlappingpdfs.131219.pdf.task_408_1_1,saluda member,"{408,1,1,Saluda}",,1,0.996
+149554,overlappingpdfs.131277.pdf.task,member,ROCK_DOC_overlappingpdfs.131277.pdf.task_405_13_13,spirodden member,"{405,13,13,Spirodden}",,1,0.996
+26546,overlappingpdfs.132917.pdf.task,supergroup,ROCK_DOC_overlappingpdfs.132917.pdf.task_370_16_16,karoo supergroup,"{370,16,16,Karoo}",,1,0.996
+126261,overlappingpdfs.131885.pdf.task,shale,ROCK_DOC_overlappingpdfs.131885.pdf.task_994_15_16,ithaca shale,"{994,15,16,""Ithaca Shale""}",,1,0.994
+87220,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_5360_6_6,union formation,"{5360,6,6,Union}",,1,0.996
+136805,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_1107_25_25,uhalde formation,"{1107,25,25,Uhalde}",,1,1
+89863,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_3056_11_11,rock ash,"{3056,11,11,rock}",,1,1
+5912,overlappingpdfs.138578.pdf.task,formation,ROCK_DOC_overlappingpdfs.138578.pdf.task_150_11_11,silica formation,"{150,11,11,Silica}",,1,0.996
+88773,overlappingpdfs.138519.pdf.task,beds,ROCK_DOC_overlappingpdfs.138519.pdf.task_1708_7_9,snake creek beds formation,"{1708,7,9,""Snake Creek beds""}",,1,1
+90666,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_4938_18_18,type member,"{4938,18,18,type}",,1,0.996
+27658,overlappingpdfs.132736.pdf.task,formation,ROCK_DOC_overlappingpdfs.132736.pdf.task_885_15_15,niutitang formation,"{885,15,15,Niutitang}",,1,0.996
+150253,overlappingpdfs.133047.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133047.pdf.task_176_10_11,pillara limestone formation,"{176,10,11,""Pillara Limestone""}",,1,0.994
+40443,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1971_4_6,john day formation,"{1971,4,6,""JOHN DAY FORMATION""}",,1,1
+4413,overlappingpdfs.132547.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.132547.pdf.task_893_37_37,silty mudstone,"{893,37,37,silty}",,1,1
+137437,overlappingpdfs.132360.pdf.task,member,ROCK_DOC_overlappingpdfs.132360.pdf.task_749_7_8,schulz member,"{749,7,8,""Schulz Member""}",,1,0.996
+59485,overlappingpdfs.138658.pdf.task,group,ROCK_DOC_overlappingpdfs.138658.pdf.task_3510_23_24,hamilton group,"{3510,23,24,""Hamilton Group""}",,1,1
+13933,overlappingpdfs.131777.pdf.task,formation,ROCK_DOC_overlappingpdfs.131777.pdf.task_481_1_1,foreknobs formation,"{481,1,1,Foreknobs}",,1,1
+9580,overlappingpdfs.131549.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131549.pdf.task_51_7_8,steinvika limestone formation,"{51,7,8,""Steinvika Limestone""}",,1,1
+130180,overlappingpdfs.133261.pdf.task,coal,ROCK_DOC_overlappingpdfs.133261.pdf.task_116_19_20,sanlianhe coal,"{116,19,20,""Sanlianhe Coal""}",,1,1
+123245,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_41_1_2,pyramid hill sand,"{41,1,2,""Pyramid Hill""}",,1,0.999
+4055,overlappingpdfs.132547.pdf.task,member,ROCK_DOC_overlappingpdfs.132547.pdf.task_733_14_14,nodular member,"{733,14,14,nodular}",,1,0.996
+105068,overlappingpdfs.135584.pdf.task,beds,ROCK_DOC_overlappingpdfs.135584.pdf.task_186_10_11,boundary beds formation,"{186,10,11,""Boundary Beds""}",,1,0.996
+41619,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_509_41_41,dubysa formation,"{509,41,41,Dubysa}",,1,1
+120039,overlappingpdfs.136577.pdf.task,beds,ROCK_DOC_overlappingpdfs.136577.pdf.task_88_11_12,pterinea beds formation,"{88,11,12,""Pterinea Beds""}",,1,0.996
+6906,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_741_24_26,hell creek formation,"{741,24,26,""Hell Creek Formation""}",,1,1
+152084,overlappingpdfs.130614.pdf.task,chalk,ROCK_DOC_overlappingpdfs.130614.pdf.task_116_2_2,white chalk,"{116,2,2,White}",,1,1
+136016,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_958_0_2,cedar district formation,"{958,0,2,""Cedar District Formation""}",,1,0.996
+105966,overlappingpdfs.132527.pdf.task,member,ROCK_DOC_overlappingpdfs.132527.pdf.task_346_16_16,harrismith member,"{346,16,16,Harrismith}",,1,1
+117929,overlappingpdfs.136788.pdf.task,ash,ROCK_DOC_overlappingpdfs.136788.pdf.task_122_4_5,main ash,"{122,4,5,""Main Ash""}",,1,1
+125352,overlappingpdfs.132140.pdf.task,formation,ROCK_DOC_overlappingpdfs.132140.pdf.task_648_1_2,falling creek formation,"{648,1,2,""Falling Creek""}",,1,0.996
+22221,overlappingpdfs.136806.pdf.task,formation,ROCK_DOC_overlappingpdfs.136806.pdf.task_579_10_12,glen aubrey formation,"{579,10,12,""Glen Aubrey Formation""}",,1,0.996
+51079,overlappingpdfs.135619.pdf.task,shale,ROCK_DOC_overlappingpdfs.135619.pdf.task_590_9_9,burgess shale,"{590,9,9,Burgess}",,1,1
+31595,overlappingpdfs.1374.pdf.task,tuff,ROCK_DOC_overlappingpdfs.1374.pdf.task_113_9_11,koobi fora tuff formation,"{113,9,11,""Koobi Fora Tuff""}",,1,1
+94564,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_1077_3_3,creek ash,"{1077,3,3,Creek}",,1,1
+124821,overlappingpdfs.132724.pdf.task,oolite,ROCK_DOC_overlappingpdfs.132724.pdf.task_368_5_6,inferior oolite,"{368,5,6,""Inferior Oolite""}",,1,0.996
+86477,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_72_14_14,bingma formation,"{72,14,14,Bingma}",,1,1
+122613,overlappingpdfs.132473.pdf.task,member,ROCK_DOC_overlappingpdfs.132473.pdf.task_93_3_3,galga member,"{93,3,3,Galga}",,1,1
+34171,overlappingpdfs.132965.pdf.task,group,ROCK_DOC_overlappingpdfs.132965.pdf.task_746_1_1,matsuo group,"{746,1,1,Matsuo}",,1,0.996
+79717,overlappingpdfs.131614.pdf.task,formation,ROCK_DOC_overlappingpdfs.131614.pdf.task_879_32_32,onondaga formation,"{879,32,32,Onondaga}",,1,0.999
+34719,overlappingpdfs.132470.pdf.task,formation,ROCK_DOC_overlappingpdfs.132470.pdf.task_994_11_13,owl rock formation,"{994,11,13,""Owl Rock Formation""}",,1,0.996
+63546,overlappingpdfs.132348.pdf.task,group,ROCK_DOC_overlappingpdfs.132348.pdf.task_1729_37_37,research group,"{1729,37,37,research}",,1,0.996
+42769,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1070_26_27,balm creek member,"{1070,26,27,""Balm Creek""}",,1,1
+4825,overlappingpdfs.138365.pdf.task,formations,ROCK_DOC_overlappingpdfs.138365.pdf.task_424_2_2,rosebud formations,"{424,2,2,RosEBUD}",,1,1
+7134,overlappingpdfs.132874.pdf.task,group,ROCK_DOC_overlappingpdfs.132874.pdf.task_65_13_13,fundy group,"{65,13,13,Fundy}",,1,0.996
+100175,overlappingpdfs.136216.pdf.task,shale,ROCK_DOC_overlappingpdfs.136216.pdf.task_167_2_2,creek shale,"{167,2,2,Creek}",,1,1
+99899,overlappingpdfs.132627.pdf.task,formation,ROCK_DOC_overlappingpdfs.132627.pdf.task_30_17_17,messel formation,"{30,17,17,Messel}",,1,0.996
+22442,overlappingpdfs.132118.pdf.task,formation,ROCK_DOC_overlappingpdfs.132118.pdf.task_282_0_1,daohugou formation,"{282,0,1,""Daohugou Formation""}",,1,0.996
+21961,overlappingpdfs.132529.pdf.task,formation,ROCK_DOC_overlappingpdfs.132529.pdf.task_404_7_7,rasto formation,"{404,7,7,Rasto}",,1,0.996
+120702,overlappingpdfs.132594.pdf.task,formation,ROCK_DOC_overlappingpdfs.132594.pdf.task_127_5_5,murero formation,"{127,5,5,Murero}",,1,1
+75932,overlappingpdfs.132675.pdf.task,group,ROCK_DOC_overlappingpdfs.132675.pdf.task_64_13_13,bauru group,"{64,13,13,Bauru}",,1,1
+111218,overlappingpdfs.133113.pdf.task,formation,ROCK_DOC_overlappingpdfs.133113.pdf.task_57_3_4,santana formation,"{57,3,4,""Santana Formation""}",,1,1
+149651,overlappingpdfs.138447.pdf.task,slate,ROCK_DOC_overlappingpdfs.138447.pdf.task_667_4_4,agglomerate slate,"{667,4,4,Agglomerate}",,1,1
+132528,overlappingpdfs.13950.pdf.task,clay,ROCK_DOC_overlappingpdfs.13950.pdf.task_110_11_11,london clay,"{110,11,11,London}",,1,1
+23177,overlappingpdfs.132363.pdf.task,formation,ROCK_DOC_overlappingpdfs.132363.pdf.task_124_12_12,yuhucun formation,"{124,12,12,Yuhucun}",,1,0.996
+68676,overlappingpdfs.138083.pdf.task,sandstones,ROCK_DOC_overlappingpdfs.138083.pdf.task_799_0_0,pondaung sandstones,"{799,0,0,Pondaung}",,1,1
+54985,overlappingpdfs.131694.pdf.task,shale,ROCK_DOC_overlappingpdfs.131694.pdf.task_449_13_13,rochester shale,"{449,13,13,Rochester}",,1,0.999
+87463,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_217_14_14,creek ash,"{217,14,14,Creek}",,1,1
+126681,overlappingpdfs.136624.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136624.pdf.task_166_7_9,currant bush limestone formation,"{166,7,9,""Currant Bush Limestone""}",,1,0.996
+47647,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1571_10_10,day formation,"{1571,10,10,Day}",,1,1
+12667,overlappingpdfs.131777.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.131777.pdf.task_731_9_9,pound sandstone,"{731,9,9,Pound}",,1,1
+68060,overlappingpdfs.131691.pdf.task,beds,ROCK_DOC_overlappingpdfs.131691.pdf.task_89_1_2,red beds formation,"{89,1,2,""Red Beds""}",,1,1
+53373,overlappingpdfs.138573.pdf.task,group,ROCK_DOC_overlappingpdfs.138573.pdf.task_3608_10_10,ogallala group,"{3608,10,10,Ogallala}",,1,0.998
+123100,overlappingpdfs.132594.pdf.task,formation,ROCK_DOC_overlappingpdfs.132594.pdf.task_26_6_6,murero formation,"{26,6,6,Murero}",,1,1
+57682,overlappingpdfs.136383.pdf.task,formation,ROCK_DOC_overlappingpdfs.136383.pdf.task_29_20_20,benbolt formation,"{29,20,20,Benbolt}",,1,1
+5732,overlappingpdfs.138365.pdf.task,formations,ROCK_DOC_overlappingpdfs.138365.pdf.task_3631_19_19,rosebud formations,"{3631,19,19,Rosebud}",,1,1
+30720,overlappingpdfs.133017.pdf.task,formations,ROCK_DOC_overlappingpdfs.133017.pdf.task_60_17_17,crato formations,"{60,17,17,Crato}",,1,0.995
+28354,overlappingpdfs.138334.pdf.task,formation,ROCK_DOC_overlappingpdfs.138334.pdf.task_1736_2_2,bridger formation,"{1736,2,2,Bridger}",,1,1
+29877,overlappingpdfs.138709.pdf.task,formation,ROCK_DOC_overlappingpdfs.138709.pdf.task_1040_10_10,brule formation,"{1040,10,10,Brule}",,1,0.999
+139351,overlappingpdfs.135104.pdf.task,formation,ROCK_DOC_overlappingpdfs.135104.pdf.task_104_8_9,floresta formation,"{104,8,9,""Floresta Formation""}",,1,1
+82427,overlappingpdfs.132483.pdf.task,formation,ROCK_DOC_overlappingpdfs.132483.pdf.task_95_21_21,maevarano formation,"{95,21,21,Maevarano}",,1,1
+12206,overlappingpdfs.1373.pdf.task,group,ROCK_DOC_overlappingpdfs.1373.pdf.task_41_59_59,dockum group,"{41,59,59,Dockum}",,1,0.996
+68499,overlappingpdfs.132687.pdf.task,slate,ROCK_DOC_overlappingpdfs.132687.pdf.task_439_27_27,hunsriick slate,"{439,27,27,Hunsriick}",,1,0.996
+178,overlappingpdfs.132547.pdf.task,member,ROCK_DOC_overlappingpdfs.132547.pdf.task_888_3_5,quarried limestone member,"{888,3,5,""Quarried Limestone Member""}",,1,1
+88576,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1542_46_47,box butte formation,"{1542,46,47,""Box Butte""}",,1,1
+104274,overlappingpdfs.132812.pdf.task,formation,ROCK_DOC_overlappingpdfs.132812.pdf.task_84_5_5,clay formation,"{84,5,5,clay}",,1,1
+138582,overlappingpdfs.131250.pdf.task,formation,ROCK_DOC_overlappingpdfs.131250.pdf.task_20_6_9,llandudno pier dolomite formation,"{20,6,9,""Llandudno Pier Dolomite Formation""}",,1,1
+97729,overlappingpdfs.139215.pdf.task,beds,ROCK_DOC_overlappingpdfs.139215.pdf.task_57_5_7,sand coulee beds formation,"{57,5,7,""Sand Coulee beds""}",,1,0.996
+134465,overlappingpdfs.133063.pdf.task,member,ROCK_DOC_overlappingpdfs.133063.pdf.task_311_4_5,grange hill member,"{311,4,5,""Grange Hill""}",,1,0.996
+127591,overlappingpdfs.131885.pdf.task,shale,ROCK_DOC_overlappingpdfs.131885.pdf.task_127_25_25,black shale,"{127,25,25,black}",,1,0.996
+62935,overlappingpdfs.138658.pdf.task,shale,ROCK_DOC_overlappingpdfs.138658.pdf.task_3229_4_5,wanakah shale,"{3229,4,5,""Wanakah Shale""}",,1,1
+47996,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1961_67_67,twickenham member,"{1961,67,67,Twickenham}",,1,1
+134546,overlappingpdfs.133063.pdf.task,member,ROCK_DOC_overlappingpdfs.133063.pdf.task_765_25_26,grange hill member,"{765,25,26,""Grange Hill""}",,1,1
+129780,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_1455_20_21,emigrant formation,"{1455,20,21,""Emigrant Formation""}",,1,1
+46504,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_186_27_27,day formation,"{186,27,27,Day}",,1,1
+143431,overlappingpdfs.133311.pdf.task,group,ROCK_DOC_overlappingpdfs.133311.pdf.task_345_6_6,selong group,"{345,6,6,Selong}",,1,0.996
+115281,overlappingpdfs.135782.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135782.pdf.task_515_13_14,tamala limestone formation,"{515,13,14,""Tamala Limestone""}",,1,0.999
+110606,overlappingpdfs.130286.pdf.task,member,ROCK_DOC_overlappingpdfs.130286.pdf.task_41_2_2,vaulx member,"{41,2,2,Vaulx}",,1,1
+149501,overlappingpdfs.130524.pdf.task,group,ROCK_DOC_overlappingpdfs.130524.pdf.task_70_0_0,magdalena group,"{70,0,0,Magdalena}",,1,0.996
+92878,overlappingpdfs.132463.pdf.task,group,ROCK_DOC_overlappingpdfs.132463.pdf.task_724_6_6,purbeck group,"{724,6,6,Purbeck}",,1,0.995
+88799,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1717_12_13,snake creek formation,"{1717,12,13,""Snake Creek""}",,1,1
+52137,overlappingpdfs.132333.pdf.task,group,ROCK_DOC_overlappingpdfs.132333.pdf.task_690_0_0,martinez group,"{690,0,0,Martinez}",,1,0.996
+92801,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_77_45_45,shazipo formation,"{77,45,45,Shazipo}",,1,1
+146194,overlappingpdfs.138624.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138624.pdf.task_4003_8_9,keokuk limestone formation,"{4003,8,9,""Keokuk Limestone""}",,1,0.996
+126362,overlappingpdfs.130860.pdf.task,member,ROCK_DOC_overlappingpdfs.130860.pdf.task_500_20_21,cape burney member,"{500,20,21,""Cape Burney""}",,1,1
+144338,overlappingpdfs.138624.pdf.task,formation,ROCK_DOC_overlappingpdfs.138624.pdf.task_130_22_22,limestone formation,"{130,22,22,Limestone}",,1,1
+21937,overlappingpdfs.132529.pdf.task,formation,ROCK_DOC_overlappingpdfs.132529.pdf.task_67_1_2,buena vista formation,"{67,1,2,""Buena Vista""}",,1,1
+141223,overlappingpdfs.133.pdf.task,formation,ROCK_DOC_overlappingpdfs.133.pdf.task_49_20_23,calcaires de caen formation,"{49,20,23,""Calcaires de Caen Formation""}",,1,0.996
+100879,overlappingpdfs.132301.pdf.task,formation,ROCK_DOC_overlappingpdfs.132301.pdf.task_545_1_1,cacheuta formation,"{545,1,1,Cacheuta}",,1,0.996
+75570,overlappingpdfs.133023.pdf.task,formation,ROCK_DOC_overlappingpdfs.133023.pdf.task_598_12_12,bahariya formation,"{598,12,12,Bahariya}",,1,0.996
+103994,overlappingpdfs.133073.pdf.task,member,ROCK_DOC_overlappingpdfs.133073.pdf.task_1085_17_18,otar member,"{1085,17,18,""Otar Member""}",,1,0.996
+20506,overlappingpdfs.139271.pdf.task,formation,ROCK_DOC_overlappingpdfs.139271.pdf.task_167_5_6,ulan gochu formation,"{167,5,6,""Ulan Gochu""}",,1,1
+36266,overlappingpdfs.132180.pdf.task,member,ROCK_DOC_overlappingpdfs.132180.pdf.task_197_20_21,westgrove ironstone member,"{197,20,21,""Westgrove Ironstone""}",,1,1
+57551,overlappingpdfs.135881.pdf.task,formation,ROCK_DOC_overlappingpdfs.135881.pdf.task_63_0_1,nachukui shungura formation,"{63,0,1,""Nachukui Shungura""}",,1,1
+56266,overlappingpdfs.138644.pdf.task,group,ROCK_DOC_overlappingpdfs.138644.pdf.task_1471_26_26,genus group,"{1471,26,26,genus}",,1,0.998
+105079,overlappingpdfs.131702.pdf.task,clay,ROCK_DOC_overlappingpdfs.131702.pdf.task_115_16_17,kalby clay,"{115,16,17,""Kalby Clay""}",,1,0.996
+27450,overlappingpdfs.132196.pdf.task,formation,ROCK_DOC_overlappingpdfs.132196.pdf.task_39_10_12,la colonia formation,"{39,10,12,""La Colonia Formation""}",,1,0.995
+143501,overlappingpdfs.1357.pdf.task,formation,ROCK_DOC_overlappingpdfs.1357.pdf.task_399_11_11,mazateron formation,"{399,11,11,Mazateron}",,1,0.996
+9397,overlappingpdfs.130847.pdf.task,shale,ROCK_DOC_overlappingpdfs.130847.pdf.task_19_16_17,wanakah shale,"{19,16,17,""Wanakah Shale""}",,1,0.996
+49786,overlappingpdfs.132759.pdf.task,member,ROCK_DOC_overlappingpdfs.132759.pdf.task_107_24_25,south piney member,"{107,24,25,""South Piney""}",,1,1
+118912,overlappingpdfs.132380.pdf.task,formation,ROCK_DOC_overlappingpdfs.132380.pdf.task_476_23_25,virgin hills formation,"{476,23,25,""Virgin Hills Formation""}",,1,1
+23562,overlappingpdfs.136172.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136172.pdf.task_134_1_3,great orme limestone formation,"{134,1,3,""Great Orme Limestone""}",,1,0.996
+73168,overlappingpdfs.135067.pdf.task,formation,ROCK_DOC_overlappingpdfs.135067.pdf.task_4_11_12,castle hayne formation,"{4,11,12,""Castle Hayne""}",,1,0.996
+69087,overlappingpdfs.138083.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138083.pdf.task_28_27_28,pondaung sandstone,"{28,27,28,""Pondaung Sandstone""}",,1,1
+49421,overlappingpdfs.1376.pdf.task,formation,ROCK_DOC_overlappingpdfs.1376.pdf.task_574_18_20,bajo barreal formation,"{574,18,20,""Bajo Barreal Formation""}",,1,1
+95150,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_1563_43_43,west sand,"{1563,43,43,west}",,1,0.996
+27549,overlappingpdfs.133300.pdf.task,member,ROCK_DOC_overlappingpdfs.133300.pdf.task_348_17_17,zhygden member,"{348,17,17,Zhygden}",,1,0.996
+152902,overlappingpdfs.132458.pdf.task,formation,ROCK_DOC_overlappingpdfs.132458.pdf.task_40_27_28,wessex formation,"{40,27,28,""Wessex Formation""}",,1,1
+17180,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_3553_23_23,lance formation,"{3553,23,23,Lance}",,1,0.996
+101977,overlappingpdfs.132301.pdf.task,supergroup,ROCK_DOC_overlappingpdfs.132301.pdf.task_45_13_13,karoo supergroup,"{45,13,13,Karoo}",,1,0.996
+32842,overlappingpdfs.132987.pdf.task,group,ROCK_DOC_overlappingpdfs.132987.pdf.task_198_8_8,hedstroemia group,"{198,8,8,Hedstroemia}",,1,0.996
+126150,overlappingpdfs.131841.pdf.task,formation,ROCK_DOC_overlappingpdfs.131841.pdf.task_51_10_12,day point formation,"{51,10,12,""Day Point Formation""}",,1,1
+123080,overlappingpdfs.135858.pdf.task,shale,ROCK_DOC_overlappingpdfs.135858.pdf.task_34_13_13,inca shale,"{34,13,13,Inca}",,1,0.999
+22104,overlappingpdfs.138318.pdf.task,formation,ROCK_DOC_overlappingpdfs.138318.pdf.task_319_12_13,bone spring formation,"{319,12,13,""Bone Spring""}",,1,1
+137824,overlappingpdfs.130959.pdf.task,group,ROCK_DOC_overlappingpdfs.130959.pdf.task_4_15_15,turkana group,"{4,15,15,Turkana}",,1,0.996
+107585,overlappingpdfs.133053.pdf.task,formation,ROCK_DOC_overlappingpdfs.133053.pdf.task_524_2_3,fermeuse formation,"{524,2,3,""Fermeuse Formation""}",,1,0.996
+78788,overlappingpdfs.135100.pdf.task,formation,ROCK_DOC_overlappingpdfs.135100.pdf.task_313_18_20,vaca muerta formation,"{313,18,20,""Vaca Muerta Formation""}",,1,1
+110269,overlappingpdfs.133113.pdf.task,formation,ROCK_DOC_overlappingpdfs.133113.pdf.task_610_13_14,crato formation,"{610,13,14,""Crato Formation""}",,1,0.996
+86626,overlappingpdfs.138393.pdf.task,formation,ROCK_DOC_overlappingpdfs.138393.pdf.task_234_1_1,kayenta formation,"{234,1,1,Kayenta}",,1,0.997
+130888,overlappingpdfs.132873.pdf.task,clay,ROCK_DOC_overlappingpdfs.132873.pdf.task_2510_3_3,oxford clay,"{2510,3,3,Oxford}",,1,1
+27356,overlappingpdfs.138709.pdf.task,formation,ROCK_DOC_overlappingpdfs.138709.pdf.task_316_7_8,hedi formation,"{316,7,8,""Hedi Formation""}",,1,0.999
+120492,overlappingpdfs.131915.pdf.task,shale,ROCK_DOC_overlappingpdfs.131915.pdf.task_114_8_9,waldron shale,"{114,8,9,""Waldron Shale""}",,1,1
+52550,overlappingpdfs.133316.pdf.task,member,ROCK_DOC_overlappingpdfs.133316.pdf.task_568_9_9,bulla member,"{568,9,9,Bulla}",,1,0.998
+134124,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_337_14_14,emigrant formation,"{337,14,14,Emigrant}",,1,0.996
+40493,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_956_16_17,marjanovka formation,"{956,16,17,""Marjanovka Formation""}",,1,0.995
+96453,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_3216_48_49,sheep creek formation,"{3216,48,49,""Sheep Creek""}",,1,1
+151472,overlappingpdfs.132512.pdf.task,formation,ROCK_DOC_overlappingpdfs.132512.pdf.task_406_2_3,agoudim marls formation,"{406,2,3,""Agoudim Marls""}",,1,1
+117746,overlappingpdfs.132317.pdf.task,member,ROCK_DOC_overlappingpdfs.132317.pdf.task_1051_3_7,phytosaur from the sonsela member,"{1051,3,7,""PHYTOSAUR FROM THE SONSELA MEMBER""}",,1,1
+139245,overlappingpdfs.131250.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131250.pdf.task_134_1_3,great orme limestone formation,"{134,1,3,""Great Orme Limestone""}",,1,0.996
+21698,overlappingpdfs.132363.pdf.task,member,ROCK_DOC_overlappingpdfs.132363.pdf.task_119_10_10,zhongyicun member,"{119,10,10,Zhongyicun}",,1,1
+140785,overlappingpdfs.132256.pdf.task,formation,ROCK_DOC_overlappingpdfs.132256.pdf.task_540_5_5,gowers formation,"{540,5,5,Gowers}",,1,1
+117343,overlappingpdfs.132435.pdf.task,formation,ROCK_DOC_overlappingpdfs.132435.pdf.task_1025_7_7,guanling formation,"{1025,7,7,Guanling}",,1,1
+95004,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1384_19_20,snake creek formation,"{1384,19,20,""Snake Creek""}",,1,1
+60364,overlappingpdfs.132216.pdf.task,formation,ROCK_DOC_overlappingpdfs.132216.pdf.task_853_14_14,yixian formation,"{853,14,14,Yixian}",,1,0.999
+43683,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_2041_4_5,john day formation,"{2041,4,5,""JOHN DAY""}",,1,1
+60578,overlappingpdfs.132348.pdf.task,group,ROCK_DOC_overlappingpdfs.132348.pdf.task_1982_1_1,research group,"{1982,1,1,Research}",,1,1
+151766,overlappingpdfs.132928.pdf.task,formation,ROCK_DOC_overlappingpdfs.132928.pdf.task_21_26_27,stornoway formation,"{21,26,27,""Stornoway Formation""}",,1,0.996
+61438,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_182_18_18,tinton formation,"{182,18,18,Tinton}",,1,1
+105099,overlappingpdfs.132574.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132574.pdf.task_315_0_2,blucks pool limestone formation,"{315,0,2,""Blucks Pool Limestone""}",,1,1
+127863,overlappingpdfs.131841.pdf.task,formation,ROCK_DOC_overlappingpdfs.131841.pdf.task_388_14_15,day point formation,"{388,14,15,""Day Point""}",,1,0.996
+55651,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_4484_5_6,john day formation,"{4484,5,6,""John Day""}",,1,0.997
+147654,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_2493_0_0,skaneateles formation,"{2493,0,0,Skaneateles}",,1,1
+65433,overlappingpdfs.136514.pdf.task,formation,ROCK_DOC_overlappingpdfs.136514.pdf.task_56_0_1,djadokhta formation,"{56,0,1,""Djadokhta Formation""}",,1,1
+114777,overlappingpdfs.1372.pdf.task,shale,ROCK_DOC_overlappingpdfs.1372.pdf.task_859_10_10,pierre shale,"{859,10,10,Pierre}",,1,1
+23802,overlappingpdfs.138465.pdf.task,formation,ROCK_DOC_overlappingpdfs.138465.pdf.task_2783_0_1,kaibab formation,"{2783,0,1,""Kaibab Formation""}",,1,0.992
+23651,overlappingpdfs.136806.pdf.task,shale,ROCK_DOC_overlappingpdfs.136806.pdf.task_527_15_15,black shale,"{527,15,15,black}",,1,0.996
+75594,overlappingpdfs.137113.pdf.task,beds,ROCK_DOC_overlappingpdfs.137113.pdf.task_545_32_33,oreodon beds formation,"{545,32,33,""Oreodon beds""}",,1,0.996
+90020,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_3508_15_15,east sand,"{3508,15,15,east}",,1,1
+4052,overlappingpdfs.132547.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.132547.pdf.task_729_39_39,silty mudstone,"{729,39,39,silty}",,1,0.995
+113901,overlappingpdfs.13100.pdf.task,shales,ROCK_DOC_overlappingpdfs.13100.pdf.task_26_27_27,moffat shales,"{26,27,27,Moffat}",,1,0.996
+56475,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_1753_11_12,brule formation,"{1753,11,12,""Brule Formation""}",,1,1
+23327,overlappingpdfs.133092.pdf.task,shale,ROCK_DOC_overlappingpdfs.133092.pdf.task_516_8_8,burgess shale,"{516,8,8,Burgess}",,1,0.996
+113998,overlappingpdfs.132517.pdf.task,group,ROCK_DOC_overlappingpdfs.132517.pdf.task_120_13_13,barr group,"{120,13,13,Barr}",,1,1
+36129,overlappingpdfs.132913.pdf.task,formation,ROCK_DOC_overlappingpdfs.132913.pdf.task_86_31_32,eminance formation,"{86,31,32,""Eminance Formation""}",,1,0.993
+23356,overlappingpdfs.133500.pdf.task,clay,ROCK_DOC_overlappingpdfs.133500.pdf.task_205_17_17,speeton clay,"{205,17,17,Speeton}",,1,0.996
+34425,overlappingpdfs.138026.pdf.task,formation,ROCK_DOC_overlappingpdfs.138026.pdf.task_998_20_20,valley formation,"{998,20,20,Valley}",,1,0.996
+123074,overlappingpdfs.135858.pdf.task,formation,ROCK_DOC_overlappingpdfs.135858.pdf.task_22_5_7,monastery creek phosphorite formation,"{22,5,7,""Monastery Creek Phosphorite""}",,1,1
+32841,overlappingpdfs.132987.pdf.task,group,ROCK_DOC_overlappingpdfs.132987.pdf.task_190_31_31,hedstroemia group,"{190,31,31,Hedstroemia}",,1,0.996
+125099,overlappingpdfs.131439.pdf.task,member,ROCK_DOC_overlappingpdfs.131439.pdf.task_97_10_11,gleesons limestone member,"{97,10,11,""Gleesons Limestone""}",,1,1
+41802,overlappingpdfs.132572.pdf.task,formation,ROCK_DOC_overlappingpdfs.132572.pdf.task_23_3_3,yixian formation,"{23,3,3,Yixian}",,1,0.995
+124997,overlappingpdfs.131439.pdf.task,member,ROCK_DOC_overlappingpdfs.131439.pdf.task_97_10_12,gleesons limestone member,"{97,10,12,""Gleesons Limestone Member""}",,1,0.999
+56580,overlappingpdfs.132093.pdf.task,formation,ROCK_DOC_overlappingpdfs.132093.pdf.task_1329_13_15,virgin hills formation,"{1329,13,15,""Virgin Hills Formation""}",,1,0.998
+148948,overlappingpdfs.131277.pdf.task,formation,ROCK_DOC_overlappingpdfs.131277.pdf.task_82_1_1,solvik formation,"{82,1,1,Solvik}",,1,0.996
+104702,overlappingpdfs.135620.pdf.task,shale,ROCK_DOC_overlappingpdfs.135620.pdf.task_13_26_26,burgess shale,"{13,26,26,Burgess}",,1,1
+127659,overlappingpdfs.132185.pdf.task,formation,ROCK_DOC_overlappingpdfs.132185.pdf.task_31_40_40,morrison formation,"{31,40,40,Morrison}",,1,1
+132924,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_952_16_17,monola formation,"{952,16,17,""Monola Formation""}",,1,1
+141099,overlappingpdfs.132652.pdf.task,shale,ROCK_DOC_overlappingpdfs.132652.pdf.task_87_19_20,bulldog shale,"{87,19,20,""Bulldog Shale""}",,1,1
+45260,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_771_53_54,geluva formation,"{771,53,54,""Geluva Formation""}",,1,1
+78920,overlappingpdfs.138385.pdf.task,formations,ROCK_DOC_overlappingpdfs.138385.pdf.task_3084_2_4,deep river formations,"{3084,2,4,""Deep River Formations""}",,1,0.996
+34179,overlappingpdfs.132965.pdf.task,group,ROCK_DOC_overlappingpdfs.132965.pdf.task_823_1_2,dinosaur research group,"{823,1,2,""DINOSAUR RESEARCH""}",,1,1
+8663,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_2142_0_0,kirtland formation,"{2142,0,0,Kirtland}",,1,1
+48375,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_2202_21_22,johnson canyon member,"{2202,21,22,""Johnson Canyon""}",,1,1
+28844,overlappingpdfs.132725.pdf.task,member,ROCK_DOC_overlappingpdfs.132725.pdf.task_56_13_16,smoky hill chalk member,"{56,13,16,""Smoky Hill Chalk Member""}",,1,0.996
+66232,overlappingpdfs.132666.pdf.task,group,ROCK_DOC_overlappingpdfs.132666.pdf.task_665_20_20,chinle group,"{665,20,20,Chinle}",,1,0.996
+63416,overlappingpdfs.130805.pdf.task,formation,ROCK_DOC_overlappingpdfs.130805.pdf.task_660_16_16,salem formation,"{660,16,16,Salem}",,1,1
+143207,overlappingpdfs.132684.pdf.task,formation,ROCK_DOC_overlappingpdfs.132684.pdf.task_25_6_6,qingyan formation,"{25,6,6,Qingyan}",,1,1
+62468,overlappingpdfs.138658.pdf.task,member,ROCK_DOC_overlappingpdfs.138658.pdf.task_2925_13_14,frame member,"{2925,13,14,""Frame Member""}",,1,0.998
+7944,overlappingpdfs.138375.pdf.task,formation,ROCK_DOC_overlappingpdfs.138375.pdf.task_334_28_28,thaynes formation,"{334,28,28,Thaynes}",,1,0.996
+136624,overlappingpdfs.131246.pdf.task,formation,ROCK_DOC_overlappingpdfs.131246.pdf.task_117_13_13,kinzers formation,"{117,13,13,Kinzers}",,1,0.996
+19444,overlappingpdfs.138449.pdf.task,group,ROCK_DOC_overlappingpdfs.138449.pdf.task_581_7_7,montana group,"{581,7,7,Montana}",,1,0.996
+86052,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_2129_1_2,creek ash,"{2129,1,2,""Creek Ash""}",,1,0.999
+67977,overlappingpdfs.132687.pdf.task,slate,ROCK_DOC_overlappingpdfs.132687.pdf.task_14_1_2,hunsriick slate,"{14,1,2,""Hunsriick Slate""}",,1,1
+48526,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_2287_16_16,day formation,"{2287,16,16,Day}",,1,1
+139233,overlappingpdfs.132202.pdf.task,formation,ROCK_DOC_overlappingpdfs.132202.pdf.task_109_0_1,daohugou formation,"{109,0,1,""Daohugou Formation""}",,1,0.996
+142859,overlappingpdfs.138624.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138624.pdf.task_3292_14_16,cherry valley limestone formation,"{3292,14,16,""Cherry Valley Limestone""}",,1,0.996
+124734,overlappingpdfs.132386.pdf.task,formation,ROCK_DOC_overlappingpdfs.132386.pdf.task_173_24_24,bermont formation,"{173,24,24,Bermont}",,1,0.996
+129097,overlappingpdfs.130629.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.130629.pdf.task_139_33_35,neuberger kieseweiss sandstone,"{139,33,35,""Neuberger Kieseweiss Sandstone""}",,1,1
+104555,overlappingpdfs.133073.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133073.pdf.task_315_8_9,quondong limestone formation,"{315,8,9,""Quondong Limestone""}",,1,0.996
+118809,overlappingpdfs.132317.pdf.task,formation,ROCK_DOC_overlappingpdfs.132317.pdf.task_84_3_3,chinle formation,"{84,3,3,Chinle}",,1,0.996
+91960,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_3953_5_6,huerfano formation,"{3953,5,6,""Huerfano Formation""}",,1,0.996
+36219,overlappingpdfs.131000.pdf.task,shale,ROCK_DOC_overlappingpdfs.131000.pdf.task_285_10_11,kanosh shale,"{285,10,11,""Kanosh Shale""}",,1,1
+136533,overlappingpdfs.130959.pdf.task,group,ROCK_DOC_overlappingpdfs.130959.pdf.task_28_40_40,omo group,"{28,40,40,Omo}",,1,1
+125148,overlappingpdfs.131439.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131439.pdf.task_470_43_45,fossil hill limestone formation,"{470,43,45,""Fossil Hill Limestone""}",,1,1
+6776,overlappingpdfs.131549.pdf.task,group,ROCK_DOC_overlappingpdfs.131549.pdf.task_864_13_14,river group,"{864,13,14,""River Group""}",,1,0.996
+25074,overlappingpdfs.138465.pdf.task,formation,ROCK_DOC_overlappingpdfs.138465.pdf.task_737_6_7,park city formation,"{737,6,7,""Park City""}",,1,0.996
+135213,overlappingpdfs.135414.pdf.task,formation,ROCK_DOC_overlappingpdfs.135414.pdf.task_80_0_1,horseshoe canyon formation,"{80,0,1,""Horseshoe Canyon""}",,1,0.999
+68226,overlappingpdfs.132764.pdf.task,formation,ROCK_DOC_overlappingpdfs.132764.pdf.task_1066_10_10,shishu formation,"{1066,10,10,Shishu}",,1,0.996
+3713,overlappingpdfs.138578.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138578.pdf.task_4656_21_23,moose river sandstone,"{4656,21,23,""Moose River Sandstone""}",,1,0.996
+18731,overlappingpdfs.132551.pdf.task,formation,ROCK_DOC_overlappingpdfs.132551.pdf.task_180_8_8,honda formation,"{180,8,8,Honda}",,1,1
+104131,overlappingpdfs.130410.pdf.task,group,ROCK_DOC_overlappingpdfs.130410.pdf.task_407_4_4,shaiwa group,"{407,4,4,Shaiwa}",,1,1
+45062,overlappingpdfs.130556.pdf.task,formation,ROCK_DOC_overlappingpdfs.130556.pdf.task_325_3_6,north american moenkopi formation,"{325,3,6,""North American Moenkopi Formation""}",,1,0.996
+1576,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_290_25_25,formation formation,"{290,25,25,formation}",,1,1
+106583,overlappingpdfs.132453.pdf.task,formation,ROCK_DOC_overlappingpdfs.132453.pdf.task_209_11_11,iiufotang formation,"{209,11,11,Iiufotang}",,1,0.995
+8293,overlappingpdfs.138375.pdf.task,coal,ROCK_DOC_overlappingpdfs.138375.pdf.task_4070_10_11,fremont county coal,"{4070,10,11,""Fremont County""}",,1,1
+50386,overlappingpdfs.132333.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132333.pdf.task_120_20_21,vajont limestone formation,"{120,20,21,""Vajont Limestone""}",,1,1
+51862,overlappingpdfs.138573.pdf.task,formation,ROCK_DOC_overlappingpdfs.138573.pdf.task_3534_13_14,alachua formation,"{3534,13,14,""Alachua Formation""}",,1,0.996
+18503,overlappingpdfs.132146.pdf.task,group,ROCK_DOC_overlappingpdfs.132146.pdf.task_27_20_21,celsius bjerg group,"{27,20,21,""Celsius Bjerg""}",,1,1
+3774,overlappingpdfs.132547.pdf.task,formation,ROCK_DOC_overlappingpdfs.132547.pdf.task_27_13_13,limestone formation,"{27,13,13,limestone}",,1,1
+143759,overlappingpdfs.132455.pdf.task,clay,ROCK_DOC_overlappingpdfs.132455.pdf.task_8_28_28,kimmeridge clay,"{8,28,28,Kimmeridge}",,1,0.996
+105968,overlappingpdfs.132527.pdf.task,member,ROCK_DOC_overlappingpdfs.132527.pdf.task_348_6_6,harrismith member,"{348,6,6,Harrismith}",,1,0.996
+60203,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_2038_11_12,tinton formation,"{2038,11,12,""Tinton Formation""}",,1,0.996
+38416,overlappingpdfs.132919.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132919.pdf.task_2_3_3,otter sandstone,"{2,3,3,OTTER}",,1,0.996
+82079,overlappingpdfs.136380.pdf.task,formation,ROCK_DOC_overlappingpdfs.136380.pdf.task_88_5_7,snowy range formation,"{88,5,7,""Snowy Range Formation""}",,1,1
+6547,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_830_2_4,hell creek formation,"{830,2,4,""Hell Creek Formation""}",,1,1
+23386,overlappingpdfs.135551.pdf.task,formation,ROCK_DOC_overlappingpdfs.135551.pdf.task_52_6_7,bone springs formation,"{52,6,7,""Bone Springs""}",,1,0.996
+49052,overlappingpdfs.132759.pdf.task,formation,ROCK_DOC_overlappingpdfs.132759.pdf.task_1050_3_4,harding formation,"{1050,3,4,""Harding Formation""}",,1,0.996
+112151,overlappingpdfs.1372.pdf.task,formation,ROCK_DOC_overlappingpdfs.1372.pdf.task_50_15_16,bearpaw formation,"{50,15,16,""Bearpaw Formation""}",,1,0.996
+57253,overlappingpdfs.1395.pdf.task,group,ROCK_DOC_overlappingpdfs.1395.pdf.task_108_8_10,white river group,"{108,8,10,""White River Group""}",,1,0.996
+121549,overlappingpdfs.138462.pdf.task,formation,ROCK_DOC_overlappingpdfs.138462.pdf.task_613_8_9,kern river formation,"{613,8,9,""Kern River""}",,1,1
+53637,overlappingpdfs.138573.pdf.task,bed,ROCK_DOC_overlappingpdfs.138573.pdf.task_6532_9_10,bone bed formation,"{6532,9,10,""Bone Bed""}",,1,0.998
+37629,overlappingpdfs.136149.pdf.task,formation,ROCK_DOC_overlappingpdfs.136149.pdf.task_840_6_7,portilla formation,"{840,6,7,""Portilla Formation""}",,1,0.996
+91147,overlappingpdfs.138519.pdf.task,beds,ROCK_DOC_overlappingpdfs.138519.pdf.task_6494_30_32,snake creek beds formation,"{6494,30,32,""Snake Creek Beds""}",,1,0.998
+118987,overlappingpdfs.133084.pdf.task,formation,ROCK_DOC_overlappingpdfs.133084.pdf.task_403_4_5,kota formation,"{403,4,5,""Kota Formation""}",,1,1
+99126,overlappingpdfs.132955.pdf.task,formation,ROCK_DOC_overlappingpdfs.132955.pdf.task_1222_10_11,oxford formation,"{1222,10,11,""Oxford Formation""}",,1,0.996
+58508,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_5629_18_18,day formation,"{5629,18,18,Day}",,1,1
+65280,overlappingpdfs.135573.pdf.task,formation,ROCK_DOC_overlappingpdfs.135573.pdf.task_242_13_14,dengying formation,"{242,13,14,""Dengying Formation""}",,1,1
+81500,overlappingpdfs.136616.pdf.task,formation,ROCK_DOC_overlappingpdfs.136616.pdf.task_660_9_10,wewoka formation,"{660,9,10,""Wewoka Formation""}",,1,0.999
+96063,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_2446_19_19,murphy member,"{2446,19,19,Murphy}",,1,1
+90778,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_5091_10_10,creek ash,"{5091,10,10,Creek}",,1,0.995
+57271,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_1787_56_57,brule formation,"{1787,56,57,""Brule Formation""}",,1,0.999
+94483,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1006_8_9,sheep creek formation,"{1006,8,9,""Sheep Creek""}",,1,0.996
+35769,overlappingpdfs.132359.pdf.task,slate,ROCK_DOC_overlappingpdfs.132359.pdf.task_756_13_13,rhenish slate,"{756,13,13,Rhenish}",,1,0.996
+109631,overlappingpdfs.133053.pdf.task,formation,ROCK_DOC_overlappingpdfs.133053.pdf.task_524_2_2,fermeuse formation,"{524,2,2,Fermeuse}",,1,0.996
+112316,overlappingpdfs.130182.pdf.task,shale,ROCK_DOC_overlappingpdfs.130182.pdf.task_907_17_17,alum shale,"{907,17,17,Alum}",,1,1
+121419,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_232_11_11,hill sand,"{232,11,11,Hill}",,1,1
+144728,overlappingpdfs.138624.pdf.task,shale,ROCK_DOC_overlappingpdfs.138624.pdf.task_3527_0_0,wanakah shale,"{3527,0,0,Wanakah}",,1,0.996
+30819,overlappingpdfs.131419.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131419.pdf.task_132_14_15,martin limestone formation,"{132,14,15,""Martin Limestone""}",,1,1
+37016,overlappingpdfs.136149.pdf.task,formation,ROCK_DOC_overlappingpdfs.136149.pdf.task_847_18_19,ogilvie formation,"{847,18,19,""Ogilvie Formation""}",,1,0.996
+126390,overlappingpdfs.131179.pdf.task,formation,ROCK_DOC_overlappingpdfs.131179.pdf.task_158_17_17,ahmar formation,"{158,17,17,Ahmar}",,1,1
+47082,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_828_9_10,john day formation,"{828,9,10,""John Day""}",,1,1
+128093,overlappingpdfs.135478.pdf.task,formation,ROCK_DOC_overlappingpdfs.135478.pdf.task_192_0_0,moenkopi formation,"{192,0,0,Moenkopi}",,1,1
+89221,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2264_17_18,snake creek formation,"{2264,17,18,""Snake Creek""}",,1,0.996
+134374,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_1719_5_5,sekwi formation,"{1719,5,5,Sekwi}",,1,0.996
+138447,overlappingpdfs.132315.pdf.task,formation,ROCK_DOC_overlappingpdfs.132315.pdf.task_437_2_3,bayan mandahu formation,"{437,2,3,""Bayan Mandahu""}",,1,1
+101185,overlappingpdfs.138538.pdf.task,formation,ROCK_DOC_overlappingpdfs.138538.pdf.task_169_19_19,gamoneda formation,"{169,19,19,Gamoneda}",,1,1
+24809,overlappingpdfs.132629.pdf.task,group,ROCK_DOC_overlappingpdfs.132629.pdf.task_418_6_6,wealden group,"{418,6,6,Wealden}",,1,0.996
+33025,overlappingpdfs.132446.pdf.task,formation,ROCK_DOC_overlappingpdfs.132446.pdf.task_45_1_1,messel formation,"{45,1,1,Messel}",,1,1
+84303,overlappingpdfs.132608.pdf.task,clay,ROCK_DOC_overlappingpdfs.132608.pdf.task_47_0_0,london clay,"{47,0,0,LONDON}",,1,0.996
+24820,overlappingpdfs.132629.pdf.task,group,ROCK_DOC_overlappingpdfs.132629.pdf.task_467_5_5,wealden group,"{467,5,5,Wealden}",,1,1
+108405,overlappingpdfs.132708.pdf.task,formation,ROCK_DOC_overlappingpdfs.132708.pdf.task_48_39_39,nemegt formation,"{48,39,39,Nemegt}",,1,0.992
+55605,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_3993_16_16,dogtown member,"{3993,16,16,Dogtown}",,1,0.998
+53601,overlappingpdfs.138573.pdf.task,formation,ROCK_DOC_overlappingpdfs.138573.pdf.task_5925_0_0,alachua formation,"{5925,0,0,Alachua}",,1,0.998
+72670,overlappingpdfs.132440.pdf.task,oolite,ROCK_DOC_overlappingpdfs.132440.pdf.task_961_9_9,great oolite,"{961,9,9,Great}",,1,0.996
+128217,overlappingpdfs.132439.pdf.task,formation,ROCK_DOC_overlappingpdfs.132439.pdf.task_824_9_9,moenkopi formation,"{824,9,9,Moenkopi}",,1,0.996
+6995,overlappingpdfs.130847.pdf.task,group,ROCK_DOC_overlappingpdfs.130847.pdf.task_16_4_4,hamilton group,"{16,4,4,Hamilton}",,1,0.996
+117779,overlappingpdfs.132317.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132317.pdf.task_116_0_1,newspaper sandstone,"{116,0,1,""Newspaper Sandstone""}",,1,1
+90909,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_5417_14_15,snake creek formation,"{5417,14,15,""Snake Creek""}",,1,1
+152317,overlappingpdfs.132928.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132928.pdf.task_133_8_8,scalpa sandstone,"{133,8,8,Scalpa}",,1,0.996
+46947,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_604_21_22,balm creek member,"{604,21,22,""Balm Creek""}",,1,1
+79009,overlappingpdfs.132699.pdf.task,formation,ROCK_DOC_overlappingpdfs.132699.pdf.task_21_14_15,morrison formation,"{21,14,15,""Morrison Formation""}",,1,0.996
+63741,overlappingpdfs.133475.pdf.task,formation,ROCK_DOC_overlappingpdfs.133475.pdf.task_56_25_25,jiufotang formation,"{56,25,25,Jiufotang}",,1,0.999
+95858,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_2304_3_3,murphy member,"{2304,3,3,Murphy}",,1,1
+101749,overlappingpdfs.132095.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132095.pdf.task_1276_8_9,iurassic navajo sandstone,"{1276,8,9,""Iurassic Navajo""}",,1,1
+139897,overlappingpdfs.135723.pdf.task,formation,ROCK_DOC_overlappingpdfs.135723.pdf.task_243_31_32,santana formation,"{243,31,32,""Santana Formation""}",,1,0.996
+16179,overlappingpdfs.138449.pdf.task,group,ROCK_DOC_overlappingpdfs.138449.pdf.task_237_19_19,montana group,"{237,19,19,Montana}",,1,0.996
+111744,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_1920_8_9,khuff formation,"{1920,8,9,""KHUFF FORMATION""}",,1,0.997
+142989,overlappingpdfs.132176.pdf.task,group,ROCK_DOC_overlappingpdfs.132176.pdf.task_1003_22_23,hantaishan group,"{1003,22,23,""Hantaishan Group""}",,1,0.996
+81864,overlappingpdfs.132230.pdf.task,formation,ROCK_DOC_overlappingpdfs.132230.pdf.task_593_1_1,crato formation,"{593,1,1,Crato}",,1,1
+95642,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2181_12_13,sheep creek formation,"{2181,12,13,""Sheep Creek""}",,1,1
+45389,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_2793_5_7,john day formation,"{2793,5,7,""JOHN DAY FORMATION""}",,1,1
+9387,overlappingpdfs.132944.pdf.task,formation,ROCK_DOC_overlappingpdfs.132944.pdf.task_293_5_6,tlayiia formation,"{293,5,6,""Tlayiia Formation""}",,1,0.996
+126202,overlappingpdfs.132592.pdf.task,group,ROCK_DOC_overlappingpdfs.132592.pdf.task_595_16_17,tetori group,"{595,16,17,""Tetori Group""}",,1,0.996
+54806,overlappingpdfs.135881.pdf.task,member,ROCK_DOC_overlappingpdfs.135881.pdf.task_30_14_14,kbs member,"{30,14,14,KBS}",,1,1
+21693,overlappingpdfs.132363.pdf.task,member,ROCK_DOC_overlappingpdfs.132363.pdf.task_112_9_9,zhongyicun member,"{112,9,9,Zhongyicun}",,1,1
+6386,overlappingpdfs.135545.pdf.task,formation,ROCK_DOC_overlappingpdfs.135545.pdf.task_67_29_30,wellington formation,"{67,29,30,""Wellington Formation""}",,1,0.996
+131961,overlappingpdfs.133122.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133122.pdf.task_838_14_15,alcova limestone formation,"{838,14,15,""Alcova Limestone""}",,1,0.996
+58228,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_2843_12_13,turtle cove member,"{2843,12,13,""Turtle Cove""}",,1,1
+91719,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_509_6_7,chihsia formation,"{509,6,7,""Chihsia Formation""}",,1,0.996
+128061,overlappingpdfs.135478.pdf.task,member,ROCK_DOC_overlappingpdfs.135478.pdf.task_144_0_0,wupatki member,"{144,0,0,Wupatki}",,1,0.996
+14090,overlappingpdfs.136141.pdf.task,formation,ROCK_DOC_overlappingpdfs.136141.pdf.task_762_11_11,bighorn formation,"{762,11,11,Bighorn}",,1,0.996
+31854,overlappingpdfs.135114.pdf.task,group,ROCK_DOC_overlappingpdfs.135114.pdf.task_11_4_4,group group,"{11,4,4,group}",,1,0.996
+4462,overlappingpdfs.132547.pdf.task,formation,ROCK_DOC_overlappingpdfs.132547.pdf.task_953_11_11,limestone formation,"{953,11,11,Limestone}",,1,1
+141922,overlappingpdfs.138540.pdf.task,beds,ROCK_DOC_overlappingpdfs.138540.pdf.task_1585_6_8,deep river beds formation,"{1585,6,8,""Deep River Beds""}",,1,1
+94697,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_1201_2_2,west sand,"{1201,2,2,west}",,1,1
+136999,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_2119_5_5,gualala formation,"{2119,5,5,Gualala}",,1,1
+92420,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_499_26_27,nacimiento formation,"{499,26,27,""Nacimiento Formation""}",,1,0.994
+129422,overlappingpdfs.132951.pdf.task,siltstone,ROCK_DOC_overlappingpdfs.132951.pdf.task_68_2_2,wyke siltstone,"{68,2,2,Wyke}",,1,1
+42556,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_670_33_33,day formation,"{670,33,33,Day}",,1,1
+28903,overlappingpdfs.132400.pdf.task,beds,ROCK_DOC_overlappingpdfs.132400.pdf.task_456_12_13,pseudanomocarina beds formation,"{456,12,13,""Pseudanomocarina Beds""}",,1,0.996
+130922,overlappingpdfs.132226.pdf.task,formation,ROCK_DOC_overlappingpdfs.132226.pdf.task_33_17_18,nova ves formation,"{33,17,18,""Nova Ves""}",,1,0.994
+107500,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_645_4_6,kap jackson formation,"{645,4,6,""Kap Jackson Formation""}",,1,1
+67659,overlappingpdfs.131691.pdf.task,beds,ROCK_DOC_overlappingpdfs.131691.pdf.task_256_13_14,red beds formation,"{256,13,14,""Red Beds""}",,1,1
+7357,overlappingpdfs.137499.pdf.task,formation,ROCK_DOC_overlappingpdfs.137499.pdf.task_374_22_22,bridger formation,"{374,22,22,Bridger}",,1,1
+136093,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_1107_70_71,cabrillo formation,"{1107,70,71,""Cabrillo Formation""}",,1,1
+117048,overlappingpdfs.132435.pdf.task,formation,ROCK_DOC_overlappingpdfs.132435.pdf.task_5_0_0,guanling formation,"{5,0,0,GUANLING}",,1,1
+27558,overlappingpdfs.133300.pdf.task,clay,ROCK_DOC_overlappingpdfs.133300.pdf.task_599_6_6,london clay,"{599,6,6,London}",,1,0.999
+141666,overlappingpdfs.132652.pdf.task,formation,ROCK_DOC_overlappingpdfs.132652.pdf.task_411_16_16,wallumbilla formation,"{411,16,16,Wallumbilla}",,1,0.995
+131318,overlappingpdfs.133063.pdf.task,member,ROCK_DOC_overlappingpdfs.133063.pdf.task_128_25_26,grange hill member,"{128,25,26,""Grange Hill""}",,1,1
+94757,overlappingpdfs.138519.pdf.task,group,ROCK_DOC_overlappingpdfs.138519.pdf.task_1233_0_0,hemingford group,"{1233,0,0,HEMINGFORD}",,1,1
+118777,overlappingpdfs.132317.pdf.task,formation,ROCK_DOC_overlappingpdfs.132317.pdf.task_8_20_20,chinle formation,"{8,20,20,Chinle}",,1,0.99
+141805,overlappingpdfs.1370.pdf.task,member,ROCK_DOC_overlappingpdfs.1370.pdf.task_240_16_16,holbrook member,"{240,16,16,Holbrook}",,1,0.996
+12671,overlappingpdfs.131777.pdf.task,formation,ROCK_DOC_overlappingpdfs.131777.pdf.task_738_0_0,foreknobs formation,"{738,0,0,Foreknobs}",,1,0.996
+47843,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1773_15_16,john day formation,"{1773,15,16,""John Day""}",,1,0.999
+26581,overlappingpdfs.138384.pdf.task,formation,ROCK_DOC_overlappingpdfs.138384.pdf.task_914_11_11,debeque formation,"{914,11,11,DeBeque}",,1,1
+27177,overlappingpdfs.132725.pdf.task,formation,ROCK_DOC_overlappingpdfs.132725.pdf.task_56_19_20,niobrara formation,"{56,19,20,""Niobrara Formation""}",,1,0.996
+66509,overlappingpdfs.132666.pdf.task,formation,ROCK_DOC_overlappingpdfs.132666.pdf.task_70_16_18,bluewater creek formation,"{70,16,18,""Bluewater Creek Formation""}",,1,0.996
+145662,overlappingpdfs.138453.pdf.task,member,ROCK_DOC_overlappingpdfs.138453.pdf.task_2222_0_1,windom member,"{2222,0,1,""Windom Member""}",,1,1
+73234,overlappingpdfs.136699.pdf.task,member,ROCK_DOC_overlappingpdfs.136699.pdf.task_91_73_73,blizzard member,"{91,73,73,Blizzard}",,1,1
+68699,overlappingpdfs.138083.pdf.task,sandstones,ROCK_DOC_overlappingpdfs.138083.pdf.task_1001_0_0,pondaung sandstones,"{1001,0,0,Pondaung}",,1,0.996
+24909,overlappingpdfs.132261.pdf.task,group,ROCK_DOC_overlappingpdfs.132261.pdf.task_22_17_17,stem group,"{22,17,17,stem}",,1,0.988
+106986,overlappingpdfs.131702.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131702.pdf.task_267_7_9,currant bush limestone formation,"{267,7,9,""Currant Bush Limestone""}",,1,1
+123990,overlappingpdfs.131439.pdf.task,member,ROCK_DOC_overlappingpdfs.131439.pdf.task_98_7_10,dunhill bluff limestone member,"{98,7,10,""Dunhill Bluff Limestone Member""}",,1,1
+14587,overlappingpdfs.138679.pdf.task,member,ROCK_DOC_overlappingpdfs.138679.pdf.task_3505_15_16,sage breaks member,"{3505,15,16,""Sage Breaks""}",,1,0.999
+13943,overlappingpdfs.131777.pdf.task,formation,ROCK_DOC_overlappingpdfs.131777.pdf.task_502_7_7,foreknobs formation,"{502,7,7,Foreknobs}",,1,1
+42488,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_462_41_41,valley member,"{462,41,41,valley}",,1,0.996
+25061,overlappingpdfs.138465.pdf.task,marl,ROCK_DOC_overlappingpdfs.138465.pdf.task_323_31_31,manchester marl,"{323,31,31,Manchester}",,1,0.996
+57152,overlappingpdfs.138644.pdf.task,group,ROCK_DOC_overlappingpdfs.138644.pdf.task_41_1_2,genus group,"{41,1,2,""GENUS GROUP""}",,1,0.999
+57689,overlappingpdfs.13295.pdf.task,clay,ROCK_DOC_overlappingpdfs.13295.pdf.task_15_8_8,kimmeridge clay,"{15,8,8,KIMMERIDGE}",,1,1
+33382,overlappingpdfs.138026.pdf.task,formation,ROCK_DOC_overlappingpdfs.138026.pdf.task_1379_39_40,bone valley formation,"{1379,39,40,""Bone Valley""}",,1,0.996
+142785,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_2325_4_5,mahantango formation,"{2325,4,5,""Mahantango Formation""}",,1,1
+111233,overlappingpdfs.132583.pdf.task,formation,ROCK_DOC_overlappingpdfs.132583.pdf.task_314_20_21,bromsgrove sandstone formation,"{314,20,21,""Bromsgrove Sandstone""}",,1,1
+120099,overlappingpdfs.132594.pdf.task,formation,ROCK_DOC_overlappingpdfs.132594.pdf.task_21_2_3,valdemiedes formation,"{21,2,3,""Valdemiedes Formation""}",,1,0.996
+126258,overlappingpdfs.132581.pdf.task,member,ROCK_DOC_overlappingpdfs.132581.pdf.task_595_2_4,nodular beds member,"{595,2,4,""Nodular Beds Member""}",,1,0.996
+66131,overlappingpdfs.132367.pdf.task,member,ROCK_DOC_overlappingpdfs.132367.pdf.task_815_8_8,kathwai member,"{815,8,8,Kathwai}",,1,0.996
+126369,overlappingpdfs.130860.pdf.task,limestone,ROCK_DOC_overlappingpdfs.130860.pdf.task_517_14_15,tamala limestone formation,"{517,14,15,""Tamala Limestone""}",,1,0.999
+44045,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_2255_13_13,harrison formation,"{2255,13,13,Harrison}",,1,1
+60108,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_929_8_9,tinton formation,"{929,8,9,""Tinton Formation""}",,1,1
+129977,overlappingpdfs.136536.pdf.task,member,ROCK_DOC_overlappingpdfs.136536.pdf.task_209_5_6,seneca member,"{209,5,6,""Seneca Member""}",,1,1
+41923,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_43_20_21,john day formation,"{43,20,21,""John Day""}",,1,1
+58877,overlappingpdfs.138622.pdf.task,beds,ROCK_DOC_overlappingpdfs.138622.pdf.task_7028_83_84,oreodon beds formation,"{7028,83,84,""Oreodon beds""}",,1,0.998
+11141,overlappingpdfs.138450.pdf.task,member,ROCK_DOC_overlappingpdfs.138450.pdf.task_2229_1_1,shale member,"{2229,1,1,Shale}",,1,1
+149704,overlappingpdfs.133047.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133047.pdf.task_463_5_6,pillara limestone formation,"{463,5,6,""Pillara Limestone""}",,1,0.996
+92897,overlappingpdfs.132162.pdf.task,formation,ROCK_DOC_overlappingpdfs.132162.pdf.task_52_24_24,yixian formation,"{52,24,24,Yixian}",,1,1
+144618,overlappingpdfs.138624.pdf.task,group,ROCK_DOC_overlappingpdfs.138624.pdf.task_3003_28_28,albany group,"{3003,28,28,Albany}",,1,0.996
+151708,overlappingpdfs.136471.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136471.pdf.task_85_9_10,steinvika limestone formation,"{85,9,10,""Steinvika Limestone""}",,1,1
+143855,overlappingpdfs.138453.pdf.task,member,ROCK_DOC_overlappingpdfs.138453.pdf.task_671_20_20,wanakah member,"{671,20,20,Wanakah}",,1,0.996
+52307,overlappingpdfs.133275.pdf.task,formation,ROCK_DOC_overlappingpdfs.133275.pdf.task_78_0_1,fron frys formation,"{78,0,1,""Fron Frys""}",,1,1
+42064,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_179_15_15,day formation,"{179,15,15,Day}",,1,0.996
+43205,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1567_13_14,john day formation,"{1567,13,14,""John Day""}",,1,0.999
+8683,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_2207_1_1,creek formation,"{2207,1,1,Creek}",,1,1
+110764,overlappingpdfs.133113.pdf.task,formation,ROCK_DOC_overlappingpdfs.133113.pdf.task_811_6_6,santana formation,"{811,6,6,Santana}",,1,1
+130673,overlappingpdfs.131528.pdf.task,formation,ROCK_DOC_overlappingpdfs.131528.pdf.task_314_6_6,whitewater formation,"{314,6,6,Whitewater}",,1,1
+21204,overlappingpdfs.132730.pdf.task,formation,ROCK_DOC_overlappingpdfs.132730.pdf.task_344_8_8,santana formation,"{344,8,8,Santana}",,1,0.996
+150374,overlappingpdfs.138482.pdf.task,formation,ROCK_DOC_overlappingpdfs.138482.pdf.task_1006_29_29,dinwoody formation,"{1006,29,29,Dinwoody}",,1,0.996
+47585,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1529_3_4,rose creek member,"{1529,3,4,""RosE CREEK""}",,1,0.996
+135119,overlappingpdfs.133261.pdf.task,coal,ROCK_DOC_overlappingpdfs.133261.pdf.task_314_7_7,sanlianhe coal,"{314,7,7,Sanlianhe}",,1,0.995
+151256,overlappingpdfs.133047.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133047.pdf.task_5_13_14,pillara limestone formation,"{5,13,14,""Pillara Limestone""}",,1,0.996
+62809,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_1781_26_27,hornerstown formation,"{1781,26,27,""Hornerstown Formation""}",,1,1
+61682,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_1142_25_25,tinton formation,"{1142,25,25,Tinton}",,1,1
+108528,overlappingpdfs.132098.pdf.task,group,ROCK_DOC_overlappingpdfs.132098.pdf.task_49_44_45,washington land group,"{49,44,45,""Washington Land""}",,1,1
+122860,overlappingpdfs.132859.pdf.task,formation,ROCK_DOC_overlappingpdfs.132859.pdf.task_545_9_9,lance formation,"{545,9,9,Lance}",,1,1
+82162,overlappingpdfs.132771.pdf.task,formation,ROCK_DOC_overlappingpdfs.132771.pdf.task_767_5_7,red sandstone formation,"{767,5,7,""Red Sandstone Formation""}",,1,1
+44037,overlappingpdfs.138707.pdf.task,group,ROCK_DOC_overlappingpdfs.138707.pdf.task_2246_36_36,arikaree group,"{2246,36,36,Arikaree}",,1,0.996
+78060,overlappingpdfs.132401.pdf.task,clay,ROCK_DOC_overlappingpdfs.132401.pdf.task_579_15_16,oxford clay,"{579,15,16,""Oxford Clay""}",,1,0.98
+100471,overlappingpdfs.132095.pdf.task,formation,ROCK_DOC_overlappingpdfs.132095.pdf.task_21_2_4,los colorados formation,"{21,2,4,""Los Colorados Formation""}",,1,0.999
+42174,overlappingpdfs.138707.pdf.task,group,ROCK_DOC_overlappingpdfs.138707.pdf.task_243_62_63,picture gorge group,"{243,62,63,""Picture Gorge""}",,1,1
+121600,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_1114_7_7,jewett sand,"{1114,7,7,jewett}",,1,0.996
+106157,overlappingpdfs.132655.pdf.task,group,ROCK_DOC_overlappingpdfs.132655.pdf.task_595_14_16,purbeck limestone group,"{595,14,16,""Purbeck Limestone Group""}",,1,1
+114231,overlappingpdfs.132412.pdf.task,formation,ROCK_DOC_overlappingpdfs.132412.pdf.task_26_9_9,amdeh formation,"{26,9,9,Amdeh}",,1,0.997
+58881,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_7028_127_127,scenic member,"{7028,127,127,Scenic}",,1,0.999
+105710,overlappingpdfs.132453.pdf.task,formation,ROCK_DOC_overlappingpdfs.132453.pdf.task_146_3_6,pterosaur from the crato formation,"{146,3,6,""PTEROSAUR FROM THE CRATO""}",,1,1
+27722,overlappingpdfs.132840.pdf.task,formation,ROCK_DOC_overlappingpdfs.132840.pdf.task_31_24_24,hsiangyang formation,"{31,24,24,Hsiangyang}",,1,1
+91537,overlappingpdfs.138519.pdf.task,group,ROCK_DOC_overlappingpdfs.138519.pdf.task_42_0_1,hemingford group,"{42,0,1,""Hemingford Group""}",,1,1
+1101,overlappingpdfs.132547.pdf.task,member,ROCK_DOC_overlappingpdfs.132547.pdf.task_617_41_42,quarried limestone member,"{617,41,42,""Quarried Limestone""}",,1,1
+72997,overlappingpdfs.133007.pdf.task,member,ROCK_DOC_overlappingpdfs.133007.pdf.task_151_12_13,linstone chine member,"{151,12,13,""Linstone Chine""}",,1,1
+82869,overlappingpdfs.132482.pdf.task,formation,ROCK_DOC_overlappingpdfs.132482.pdf.task_59_25_28,santa clara abajo formation,"{59,25,28,""Santa Clara Abajo Formation""}",,1,0.978
+1863,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_649_0_0,harrison formation,"{649,0,0,Harrison}",,1,1
+71740,overlappingpdfs.136699.pdf.task,member,ROCK_DOC_overlappingpdfs.136699.pdf.task_391_18_18,blizzard member,"{391,18,18,Blizzard}",,1,1
+134084,overlappingpdfs.132899.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132899.pdf.task_6_28_30,mule spring limestone formation,"{6,28,30,""Mule Spring Limestone""}",,1,0.996
+145552,overlappingpdfs.138624.pdf.task,shale,ROCK_DOC_overlappingpdfs.138624.pdf.task_5483_0_1,windom shale,"{5483,0,1,""Windom Shale""}",,1,0.995
+101078,overlappingpdfs.136837.pdf.task,shale,ROCK_DOC_overlappingpdfs.136837.pdf.task_17_1_1,waldron shale,"{17,1,1,Waldron}",,1,0.996
+16298,overlappingpdfs.138449.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138449.pdf.task_421_36_36,eagle sandstone,"{421,36,36,Eagle}",,1,1
+112401,overlappingpdfs.132283.pdf.task,formation,ROCK_DOC_overlappingpdfs.132283.pdf.task_1256_5_5,gowers formation,"{1256,5,5,Gowers}",,1,0.996
+73766,overlappingpdfs.138834.pdf.task,formation,ROCK_DOC_overlappingpdfs.138834.pdf.task_1528_18_19,winton formation,"{1528,18,19,""Winton Formation""}",,1,0.996
+42603,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_764_6_7,rose creek member,"{764,6,7,""Rose Creek""}",,1,1
+81993,overlappingpdfs.132762.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132762.pdf.task_17_10_11,colalura sandstone,"{17,10,11,""Colalura Sandstone""}",,1,0.996
+139288,overlappingpdfs.133414.pdf.task,formation,ROCK_DOC_overlappingpdfs.133414.pdf.task_663_14_15,daohugou formation,"{663,14,15,""Daohugou Formation""}",,1,0.996
+153396,overlappingpdfs.132458.pdf.task,formation,ROCK_DOC_overlappingpdfs.132458.pdf.task_575_5_5,wessex formation,"{575,5,5,Wessex}",,1,1
+86882,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_499_26_26,nacimiento formation,"{499,26,26,Nacimiento}",,1,0.994
+110935,overlappingpdfs.132583.pdf.task,member,ROCK_DOC_overlappingpdfs.132583.pdf.task_1413_2_2,wupatki member,"{1413,2,2,Wupatki}",,1,0.996
+8625,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_1973_8_8,creek formation,"{1973,8,8,Creek}",,1,1
+44435,overlappingpdfs.1393.pdf.task,formation,ROCK_DOC_overlappingpdfs.1393.pdf.task_163_33_33,pardonet formation,"{163,33,33,Pardonet}",,1,0.996
+86014,overlappingpdfs.138393.pdf.task,formation,ROCK_DOC_overlappingpdfs.138393.pdf.task_1326_14_15,chinle formation,"{1326,14,15,""Chinle Formation""}",,1,0.996
+68138,overlappingpdfs.135736.pdf.task,shale,ROCK_DOC_overlappingpdfs.135736.pdf.task_301_9_9,burgess shale,"{301,9,9,Burgess}",,1,0.995
+22702,overlappingpdfs.131458.pdf.task,formation,ROCK_DOC_overlappingpdfs.131458.pdf.task_10_7_7,range formation,"{10,7,7,Range}",,1,0.996
+144303,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_2559_0_1,cedar valley formation,"{2559,0,1,""Cedar Valley""}",,1,1
+86134,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_5929_18_20,fort union formation,"{5929,18,20,""Fort Union Formation""}",,1,0.996
+17425,overlappingpdfs.138449.pdf.task,shale,ROCK_DOC_overlappingpdfs.138449.pdf.task_5258_4_4,pakowki shale,"{5258,4,4,Pakowki}",,1,0.996
+143026,overlappingpdfs.138624.pdf.task,group,ROCK_DOC_overlappingpdfs.138624.pdf.task_63_45_46,hamilton group,"{63,45,46,""Hamilton Group""}",,1,0.904
+92593,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_4189_31_32,olcott formation,"{4189,31,32,""Olcott Formation""}",,1,1
+145282,overlappingpdfs.136763.pdf.task,formation,ROCK_DOC_overlappingpdfs.136763.pdf.task_69_2_3,crown point formation,"{69,2,3,""Crown Point""}",,1,1
+114715,overlappingpdfs.137213.pdf.task,group,ROCK_DOC_overlappingpdfs.137213.pdf.task_1858_0_0,chester group,"{1858,0,0,Chester}",,1,1
+16106,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_204_27_27,river formation,"{204,27,27,River}",,1,0.996
+121061,overlappingpdfs.131915.pdf.task,shale,ROCK_DOC_overlappingpdfs.131915.pdf.task_40_36_36,waldron shale,"{40,36,36,Waldron}",,1,1
+116121,overlappingpdfs.132435.pdf.task,formation,ROCK_DOC_overlappingpdfs.132435.pdf.task_332_8_8,laishike formation,"{332,8,8,Laishike}",,1,1
+14846,overlappingpdfs.132858.pdf.task,formation,ROCK_DOC_overlappingpdfs.132858.pdf.task_1037_10_11,cutler formation,"{1037,10,11,""Cutler Formation""}",,1,0.996
+58453,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_4633_0_0,harrison formation,"{4633,0,0,Harrison}",,1,1
+148041,overlappingpdfs.138624.pdf.task,group,ROCK_DOC_overlappingpdfs.138624.pdf.task_3299_16_16,hamilton group,"{3299,16,16,Hamilton}",,1,1
+90018,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_3508_10_11,snake creek formation,"{3508,10,11,""Snake Creek""}",,1,1
+99296,overlappingpdfs.133075.pdf.task,formation,ROCK_DOC_overlappingpdfs.133075.pdf.task_222_10_10,shenjiawan formation,"{222,10,10,Shenjiawan}",,1,0.996
+72270,overlappingpdfs.132440.pdf.task,group,ROCK_DOC_overlappingpdfs.132440.pdf.task_140_21_23,great oolite group,"{140,21,23,""Great Oolite Group""}",,1,1
+139545,overlappingpdfs.136084.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.136084.pdf.task_247_10_10,flathead sandstone,"{247,10,10,Flathead}",,1,0.996
+63455,overlappingpdfs.132120.pdf.task,formation,ROCK_DOC_overlappingpdfs.132120.pdf.task_1014_12_12,clearwater formation,"{1014,12,12,Clearwater}",,1,1
+32496,overlappingpdfs.132965.pdf.task,group,ROCK_DOC_overlappingpdfs.132965.pdf.task_716_6_7,tetori group,"{716,6,7,""Tetori Group""}",,1,1
+68931,overlappingpdfs.132687.pdf.task,group,ROCK_DOC_overlappingpdfs.132687.pdf.task_450_19_20,drummuck group,"{450,19,20,""Drummuck Group""}",,1,0.996
+21777,overlappingpdfs.132363.pdf.task,group,ROCK_DOC_overlappingpdfs.132363.pdf.task_533_8_8,eohalobia group,"{533,8,8,Eohalobia}",,1,0.996
+17722,overlappingpdfs.132003.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132003.pdf.task_255_11_13,bowan park limestone formation,"{255,11,13,""Bowan Park Limestone""}",,1,1
+108154,overlappingpdfs.133053.pdf.task,formation,ROCK_DOC_overlappingpdfs.133053.pdf.task_81_0_1,mistaken point formation,"{81,0,1,""MISTAKEN POINT""}",,1,1
+32287,overlappingpdfs.132964.pdf.task,formation,ROCK_DOC_overlappingpdfs.132964.pdf.task_391_29_30,alum shale formation,"{391,29,30,""Alum Shale""}",,1,0.995
+57920,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_1502_9_10,turtle cove member,"{1502,9,10,""Turtle Cove""}",,1,1
+43980,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_2223_7_7,twickenham member,"{2223,7,7,Twickenham}",,1,1
+148781,overlappingpdfs.130524.pdf.task,shale,ROCK_DOC_overlappingpdfs.130524.pdf.task_60_30_30,vanport shale,"{60,30,30,Vanport}",,1,0.996
+141005,overlappingpdfs.138540.pdf.task,formation,ROCK_DOC_overlappingpdfs.138540.pdf.task_1626_20_22,sheep creek formation,"{1626,20,22,""Sheep Creek Formation""}",,1,0.995
+153661,overlappingpdfs.138272.pdf.task,formation,ROCK_DOC_overlappingpdfs.138272.pdf.task_2303_14_15,bone spring formation,"{2303,14,15,""Bone Spring""}",,1,0.996
+150269,overlappingpdfs.133047.pdf.task,limestone,ROCK_DOC_overlappingpdfs.133047.pdf.task_422_5_6,pillara limestone formation,"{422,5,6,""Pillara Limestone""}",,1,0.996
+94583,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_1096_2_2,type member,"{1096,2,2,Type}",,1,1
+149476,overlappingpdfs.135390.pdf.task,formation,ROCK_DOC_overlappingpdfs.135390.pdf.task_238_45_45,antimonio formation,"{238,45,45,Antimonio}",,1,0.996
+14474,overlappingpdfs.138679.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138679.pdf.task_345_7_7,semilla sandstone,"{345,7,7,Semilla}",,1,1
+10260,overlappingpdfs.136715.pdf.task,formation,ROCK_DOC_overlappingpdfs.136715.pdf.task_52_4_4,delorme formation,"{52,4,4,Delorme}",,1,1
+96635,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_3708_3_3,west sand,"{3708,3,3,West}",,1,1
+86469,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_60_0_0,bingma formation,"{60,0,0,Bingma}",,1,0.996
+40861,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_2256_45_46,marsland formation,"{2256,45,46,""Marsland Formation""}",,1,1
+126147,overlappingpdfs.136624.pdf.task,clay,ROCK_DOC_overlappingpdfs.136624.pdf.task_306_7_8,kalby clay,"{306,7,8,""Kalby Clay""}",,1,1
+69315,overlappingpdfs.131.pdf.task,formation,ROCK_DOC_overlappingpdfs.131.pdf.task_885_11_11,tendaguru formation,"{885,11,11,Tendaguru}",,1,0.996
+143973,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_1528_5_5,marcellus formation,"{1528,5,5,Marcellus}",,1,0.996
+85347,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2889_22_24,snake creek formation,"{2889,22,24,""Snake Creek Formation""}",,1,0.996
+60827,overlappingpdfs.132612.pdf.task,formation,ROCK_DOC_overlappingpdfs.132612.pdf.task_53_6_6,mernmerna formation,"{53,6,6,Mernmerna}",,1,1
+71154,overlappingpdfs.133007.pdf.task,member,ROCK_DOC_overlappingpdfs.133007.pdf.task_45_50_51,bembridge marls member,"{45,50,51,""Bembridge Marls""}",,1,0.996
+85810,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_1897_17_18,willwood formation,"{1897,17,18,""Willwood Formation""}",,1,1
+74998,overlappingpdfs.138834.pdf.task,formation,ROCK_DOC_overlappingpdfs.138834.pdf.task_1482_7_8,glen rose formation,"{1482,7,8,""Glen Rose""}",,1,1
+59549,overlappingpdfs.138658.pdf.task,shale,ROCK_DOC_overlappingpdfs.138658.pdf.task_2812_13_14,kashong shale,"{2812,13,14,""Kashong Shale""}",,1,0.997
+76552,overlappingpdfs.132969.pdf.task,group,ROCK_DOC_overlappingpdfs.132969.pdf.task_26_16_16,ammonite group,"{26,16,16,ammonite}",,1,1
+30722,overlappingpdfs.133017.pdf.task,member,ROCK_DOC_overlappingpdfs.133017.pdf.task_63_1_2,nova olinda member,"{63,1,2,""Nova Olinda""}",,1,0.996
+101249,overlappingpdfs.138538.pdf.task,formation,ROCK_DOC_overlappingpdfs.138538.pdf.task_2292_83_83,catavi formation,"{2292,83,83,Catavi}",,1,1
+146438,overlappingpdfs.132455.pdf.task,clay,ROCK_DOC_overlappingpdfs.132455.pdf.task_115_15_15,kimmeridge clay,"{115,15,15,Kimmeridge}",,1,0.995
+16727,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_1307_21_22,judith river formation,"{1307,21,22,""Judith River""}",,1,0.996
+37988,overlappingpdfs.132397.pdf.task,formation,ROCK_DOC_overlappingpdfs.132397.pdf.task_927_8_9,crato formation,"{927,8,9,""Crato Formation""}",,1,0.996
+41863,overlappingpdfs.138426.pdf.task,sand,ROCK_DOC_overlappingpdfs.138426.pdf.task_1100_0_0,west sand,"{1100,0,0,West}",,1,1
+120056,overlappingpdfs.136577.pdf.task,formations,ROCK_DOC_overlappingpdfs.136577.pdf.task_480_9_9,overlying formations,"{480,9,9,Overlying}",,1,1
+66996,overlappingpdfs.130651.pdf.task,formation,ROCK_DOC_overlappingpdfs.130651.pdf.task_251_0_0,doushantuo formation,"{251,0,0,Doushantuo}",,1,1
+80561,overlappingpdfs.131614.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131614.pdf.task_29_2_3,onondaga limestone formation,"{29,2,3,""Onondaga Limestone""}",,1,1
+103222,overlappingpdfs.133073.pdf.task,formation,ROCK_DOC_overlappingpdfs.133073.pdf.task_554_33_33,taldyboi formation,"{554,33,33,Taldyboi}",,1,0.996
+38540,overlappingpdfs.132919.pdf.task,supergroup,ROCK_DOC_overlappingpdfs.132919.pdf.task_876_12_12,newark supergroup,"{876,12,12,Newark}",,1,0.996
+27360,overlappingpdfs.138428.pdf.task,greensand,ROCK_DOC_overlappingpdfs.138428.pdf.task_1234_48_49,kokoamu greensand,"{1234,48,49,""Kokoamu Greensand""}",,1,0.999
+121865,overlappingpdfs.137935.pdf.task,group,ROCK_DOC_overlappingpdfs.137935.pdf.task_188_17_17,amphisbaenidae group,"{188,17,17,Amphisbaenidae}",,1,0.996
+78828,overlappingpdfs.136101.pdf.task,formation,ROCK_DOC_overlappingpdfs.136101.pdf.task_108_15_17,el ahmar formation,"{108,15,17,""El Ahmar Formation""}",,1,0.996
+52610,overlappingpdfs.133316.pdf.task,formation,ROCK_DOC_overlappingpdfs.133316.pdf.task_1072_15_16,val gardena formation,"{1072,15,16,""Val Gardena""}",,1,0.996
+21232,overlappingpdfs.133092.pdf.task,shale,ROCK_DOC_overlappingpdfs.133092.pdf.task_537_3_3,burgess shale,"{537,3,3,Burgess}",,1,1
+2226,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_2408_6_6,formation formation,"{2408,6,6,formation}",,1,0.996
+11879,overlappingpdfs.138679.pdf.task,formation,ROCK_DOC_overlappingpdfs.138679.pdf.task_264_0_1,frontier formation,"{264,0,1,""Frontier Formation""}",,1,1
+66447,overlappingpdfs.139713.pdf.task,formation,ROCK_DOC_overlappingpdfs.139713.pdf.task_993_3_3,chico formation,"{993,3,3,Chico}",,1,1
+140535,overlappingpdfs.138540.pdf.task,formation,ROCK_DOC_overlappingpdfs.138540.pdf.task_429_73_73,caliente formation,"{429,73,73,Caliente}",,1,0.996
+137237,overlappingpdfs.132360.pdf.task,group,ROCK_DOC_overlappingpdfs.132360.pdf.task_1112_12_13,bonzana group,"{1112,12,13,""Bonzana Group""}",,1,0.996
+125459,overlappingpdfs.132386.pdf.task,formation,ROCK_DOC_overlappingpdfs.132386.pdf.task_457_46_46,bermont formation,"{457,46,46,Bermont}",,1,0.996
+150429,overlappingpdfs.136273.pdf.task,formation,ROCK_DOC_overlappingpdfs.136273.pdf.task_152_16_16,minija formation,"{152,16,16,Minija}",,1,1
+20053,overlappingpdfs.138449.pdf.task,group,ROCK_DOC_overlappingpdfs.138449.pdf.task_3395_31_31,montana group,"{3395,31,31,Montana}",,1,0.996
+58697,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_6904_1_1,orella member,"{6904,1,1,Orella}",,1,0.999
+13071,overlappingpdfs.138679.pdf.task,member,ROCK_DOC_overlappingpdfs.138679.pdf.task_3516_7_9,turner sandy member,"{3516,7,9,""Turner Sandy Member""}",,1,1
+63427,overlappingpdfs.130805.pdf.task,formation,ROCK_DOC_overlappingpdfs.130805.pdf.task_680_8_8,salem formation,"{680,8,8,Salem}",,1,1
+150843,overlappingpdfs.136471.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136471.pdf.task_385_0_1,steinvika limestone formation,"{385,0,1,""Steinvika Limestone""}",,1,1
+2980,overlappingpdfs.138578.pdf.task,member,ROCK_DOC_overlappingpdfs.138578.pdf.task_4675_16_16,solsville member,"{4675,16,16,Solsville}",,1,0.996
+33506,overlappingpdfs.132965.pdf.task,group,ROCK_DOC_overlappingpdfs.132965.pdf.task_411_5_6,xinminbao group,"{411,5,6,""Xinminbao Group""}",,1,1
+42113,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_212_14_14,day formation,"{212,14,14,Day}",,1,1
+118510,overlappingpdfs.136788.pdf.task,formation,ROCK_DOC_overlappingpdfs.136788.pdf.task_123_27_27,deerhope formation,"{123,27,27,Deerhope}",,1,1
+80987,overlappingpdfs.133025.pdf.task,member,ROCK_DOC_overlappingpdfs.133025.pdf.task_72_11_11,bidestan member,"{72,11,11,Bidestan}",,1,1
+50710,overlappingpdfs.138573.pdf.task,formation,ROCK_DOC_overlappingpdfs.138573.pdf.task_4403_16_17,bone valley formation,"{4403,16,17,""Bone Valley""}",,1,0.996
+98741,overlappingpdfs.1328.pdf.task,formation,ROCK_DOC_overlappingpdfs.1328.pdf.task_67_25_25,bahariya formation,"{67,25,25,Bahariya}",,1,0.996
+76872,overlappingpdfs.138170.pdf.task,formation,ROCK_DOC_overlappingpdfs.138170.pdf.task_640_4_4,patagonian formation,"{640,4,4,Patagonian}",,1,1
+6815,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_773_11_13,fort union formation,"{773,11,13,""Fort Union Formation""}",,1,0.996
+130409,overlappingpdfs.132745.pdf.task,member,ROCK_DOC_overlappingpdfs.132745.pdf.task_383_4_5,khartam member,"{383,4,5,""Khartam Member""}",,1,1
+24731,overlappingpdfs.132629.pdf.task,formation,ROCK_DOC_overlappingpdfs.132629.pdf.task_31_12_12,wessex formation,"{31,12,12,Wessex}",,1,0.996
+109892,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_352_19_20,borglum river formation,"{352,19,20,""Borglum River""}",,1,1
+97692,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_6470_37_37,creek ash,"{6470,37,37,Creek}",,1,1
+63726,overlappingpdfs.133475.pdf.task,formation,ROCK_DOC_overlappingpdfs.133475.pdf.task_44_22_22,yixian formation,"{44,22,22,Yixian}",,1,0.997
+70750,overlappingpdfs.130183.pdf.task,formation,ROCK_DOC_overlappingpdfs.130183.pdf.task_206_18_18,quilon formation,"{206,18,18,Quilon}",,1,1
+92449,overlappingpdfs.132463.pdf.task,formation,ROCK_DOC_overlappingpdfs.132463.pdf.task_812_6_7,kuwajima formation,"{812,6,7,""Kuwajima Formation""}",,1,0.998
+147293,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_953_54_55,cedar valley formation,"{953,54,55,""Cedar Valley""}",,1,1
+8526,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_1421_2_2,uinta formation,"{1421,2,2,Uinta}",,1,0.996
+150364,overlappingpdfs.138482.pdf.task,member,ROCK_DOC_overlappingpdfs.138482.pdf.task_787_3_3,siltstone member,"{787,3,3,Siltstone}",,1,0.996
+57544,overlappingpdfs.135881.pdf.task,group,ROCK_DOC_overlappingpdfs.135881.pdf.task_39_13_13,omo group,"{39,13,13,Omo}",,1,1
+83831,overlappingpdfs.136925.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136925.pdf.task_399_19_20,boda limestone formation,"{399,19,20,""Boda Limestone""}",,1,0.996
+144915,overlappingpdfs.138624.pdf.task,formation,ROCK_DOC_overlappingpdfs.138624.pdf.task_4453_0_1,ferron point formation,"{4453,0,1,""Ferron Point""}",,1,0.996
+133127,overlappingpdfs.133063.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.133063.pdf.task_1752_8_9,superstes mudstone,"{1752,8,9,""Superstes Mudstone""}",,1,0.996
+97245,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_4977_13_14,snake creek formation,"{4977,13,14,""Snake Creek""}",,1,1
+47247,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1092_24_24,valley member,"{1092,24,24,Valley}",,1,1
+30718,overlappingpdfs.133017.pdf.task,member,ROCK_DOC_overlappingpdfs.133017.pdf.task_37_11_12,nova olinda member,"{37,11,12,""Nova Olinda""}",,1,0.996
+54326,overlappingpdfs.138859.pdf.task,siltstone,ROCK_DOC_overlappingpdfs.138859.pdf.task_1069_20_21,greta siltstone,"{1069,20,21,""Greta Siltstone""}",,1,0.996
+57164,overlappingpdfs.132242.pdf.task,coal,ROCK_DOC_overlappingpdfs.132242.pdf.task_865_19_20,cerrejon coal,"{865,19,20,""Cerrejon Coal""}",,1,1
+118024,overlappingpdfs.132630.pdf.task,group,ROCK_DOC_overlappingpdfs.132630.pdf.task_921_16_17,tetori group,"{921,16,17,""Tetori Group""}",,1,0.996
+35634,overlappingpdfs.132470.pdf.task,group,ROCK_DOC_overlappingpdfs.132470.pdf.task_821_1_1,chinle group,"{821,1,1,Chinle}",,1,0.996
+54187,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_3180_6_7,rosebud formation,"{3180,6,7,""Rosebud Formation""}",,1,1
+19232,overlappingpdfs.138449.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138449.pdf.task_417_1_1,eagle sandstone,"{417,1,1,Eagle}",,1,1
+22612,overlappingpdfs.131739.pdf.task,group,ROCK_DOC_overlappingpdfs.131739.pdf.task_11_11_12,galena group,"{11,11,12,""Galena Group""}",,1,0.996
+13545,overlappingpdfs.138679.pdf.task,member,ROCK_DOC_overlappingpdfs.138679.pdf.task_328_3_5,juana lopez member,"{328,3,5,""Juana Lopez Member""}",,1,1
+134669,overlappingpdfs.133063.pdf.task,member,ROCK_DOC_overlappingpdfs.133063.pdf.task_1423_21_22,grange hill member,"{1423,21,22,""Grange Hill""}",,1,1
+113639,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_1269_5_6,khuff formation,"{1269,5,6,""Khuff Formation""}",,1,1
+72377,overlappingpdfs.132567.pdf.task,formation,ROCK_DOC_overlappingpdfs.132567.pdf.task_193_9_10,sanjushan formation,"{193,9,10,""Sanjushan Formation""}",,1,0.996
+85446,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_6383_18_19,huerfano formation,"{6383,18,19,""Huerfano Formation""}",,1,0.996
+13327,overlappingpdfs.131777.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.131777.pdf.task_383_9_10,pound sandstone,"{383,9,10,""Pound Sandstone""}",,1,1
+122498,overlappingpdfs.131915.pdf.task,shale,ROCK_DOC_overlappingpdfs.131915.pdf.task_55_7_7,waldron shale,"{55,7,7,Waldron}",,1,1
+1916,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_756_16_16,formation formation,"{756,16,16,formation}",,1,1
+109456,overlappingpdfs.132753.pdf.task,formation,ROCK_DOC_overlappingpdfs.132753.pdf.task_1102_16_16,malongulli formation,"{1102,16,16,Malongulli}",,1,0.996
+105208,overlappingpdfs.135584.pdf.task,formation,ROCK_DOC_overlappingpdfs.135584.pdf.task_13_20_21,doushantuo formation,"{13,20,21,""Doushantuo Formation""}",,1,0.997
+91739,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_5004_10_11,olcott formation,"{5004,10,11,""Olcott Formation""}",,1,1
+31826,overlappingpdfs.1341.pdf.task,formation,ROCK_DOC_overlappingpdfs.1341.pdf.task_548_15_16,bone valley formation,"{548,15,16,""Bone Valley""}",,1,0.996
+153113,overlappingpdfs.133080.pdf.task,formation,ROCK_DOC_overlappingpdfs.133080.pdf.task_50_1_2,chinle formation,"{50,1,2,""Chinle Formation""}",,1,1
+7938,overlappingpdfs.138375.pdf.task,group,ROCK_DOC_overlappingpdfs.138375.pdf.task_325_16_16,age group,"{325,16,16,age}",,1,0.996
+136713,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_363_47_48,day creek formation,"{363,47,48,""Day Creek""}",,1,1
+147954,overlappingpdfs.138624.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138624.pdf.task_2799_35_37,thunder bay limestone formation,"{2799,35,37,""Thunder Bay Limestone""}",,1,0.996
+146706,overlappingpdfs.133067.pdf.task,formation,ROCK_DOC_overlappingpdfs.133067.pdf.task_65_4_4,qipan formation,"{65,4,4,Qipan}",,1,0.995
+109851,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_228_42_43,stony mountain formation,"{228,42,43,""Stony Mountain""}",,1,0.996
+92313,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_239_24_26,sheep creek formation,"{239,24,26,""Sheep Creek Formation""}",,1,0.996
+107808,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_761_5_6,bardahessiagh formation,"{761,5,6,""Bardahessiagh Formation""}",,1,1
+120560,overlappingpdfs.138462.pdf.task,silt,ROCK_DOC_overlappingpdfs.138462.pdf.task_301_7_9,round mountain silt,"{301,7,9,""Round Mountain Silt""}",,1,1
+13653,overlappingpdfs.130330.pdf.task,member,ROCK_DOC_overlappingpdfs.130330.pdf.task_107_16_16,hofergraben member,"{107,16,16,Hofergraben}",,1,0.996
+57006,overlappingpdfs.138622.pdf.task,member,ROCK_DOC_overlappingpdfs.138622.pdf.task_1764_34_35,vista member,"{1764,34,35,""Vista Member""}",,1,0.999
+62529,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_1464_10_11,clayton formation,"{1464,10,11,""Clayton Formation""}",,1,0.999
+79442,overlappingpdfs.131603.pdf.task,formation,ROCK_DOC_overlappingpdfs.131603.pdf.task_80_9_9,sandia formation,"{80,9,9,Sandia}",,1,0.984
+8252,overlappingpdfs.138375.pdf.task,shale,ROCK_DOC_overlappingpdfs.138375.pdf.task_3835_13_13,gray shale,"{3835,13,13,gray}",,1,1
+88803,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_1717_26_26,creek ash,"{1717,26,26,Creek}",,1,1
+35682,overlappingpdfs.132535.pdf.task,clay,ROCK_DOC_overlappingpdfs.132535.pdf.task_821_7_7,london clay,"{821,7,7,London}",,1,0.996
+59963,overlappingpdfs.138658.pdf.task,shale,ROCK_DOC_overlappingpdfs.138658.pdf.task_3315_77_78,ledyard shale,"{3315,77,78,""Ledyard Shale""}",,1,1
+31274,overlappingpdfs.135473.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135473.pdf.task_676_20_22,buchans cave limestone formation,"{676,20,22,""Buchans Cave Limestone""}",,1,0.996
+115052,overlappingpdfs.138424.pdf.task,beds,ROCK_DOC_overlappingpdfs.138424.pdf.task_274_38_39,white beds formation,"{274,38,39,""White Beds""}",,1,0.996
+146848,overlappingpdfs.132.pdf.task,formation,ROCK_DOC_overlappingpdfs.132.pdf.task_726_7_7,santana formation,"{726,7,7,Santana}",,1,1
+71671,overlappingpdfs.136699.pdf.task,member,ROCK_DOC_overlappingpdfs.136699.pdf.task_91_27_27,mallow member,"{91,27,27,Mallow}",,1,1
+90783,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_5106_9_9,creek ash,"{5106,9,9,Creek}",,1,0.991
+18545,overlappingpdfs.132858.pdf.task,beds,ROCK_DOC_overlappingpdfs.132858.pdf.task_18_1_3,genoa river beds formation,"{18,1,3,""Genoa River Beds""}",,1,0.996
+60512,overlappingpdfs.133475.pdf.task,formation,ROCK_DOC_overlappingpdfs.133475.pdf.task_148_6_6,jiufotang formation,"{148,6,6,Jiufotang}",,1,0.989
+90497,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_4660_0_0,type member,"{4660,0,0,Type}",,1,1
+66452,overlappingpdfs.133100.pdf.task,formation,ROCK_DOC_overlappingpdfs.133100.pdf.task_1162_7_8,mytton formation,"{1162,7,8,""Mytton Formation""}",,1,0.996
+90124,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_3780_12_13,sheep creek formation,"{3780,12,13,""Sheep Creek""}",,1,1
+42000,overlappingpdfs.138707.pdf.task,group,ROCK_DOC_overlappingpdfs.138707.pdf.task_75_41_42,columbia river group,"{75,41,42,""Columbia River""}",,1,0.996
+115712,overlappingpdfs.138424.pdf.task,formation,ROCK_DOC_overlappingpdfs.138424.pdf.task_970_6_6,gashato formation,"{970,6,6,Gashato}",,1,1
+97095,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_4760_2_3,snake creek formation,"{4760,2,3,""Snake Creek""}",,1,1
+7696,overlappingpdfs.132009.pdf.task,formation,ROCK_DOC_overlappingpdfs.132009.pdf.task_61_60_60,limestone formation,"{61,60,60,limestone}",,1,0.993
+142951,overlappingpdfs.136763.pdf.task,formation,ROCK_DOC_overlappingpdfs.136763.pdf.task_51_10_12,day point formation,"{51,10,12,""Day Point Formation""}",,1,1
+106230,overlappingpdfs.132527.pdf.task,formation,ROCK_DOC_overlappingpdfs.132527.pdf.task_1626_10_12,mccoy brook formation,"{1626,10,12,""McCoy Brook Formation""}",,1,0.996
+107782,overlappingpdfs.133053.pdf.task,group,ROCK_DOC_overlappingpdfs.133053.pdf.task_137_9_11,signal hill group,"{137,9,11,""Signal Hill Group""}",,1,1
+17487,overlappingpdfs.138593.pdf.task,group,ROCK_DOC_overlappingpdfs.138593.pdf.task_95_24_24,group group,"{95,24,24,group}",,1,1
+41675,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_621_12_12,birstonas formation,"{621,12,12,Birstonas}",,1,1
+6619,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_1904_2_3,oldman formation,"{1904,2,3,""Oldman Formation""}",,1,0.996
+117624,overlappingpdfs.138424.pdf.task,formation,ROCK_DOC_overlappingpdfs.138424.pdf.task_759_48_48,djadochta formation,"{759,48,48,Djadochta}",,1,0.996
+36869,overlappingpdfs.135822.pdf.task,formation,ROCK_DOC_overlappingpdfs.135822.pdf.task_215_27_28,hook head formation,"{215,27,28,""Hook Head""}",,1,1
+57871,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_982_11_12,cypress hills formation,"{982,11,12,""Cypress Hills""}",,1,0.999
+21065,overlappingpdfs.132730.pdf.task,formation,ROCK_DOC_overlappingpdfs.132730.pdf.task_328_9_10,crato formation,"{328,9,10,""Crato Formation""}",,1,0.996
+81551,overlappingpdfs.132771.pdf.task,formation,ROCK_DOC_overlappingpdfs.132771.pdf.task_52_19_19,cazals formation,"{52,19,19,Cazals}",,1,0.996
+142471,overlappingpdfs.132684.pdf.task,member,ROCK_DOC_overlappingpdfs.132684.pdf.task_572_3_4,leidapo member,"{572,3,4,""Leidapo Member""}",,1,0.996
+148249,overlappingpdfs.138624.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138624.pdf.task_3938_0_1,keokuk limestone formation,"{3938,0,1,""Keokuk Limestone""}",,1,0.996
+106448,overlappingpdfs.132574.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132574.pdf.task_193_16_17,burlington limestone formation,"{193,16,17,""Burlington Limestone""}",,1,1
+43630,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_2008_16_17,haystack valley member,"{2008,16,17,""Haystack Valley""}",,1,1
+25534,overlappingpdfs.132917.pdf.task,formation,ROCK_DOC_overlappingpdfs.132917.pdf.task_34_8_9,abrahamskraal formation,"{34,8,9,""Abrahamskraal Formation""}",,1,0.999
+57908,overlappingpdfs.138622.pdf.task,ash,ROCK_DOC_overlappingpdfs.138622.pdf.task_1431_11_11,white ash,"{1431,11,11,White}",,1,0.999
+53778,overlappingpdfs.138622.pdf.task,formations,ROCK_DOC_overlappingpdfs.138622.pdf.task_4517_0_1,harrison formations,"{4517,0,1,""Harrison Formations""}",,1,1
+16000,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_103_16_17,judith river formation,"{103,16,17,""Judith River""}",,1,1
+76699,overlappingpdfs.132723.pdf.task,member,ROCK_DOC_overlappingpdfs.132723.pdf.task_54_22_23,nova olinda member,"{54,22,23,""Nova Olinda""}",,1,0.992
+118517,overlappingpdfs.136788.pdf.task,formation,ROCK_DOC_overlappingpdfs.136788.pdf.task_156_10_10,deerhope formation,"{156,10,10,Deerhope}",,1,1
+104124,overlappingpdfs.130410.pdf.task,group,ROCK_DOC_overlappingpdfs.130410.pdf.task_341_11_11,shaiwa group,"{341,11,11,Shaiwa}",,1,1
+66738,overlappingpdfs.133100.pdf.task,shale,ROCK_DOC_overlappingpdfs.133100.pdf.task_273_27_28,chasmops shale,"{273,27,28,""Chasmops Shale""}",,1,0.996
+54473,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_1799_25_26,brule formation,"{1799,25,26,""Brule Formation""}",,1,1
+39121,overlappingpdfs.131561.pdf.task,shale,ROCK_DOC_overlappingpdfs.131561.pdf.task_46_28_30,dunkirk black shale,"{46,28,30,""Dunkirk Black Shale""}",,1,1
+5226,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_1474_14_15,monroe creek formation,"{1474,14,15,""Monroe Creek""}",,1,1
+27093,overlappingpdfs.133094.pdf.task,formation,ROCK_DOC_overlappingpdfs.133094.pdf.task_374_15_16,bgzsnsnes formation,"{374,15,16,""Bgzsnsnes Formation""}",,1,1
+87937,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_1033_9_9,creek ash,"{1033,9,9,Creek}",,1,1
+138244,overlappingpdfs.132360.pdf.task,member,ROCK_DOC_overlappingpdfs.132360.pdf.task_1317_3_3,schulz member,"{1317,3,3,Schulz}",,1,1
+16169,overlappingpdfs.138449.pdf.task,group,ROCK_DOC_overlappingpdfs.138449.pdf.task_229_16_16,montana group,"{229,16,16,Montana}",,1,0.996
+1645,overlappingpdfs.138365.pdf.task,formations,ROCK_DOC_overlappingpdfs.138365.pdf.task_426_0_0,rosebud formations,"{426,0,0,Rosebud}",,1,0.996
+141823,overlappingpdfs.138540.pdf.task,formation,ROCK_DOC_overlappingpdfs.138540.pdf.task_59_21_22,sheep creek formation,"{59,21,22,""Sheep Creek""}",,1,0.995
+49607,overlappingpdfs.135769.pdf.task,shale,ROCK_DOC_overlappingpdfs.135769.pdf.task_455_42_43,wanakah shale,"{455,42,43,""Wanakah Shale""}",,1,1
+43481,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1806_35_35,canyon member,"{1806,35,35,Canyon}",,1,1
+108668,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_612_15_16,cape calhoun formation,"{612,15,16,""Cape Calhoun""}",,1,1
+112138,overlappingpdfs.130182.pdf.task,bed,ROCK_DOC_overlappingpdfs.130182.pdf.task_1079_22_23,trilobite bed formation,"{1079,22,23,""Trilobite Bed""}",,1,0.996
+12780,overlappingpdfs.138679.pdf.task,shale,ROCK_DOC_overlappingpdfs.138679.pdf.task_437_3_3,mancos shale,"{437,3,3,Mancos}",,1,1
+148919,overlappingpdfs.138447.pdf.task,limestone,ROCK_DOC_overlappingpdfs.138447.pdf.task_96_9_10,maping limestone formation,"{96,9,10,""Maping Limestone""}",,1,0.995
+63217,overlappingpdfs.138755.pdf.task,sand,ROCK_DOC_overlappingpdfs.138755.pdf.task_1885_55_56,providence sand,"{1885,55,56,""Providence Sand""}",,1,0.999
+63731,overlappingpdfs.133475.pdf.task,member,ROCK_DOC_overlappingpdfs.133475.pdf.task_47_13_13,jianshangou member,"{47,13,13,Jianshangou}",,1,0.999
+22561,overlappingpdfs.132529.pdf.task,formation,ROCK_DOC_overlappingpdfs.132529.pdf.task_65_4_6,buena vista formation,"{65,4,6,""Buena Vista Formation""}",,1,1
+65300,overlappingpdfs.132666.pdf.task,formation,ROCK_DOC_overlappingpdfs.132666.pdf.task_987_5_6,chinle formation,"{987,5,6,""Chinle Formation""}",,1,0.996
+29469,overlappingpdfs.137951.pdf.task,beds,ROCK_DOC_overlappingpdfs.137951.pdf.task_1988_10_11,creek beds formation,"{1988,10,11,""Creek beds""}",,1,1
+16907,overlappingpdfs.138449.pdf.task,shale,ROCK_DOC_overlappingpdfs.138449.pdf.task_2080_27_27,alberta shale,"{2080,27,27,Alberta}",,1,0.996
+36000,overlappingpdfs.132896.pdf.task,formation,ROCK_DOC_overlappingpdfs.132896.pdf.task_7_5_6,morrison formation,"{7,5,6,""Morrison Formation""}",,1,0.996
+22727,overlappingpdfs.131458.pdf.task,formation,ROCK_DOC_overlappingpdfs.131458.pdf.task_45_3_3,range formation,"{45,3,3,Range}",,1,1
+111618,overlappingpdfs.133113.pdf.task,member,ROCK_DOC_overlappingpdfs.133113.pdf.task_43_10_11,nova olinda member,"{43,10,11,""Nova Olinda""}",,1,0.988
+74458,overlappingpdfs.132490.pdf.task,formation,ROCK_DOC_overlappingpdfs.132490.pdf.task_1489_9_10,daye formation,"{1489,9,10,""Daye Formation""}",,1,0.995
+144645,overlappingpdfs.138624.pdf.task,formation,ROCK_DOC_overlappingpdfs.138624.pdf.task_3223_38_38,limestone formation,"{3223,38,38,Limestone}",,1,0.996
+86501,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_134_10_10,xiala formation,"{134,10,10,Xiala}",,1,0.996
+114389,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_1016_9_9,khuff formation,"{1016,9,9,Khuff}",,1,1
+124547,overlappingpdfs.132593.pdf.task,formation,ROCK_DOC_overlappingpdfs.132593.pdf.task_209_15_15,amarilla formation,"{209,15,15,Amarilla}",,1,0.996
+62696,overlappingpdfs.132612.pdf.task,shale,ROCK_DOC_overlappingpdfs.132612.pdf.task_64_14_15,oraparinna shale,"{64,14,15,""Oraparinna Shale""}",,1,0.999
+13209,overlappingpdfs.136141.pdf.task,shale,ROCK_DOC_overlappingpdfs.136141.pdf.task_455_13_15,orchard creek shale,"{455,13,15,""Orchard Creek Shale""}",,1,0.996
+135223,overlappingpdfs.135414.pdf.task,group,ROCK_DOC_overlappingpdfs.135414.pdf.task_119_9_9,montana group,"{119,9,9,Montana}",,1,0.994
+22950,overlappingpdfs.132529.pdf.task,formation,ROCK_DOC_overlappingpdfs.132529.pdf.task_58_8_9,buena vista formation,"{58,8,9,""Buena Vista""}",,1,0.996
+36802,overlappingpdfs.139.pdf.task,member,ROCK_DOC_overlappingpdfs.139.pdf.task_1093_3_4,brushy basin member,"{1093,3,4,""Brushy Basin""}",,1,1
+71607,overlappingpdfs.138613.pdf.task,bed,ROCK_DOC_overlappingpdfs.138613.pdf.task_4319_12_14,koonwarra fossil bed formation,"{4319,12,14,""Koonwarra fossil bed""}",,1,0.996
+139523,overlappingpdfs.132831.pdf.task,formation,ROCK_DOC_overlappingpdfs.132831.pdf.task_895_12_13,cedar mountain formation,"{895,12,13,""Cedar Mountain""}",,1,0.996
+107982,overlappingpdfs.130492.pdf.task,group,ROCK_DOC_overlappingpdfs.130492.pdf.task_395_16_16,montana group,"{395,16,16,Montana}",,1,0.996
+147511,overlappingpdfs.138453.pdf.task,formations,ROCK_DOC_overlappingpdfs.138453.pdf.task_2244_4_4,delaware formations,"{2244,4,4,Delaware}",,1,1
+2499,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_3513_19_19,formation formation,"{3513,19,19,formation}",,1,1
+137791,overlappingpdfs.13016.pdf.task,chalk,ROCK_DOC_overlappingpdfs.13016.pdf.task_237_1_1,clarendon chalk,"{237,1,1,Clarendon}",,1,1
+59645,overlappingpdfs.133475.pdf.task,formation,ROCK_DOC_overlappingpdfs.133475.pdf.task_125_9_10,wessex formation,"{125,9,10,""Wessex Formation""}",,1,0.999
+118706,overlappingpdfs.132630.pdf.task,group,ROCK_DOC_overlappingpdfs.132630.pdf.task_51_35_36,dinosaur research group,"{51,35,36,""Dinosaur Research""}",,1,0.996
+70462,overlappingpdfs.138613.pdf.task,formation,ROCK_DOC_overlappingpdfs.138613.pdf.task_191_4_5,santana formation,"{191,4,5,""Santana Formation""}",,1,0.996
+76237,overlappingpdfs.133023.pdf.task,formation,ROCK_DOC_overlappingpdfs.133023.pdf.task_58_16_17,qusseir formation,"{58,16,17,""Qusseir Formation""}",,1,1
+26531,overlappingpdfs.132917.pdf.task,formation,ROCK_DOC_overlappingpdfs.132917.pdf.task_34_25_25,carnarvon formation,"{34,25,25,Carnarvon}",,1,1
+141844,overlappingpdfs.138540.pdf.task,beds,ROCK_DOC_overlappingpdfs.138540.pdf.task_424_96_98,deep river beds formation,"{424,96,98,""Deep River Beds""}",,1,0.996
+72176,overlappingpdfs.1346.pdf.task,formation,ROCK_DOC_overlappingpdfs.1346.pdf.task_680_17_18,burnside formation,"{680,17,18,""Burnside Formation""}",,1,0.996
+25306,overlappingpdfs.138465.pdf.task,dolomite,ROCK_DOC_overlappingpdfs.138465.pdf.task_2966_29_29,trigonodus dolomite,"{2966,29,29,Trigonodus}",,1,0.996
+6356,overlappingpdfs.135545.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135545.pdf.task_117_1_2,crouse limestone formation,"{117,1,2,""Crouse Limestone""}",,1,1
+35017,overlappingpdfs.132470.pdf.task,group,ROCK_DOC_overlappingpdfs.132470.pdf.task_38_13_14,chinle group,"{38,13,14,""Chinle Group""}",,1,0.996
+142865,overlappingpdfs.132455.pdf.task,clay,ROCK_DOC_overlappingpdfs.132455.pdf.task_164_19_20,oxford clay,"{164,19,20,""Oxford Clay""}",,1,0.996
+32253,overlappingpdfs.135727.pdf.task,formations,ROCK_DOC_overlappingpdfs.135727.pdf.task_669_32_33,big clifty formations,"{669,32,33,""Big Clifty""}",,1,0.995
+76741,overlappingpdfs.132723.pdf.task,formation,ROCK_DOC_overlappingpdfs.132723.pdf.task_301_2_2,crato formation,"{301,2,2,Crato}",,1,1
+3331,overlappingpdfs.132547.pdf.task,formation,ROCK_DOC_overlappingpdfs.132547.pdf.task_955_21_22,limestone formation,"{955,21,22,""Limestone Formation""}",,1,0.996
+3656,overlappingpdfs.132547.pdf.task,bed,ROCK_DOC_overlappingpdfs.132547.pdf.task_714_9_10,clematocrinus bed formation,"{714,9,10,""Clematocrinus Bed""}",,1,0.996
+107495,overlappingpdfs.132098.pdf.task,formation,ROCK_DOC_overlappingpdfs.132098.pdf.task_550_11_13,kap jackson formation,"{550,11,13,""Kap Jackson Formation""}",,1,1
+103784,overlappingpdfs.133073.pdf.task,member,ROCK_DOC_overlappingpdfs.133073.pdf.task_694_12_13,otar member,"{694,12,13,""Otar Member""}",,1,1
+14066,overlappingpdfs.132505.pdf.task,formation,ROCK_DOC_overlappingpdfs.132505.pdf.task_608_3_3,kuwajima formation,"{608,3,3,Kuwajima}",,1,1
+144000,overlappingpdfs.138453.pdf.task,member,ROCK_DOC_overlappingpdfs.138453.pdf.task_1669_11_11,tully member,"{1669,11,11,Tully}",,1,1
+10284,overlappingpdfs.136715.pdf.task,formation,ROCK_DOC_overlappingpdfs.136715.pdf.task_156_3_3,michelle formation,"{156,3,3,Michelle}",,1,1
+12738,overlappingpdfs.138679.pdf.task,member,ROCK_DOC_overlappingpdfs.138679.pdf.task_290_3_4,wall creek member,"{290,3,4,""Wall Creek""}",,1,1
+42057,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_157_9_10,john day formation,"{157,9,10,""John Day""}",,1,1
+33795,overlappingpdfs.132510.pdf.task,formation,ROCK_DOC_overlappingpdfs.132510.pdf.task_370_1_2,fur formation,"{370,1,2,""Fur Formation""}",,1,0.996
+114361,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_638_23_23,khuff formation,"{638,23,23,Khuff}",,1,0.996
+37733,overlappingpdfs.132659.pdf.task,member,ROCK_DOC_overlappingpdfs.132659.pdf.task_288_0_0,romualdo member,"{288,0,0,Romualdo}",,1,1
+142655,overlappingpdfs.133311.pdf.task,formation,ROCK_DOC_overlappingpdfs.133311.pdf.task_167_29_30,xuanwei formation,"{167,29,30,""Xuanwei Formation""}",,1,1
+26623,overlappingpdfs.138384.pdf.task,formation,ROCK_DOC_overlappingpdfs.138384.pdf.task_2040_16_16,gashato formation,"{2040,16,16,Gashato}",,1,1
+70936,overlappingpdfs.1346.pdf.task,formation,ROCK_DOC_overlappingpdfs.1346.pdf.task_142_1_1,burnside formation,"{142,1,1,Burnside}",,1,1
+150455,overlappingpdfs.136471.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136471.pdf.task_310_12_13,steinvika limestone formation,"{310,12,13,""Steinvika Limestone""}",,1,0.996
+5848,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_5300_17_17,sharps formation,"{5300,17,17,sharps}",,1,1
+142818,overlappingpdfs.133067.pdf.task,formation,ROCK_DOC_overlappingpdfs.133067.pdf.task_507_9_10,keziliqiman formation,"{507,9,10,""Keziliqiman Formation""}",,1,0.996
+121475,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_398_0_0,jewett sand,"{398,0,0,JEWETT}",,1,0.999
+93377,overlappingpdfs.138393.pdf.task,group,ROCK_DOC_overlappingpdfs.138393.pdf.task_1285_19_19,newark group,"{1285,19,19,Newark}",,1,0.996
+123423,overlappingpdfs.138462.pdf.task,sand,ROCK_DOC_overlappingpdfs.138462.pdf.task_675_16_17,pyramid hill sand,"{675,16,17,""Pyramid Hill""}",,1,1
+98083,overlappingpdfs.135218.pdf.task,formation,ROCK_DOC_overlappingpdfs.135218.pdf.task_509_9_10,bromide formation,"{509,9,10,""Bromide Formation""}",,1,0.996
+137315,overlappingpdfs.132360.pdf.task,formation,ROCK_DOC_overlappingpdfs.132360.pdf.task_2187_0_2,tuna canyon formation,"{2187,0,2,""Tuna Canyon Formation""}",,1,1
+62873,overlappingpdfs.133097.pdf.task,formation,ROCK_DOC_overlappingpdfs.133097.pdf.task_15_32_34,london clay formation,"{15,32,34,""London Clay Formation""}",,1,1
+23946,overlappingpdfs.132827.pdf.task,formation,ROCK_DOC_overlappingpdfs.132827.pdf.task_623_0_1,bjgzirkasholmen formation,"{623,0,1,""Bjgzirkasholmen Formation""}",,1,1
+90581,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_4832_18_18,olcott formation,"{4832,18,18,Olcott}",,1,1
+150645,overlappingpdfs.132985.pdf.task,member,ROCK_DOC_overlappingpdfs.132985.pdf.task_255_5_6,bembridge marls member,"{255,5,6,""Bembridge Marls""}",,1,0.996
+30400,overlappingpdfs.132393.pdf.task,formation,ROCK_DOC_overlappingpdfs.132393.pdf.task_717_6_9,cynodont from santa maria formation,"{717,6,9,""CYNODONT FROM SANTA MARIA""}",,1,1
+99303,overlappingpdfs.133075.pdf.task,formation,ROCK_DOC_overlappingpdfs.133075.pdf.task_1647_5_5,climie formation,"{1647,5,5,Climie}",,1,0.999
+111824,overlappingpdfs.132441.pdf.task,formation,ROCK_DOC_overlappingpdfs.132441.pdf.task_414_13_15,la huerguina formation,"{414,13,15,""La Huerguina Formation""}",,1,0.996
+133354,overlappingpdfs.133063.pdf.task,member,ROCK_DOC_overlappingpdfs.133063.pdf.task_913_8_10,grange hill member,"{913,8,10,""Grange Hill Member""}",,1,1
+131231,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_1382_2_2,emigrant formation,"{1382,2,2,Emigrant}",,1,0.996
+91702,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1977_26_27,harrison formation,"{1977,26,27,""Harrison Formation""}",,1,1
+138317,overlappingpdfs.132360.pdf.task,shale,ROCK_DOC_overlappingpdfs.132360.pdf.task_2230_12_12,holz shale,"{2230,12,12,Holz}",,1,1
+126701,overlappingpdfs.136624.pdf.task,clay,ROCK_DOC_overlappingpdfs.136624.pdf.task_517_13_13,kalby clay,"{517,13,13,Kalby}",,1,1
+33853,overlappingpdfs.132936.pdf.task,formations,ROCK_DOC_overlappingpdfs.132936.pdf.task_1070_9_10,purbeck formations,"{1070,9,10,""Purbeck Formations""}",,1,1
+30167,overlappingpdfs.135536.pdf.task,chalk,ROCK_DOC_overlappingpdfs.135536.pdf.task_122_25_26,white chalk,"{122,25,26,""White Chalk""}",,1,0.996
+67758,overlappingpdfs.138388.pdf.task,chalk,ROCK_DOC_overlappingpdfs.138388.pdf.task_1807_20_21,english chalk,"{1807,20,21,""English Chalk""}",,1,0.996
+119900,overlappingpdfs.136670.pdf.task,beds,ROCK_DOC_overlappingpdfs.136670.pdf.task_215_12_13,visby beds formation,"{215,12,13,""Visby Beds""}",,1,0.998
+50032,overlappingpdfs.133060.pdf.task,formation,ROCK_DOC_overlappingpdfs.133060.pdf.task_245_4_4,nora formation,"{245,4,4,Nora}",,1,0.996
+86307,overlappingpdfs.135105.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135105.pdf.task_364_24_25,quilon limestone formation,"{364,24,25,""Quilon Limestone""}",,1,1
+110836,overlappingpdfs.135252.pdf.task,member,ROCK_DOC_overlappingpdfs.135252.pdf.task_491_8_8,hofergraben member,"{491,8,8,Hofergraben}",,1,0.999
+107681,overlappingpdfs.132836.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132836.pdf.task_17_5_6,windjana limestone formation,"{17,5,6,""Windjana Limestone""}",,1,1
+103028,overlappingpdfs.130551.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.130551.pdf.task_375_9_9,adam mudstone,"{375,9,9,Adam}",,1,0.996
+19010,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_190_34_34,river formation,"{190,34,34,River}",,1,1
+111584,overlappingpdfs.131397.pdf.task,shale,ROCK_DOC_overlappingpdfs.131397.pdf.task_337_18_18,burgess shale,"{337,18,18,Burgess}",,1,0.995
+132565,overlappingpdfs.13950.pdf.task,clay,ROCK_DOC_overlappingpdfs.13950.pdf.task_753_34_34,london clay,"{753,34,34,London}",,1,1
+66297,overlappingpdfs.131645.pdf.task,formation,ROCK_DOC_overlappingpdfs.131645.pdf.task_78_7_7,laborcita formation,"{78,7,7,Laborcita}",,1,0.996
+83307,overlappingpdfs.132482.pdf.task,formation,ROCK_DOC_overlappingpdfs.132482.pdf.task_95_15_18,cerro de las cabras formation,"{95,15,18,""Cerro de Las Cabras""}",,1,0.992
+107243,overlappingpdfs.132923.pdf.task,formation,ROCK_DOC_overlappingpdfs.132923.pdf.task_241_1_1,katiki formation,"{241,1,1,katiki}",,1,1
+6380,overlappingpdfs.132874.pdf.task,supergroup,ROCK_DOC_overlappingpdfs.132874.pdf.task_15_12_13,newark supergroup,"{15,12,13,""Newark Supergroup""}",,1,0.996
+10417,overlappingpdfs.138375.pdf.task,group,ROCK_DOC_overlappingpdfs.138375.pdf.task_627_17_17,age group,"{627,17,17,age}",,1,1
+94041,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_224_7_7,creek ash,"{224,7,7,Creek}",,1,0.996
+106398,overlappingpdfs.132862.pdf.task,formation,ROCK_DOC_overlappingpdfs.132862.pdf.task_2793_11_12,wewoka formation,"{2793,11,12,""Wewoka Formation""}",,1,1
+55779,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_6065_9_10,fort logan formation,"{6065,9,10,""Fort Logan""}",,1,0.996
+77821,overlappingpdfs.132401.pdf.task,group,ROCK_DOC_overlappingpdfs.132401.pdf.task_937_0_0,within group,"{937,0,0,Within}",,1,0.996
+31954,overlappingpdfs.135114.pdf.task,group,ROCK_DOC_overlappingpdfs.135114.pdf.task_223_12_12,group group,"{223,12,12,Group}",,1,0.996
+108227,overlappingpdfs.133053.pdf.task,formation,ROCK_DOC_overlappingpdfs.133053.pdf.task_523_14_15,mistaken point formation,"{523,14,15,""Mistaken Point""}",,1,0.996
+9768,overlappingpdfs.135545.pdf.task,limestone,ROCK_DOC_overlappingpdfs.135545.pdf.task_87_24_25,crouse limestone formation,"{87,24,25,""Crouse Limestone""}",,1,1
+27087,overlappingpdfs.138709.pdf.task,formation,ROCK_DOC_overlappingpdfs.138709.pdf.task_243_28_29,chadron formation,"{243,28,29,""Chadron Formation""}",,1,0.996
+92430,overlappingpdfs.132162.pdf.task,formation,ROCK_DOC_overlappingpdfs.132162.pdf.task_100_0_1,karabstau formation,"{100,0,1,""Karabstau Formation""}",,1,0.999
+74070,overlappingpdfs.132490.pdf.task,formation,ROCK_DOC_overlappingpdfs.132490.pdf.task_168_14_14,daye formation,"{168,14,14,Daye}",,1,1
+80736,overlappingpdfs.131614.pdf.task,group,ROCK_DOC_overlappingpdfs.131614.pdf.task_814_16_16,community group,"{814,16,16,Community}",,1,0.996
+5506,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_2802_7_7,formation formation,"{2802,7,7,formation}",,1,0.995
+128773,overlappingpdfs.137387.pdf.task,beds,ROCK_DOC_overlappingpdfs.137387.pdf.task_412_8_9,oreodon beds formation,"{412,8,9,""Oreodon Beds""}",,1,0.996
+43428,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1779_5_5,day formation,"{1779,5,5,Day}",,1,1
+75818,overlappingpdfs.132161.pdf.task,formation,ROCK_DOC_overlappingpdfs.132161.pdf.task_10_0_0,aren formation,"{10,0,0,AREN}",,1,1
+112264,overlappingpdfs.136319.pdf.task,shale,ROCK_DOC_overlappingpdfs.136319.pdf.task_337_18_19,burgess shale,"{337,18,19,""Burgess Shale""}",,1,0.996
+84892,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_3336_6_7,harrison formation,"{3336,6,7,""Harrison Formation""}",,1,1
+29514,overlappingpdfs.137951.pdf.task,beds,ROCK_DOC_overlappingpdfs.137951.pdf.task_3609_13_14,creek beds formation,"{3609,13,14,""Creek beds""}",,1,0.996
+100906,overlappingpdfs.132301.pdf.task,formation,ROCK_DOC_overlappingpdfs.132301.pdf.task_931_2_5,cerro de las cabras formation,"{931,2,5,""Cerro de Las Cabras""}",,1,0.996
+11326,overlappingpdfs.138679.pdf.task,shale,ROCK_DOC_overlappingpdfs.138679.pdf.task_341_0_1,mancos shale,"{341,0,1,""Mancos Shale""}",,1,1
+113052,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_2180_6_6,khuff formation,"{2180,6,6,Khuff}",,1,1
+91891,overlappingpdfs.138407.pdf.task,formation,ROCK_DOC_overlappingpdfs.138407.pdf.task_5852_21_22,nacimiento formation,"{5852,21,22,""Nacimiento Formation""}",,1,0.996
+87940,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_1034_2_2,agate ash,"{1034,2,2,Agate}",,1,0.999
+119747,overlappingpdfs.138012.pdf.task,coal,ROCK_DOC_overlappingpdfs.138012.pdf.task_215_2_2,american coal,"{215,2,2,American}",,1,1
+15020,overlappingpdfs.138449.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138449.pdf.task_421_36_37,eagle sandstone,"{421,36,37,""Eagle Sandstone""}",,1,1
+134400,overlappingpdfs.133063.pdf.task,group,ROCK_DOC_overlappingpdfs.133063.pdf.task_52_4_4,ribband group,"{52,4,4,Ribband}",,1,0.996
+147267,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_837_18_18,tully formation,"{837,18,18,Tully}",,1,1
+29637,overlappingpdfs.138334.pdf.task,member,ROCK_DOC_overlappingpdfs.138334.pdf.task_327_1_2,morrow creek member,"{327,1,2,""Morrow Creek""}",,1,1
+49188,overlappingpdfs.135259.pdf.task,formation,ROCK_DOC_overlappingpdfs.135259.pdf.task_46_6_8,hell creek formation,"{46,6,8,""Hell Creek Formation""}",,1,0.996
+113039,overlappingpdfs.132096.pdf.task,formation,ROCK_DOC_overlappingpdfs.132096.pdf.task_1955_9_9,khuff formation,"{1955,9,9,Khuff}",,1,0.996
+26500,overlappingpdfs.132827.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132827.pdf.task_461_8_9,lanna limestone formation,"{461,8,9,""Lanna Limestone""}",,1,1
+79061,overlappingpdfs.133025.pdf.task,formation,ROCK_DOC_overlappingpdfs.133025.pdf.task_37_1_2,nayband formation,"{37,1,2,""Nayband Formation""}",,1,1
+56428,overlappingpdfs.1395.pdf.task,formation,ROCK_DOC_overlappingpdfs.1395.pdf.task_561_1_1,willwood formation,"{561,1,1,Willwood}",,1,0.998
+110560,overlappingpdfs.130192.pdf.task,formation,ROCK_DOC_overlappingpdfs.130192.pdf.task_214_50_50,amabel formation,"{214,50,50,Amabel}",,1,0.996
+110461,overlappingpdfs.132583.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132583.pdf.task_1213_19_20,red sandstone,"{1213,19,20,""Red Sandstone""}",,1,1
+62050,overlappingpdfs.138755.pdf.task,sand,ROCK_DOC_overlappingpdfs.138755.pdf.task_4403_8_8,fossils sand,"{4403,8,8,fossils}",,1,1
+151970,overlappingpdfs.138665.pdf.task,formation,ROCK_DOC_overlappingpdfs.138665.pdf.task_2548_3_4,djadokhta formation,"{2548,3,4,""Djadokhta Formation""}",,1,1
+141420,overlappingpdfs.133545.pdf.task,formation,ROCK_DOC_overlappingpdfs.133545.pdf.task_301_47_47,kongtaiaikengou formation,"{301,47,47,Kongtaiaikengou}",,1,0.973
+26996,overlappingpdfs.138465.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138465.pdf.task_3693_0_0,shedhom sandstone,"{3693,0,0,Shedhom}",,1,0.996
+152173,overlappingpdfs.132458.pdf.task,formation,ROCK_DOC_overlappingpdfs.132458.pdf.task_20_11_11,lourinha formation,"{20,11,11,Lourinha}",,1,0.996
+29404,overlappingpdfs.132840.pdf.task,formation,ROCK_DOC_overlappingpdfs.132840.pdf.task_31_24_24,hsiangyang formation,"{31,24,24,Hsiangyang}",,1,1
+139721,overlappingpdfs.135104.pdf.task,member,ROCK_DOC_overlappingpdfs.135104.pdf.task_125_5_5,alfarcito member,"{125,5,5,Alfarcito}",,1,1
+132909,overlappingpdfs.133063.pdf.task,formation,ROCK_DOC_overlappingpdfs.133063.pdf.task_1409_14_15,campile formation,"{1409,14,15,""Campile Formation""}",,1,1
+89642,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2697_11_11,marsland formation,"{2697,11,11,Marsland}",,1,1
+153439,overlappingpdfs.132458.pdf.task,group,ROCK_DOC_overlappingpdfs.132458.pdf.task_831_11_11,trinity group,"{831,11,11,Trinity}",,1,0.996
+5698,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_3582_24_24,harrison formation,"{3582,24,24,Harrison}",,1,1
+83929,overlappingpdfs.136334.pdf.task,shales,ROCK_DOC_overlappingpdfs.136334.pdf.task_58_9_10,hughley shales,"{58,9,10,""Hughley Shales""}",,1,0.996
+88936,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1864_6_6,olcott formation,"{1864,6,6,Olcott}",,1,1
+123506,overlappingpdfs.138462.pdf.task,formation,ROCK_DOC_overlappingpdfs.138462.pdf.task_2280_53_53,vaqueros formation,"{2280,53,53,Vaqueros}",,1,1
+80478,overlappingpdfs.132206.pdf.task,sand,ROCK_DOC_overlappingpdfs.132206.pdf.task_770_15_15,cliff sand,"{770,15,15,Cliff}",,1,0.996
+150925,overlappingpdfs.132354.pdf.task,formation,ROCK_DOC_overlappingpdfs.132354.pdf.task_166_3_4,martinsburg formation,"{166,3,4,""Martinsburg Formation""}",,1,1
+125145,overlappingpdfs.131439.pdf.task,member,ROCK_DOC_overlappingpdfs.131439.pdf.task_445_12_13,gleesons limestone member,"{445,12,13,""Gleesons Limestone""}",,1,1
+52703,overlappingpdfs.132759.pdf.task,dolomite,ROCK_DOC_overlappingpdfs.132759.pdf.task_50_11_11,bighorn dolomite,"{50,11,11,Bighorn}",,1,0.998
+31182,overlappingpdfs.139190.pdf.task,beds,ROCK_DOC_overlappingpdfs.139190.pdf.task_154_0_1,fluviomarine beds formation,"{154,0,1,""Fluviomarine Beds""}",,1,0.996
+121874,overlappingpdfs.137935.pdf.task,group,ROCK_DOC_overlappingpdfs.137935.pdf.task_1340_1_1,amphisbaenidae group,"{1340,1,1,Amphisbaenidae}",,1,0.996
+21015,overlappingpdfs.132118.pdf.task,formation,ROCK_DOC_overlappingpdfs.132118.pdf.task_116_2_3,ichetuy formation,"{116,2,3,""Ichetuy Formation""}",,1,0.996
+18293,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_492_4_6,judith river formation,"{492,4,6,""Judith River Formation""}",,1,1
+69837,overlappingpdfs.138083.pdf.task,sandstones,ROCK_DOC_overlappingpdfs.138083.pdf.task_446_11_11,pondaung sandstones,"{446,11,11,Pondaung}",,1,0.996
+82866,overlappingpdfs.132608.pdf.task,group,ROCK_DOC_overlappingpdfs.132608.pdf.task_193_2_3,bracklesham group,"{193,2,3,""Bracklesham Group""}",,1,0.997
+34399,overlappingpdfs.135847.pdf.task,formation,ROCK_DOC_overlappingpdfs.135847.pdf.task_27_27_27,oread formation,"{27,27,27,Oread}",,1,0.996
+125457,overlappingpdfs.132386.pdf.task,formation,ROCK_DOC_overlappingpdfs.132386.pdf.task_434_37_37,bermont formation,"{434,37,37,Bermont}",,1,0.996
+84533,overlappingpdfs.136925.pdf.task,formation,ROCK_DOC_overlappingpdfs.136925.pdf.task_35_12_12,malongulli formation,"{35,12,12,Malongulli}",,1,0.999
+89712,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2809_5_6,box butte formation,"{2809,5,6,""Box Butte""}",,1,1
+48111,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_2039_38_39,balm creek member,"{2039,38,39,""Balm Creek""}",,1,1
+22676,overlappingpdfs.136806.pdf.task,formation,ROCK_DOC_overlappingpdfs.136806.pdf.task_403_5_6,triangle formation,"{403,5,6,""Triangle Formation""}",,1,0.996
+77903,overlappingpdfs.133129.pdf.task,member,ROCK_DOC_overlappingpdfs.133129.pdf.task_98_10_11,gristhorpe member,"{98,10,11,""Gristhorpe Member""}",,1,1
+11503,overlappingpdfs.131777.pdf.task,member,ROCK_DOC_overlappingpdfs.131777.pdf.task_196_11_12,mallow member,"{196,11,12,""Mallow Member""}",,1,0.999
+101943,overlappingpdfs.132293.pdf.task,formation,ROCK_DOC_overlappingpdfs.132293.pdf.task_1662_5_5,kota formation,"{1662,5,5,Kota}",,1,0.996
+3322,overlappingpdfs.132972.pdf.task,formation,ROCK_DOC_overlappingpdfs.132972.pdf.task_157_24_26,maiz gordo formation,"{157,24,26,""Maiz Gordo Formation""}",,1,0.996
+46805,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_355_24_25,haystack valley member,"{355,24,25,""Haystack Valley""}",,1,0.999
+38179,overlappingpdfs.138438.pdf.task,formation,ROCK_DOC_overlappingpdfs.138438.pdf.task_367_13_14,calvert formation,"{367,13,14,""Calvert Formation""}",,1,0.996
+105223,overlappingpdfs.131702.pdf.task,clay,ROCK_DOC_overlappingpdfs.131702.pdf.task_47_14_14,kalby clay,"{47,14,14,Kalby}",,1,0.996
+30191,overlappingpdfs.135473.pdf.task,formation,ROCK_DOC_overlappingpdfs.135473.pdf.task_59_22_24,cooper creek formation,"{59,22,24,""Cooper Creek Formation""}",,1,0.996
+61847,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_1885_72_72,peedee formation,"{1885,72,72,Peedee}",,1,0.998
+22990,overlappingpdfs.132529.pdf.task,supergroup,ROCK_DOC_overlappingpdfs.132529.pdf.task_458_6_6,karoo supergroup,"{458,6,6,Karoo}",,1,1
+70721,overlappingpdfs.132765.pdf.task,formation,ROCK_DOC_overlappingpdfs.132765.pdf.task_544_12_13,moenkopi formation,"{544,12,13,""Moenkopi Formation""}",,1,0.996
+52684,overlappingpdfs.132746.pdf.task,formation,ROCK_DOC_overlappingpdfs.132746.pdf.task_539_24_24,falang formation,"{539,24,24,Falang}",,1,0.998
+26029,overlappingpdfs.131884.pdf.task,formation,ROCK_DOC_overlappingpdfs.131884.pdf.task_813_15_16,glen aubrey formation,"{813,15,16,""Glen Aubrey""}",,1,1
+76512,overlappingpdfs.132161.pdf.task,formation,ROCK_DOC_overlappingpdfs.132161.pdf.task_486_0_0,carpa formation,"{486,0,0,Carpa}",,1,1
+62334,overlappingpdfs.132612.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132612.pdf.task_831_9_10,parara limestone formation,"{831,9,10,""Parara Limestone""}",,1,0.998
+108415,overlappingpdfs.132708.pdf.task,formation,ROCK_DOC_overlappingpdfs.132708.pdf.task_225_9_9,nemegt formation,"{225,9,9,Nemegt}",,1,1
+103937,overlappingpdfs.135620.pdf.task,shale,ROCK_DOC_overlappingpdfs.135620.pdf.task_185_35_36,burgess shale,"{185,35,36,""Burgess Shale""}",,1,1
+17941,overlappingpdfs.138449.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.138449.pdf.task_541_8_9,virgelle sandstone,"{541,8,9,""Virgelle Sandstone""}",,1,0.996
+102838,overlappingpdfs.130551.pdf.task,mudstone,ROCK_DOC_overlappingpdfs.130551.pdf.task_154_17_18,bolitho mudstone,"{154,17,18,""Bolitho Mudstone""}",,1,1
+124715,overlappingpdfs.132386.pdf.task,formation,ROCK_DOC_overlappingpdfs.132386.pdf.task_47_6_6,caloosahatchee formation,"{47,6,6,Caloosahatchee}",,1,0.992
+124503,overlappingpdfs.132531.pdf.task,beds,ROCK_DOC_overlappingpdfs.132531.pdf.task_56_4_5,saurian beds formation,"{56,4,5,""Saurian Beds""}",,1,0.996
+69599,overlappingpdfs.132254.pdf.task,formation,ROCK_DOC_overlappingpdfs.132254.pdf.task_306_1_1,crato formation,"{306,1,1,Crato}",,1,1
+68431,overlappingpdfs.132650.pdf.task,member,ROCK_DOC_overlappingpdfs.132650.pdf.task_188_2_3,nova olinda member,"{188,2,3,""Nova Olinda""}",,1,0.996
+28131,overlappingpdfs.137951.pdf.task,beds,ROCK_DOC_overlappingpdfs.137951.pdf.task_2810_14_15,creek beds formation,"{2810,14,15,""Creek beds""}",,1,1
+46447,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_94_35_35,valley member,"{94,35,35,valley}",,1,1
+75913,overlappingpdfs.132675.pdf.task,formation,ROCK_DOC_overlappingpdfs.132675.pdf.task_34_11_11,adamantina formation,"{34,11,11,Adamantina}",,1,0.996
+3194,overlappingpdfs.132547.pdf.task,formation,ROCK_DOC_overlappingpdfs.132547.pdf.task_1086_8_9,limestone formation,"{1086,8,9,""Limestone Formation""}",,1,0.996
+17256,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_3746_2_3,hell creek formation,"{3746,2,3,""Hell Creek""}",,1,1
+143360,overlappingpdfs.133067.pdf.task,formation,ROCK_DOC_overlappingpdfs.133067.pdf.task_380_32_32,baliqiliq formation,"{380,32,32,Baliqiliq}",,1,0.996
+53846,overlappingpdfs.138622.pdf.task,formation,ROCK_DOC_overlappingpdfs.138622.pdf.task_1752_9_11,white river formation,"{1752,9,11,""White River Formation""}",,1,1
+140494,overlappingpdfs.135583.pdf.task,formation,ROCK_DOC_overlappingpdfs.135583.pdf.task_555_23_23,lantian formation,"{555,23,23,Lantian}",,1,0.996
+66284,overlappingpdfs.132666.pdf.task,formation,ROCK_DOC_overlappingpdfs.132666.pdf.task_987_9_9,forest formation,"{987,9,9,Forest}",,1,0.996
+147709,overlappingpdfs.138624.pdf.task,formation,ROCK_DOC_overlappingpdfs.138624.pdf.task_63_31_31,onondaga formation,"{63,31,31,Onondaga}",,1,0.908
+45971,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_435_13_13,geluva formation,"{435,13,13,Geluva}",,1,1
+77110,overlappingpdfs.131219.pdf.task,group,ROCK_DOC_overlappingpdfs.131219.pdf.task_455_24_25,edgewood group,"{455,24,25,""Edgewood Group""}",,1,0.995
+147364,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_1546_26_26,bell formation,"{1546,26,26,Bell}",,1,0.996
+93027,overlappingpdfs.135105.pdf.task,formation,ROCK_DOC_overlappingpdfs.135105.pdf.task_1_1_1,quilon formation,"{1,1,1,Quilon}",,1,0.996
+124384,overlappingpdfs.136931.pdf.task,formation,ROCK_DOC_overlappingpdfs.136931.pdf.task_465_30_30,limestone formation,"{465,30,30,Limestone}",,1,0.996
+19575,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_945_40_40,kirtland formation,"{945,40,40,Kirtland}",,1,0.996
+106540,overlappingpdfs.132453.pdf.task,member,ROCK_DOC_overlappingpdfs.132453.pdf.task_11_1_1,crato member,"{11,1,1,Crato}",,1,1
+13425,overlappingpdfs.138679.pdf.task,shale,ROCK_DOC_overlappingpdfs.138679.pdf.task_81_0_1,carlile shale,"{81,0,1,""Carlile Shale""}",,1,1
+1259,overlappingpdfs.132547.pdf.task,member,ROCK_DOC_overlappingpdfs.132547.pdf.task_862_2_3,quarried limestone member,"{862,2,3,""Quarried Limestone""}",,1,1
+119455,overlappingpdfs.130636.pdf.task,shale,ROCK_DOC_overlappingpdfs.130636.pdf.task_23_8_8,maotianshan shale,"{23,8,8,Maotianshan}",,1,0.996
+20976,overlappingpdfs.133500.pdf.task,chalk,ROCK_DOC_overlappingpdfs.133500.pdf.task_276_3_4,grey chalk,"{276,3,4,""Grey Chalk""}",,1,0.996
+7798,overlappingpdfs.132009.pdf.task,formation,ROCK_DOC_overlappingpdfs.132009.pdf.task_320_22_22,limestone formation,"{320,22,22,Limestone}",,1,0.996
+131568,overlappingpdfs.133063.pdf.task,formation,ROCK_DOC_overlappingpdfs.133063.pdf.task_1445_15_15,campile formation,"{1445,15,15,Campile}",,1,1
+86683,overlappingpdfs.138393.pdf.task,member,ROCK_DOC_overlappingpdfs.138393.pdf.task_324_7_7,redonda member,"{324,7,7,Redonda}",,1,0.996
+76834,overlappingpdfs.137113.pdf.task,beds,ROCK_DOC_overlappingpdfs.137113.pdf.task_894_10_11,oreodon beds formation,"{894,10,11,""Oreodon Beds""}",,1,0.996
+130698,overlappingpdfs.132745.pdf.task,member,ROCK_DOC_overlappingpdfs.132745.pdf.task_22_22_22,midhnab member,"{22,22,22,Midhnab}",,1,1
+7891,overlappingpdfs.132272.pdf.task,clay,ROCK_DOC_overlappingpdfs.132272.pdf.task_145_45_45,london clay,"{145,45,45,London}",,1,0.996
+142715,overlappingpdfs.138453.pdf.task,dolomite,ROCK_DOC_overlappingpdfs.138453.pdf.task_768_30_31,milwaukee dolomite,"{768,30,31,""Milwaukee Dolomite""}",,1,0.996
+6573,overlappingpdfs.132009.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132009.pdf.task_598_0_1,vvenlock limestone formation,"{598,0,1,""VVenlock Limestone""}",,1,0.996
+82138,overlappingpdfs.132241.pdf.task,group,ROCK_DOC_overlappingpdfs.132241.pdf.task_1051_0_2,geological curators group,"{1051,0,2,""Geological Curators Group""}",,1,1
+85842,overlappingpdfs.133020.pdf.task,formation,ROCK_DOC_overlappingpdfs.133020.pdf.task_134_10_11,xiala formation,"{134,10,11,""Xiala Formation""}",,1,0.995
+64385,overlappingpdfs.138658.pdf.task,member,ROCK_DOC_overlappingpdfs.138658.pdf.task_2835_9_9,frame member,"{2835,9,9,Frame}",,1,0.998
+125707,overlappingpdfs.132971.pdf.task,formation,ROCK_DOC_overlappingpdfs.132971.pdf.task_88_3_3,halal formation,"{88,3,3,Halal}",,1,1
+49085,overlappingpdfs.132759.pdf.task,formation,ROCK_DOC_overlappingpdfs.132759.pdf.task_422_11_12,winnipeg formation,"{422,11,12,""Winnipeg Formation""}",,1,1
+34844,overlappingpdfs.131000.pdf.task,clay,ROCK_DOC_overlappingpdfs.131000.pdf.task_686_14_15,oxford clay,"{686,14,15,""Oxford Clay""}",,1,0.996
+7359,overlappingpdfs.137499.pdf.task,formations,ROCK_DOC_overlappingpdfs.137499.pdf.task_395_7_7,washakie formations,"{395,7,7,Washakie}",,1,1
+36294,overlappingpdfs.132180.pdf.task,group,ROCK_DOC_overlappingpdfs.132180.pdf.task_292_4_4,bay group,"{292,4,4,Bay}",,1,1
+15977,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_27_5_5,river formation,"{27,5,5,River}",,1,1
+130579,overlappingpdfs.133063.pdf.task,formation,ROCK_DOC_overlappingpdfs.133063.pdf.task_1519_23_24,campile formation,"{1519,23,24,""Campile Formation""}",,1,1
+59269,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_1722_57_58,navesink formation,"{1722,57,58,""Navesink Formation""}",,1,1
+20968,overlappingpdfs.132895.pdf.task,formation,ROCK_DOC_overlappingpdfs.132895.pdf.task_434_10_11,attawapiskat formation,"{434,10,11,""Attawapiskat Formation""}",,1,1
+104112,overlappingpdfs.130410.pdf.task,group,ROCK_DOC_overlappingpdfs.130410.pdf.task_283_4_4,shaiwa group,"{283,4,4,Shaiwa}",,1,1
+38324,overlappingpdfs.131561.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.131561.pdf.task_124_11_12,briery gap sandstone,"{124,11,12,""Briery Gap""}",,1,1
+40248,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1427_29_31,haystack valley member,"{1427,29,31,""Haystack Valley Member""}",,1,1
+3662,overlappingpdfs.132547.pdf.task,bed,ROCK_DOC_overlappingpdfs.132547.pdf.task_710_24_25,clematocrinus bed formation,"{710,24,25,""Clematocrinus Bed""}",,1,0.996
+30693,overlappingpdfs.132964.pdf.task,formation,ROCK_DOC_overlappingpdfs.132964.pdf.task_128_7_7,stephen formation,"{128,7,7,Stephen}",,1,0.996
+47147,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_895_19_20,balm creek member,"{895,19,20,""Balm Creek""}",,1,1
+94220,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_669_4_4,type member,"{669,4,4,type}",,1,1
+44974,overlappingpdfs.132572.pdf.task,bed,ROCK_DOC_overlappingpdfs.132572.pdf.task_232_6_7,lujiatun bed formation,"{232,6,7,""Lujiatun Bed""}",,1,0.996
+147445,overlappingpdfs.138453.pdf.task,formation,ROCK_DOC_overlappingpdfs.138453.pdf.task_1787_5_6,hungry hollow formation,"{1787,5,6,""Hungry Hollow""}",,1,0.995
+79493,overlappingpdfs.131614.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131614.pdf.task_18_0_1,onondaga limestone formation,"{18,0,1,""Onondaga Limestone""}",,1,1
+47173,overlappingpdfs.138707.pdf.task,member,ROCK_DOC_overlappingpdfs.138707.pdf.task_1011_7_8,rose creek member,"{1011,7,8,""Rose Creek""}",,1,0.995
+131418,overlappingpdfs.133063.pdf.task,formation,ROCK_DOC_overlappingpdfs.133063.pdf.task_692_22_22,campile formation,"{692,22,22,Campile}",,1,1
+88824,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1729_17_17,olcott formation,"{1729,17,17,Olcott}",,1,1
+42589,overlappingpdfs.138707.pdf.task,members,ROCK_DOC_overlappingpdfs.138707.pdf.task_741_13_13,kimberly members,"{741,13,13,Kimberly}",,1,1
+109817,overlappingpdfs.132098.pdf.task,group,ROCK_DOC_overlappingpdfs.132098.pdf.task_107_29_30,washington land group,"{107,29,30,""Washington Land""}",,1,1
+113194,overlappingpdfs.138313.pdf.task,group,ROCK_DOC_overlappingpdfs.138313.pdf.task_263_9_9,traverse group,"{263,9,9,Traverse}",,1,0.996
+148156,overlappingpdfs.138624.pdf.task,grit,ROCK_DOC_overlappingpdfs.138624.pdf.task_3609_13_13,schoharie grit,"{3609,13,13,Schoharie}",,1,1
+5797,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_4290_2_3,rosebud formation formation,"{4290,2,3,""Rosebud formation""}",,1,1
+51551,overlappingpdfs.135619.pdf.task,formation,ROCK_DOC_overlappingpdfs.135619.pdf.task_141_3_4,rabbitkettle formation,"{141,3,4,""Rabbitkettle Formation""}",,1,1
+106419,overlappingpdfs.132574.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132574.pdf.task_258_1_2,tower limestone formation,"{258,1,2,""Tower Limestone""}",,1,1
+153049,overlappingpdfs.138665.pdf.task,formation,ROCK_DOC_overlappingpdfs.138665.pdf.task_956_11_13,barun goyot formation,"{956,11,13,""Barun Goyot Formation""}",,1,0.996
+40322,overlappingpdfs.132925.pdf.task,formation,ROCK_DOC_overlappingpdfs.132925.pdf.task_786_6_7,geluva formation,"{786,6,7,""Geluva Formation""}",,1,0.996
+63808,overlappingpdfs.133475.pdf.task,formation,ROCK_DOC_overlappingpdfs.133475.pdf.task_135_58_58,greensand formation,"{135,58,58,Greensand}",,1,0.996
+92255,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2293_21_23,ash hollow formation,"{2293,21,23,""Ash Hollow Formation""}",,1,0.996
+38672,overlappingpdfs.132353.pdf.task,formation,ROCK_DOC_overlappingpdfs.132353.pdf.task_107_5_5,laiyang formation,"{107,5,5,Laiyang}",,1,0.996
+66419,overlappingpdfs.139713.pdf.task,formation,ROCK_DOC_overlappingpdfs.139713.pdf.task_171_0_1,rio chico formation,"{171,0,1,""Rio Chico""}",,1,1
+100770,overlappingpdfs.132293.pdf.task,formation,ROCK_DOC_overlappingpdfs.132293.pdf.task_20_3_3,kota formation,"{20,3,3,Kota}",,1,0.999
+13427,overlappingpdfs.138679.pdf.task,shale,ROCK_DOC_overlappingpdfs.138679.pdf.task_1747_11_12,carlile shale,"{1747,11,12,""Carlile Shale""}",,1,0.996
+62041,overlappingpdfs.138755.pdf.task,shale,ROCK_DOC_overlappingpdfs.138755.pdf.task_4174_27_27,pierre shale,"{4174,27,27,Pierre}",,1,1
+65671,overlappingpdfs.135573.pdf.task,group,ROCK_DOC_overlappingpdfs.135573.pdf.task_816_12_13,scotia group,"{816,12,13,""Scotia Group""}",,1,0.999
+89306,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_2307_16_16,olcott formation,"{2307,16,16,Olcott}",,1,1
+146661,overlappingpdfs.133005.pdf.task,formation,ROCK_DOC_overlappingpdfs.133005.pdf.task_1051_18_18,brook formation,"{1051,18,18,Brook}",,1,0.996
+91444,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_2597_5_6,johnson member,"{2597,5,6,""Johnson Member""}",,1,1
+134042,overlappingpdfs.132873.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132873.pdf.task_62_0_1,white limestone formation,"{62,0,1,""White Limestone""}",,1,1
+95441,overlappingpdfs.138519.pdf.task,formation,ROCK_DOC_overlappingpdfs.138519.pdf.task_1771_13_13,olcott formation,"{1771,13,13,Olcott}",,1,1
+90233,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_4110_8_8,creek ash,"{4110,8,8,Creek}",,1,0.999
+23559,overlappingpdfs.136172.pdf.task,limestone,ROCK_DOC_overlappingpdfs.136172.pdf.task_68_1_2,dulas limestone formation,"{68,1,2,""DULAS LIMESTONE""}",,1,1
+13411,overlappingpdfs.130266.pdf.task,formation,ROCK_DOC_overlappingpdfs.130266.pdf.task_43_6_8,vaca muerta formation,"{43,6,8,""Vaca Muerta Formation""}",,1,1
+37649,overlappingpdfs.131319.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131319.pdf.task_379_16_17,exsulans limestone formation,"{379,16,17,""Exsulans Limestone""}",,1,1
+104858,overlappingpdfs.132655.pdf.task,formation,ROCK_DOC_overlappingpdfs.132655.pdf.task_14_7_8,wessex formation,"{14,7,8,""Wessex Formation""}",,1,0.999
+46169,overlappingpdfs.138044.pdf.task,formation,ROCK_DOC_overlappingpdfs.138044.pdf.task_15_0_0,dabasu formation,"{15,0,0,DABASU}",,1,1
+133032,overlappingpdfs.132899.pdf.task,formation,ROCK_DOC_overlappingpdfs.132899.pdf.task_451_3_5,mount whyte formation,"{451,3,5,""Mount Whyte Formation""}",,1,0.996
+110409,overlappingpdfs.135252.pdf.task,member,ROCK_DOC_overlappingpdfs.135252.pdf.task_107_16_17,hofergraben member,"{107,16,17,""Hofergraben Member""}",,1,0.996
+1703,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_494_3_3,formation formation,"{494,3,3,formation}",,1,1
+28235,overlappingpdfs.138334.pdf.task,member,ROCK_DOC_overlappingpdfs.138334.pdf.task_273_4_5,morrow creek member,"{273,4,5,""Morrow Creek""}",,1,1
+131748,overlappingpdfs.133089.pdf.task,sandstones,ROCK_DOC_overlappingpdfs.133089.pdf.task_759_1_1,hyolithes sandstones,"{759,1,1,Hyolithes}",,1,0.996
+89372,overlappingpdfs.138519.pdf.task,sand,ROCK_DOC_overlappingpdfs.138519.pdf.task_2346_9_9,east sand,"{2346,9,9,East}",,1,1
+115067,overlappingpdfs.132435.pdf.task,formation,ROCK_DOC_overlappingpdfs.132435.pdf.task_449_3_4,xiaowa formation,"{449,3,4,""Xiaowa Formation""}",,1,1
+70493,overlappingpdfs.136699.pdf.task,member,ROCK_DOC_overlappingpdfs.136699.pdf.task_260_30_31,mallow member,"{260,30,31,""Mallow Member""}",,1,0.996
+126576,overlappingpdfs.135478.pdf.task,formation,ROCK_DOC_overlappingpdfs.135478.pdf.task_151_14_14,moenkopi formation,"{151,14,14,Moenkopi}",,1,0.996
+126815,overlappingpdfs.131508.pdf.task,limestone,ROCK_DOC_overlappingpdfs.131508.pdf.task_513_1_2,chatburn limestone formation,"{513,1,2,""Chatburn Limestone""}",,1,1
+114117,overlappingpdfs.132283.pdf.task,formation,ROCK_DOC_overlappingpdfs.132283.pdf.task_108_1_1,gowers formation,"{108,1,1,Gowers}",,1,1
+100341,overlappingpdfs.138538.pdf.task,formation,ROCK_DOC_overlappingpdfs.138538.pdf.task_2970_17_18,gamoneda formation,"{2970,17,18,""Gamoneda Formation""}",,1,0.996
+117623,overlappingpdfs.138424.pdf.task,formation,ROCK_DOC_overlappingpdfs.138424.pdf.task_745_27_27,gashato formation,"{745,27,27,Gashato}",,1,0.996
+121858,overlappingpdfs.13976.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.13976.pdf.task_1232_36_36,red sandstone,"{1232,36,36,red}",,1,1
+13565,overlappingpdfs.131153.pdf.task,formation,ROCK_DOC_overlappingpdfs.131153.pdf.task_365_18_20,glen dean formation,"{365,18,20,""Glen Dean Formation""}",,1,0.996
+124946,overlappingpdfs.131439.pdf.task,member,ROCK_DOC_overlappingpdfs.131439.pdf.task_360_8_10,gleesons limestone member,"{360,8,10,""Gleesons Limestone Member""}",,1,1
+69966,overlappingpdfs.138083.pdf.task,sandstones,ROCK_DOC_overlappingpdfs.138083.pdf.task_3425_0_0,pondaung sandstones,"{3425,0,0,Pondaung}",,1,0.996
+113525,overlappingpdfs.1372.pdf.task,formation,ROCK_DOC_overlappingpdfs.1372.pdf.task_45_29_30,bearpaw formation,"{45,29,30,""Bearpaw Formation""}",,1,0.996
+26194,overlappingpdfs.132629.pdf.task,group,ROCK_DOC_overlappingpdfs.132629.pdf.task_7_3_3,wealden group,"{7,3,3,WEALDEN}",,1,0.995
+135679,overlappingpdfs.13950.pdf.task,clay,ROCK_DOC_overlappingpdfs.13950.pdf.task_813_14_14,london clay,"{813,14,14,London}",,1,1
+92105,overlappingpdfs.132210.pdf.task,member,ROCK_DOC_overlappingpdfs.132210.pdf.task_54_23_25,alum shale member,"{54,23,25,""Alum Shale Member""}",,1,1
+132026,overlappingpdfs.133261.pdf.task,formation,ROCK_DOC_overlappingpdfs.133261.pdf.task_389_12_12,yixian formation,"{389,12,12,Yixian}",,1,0.996
+108765,overlappingpdfs.136573.pdf.task,formation,ROCK_DOC_overlappingpdfs.136573.pdf.task_336_13_13,platteville formation,"{336,13,13,Platteville}",,1,1
+147121,overlappingpdfs.136763.pdf.task,formation,ROCK_DOC_overlappingpdfs.136763.pdf.task_376_38_39,crown point formation,"{376,38,39,""Crown Point""}",,1,1
+61938,overlappingpdfs.138755.pdf.task,formation,ROCK_DOC_overlappingpdfs.138755.pdf.task_2948_13_14,owl creek formation,"{2948,13,14,""Owl Creek""}",,1,1
+97717,overlappingpdfs.138519.pdf.task,member,ROCK_DOC_overlappingpdfs.138519.pdf.task_6510_22_22,type member,"{6510,22,22,type}",,1,0.996
+45589,overlappingpdfs.131128.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.131128.pdf.task_211_1_1,mickwitzia sandstone,"{211,1,1,Mickwitzia}",,1,0.995
+79024,overlappingpdfs.132206.pdf.task,formation,ROCK_DOC_overlappingpdfs.132206.pdf.task_350_22_24,beacon limestone formation,"{350,22,24,""Beacon Limestone Formation""}",,1,1
+25633,overlappingpdfs.138465.pdf.task,member,ROCK_DOC_overlappingpdfs.138465.pdf.task_2534_1_3,getaway limestone member,"{2534,1,3,""Getaway Limestone Member""}",,1,1
+129174,overlappingpdfs.133088.pdf.task,marble,ROCK_DOC_overlappingpdfs.133088.pdf.task_137_0_0,black marble,"{137,0,0,Black}",,1,1
+104450,overlappingpdfs.132812.pdf.task,group,ROCK_DOC_overlappingpdfs.132812.pdf.task_2459_6_6,purbeck group,"{2459,6,6,Purbeck}",,1,1
+94043,overlappingpdfs.138519.pdf.task,ash,ROCK_DOC_overlappingpdfs.138519.pdf.task_224_17_17,creek ash,"{224,17,17,Creek}",,1,0.996
+47858,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_1780_0_1,john day formation,"{1780,0,1,""JOHN DAY""}",,1,0.996
+60876,overlappingpdfs.132612.pdf.task,dolomite,ROCK_DOC_overlappingpdfs.132612.pdf.task_871_1_1,woodendinna dolomite,"{871,1,1,Woodendinna}",,1,0.996
+36131,overlappingpdfs.131000.pdf.task,shale,ROCK_DOC_overlappingpdfs.131000.pdf.task_148_8_9,kanosh shale,"{148,8,9,""Kanosh Shale""}",,1,1
+36757,overlappingpdfs.139.pdf.task,member,ROCK_DOC_overlappingpdfs.139.pdf.task_438_9_9,mussentuchit member,"{438,9,9,Mussentuchit}",,1,1
+7401,overlappingpdfs.133446.pdf.task,formation,ROCK_DOC_overlappingpdfs.133446.pdf.task_13_8_9,santa marta formation,"{13,8,9,""Santa Marta""}",,1,0.996
+36071,overlappingpdfs.132845.pdf.task,formation,ROCK_DOC_overlappingpdfs.132845.pdf.task_602_9_10,qigu formation,"{602,9,10,""Qigu Formation""}",,1,0.996
+78809,overlappingpdfs.131614.pdf.task,member,ROCK_DOC_overlappingpdfs.131614.pdf.task_223_0_1,community member,"{223,0,1,""Community Member""}",,1,1
+149802,overlappingpdfs.136567.pdf.task,formation,ROCK_DOC_overlappingpdfs.136567.pdf.task_45_8_9,laborcita formation,"{45,8,9,""Laborcita Formation""}",,1,1
+42396,overlappingpdfs.138707.pdf.task,formation,ROCK_DOC_overlappingpdfs.138707.pdf.task_374_1_2,john day formation,"{374,1,2,""John Day""}",,1,1
+117905,overlappingpdfs.132380.pdf.task,formation,ROCK_DOC_overlappingpdfs.132380.pdf.task_133_7_9,virgin hills formation,"{133,7,9,""Virgin Hills Formation""}",,1,1
+113761,overlappingpdfs.132283.pdf.task,formation,ROCK_DOC_overlappingpdfs.132283.pdf.task_1238_4_5,gowers formation,"{1238,4,5,""Gowers Formation""}",,1,1
+38403,overlappingpdfs.132803.pdf.task,formation,ROCK_DOC_overlappingpdfs.132803.pdf.task_87_3_3,jagua formation,"{87,3,3,Jagua}",,1,0.996
+11045,overlappingpdfs.138450.pdf.task,formation,ROCK_DOC_overlappingpdfs.138450.pdf.task_1832_4_4,kirtland formation,"{1832,4,4,Kirtland}",,1,0.996
+673,overlappingpdfs.132868.pdf.task,sandstone,ROCK_DOC_overlappingpdfs.132868.pdf.task_850_5_5,red sandstone,"{850,5,5,Red}",,1,1
+21374,overlappingpdfs.132895.pdf.task,formation,ROCK_DOC_overlappingpdfs.132895.pdf.task_336_9_9,jupiter formation,"{336,9,9,Jupiter}",,1,0.999
+12683,overlappingpdfs.137551.pdf.task,beds,ROCK_DOC_overlappingpdfs.137551.pdf.task_49_3_5,ojo alamo beds formation,"{49,3,5,""Ojo Alamo Beds""}",,1,0.996
+104687,overlappingpdfs.133073.pdf.task,member,ROCK_DOC_overlappingpdfs.133073.pdf.task_1062_5_5,otar member,"{1062,5,5,Otar}",,1,1
+70878,overlappingpdfs.132567.pdf.task,group,ROCK_DOC_overlappingpdfs.132567.pdf.task_1692_4_4,traverse group,"{1692,4,4,Traverse}",,1,0.996
+138840,overlappingpdfs.132202.pdf.task,formation,ROCK_DOC_overlappingpdfs.132202.pdf.task_30_6_6,karabastau formation,"{30,6,6,Karabastau}",,1,0.996
+15438,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_2357_20_22,judith river formation,"{2357,20,22,""Judith River Formation""}",,1,1
+79938,overlappingpdfs.138385.pdf.task,clay,ROCK_DOC_overlappingpdfs.138385.pdf.task_2796_0_0,london clay,"{2796,0,0,London}",,1,1
+41155,overlappingpdfs.130556.pdf.task,formation,ROCK_DOC_overlappingpdfs.130556.pdf.task_20_21_21,moenkopi formation,"{20,21,21,Moenkopi}",,1,0.996
+119460,overlappingpdfs.130636.pdf.task,shale,ROCK_DOC_overlappingpdfs.130636.pdf.task_79_6_7,emu bay shale,"{79,6,7,""Emu Bay""}",,1,0.996
+60934,overlappingpdfs.130805.pdf.task,formation,ROCK_DOC_overlappingpdfs.130805.pdf.task_655_7_8,big clifty formation,"{655,7,8,""Big Clifty""}",,1,1
+11567,overlappingpdfs.136141.pdf.task,group,ROCK_DOC_overlappingpdfs.136141.pdf.task_344_26_27,maquoketa group,"{344,26,27,""Maquoketa Group""}",,1,1
+1740,overlappingpdfs.138365.pdf.task,formation,ROCK_DOC_overlappingpdfs.138365.pdf.task_533_1_1,harrison formation,"{533,1,1,Harrison}",,1,1
+148940,overlappingpdfs.131277.pdf.task,formation,ROCK_DOC_overlappingpdfs.131277.pdf.task_7_14_14,solvik formation,"{7,14,14,Solvik}",,1,0.996
+16441,overlappingpdfs.138449.pdf.task,formation,ROCK_DOC_overlappingpdfs.138449.pdf.task_541_22_22,river formation,"{541,22,22,River}",,1,0.996
+22140,overlappingpdfs.138318.pdf.task,formation,ROCK_DOC_overlappingpdfs.138318.pdf.task_3741_14_15,bone spring formation,"{3741,14,15,""Bone Spring""}",,1,1
+60995,overlappingpdfs.132195.pdf.task,limestone,ROCK_DOC_overlappingpdfs.132195.pdf.task_2141_28_29,kellwasser limestone formation,"{2141,28,29,""Kellwasser limestone""}",,1,0.996
+69181,overlappingpdfs.131930.pdf.task,beds,ROCK_DOC_overlappingpdfs.131930.pdf.task_36_5_6,beach beds formation,"{36,5,6,""Beach Beds""}",,1,1
+39635,overlappingpdfs.132397.pdf.task,shales,ROCK_DOC_overlappingpdfs.132397.pdf.task_861_5_5,benton shales,"{861,5,5,BENTON}",,1,1
+119771,overlappingpdfs.138012.pdf.task,coal,ROCK_DOC_overlappingpdfs.138012.pdf.task_854_2_2,american coal,"{854,2,2,American}",,1,1
