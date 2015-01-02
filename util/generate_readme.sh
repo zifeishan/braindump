@@ -43,6 +43,10 @@ if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
   printf "## Top Positive Features\n" >>$README
   head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | sed 's/^/    /' >>$README;
   printf "\n" >> $README
+
+  # A first version of diagnose of positive features
+  head -n 10 $REPORT_DIR/features/weights/positive_features.tsv | python $UTIL_DIR/feature/diagnose_positive_features.py >>$README
+  printf "\n" >> $README
 fi
 if [[ -s "$REPORT_DIR/features/weights/positive_features.tsv" ]]; then
   printf "## Top Negative Features\n" >>$README
