@@ -48,20 +48,23 @@ for ((verNumber=1; ;verNumber+=1)); do
       echo "WARNING: last deepdive run $DD_THIS_OUTPUT_DIR seems incomplete, skipping..."
     fi
 
-    # TODO: do not sample if some table exists...?
-    echo "[`date`] Sampling documents for labeling..."
-    mkdir -p document/label_documents
-    bash $UTIL_DIR/document/sample-docs.sh \
-      ./document/label_documents/sampled_documents.csv \
-      $SENTENCE_TABLE \
-      $SENTENCE_TABLE_DOC_ID_COLUMN \
-      $SENTENCE_TABLE_SENT_OFFSET_COLUMN \
-      $SENTENCE_TABLE_WORDS_COLUMN
-    # Pass the variable table array to generate template
-    $UTIL_DIR/document/generate-template.py ${VARIABLE_TABLES[@]} > document/label_documents/template.html
-    # Copy mindtagger starter and conf
-    cp -f $UTIL_DIR/document/mindtagger.conf document/label_documents/
-    cp -f $UTIL_DIR/document/start-mindtagger.sh document/
+    # Do not sample if the sample table exists
+    exists=true; psql $DBNAME -c "\d __sampled_docs_for_recall" >/dev/null || exists=false
+    if [ $exists == false ]; then
+      echo "[`date`] Sampling documents for labeling..."
+      mkdir -p document/label_documents
+      bash $UTIL_DIR/document/sample-docs.sh \
+        ./document/label_documents/sampled_documents.csv \
+        $SENTENCE_TABLE \
+        $SENTENCE_TABLE_DOC_ID_COLUMN \
+        $SENTENCE_TABLE_SENT_OFFSET_COLUMN \
+        $SENTENCE_TABLE_WORDS_COLUMN
+      # Pass the variable table array to generate template
+      $UTIL_DIR/document/generate-template.py ${VARIABLE_TABLES[@]} > document/label_documents/template.html
+      # Copy mindtagger starter and conf
+      cp -f $UTIL_DIR/document/mindtagger.conf document/label_documents/
+      cp -f $UTIL_DIR/document/start-mindtagger.sh document/
+    fi
 
     echo "[`date`] Saving statistics..."  
     bash $UTIL_DIR/stats.sh $VARIABLE_TABLES $VARIABLE_COLUMNS $VARIABLE_WORDS_COLUMNS 
