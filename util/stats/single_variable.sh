@@ -74,6 +74,12 @@ if [[ -n "$WORDS" ]]; then
   
   $UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS $OUTPUT_DIR/$TABLE.txt "WHERE expectation > 0.9"
 
+  if [ -f $OUTPUT_DIR/../calibration/coverage/${TABLE}.${VAR_COLUMN}.tsv ]; then
+    # e.g. grep the line "0.90  0.730"
+    printf "* Expected coverage at decision boundary 0.9: %.3f\n" \
+    `cat $OUTPUT_DIR/../calibration/coverage/${TABLE}.${VAR_COLUMN}.tsv | grep '^0.90\t' | cut -f 2` >> $OUTPUT_DIR/$TABLE.txt
+  fi
+
   # Most common entity
   psql $DBNAME -c "
   	DROP VIEW IF EXISTS __${TABLE}_${VAR_COLUMN}_histogram CASCADE;

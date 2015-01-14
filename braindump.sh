@@ -44,6 +44,8 @@ for ((verNumber=1; ;verNumber+=1)); do
 
       echo "[`date`] Saving calibration..."
       cp -r $DD_THIS_OUTPUT_DIR/calibration ./
+      # Compute extraction coverages using calibration data
+      bash $UTIL_DIR/calibration/coverage.sh ./calibration
     else
       echo "WARNING: last deepdive run $DD_THIS_OUTPUT_DIR seems incomplete, skipping..."
     fi
