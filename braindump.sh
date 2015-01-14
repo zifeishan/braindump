@@ -44,11 +44,19 @@ for ((verNumber=1; ;verNumber+=1)); do
 
       echo "[`date`] Saving calibration..."
       cp -r $DD_THIS_OUTPUT_DIR/calibration ./
-      # Compute extraction coverages using calibration data
-      bash $UTIL_DIR/calibration/coverage.sh ./calibration
     else
       echo "WARNING: last deepdive run $DD_THIS_OUTPUT_DIR seems incomplete, skipping..."
     fi
+
+    echo "[`date`] Compute extraction coverages..."
+    mkdir -p coverage
+    num_variables=${#VARIABLE_TABLES[@]};
+    echo "[`date`] Examining $num_variables variable tables for coverage...";
+    for (( i=0; i<${num_variables}; i++ )); do
+      table_name=${VARIABLE_TABLES[$i]}
+      column_name=${VARIABLE_COLUMNS[$i]}
+      bash $UTIL_DIR/calibration/coverage.sh ./coverage $table_name $column_name
+    done
 
     # Do not sample if the sample table exists
     exists=true; psql $DBNAME -c "\d __sampled_docs_for_recall" >/dev/null || exists=false

@@ -8,12 +8,18 @@
 set -e
 # set -x # DEBUG
 
-CALI_DIR=$1
+OUTPUT_DIR=$1
+table_name=$2
+column_name=$3
 
-mkdir -p $CALI_DIR/coverage
+psql $DBNAME -c " COPY (
+  SELECT bucket, sum(expectation)
+  FROM ${table_name}_${column_name}_inference_bucketed
+  GROUP BY bucket
+  ORDER BY bucket
+) TO STDOUT
+" > $OUTPUT_DIR/${table_name}.${column_name}.details.tsv
 
-for f in `find $CALI_DIR/*.tsv`; do
-  base=$(basename $f)
-  # echo "File -> $f"
-  python $UTIL_DIR/calibration/coverage-single-tsv.py $f > $CALI_DIR/coverage/$base
-done
+python $UTIL_DIR/calibration/coverage-single-tsv.py \
+  $OUTPUT_DIR/${table_name}.${column_name}.details.tsv \
+  > $OUTPUT_DIR/${table_name}.${column_name}.tsv

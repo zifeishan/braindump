@@ -13,11 +13,9 @@ tot_covered = 0.0
 # Record the decision boundary and expected new covered mentions
 coverages = []
 for l in lines:
-  plow, phigh, extnum, pos, neg = l
-  avg_exp = (plow + phigh) / 2.0
-  # calculate expected number of newly covered true mentions
-  new_covered = extnum * avg_exp
-  coverages.append((plow, new_covered))
+  plow, exp_covered = l
+  plow = plow * 0.1
+  coverages.append((plow, exp_covered))
 
 # Print the decision boundary and expected coverage
 tot_covered = sum(x[1] for x in coverages)
