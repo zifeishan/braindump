@@ -12,6 +12,12 @@ README="$REPORT_DIR/README.md"
 
 touch $README
 
+# Support a custom readme header
+if ! [[ -z "$README_HEADER_SCRIPT" ]]; then
+  echo "Running custom README header script..." 
+  bash $README_HEADER_SCRIPT >> $README
+fi
+
 printf "# Corpus Statsitics\n" >> $README
 
 # Stats for documents
