@@ -44,10 +44,10 @@ printf "* Number of query variables: %d\n" `psql $DBNAME -c " COPY (
   ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
 
 # Number of mentions
-printf "* Number of extracted mentions with >0.9 expectation: %d\n" `psql $DBNAME -c " COPY (
+printf "* Number of extracted mentions with >${DECISION_BOUNDARY} expectation: %d\n" `psql $DBNAME -c " COPY (
   SELECT COUNT(*) AS extracted_mentions
   FROM ${TABLE}_${VAR_COLUMN}_inference
-  WHERE expectation > 0.9
+  WHERE expectation > ${DECISION_BOUNDARY}
   ) TO STDOUT"` >> $OUTPUT_DIR/$TABLE.txt
 
 
@@ -61,7 +61,7 @@ if [[ -n "$WORDS" ]]; then
     CREATE VIEW __${TABLE}_${VAR_COLUMN}_distinct_words AS
       SELECT DISTINCT $WORDS
       FROM ${TABLE}_${VAR_COLUMN}_inference
-      WHERE expectation > 0.9; 
+      WHERE expectation > ${DECISION_BOUNDARY}; 
   "
 
   printf "* Number of extracted entities with naive entity linking: %d\n" `psql $DBNAME -c " COPY (
@@ -72,7 +72,7 @@ if [[ -n "$WORDS" ]]; then
   # Good-turing estimator
   printf "* Good-Turing estimation of prob. that next extracted mention is new:\n" >> $OUTPUT_DIR/$TABLE.txt
   
-  $UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS $OUTPUT_DIR/$TABLE.txt "WHERE expectation > 0.9"
+  $UTIL_DIR/stats/good_turing_estimator.sh ${TABLE}_${VAR_COLUMN}_inference $WORDS $OUTPUT_DIR/$TABLE.txt "WHERE expectation > ${DECISION_BOUNDARY}"
 
   if [ -f $OUTPUT_DIR/../coverage/${TABLE}.${VAR_COLUMN}.tsv ]; then
     # e.g. grep the line "0.90  0.730" (the last line)
@@ -87,7 +87,7 @@ if [[ -n "$WORDS" ]]; then
   	CREATE VIEW __${TABLE}_${VAR_COLUMN}_histogram 
   	AS  SELECT ${WORDS}, COUNT(*) as count
 	  		FROM ${TABLE}_${VAR_COLUMN}_inference
-	  		WHERE expectation > 0.9
+	  		WHERE expectation > ${DECISION_BOUNDARY}
 	  		GROUP BY ${WORDS}
 	  		ORDER BY count DESC, ${WORDS};";
 
@@ -110,7 +110,7 @@ if [[ -n "$DOCID" ]]; then
   printf "* Number of documents with extraction: %d\n" `psql $DBNAME -c "COPY (
     SELECT COUNT(distinct $DOCID) AS documents_with_extraction
     FROM ${TABLE}_${VAR_COLUMN}_inference
-    WHERE expectation > 0.9 ) TO STDOUT
+    WHERE expectation > ${DECISION_BOUNDARY} ) TO STDOUT
     "` >> $OUTPUT_DIR/$TABLE.txt
 fi
 
