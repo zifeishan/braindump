@@ -149,7 +149,7 @@ After each `braindump` run, go into `experiment-reports/latest/`, and do followi
 
 - Look at README.md in your report directory. *(It looks better on Github. Try to push it!)*
 - First, Understand your corpus statistics (how many documents and sentences do you have). Do they look correct?
-- Look at each variable's statics. You will be able to see statistics about mention candidates, positive and negative examples, extracted mentions and entities. Do they look correct? Do you have enough documents, positive and negative examples?
+- Look at each variable's statistics. You will be able to see statistics about mention candidates, positive and negative examples, extracted mentions and entities. Do they look correct? Do you have enough documents, positive and negative examples?
   - Look at the **"Good-Turing estimation"** of probability that *next extracted mention is unseen.* This includes an [estimator](http://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation) and a [confidence interval](http://www.cs.princeton.edu/~schapire/papers/good-turing.ps.gz). If the estimator is too high (e.g. higher than 0.05), or the upper bound of the confidence interval is too high (e.g. higher than 0.1), you are far away from exhausting your domain of extraction, and you may need to **add more data**.
 
 - Look at top positive and negative features. Do they look reasonable? 
@@ -157,6 +157,8 @@ After each `braindump` run, go into `experiment-reports/latest/`, and do followi
   - Similarly, if a negative feature looks insane, why does it get low weight? Can you add positive examples with this feature?
 
 - Look at the Good-Turing estimator for features. Similar with above, if you have a high estimator, your features are quite sparse.
+
+- Look at the expected coverage of extractions with expectation 0.9. It estimates the recall of extraction with respect to extracted candidates. If this number is low, you may have lots of correct mentions generated as candidates but not getting a high expectation, and you may look into the supervision or features to diagnose that.
 
 ### Other diagnostics
 

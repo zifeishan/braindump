@@ -68,6 +68,10 @@ import click
               prompt='Specify CODE_CONFIG, a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \napplication.conf\nudf',
               default='',
               help='a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \napplication.conf\nudf\n')
+@click.option('--num_sampled_docs', 
+              prompt='Specify NUM_SAMPLED_DOCS',
+              default='100',
+              help='')
 @click.option('--num_sampled_features', 
               prompt='Specify NUM_SAMPLED_FEATURES',
               default='100',
@@ -91,6 +95,14 @@ import click
 @click.option('--sentence_table_doc_id_column', 
               prompt='Specify SENTENCE_TABLE_DOC_ID_COLUMN',
               default='document_id',
+              help='')
+@click.option('--sentence_table_sent_offset_column', 
+              prompt='Specify SENTENCE_TABLE_SENT_OFFSET_COLUMN',
+              default='sentence_offset',
+              help='')
+@click.option('--sentence_table_words_column', 
+              prompt='Specify SENTENCE_TABLE_WORDS_COLUMN',
+              default='words',
               help='')
 @click.option('--send_result_with_git', 
               prompt='Specify SEND_RESULT_WITH_GIT',
@@ -117,32 +129,35 @@ import click
               default='',
               help='a script to override default inference result sampling')
 def generate(output_file, 
-							app_home, 
-							dd_output_dir, 
-							dbname, 
-							pguser, 
-							pgpassword, 
-							pgport, 
-							pghost, 
-							feature_tables, 
-							feature_columns, 
-							variable_tables, 
-							variable_columns, 
-							variable_words_columns, 
-							variable_docid_columns, 
-							code_config, 
-							num_sampled_features, 
-							num_sampled_supervision, 
-							num_sampled_result, 
-							num_top_entities, 
-							sentence_table, 
-							sentence_table_doc_id_column, 
-							send_result_with_git, 
-							send_result_with_git_push, 
-							send_result_with_email, 
-							stats_script, 
-							supervision_sample_script, 
-							inference_sample_script):
+              app_home, 
+              dd_output_dir, 
+              dbname, 
+              pguser, 
+              pgpassword, 
+              pgport, 
+              pghost, 
+              feature_tables, 
+              feature_columns, 
+              variable_tables, 
+              variable_columns, 
+              variable_words_columns, 
+              variable_docid_columns, 
+              code_config, 
+              num_sampled_docs,
+              num_sampled_features, 
+              num_sampled_supervision, 
+              num_sampled_result, 
+              num_top_entities, 
+              sentence_table, 
+              sentence_table_doc_id_column, 
+              sentence_table_sent_offset_column,
+              sentence_table_words_column,
+              send_result_with_git, 
+              send_result_with_git_push, 
+              send_result_with_email, 
+              stats_script, 
+              supervision_sample_script, 
+              inference_sample_script):
     """A program that generates braindump.conf"""
 
     click.echo(file=open(output_file, 'w'), message='''
@@ -198,6 +213,7 @@ export VARIABLE_WORDS_COLUMNS=(%s)
 export CODE_CONFIG=%s
 
 # Number of samples
+export NUM_SAMPLED_DOCS=%s
 export NUM_SAMPLED_FEATURES=%s
 export NUM_SAMPLED_SUPERVISION=%s
 export NUM_SAMPLED_RESULT=%s
@@ -206,6 +222,8 @@ export NUM_TOP_ENTITIES=%s
 # Specify some tables for statistics
 export SENTENCE_TABLE=%s
 export SENTENCE_TABLE_DOC_ID_COLUMN=%s
+export SENTENCE_TABLE_SENT_OFFSET_COLUMN=%s
+export SENTENCE_TABLE_WORDS_COLUMN=%s
 
 # Define how to send result. use "true" to activate.
 export SEND_RESULT_WITH_GIT=%s
@@ -229,7 +247,7 @@ export INFERENCE_SAMPLE_SCRIPT=%s
 # You may need to manually change it based on need
 export DD_TIMESTAMP=`ls -t $DD_OUTPUT_DIR/ | head -n 1`
 export DD_THIS_OUTPUT_DIR=$DD_OUTPUT_DIR/$DD_TIMESTAMP
-''' % (app_home, dd_output_dir, dbname, pguser, pgpassword, pgport, pghost, feature_tables, feature_columns, variable_tables, variable_columns, variable_words_columns, variable_docid_columns, code_config, num_sampled_features, num_sampled_supervision, num_sampled_result, num_top_entities, sentence_table, sentence_table_doc_id_column, send_result_with_git, send_result_with_git_push, send_result_with_email, stats_script, supervision_sample_script, inference_sample_script))
+''' % (app_home, dd_output_dir, dbname, pguser, pgpassword, pgport, pghost, feature_tables, feature_columns, variable_tables, variable_columns, variable_words_columns, variable_docid_columns, code_config, num_sampled_docs, num_sampled_features, num_sampled_supervision, num_sampled_result, num_top_entities, sentence_table, sentence_table_doc_id_column, sentence_table_sent_offset_column, sentence_table_words_column, send_result_with_git, send_result_with_git_push, send_result_with_email, stats_script, supervision_sample_script, inference_sample_script))
 
 
 if __name__ == '__main__':

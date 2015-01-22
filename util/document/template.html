@@ -1,0 +1,27 @@
+<mindtagger mode="recall">
+
+  <template for="each-item">
+      <big mindtagger-word-array="item.words" array-format="postgres">
+          <span mindtagger-highlight-words index-arrays="tag.new_mention" with-style="background-color: cyan;"></span> <!-- TODO generate a bunch of tags here -->
+          <span mindtagger-highlight-words index-array="item.selection" with-style="border-bottom: 2px solid;"></span>
+          <span mindtagger-selectable-words index-array="item.selection"></span>
+          <span mindtagger-highlight-words index-array="item.positions" array-format="postgres" with-style="text-decoration: underline;"></span>
+      </big>
+  </template>
+
+  <template for="tags">
+      <span>In Document: {{item.doc_id}}</span>
+      <div ng-init="
+        MindtaggerTask.defineTags(
+        { new_mention: { type: 'set' }
+	, others:	  { type: 'set' }
+        })
+        "> <!-- TODO generate a bunch of tags here -->
+        <span mindtagger-value-set-tag="'new_mention'" with-value="item.selection"
+            render-each-value="item.words | filterArrayByIndexes:value:'postgres'"></span>
+            <!-- TODO generate a bunch of tags here -->
+    </div>
+  </template>
+
+</mindtagger>
+
