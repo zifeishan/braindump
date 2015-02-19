@@ -1,8 +1,7 @@
 set -e
 # set -x # DEBUG
 
-. $WORKING_DIR/braindump.conf
-
+. $BD_CONF_FILE
 
 OUTPUT_DIR=./stats
 mkdir -p $OUTPUT_DIR
@@ -14,7 +13,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
   bash $UTIL_DIR/stats/global.sh $OUTPUT_DIR
 
   # Stats for each variable
-  num_variables=${#VARIABLE_TABLES[@]};
+  num_variables=${#VARIABLE_TABLES[@]};b
   echo "Examining $num_variables variable tables for stats...";
   for (( i=0; i<${num_variables}; i++ )); do
     table=${VARIABLE_TABLES[$i]}
