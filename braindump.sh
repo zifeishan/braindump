@@ -18,7 +18,7 @@ fi
 
 # Import the configuration file
 # conf file is in current directory
-. $WORKING_DIR/braindump.conf
+. $BD_CONF_FILE
 
 echo "Dumping $DBNAME, host: $PGHOST, port:$PGPORT, user: $PGUSER"
 mkdir -p $REPORT_DIR
