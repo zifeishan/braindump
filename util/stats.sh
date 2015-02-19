@@ -13,7 +13,7 @@ if [[ -z "$STATS_SCRIPT" ]]; then
   bash $UTIL_DIR/stats/global.sh $OUTPUT_DIR
 
   # Stats for each variable
-  num_variables=${#VARIABLE_TABLES[@]};b
+  num_variables=${#VARIABLE_TABLES[@]};
   echo "Examining $num_variables variable tables for stats...";
   for (( i=0; i<${num_variables}; i++ )); do
     table=${VARIABLE_TABLES[$i]}
