@@ -5,8 +5,12 @@ set -e
 
 export WORKING_DIR=`pwd`
 
-if [[ ! -f $WORKING_DIR/braindump.conf ]]; then
-  echo "Configuration file braindump.conf not found!"
+BD_CONF_FILE=${1:-$WORKING_DIR/braindump.conf}
+# . "$(dirname $0)/env.sh" $(dirname $BD_CONF_FILE)/$BD_CONF_FILE
+export BD_CONF_FILE="$(cd "$(dirname "$BD_CONF_FILE")"; pwd)/$(basename "$BD_CONF_FILE")"
+
+if [[ ! -f $BD_CONF_FILE ]]; then
+  echo "Configuration file not found!"
   echo "Running braindump-configure to set up a configuration file..."
   braindump-configure
   exit 0
@@ -14,7 +18,7 @@ fi
 
 # Import the configuration file
 # conf file is in current directory
-. $WORKING_DIR/braindump.conf
+. $BD_CONF_FILE
 
 echo "Dumping $DBNAME, host: $PGHOST, port:$PGPORT, user: $PGUSER"
 mkdir -p $REPORT_DIR

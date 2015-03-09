@@ -1,8 +1,7 @@
 set -e
 # set -x # DEBUG
 
-. $WORKING_DIR/braindump.conf
-
+. $BD_CONF_FILE
 
 OUTPUT_DIR=./stats
 mkdir -p $OUTPUT_DIR
