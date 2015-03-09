@@ -6,6 +6,7 @@ build:
 	rm -f ${HOME}/local/bin/braindump
 	rm -f ${HOME}/local/bin/braindump-configure
 	rm -rf ${HOME}/local/braindump
+	mkdir -p ${HOME}/local/bin
 	ln -s `pwd`/braindump.sh ${HOME}/local/bin/braindump
 	ln -s `pwd`/util/config-generator/generate.py ${HOME}/local/bin/braindump-configure
 	ln -s `pwd`/util ${HOME}/local/braindump
