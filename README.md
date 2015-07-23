@@ -56,19 +56,15 @@ file has been configured for
 Integrating with your DeepDive application
 ----
 
-Suppose your app runs in `APP_HOME` and your outputs are saved in `DEEPDIVE_HOME/out`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes:
+Suppose your app runs in `APP_HOME`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes:
 
 Just add into the your `run.sh` a command to run `braindump`. e.g. If your `run.sh` looks like:
 
 ```
 #! /bin/bash
 
-. "$(dirname $0)/env.sh"
-
-cd $DEEPDIVE_HOME
-
 ### Run with deepdive binary:
-deepdive -c $APP_HOME/application.conf
+deepdive run
 ```
 
 Update it to look like this:
@@ -76,18 +72,12 @@ Update it to look like this:
 ```
 #! /bin/bash
 
-. "$(dirname $0)/env.sh"
-
-cd $DEEPDIVE_HOME
-
 # Be sure to set this so that you are able to QUIT if deepdive fails.
 set -e
 
 # Run with deepdive binary:
-deepdive -c $APP_HOME/application.conf
+deepdive run
 
-# Note that you should go back to your APP_HOME directory
-cd $APP_HOME  
 braindump
 ```
 
@@ -103,8 +93,8 @@ APP_HOME/experiment-reports/v00001/:
 ├── calibration                   -- Calibration plots
 │   ├── has_spouse.is_true.png
 │   └── has_spouse.is_true.tsv
-├── code                          -- Saved code for this run (default saves "application.conf" and "udf/")
-│   ├── application.conf
+├── code                          -- Saved code for this run (default saves "deepdive.conf" and "udf/")
+│   ├── deepdive.conf
 │   └── udf
 ├── dd-out                        -- A symbolic link to the corresponding deepdive output directory
 ├── dd-timestamp                  -- A timestamp of this deepdive run
@@ -185,7 +175,7 @@ Configuration Specification
 - `VARIABLE_COLUMNS`: variable columns in the same order of VARIABLE_TABLES. Separated by space. e.g. "v1 v2"
 - `VARIABLE_WORDS_COLUMNS`: if the variable is a mention, specify the words / description for the mention. This is used for a statistics with naive entity linking. If empty (""), do not count deduplicated mentions for that table. Separated by space. e.g. w1 ""
 - `VARIABLE_DOCID_COLUMNS`: specify if there is a field in the variable table that indicates doc_id. This is used to count how many documents have extractions. If empty (""), do not count for that table. Separated by space. e.g. "" did2
-- `CODE_CONFIG`: a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is saving "application.conf" and "udf".
+- `CODE_CONFIG`: a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is saving "deepdive.conf" and "udf".
 - `NUM_SAMPLED_FEATURES`: the number of sampled features for each feature table specified in "FEATURE_TABLES"
 - `NUM_SAMPLED_SUPERVISION`: the number of sampled supervision examples for each variable specified in "FEATURE_COLUMNS"
 - `NUM_SAMPLED_RESULT`: the number of sampled inference results for each variable
