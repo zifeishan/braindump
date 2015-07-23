@@ -56,16 +56,12 @@ file has been configured for
 Integrating with your DeepDive application
 ----
 
-Suppose your app runs in `APP_HOME` and your outputs are saved in `DEEPDIVE_HOME/out`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes:
+Suppose your app runs in `APP_HOME`. Suppose you have a `run.sh` script that runs your application, and you want an automatic report each time after `run.sh` finishes:
 
 Just add into the your `run.sh` a command to run `braindump`. e.g. If your `run.sh` looks like:
 
 ```
 #! /bin/bash
-
-. "$(dirname $0)/env.sh"
-
-cd $APP_HOME
 
 ### Run with deepdive binary:
 deepdive run
@@ -76,17 +72,12 @@ Update it to look like this:
 ```
 #! /bin/bash
 
-. "$(dirname $0)/env.sh"
-
-cd $APP_HOME
-
 # Be sure to set this so that you are able to QUIT if deepdive fails.
 set -e
 
 # Run with deepdive binary:
 deepdive run
 
-# Note that you should go back to your APP_HOME directory
 braindump
 ```
 
