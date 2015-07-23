@@ -65,9 +65,9 @@ import click
               default='',
               help='specify if there is a field in the variable table that indicates doc_id. This is used to count how many documents have extractions. If empty (""), do not count for that table. Separated by space. e.g. "" did2')
 @click.option('--code_config', 
-              prompt='Specify CODE_CONFIG, a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \napplication.conf\nudf',
+              prompt='Specify CODE_CONFIG, a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \ndeepdive.conf\nudf',
               default='',
-              help='a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \napplication.conf\nudf\n')
+              help='a config file that specifies what in $APP_HOME to save as codes, one file/folder per line. Default file is: \ndeepdive.conf\nudf\n')
 @click.option('--num_sampled_docs', 
               prompt='Specify NUM_SAMPLED_DOCS',
               default='100',
